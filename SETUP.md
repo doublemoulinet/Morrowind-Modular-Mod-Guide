@@ -107,34 +107,34 @@ This powerful command-line tool cleans mods and will be used to build a multipat
 1. Inside **Morrowind\Data Files** create another .txt file and [copy the batch file multipatch text](http://wiki.theassimilationlab.com/mmw/TES3cmd#Using_a_batch_file_to_create_a_multipatch_plugin)
 1. Rename the .txt file to tes3cmd_multipatch.bat. Make sure to change the filetype extension from .txt to .bat
 
-###TES3Merge
+### TES3Merge
 This tool will automatically patch mod conflicts by generating a merged patch. This patch will be used in conjunction with tes3cmd's multipatch. 
 1. Download [TES3Merge](https://www.nexusmods.com/morrowind/mods/46870?tab=files)
 1. Extract the contents to your Morrowind root directory in a new folder called "TES3Merge"
 
-###TES3View
+###  TES3View
 This experimental tool is an advanced GUI conflict viewer similar to xEdit for later TES/Bethesda games. It has more limited functionality than the latter but still provides excellent functionality
 1. Download the [xEdit 4.1.3a experimental build](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file) on MediaFire (courtesy of Sigourn). This download has already renamed the folder and .exe to TES3View in order to enable the tool to work in Morrowind
 1. Extract the folder to the Morrowind root directory (...Morrowind\TES3View\TES3View.exe)
 
 Familiarize yourself with TES3View. Like other xEdit iterations, it is a powerful tool to track conflicts in your plugin order. 
 
-###TESTool
+### TESTool
 TESTool is a mod repair and management tool. You will use it to clean your plugins.
 1. [Download TESTool](https://en.uesp.net/wiki/Tes3Mod:TESTool) and extract the executable and files to your root directory (Morrowind\TESTool.exe).
 
-###Mlox
+### Mlox
 A plugin load order sorter. Highly recommended.
 1. Download the latest version of [mlox from github](https://github.com/mlox/mlox/releases/). Review the [github page](https://github.com/mlox/mlox) for more information on its use
 1. Extract the mlox.exe to your Morrowind root directory (Morrowind\mlox.exe).
 You can add mlox to your list of executables in Wrye Mash by clicking the gear icon at the bottom bar. In the "Wrye Mash Settings" popup navigate to the "Paths" tab and add the Mlox.exe filepath.
 
-###Official Construction Set
+### Official Construction Set
 The official Bethesda The Elder Scrolls Construction Set, patched and fixed to work with the Steam, GOG, or Bethesda.net version of Morrowind. While not technically needed for this guide, a useful resource if you want to directly edit a plugin or create your own mods.
 1. Download the [TES Construction Set](https://www.nexusmods.com/morrowind/mods/42196?tab=files)
 1. Unpack the files to the Morrowind root directory (Morrowind\Tes Constructoin Set.exe)
 
-##MWedit
+## MWedit
 An experimental alternative to the Construction Set. Unlike the CS, you can use MWedit to create merged plugins of certain mods (item/weapon replacers, for example) in order to reduce plugin count. This is optional.
 1. Download [MWedit](http://wiki.theassimilationlab.com/mmw/MWEdit)
 1. Extract the folder to the Morrowind root directory (Morrowind\MWedit\Mwedit.exe)
@@ -142,7 +142,7 @@ An experimental alternative to the Construction Set. Unlike the CS, you can use 
 ## Plugin Cleaning
 As you follow the modlist, you will see that I note certain mods "require cleaning." ESPs sometimes contain dirty references and your job is to squash these bugs. You will use two tools for this: TESTool and tes3cmd's batch cleaning file.
 
-###TESTool
+### TESTool
 The first step is to use TESTool to clean your plugins.
 1. Launch Testool
 1. A window will prompt you if you want to use your Morrowind root foler instead of registry settings. Click **Yes**
@@ -153,14 +153,14 @@ The first step is to use TESTool to clean your plugins.
 1. Select **Clean ESP/ESM Files** and click **Execute**
 1. Select the relevant plugin that requires cleaning (or, alternately select ALL .esm/.esp files and check the log after for a list of cleaned plugins)
 
-###tes3cmd_clean.bat
+### tes3cmd_clean.bat
 Tes3cmd catches errors that TESTool misses, and vice versa.
 
 To use the tes3cmd_clean.bat you need to drag and drop the .esp file onto to .bat and allow tes3cmd processes to run. To expedite this process, I recommend creating a desktop shortcut of the tes3cmd_clean.bat and drag/drop ESP/ESM files this way.
 
 Each time you drop a plugin on the .bat file, a -cleaned.log file will generate. These can safely be deleted after you are done cleaning all your plugins.
 	
-###Installing cleaned plugins
+### Installing cleaned plugins
 Once you have cleaned your plugins, create a new folder "[Mod name] - Cleaned ESP" and drop the cleaned plugin into this folder. Repeat for all cleaned plugins.
 
 Drop the new "[Mod name] - Cleaned ESP" folders into your Mods directory. In Wrye Mash drag these new projects below the original mod packages in your Installers tab. You can disable the plugin file in the original mod package by deselecting it in the "Esp/m filter" right pane.
