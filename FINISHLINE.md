@@ -25,13 +25,13 @@ If you have installed new weapon/item mods and would like to reduce the plugin c
 Run mlox.exe and allow it to make changes.
 
 Ensure that the following mods always load last in your load order:
-	1. Yet Another Guard Diversity - Regular.esp
-	1. Urnest Loot.esp
-	1. There Can Be Only One.esp
-	1. Morrowind Anti-Cheese.esp
-	1. XE Sky Variations.esp
-	1. multipatch.esp
-	1. Merged Objects.esp
+1. Yet Another Guard Diversity - Regular.esp
+1. Urnest Loot.esp
+1. There Can Be Only One.esp
+1. Morrowind Anti-Cheese.esp
+1. XE Sky Variations.esp
+1. multipatch.esp
+1. Merged Objects.esp
 
 ## Distant Land Generation
 Remember to re-run distant land generation according to the steps in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md).
