@@ -1,8 +1,9 @@
 # VISUALS
 
 ## Core Meshes
-1. [Ash Vampire Reworked](https://www.nexusmods.com/morrowind/mods/43633?tab=files)
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?tab=files)
+1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?tab=files)
+	- Download both main files and the update file
 1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core
@@ -15,8 +16,6 @@
 1. [SmoOgrim](https://www.nexusmods.com/morrowind/mods/47829?tab=files)
 
 ## Equipment Meshes
-1. [Imperial Moth Cuirass](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
-	- Download only "Imperial Moth Cuirass" and install
 1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?tab=files)
 	- Download and install the Optional File "Improved Nordic Iron Helm 1.0-alternate"
 1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
@@ -28,9 +27,18 @@
 1. [Nordic Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46792?tab=files)
 1. [Silver Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46787?tab=files)
 1. [Very Slightly Better Weapons (Remiros Discord Beta)]
+1. [Improved Shields](https://www.nexusmods.com/morrowind/mods/47931?tab=files)
+	- Download the Main File and enable only the "00 Data Files" BAIN option
+1. [Various Armor Improvements and Patches](
+	- Download the main file "Improved Pauldron Meshes (Vanilla - Better Morrowind Armor) and enable the following BAIN options:
+		- 00 Data Files
+		- 01 Orcish Pauldrons with Fangs
 1. [Improved Thrown Weapon Projectiles](https://www.nexusmods.com/morrowind/mods/44763?tab=files)
 	- Download and install only the main file
-1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?tab=files)
+1. [Improved Weapon Meshes - Organic](https://www.nexusmods.com/morrowind/mods/47892?tab=files)
+	- Download the Main File and enable the following BAIN options:
+		- 00 Data Files
+		- 03 Weapon Sheathing Patch
 
 ## Replacers
 1. [Hopesfire Glow](https://www.nexusmods.com/morrowind/mods/45855?tab=files)
@@ -52,6 +60,7 @@
 The definitive texture replacer for Morrowind.
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?tab=files)
 The definitive groundcover mod. Performance-friendly, but does affect FPS.
+
 
 **NEXT SECTION**:
 [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md)

@@ -1,4 +1,11 @@
 # Optional Early Loaders
+These optional mods should not be used on your first playthrough, with the exception of the **Vanilla Uncompressed Textures**. The **Official Plugins** are of variable quality--some are great, others are trivial, some are best forgotten. The cleaned and fixed versions I have presented here are the best way to incorporate them into your game, but are not necessary for an enjoyable Morrowind experience. 
+
+The landmass mods--Tamriel Rebuilt and its sister projects--are highly recommended on subsequent playthroughs. These are arguably the most impressive modding projects on the web. Tamriel Rebuilt is a 20+ year project to recreate the Morrowind mainland in TES3. The "Old Ebonheart" release is one of the best quest mods available and I recommend a TR-centric playthrough to play the different questlines.
+
+Solstheim Tomb of the Snow Prince overhauls the Bloodmoon expansion to bring the world design in line with current Tamriel Rebuilt / Project Tamriel design standards. It is highly recommended. You will see why after you play Bloodmoon in vanilla: the vanilla world design is flat, empty, and boring. STOTSP is a performance-friendly overhaul that makes playing Bloodmoon significantly more fun.
+
+I recommend installing these mods anyway **but not enabling them in the Installers tab** on your first playthrough.
 
 ## Texture Base
 1. [Vanilla Uncompressed Textures](https://www.nexusmods.com/morrowind/mods/45551?tab=files)
@@ -25,6 +32,7 @@
 		- 010 Solstheim - Tomb of the Snow Prince
 		- 012 Armor of the Snow Prince
 	- Cleaning: Snow Prince Armor Redux.esp, and VSW_Solstheim_TD_Item_Expansion.esp require cleaning
+1. [Rather Nice Factor Estate](https://www.nexusmods.com/morrowind/mods/47933?tab=files)
 
 # Core
 
@@ -42,10 +50,9 @@
 		- 06 Patch - TR_Preview (if using TR)
 		- 11 Addon - Fort Frostmoth Repaired
 	- NB: Incompatible with VSW Solstheim Tomb of the Snow Prince (VSW already includes this fix)
-1. [Expansion Summon Icons](https://www.nexusmods.com/morrowind/mods/44533?tab=files)
+	- NB: Patch for purists patch ESP requires Wrye Mash masters fix
 
 ## Mesh Fixes
-
 1. [Mesh Fix](https://www.nexusmods.com/morrowind/mods/42134?tab=files)
 1. [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348?tab=files)
 1. [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104?tab=files)
@@ -77,7 +84,6 @@
 1. [Melchior’s Magnificent Manuscript](https://www.nexusmods.com/morrowind/mods/45626?tab=files)
 	
 ## User Interface – Core
-
 1. [Better Daedric Font](https://www.nexusmods.com/morrowind/mods/44540?tab=files)
 	- Repack the mod into a BAIN archive like so, splitting the .fnt and ESPs into separate options:
 		- 00 - Core (all the .fnt files)
@@ -86,7 +92,9 @@
 		- 02a - Aligned
 		- 02b - Aligned XY
 	- Enable only the “00 - Core” and “01b - Standard XY” options
+	- NB: if you uninstall this mod after enabling it you will CTD because the default .fnt files will have been overwritten and uninstalled by Mash. Remember to unzip the backup default .fnt files provided in the mod package!
 1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873?tab=files)
+	- NB: if you uninstall this mod after enabling it you will CTD because the default .fnt files will have been overwritten and uninstalled by Mash. Remember to unzip the backup default .fnt files provided in the mod package!
 1. [Cheat Menu](https://www.nexusmods.com/morrowind/mods/47143?tab=files)
 1. [Continue](https://www.nexusmods.com/morrowind/mods/45952?tab=files)
 1. [Expeditious Exit](https://github.com/NullCascade/morrowind-mods)

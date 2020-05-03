@@ -37,6 +37,7 @@
 		- 00 - Core
 1. [Customizable MWSE Multi Mark and Limited Recall](https://www.nexusmods.com/morrowind/mods/47065?tab=files)
 1. [Purist Friendly Magicka Regen](https://www.nexusmods.com/morrowind/mods/45636?tab=files)
+	- Cleaning: ESP requires cleaning
 
 ## Chargen
 1. [Class Conscious](https://www.nexusmods.com/morrowind/mods/46902?tab=files)
@@ -45,7 +46,7 @@
 	- Enable only Personal Effects_MWSE.esp version
 	- Cleaning: the ESP requires cleaning
 
-## Combat / Crime
+## Combat / Crime Gameplay Changes
 1. [2.1 MWSE Pursuit Revisited](https://www.nexusmods.com/morrowind/mods/45904?tab=files)
 	- Edit the features in the sve_pursuit_revisited.ini for compatibility with Limited Intervention:
 		- [Teleport, Travel and Intervention Restrictions Disabled:0, Enabled:1, Mark and Recall Skill Check:2] = 0

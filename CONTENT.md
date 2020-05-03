@@ -1,11 +1,11 @@
 # Content 
 
 ## Cities
-1. [OOAB_Data](https://www.nexusmods.com/morrowind/mods/44020?tab=files)
+1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/44020?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core
 		- 01 ex_t_rootball collision fix
-1. [OOAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?tab=files)
+1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?tab=files)
 1. [Balmora Balconies](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
 	- Download and install Main File "Balmora Balconies"
 1. [Better Gnisis Arch](https://www.nexusmods.com/morrowind/mods/46224?tab=files)
@@ -50,7 +50,6 @@
 	- Cleaning: the ESP requires cleaning
 1. [Tower of Vos](https://www.nexusmods.com/morrowind/mods/43527?tab=files)
 1. [Vvardenfell Revisited – Caldera](https://www.nexusmods.com/morrowind/mods/45182?tab=files)
-1. [Vvardenfell Revisited - Hla Oad](https://www.nexusmods.com/morrowind/mods/47819?tab=files)
 1. [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Vvardenfell Revisited – Pelagiad](https://www.nexusmods.com/morrowind/mods/46776?tab=files)
@@ -82,7 +81,6 @@
 	- Cleaning: ESP requires cleaning
 1. [RR Holomayan](https://www.nexusmods.com/morrowind/mods/43524?tab=files)
 	- Cleaning: ESP requires cleaning
-1. [Shrine of Mount Assarnibibi](https://www.nexusmods.com/morrowind/mods/46858?tab=files)
 1. [Odai River Reborn and Odai River Sources](
 	- Download and install Main File "Odai river sources"
 	- Cleaning: this ESP requires cleaning
@@ -91,6 +89,7 @@
 1. [Seven Graces Shrine Enhanced](https://www.nexusmods.com/morrowind/mods/46417?tab=files)
 	- Download and install Main File
 	- Cleaning: ESP requires cleaning
+1. [Shrine of Mount Assarnibibi](https://www.nexusmods.com/morrowind/mods/46858?tab=files)
 1. [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661?tab=files)
 1. [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691?tab=files)
 
@@ -134,7 +133,6 @@
 	- Cleaning: ESP requires cleaning
 1. [Expedition to Mzelthuand](https://www.nexusmods.com/morrowind/mods/45229?tab=files)
 	- Cleaning: ESP requires cleaning
-1. [Gaenor's Millions](https://www.nexusmods.com/morrowind/mods/44870?tab=files)
 1. [Great House Vault Privileges](https://www.nexusmods.com/morrowind/mods/46086?tab=files)
 1. [Immersive Madness](https://www.nexusmods.com/morrowind/mods/44983?tab=files)
 1. [Plunder the Dungeon](https://www.nexusmods.com/morrowind/mods/46977?tab=files)
@@ -155,6 +153,7 @@
 1. [Stormkiss Reforged](https://www.nexusmods.com/morrowind/mods/44565?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [The Sanguine Rose](https://www.nexusmods.com/morrowind/mods/46214?tab=files)
+	- Enable the following BAIN options: 00 Core, 02 MWSE ME Patch
 1. [Umbra Blademaster](https://www.nexusmods.com/morrowind/mods/43275?tab=files)
 
 **NEXT SECTION**:

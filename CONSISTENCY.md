@@ -26,8 +26,14 @@
 1. [Bloat Caves](https://www.nexusmods.com/morrowind/mods/43141?tab=files)
 	- ESP requires cleaning
 1. [Diseases Restored](https://www.nexusmods.com/morrowind/mods/45228?tab=files)
+1. [FMI - Caius' Big Package](https://www.nexusmods.com/morrowind/mods/47580?tab=files)
+	- ESP requires cleaning
+1. [FMI - Hospitality Papers Expanded](https://www.nexusmods.com/morrowind/mods/46107?tab=files)
+1. [FMI - Service Refusal and Contraband](https://www.nexusmods.com/morrowind/mods/47456?tab=files)
+	- ESP requires cleaning
 1. [Nordic Chest Replacer](https://www.nexusmods.com/morrowind/mods/45383?tab=files)
 	- ESP requires cleaning
+	- ESP requires additional cleaning: the mod is incompatible with Stone Halls of Solstheim. You will need to remove an instance of this chest in a single cell, Bloodskal Barrow
 1. [Outdoor Banners with Sound](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Outdoor Banners with Sound"
 1. [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646?tab=files)
@@ -41,16 +47,13 @@
 1. [TriangleTooth's Missing Characters](https://www.nexusmods.com/morrowind/mods/46234?tab=files)
 	- Enable only "Ttooth's Mmissing NPCs - No Nolus.esp"
 	- ESP requires cleaning
-1. [True Scourge])(https://www.nexusmods.com/morrowind/mods/43294?tab=files)
+1. [True Scourge](https://www.nexusmods.com/morrowind/mods/43294?tab=files)
 	- Install and enable only "TrueScourge.esp"
 
-## Fixed Morrowind Inconsistencies
-1. [FMI - Caius' Big Package](https://www.nexusmods.com/morrowind/mods/47580?tab=files)
-	- ESP requires cleaning
-1. [FMI - Hospitality Papers Expanded](https://www.nexusmods.com/morrowind/mods/46107?tab=files)
-1. [FMI - Service Refusal and Contraband](https://www.nexusmods.com/morrowind/mods/47456?tab=files)
-	- ESP requires cleaning
-1. [LDM - Ooh You're Naked Begone](https://www.nexusmods.com/morrowind/mods/47284?tab=files)
+## Crime 
+1. [Illegal Summoning](https://www.nexusmods.com/morrowind/mods/47105?tab=files)
+1. [MAB0’s Foundations](https://www.nexusmods.com/morrowind/mods/47244?tab=files)
+1. [MAB0’s Manipulate](https://www.nexusmods.com/morrowind/mods/47222?tab=files)
 
 ## Dialogue
 1. [Great Service](https://www.nexusmods.com/morrowind/mods/47767?tab=files)
@@ -58,6 +61,7 @@
 1. [Greetings for No Lore](https://www.nexusmods.com/morrowind/mods/46063?tab=files)
 1. [Nastier Camonna Tong](https://www.nexusmods.com/morrowind/mods/22601?tab=files)
 	- Cleaning: ESP requires cleaning
+1. [Ooh You're Naked Begone](https://www.nexusmods.com/morrowind/mods/47284?tab=files)
 1. [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066?tab=files)
 1. [What Thieves Guild](https://www.nexusmods.com/morrowind/mods/47728?tab=files)
 	- Cleaning: ESP requires cleaning
@@ -67,8 +71,8 @@
 	- Enable the following BAIN options:
 		- 00 Core
 		- 01 Fire Sound Replacer
+	- Enable the following option if you play with "The Stone Halls of Solstheim" added in the Content section:
 		- 01 SHS Patch
-			- Stone Halls of Solstheim will be installed in the "Content" section
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?tab=files)
