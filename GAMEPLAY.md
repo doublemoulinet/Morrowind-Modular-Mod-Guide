@@ -14,7 +14,6 @@
 1. [Immersive Mining](https://www.nexusmods.com/morrowind/mods/46041?tab=files)
 1. [Illiterate](https://www.nexusmods.com/morrowind/mods/46600?tab=files)
 1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?tab=files)
-
 1. [Plaguebearer](https://www.nexusmods.com/morrowind/mods/45760?tab=files)
 
 ## Expanded Magic
