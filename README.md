@@ -32,8 +32,8 @@ If you are more familiar with MO2, there is now a plugin (included in the main d
 Wrye Mash does not have the advantage of VFS profiles, but doesn't suffer its quirks or bugs either. WM presents more information to the user in the main interface, has better integration with Morrowind, and is a necessary tool whether you use it to manage your installation or not--you need WM to clean your saves, fix master dependencies, and more.
 
 A note on terms: 
-	- "Installation order" refers to the order of the mod archives themselves (the packages) in the "Installers Tab" in Wrye Mash or the left pane of MO2
-	- "Load order" refers to the plugin order (.esp or .esm files) in The "Mods Tab" or the right pane of MO2
+- "Installation order" refers to the order of the mod archives themselves (the packages) in the "Installers Tab" in Wrye Mash or the left pane of MO2
+- "Load order" refers to the plugin order (.esp or .esm files) in The "Mods Tab" or the right pane of MO2
 
 **NEXT SECTION**:
 [**SETUP**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md)

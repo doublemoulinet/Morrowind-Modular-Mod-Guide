@@ -18,7 +18,7 @@ After you have installed the game, run the Morrowind Launcher and boot to the ma
 1. The application will prompt you to select the Morrowind root directory. It will also prompt you to select an Installers path: select the C:\...\Morrowind\Mods directory you created earlier
 1. You can ignore the mlox optional path for now
 
-Wrye Mash has no been successfully initialized. 
+Wrye Mash has now been successfully initialized. 
 
 The plugins are listed in the "Mods" tab. They should be listed as follows:
 	- Morrowind.esm
