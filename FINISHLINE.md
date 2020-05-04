@@ -41,6 +41,7 @@ Remember to set up the modd-added shaders and enable them in the MGE XE shader t
 - invisibility
 - r0_qk_shader
 - warp
+
 Add them to the bottom of the list of active shaders in MGE XE.
 
 ## In-game Settings
