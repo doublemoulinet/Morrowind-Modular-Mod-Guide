@@ -59,11 +59,8 @@
 
 ## Optional Late Loaders
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?tab=files)
-
 The definitive texture replacer for Morrowind.
-
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?tab=files)
-
 The definitive groundcover mod. Performance-friendly, but does affect FPS.
 
 
