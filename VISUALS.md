@@ -31,7 +31,7 @@
 1. [Very Slightly Better Weapons (Remiros Discord Beta)](you can skip this for now)
 1. [Improved Shields](https://www.nexusmods.com/morrowind/mods/47931?tab=files)
 	- Download the Main File and enable only the "00 Data Files" BAIN option
-1. [Various Armor Improvements and Patches](
+1. [Various Armor Improvements and Patches](https://www.nexusmods.com/morrowind/mods/47920?tab=files)
 	- Download the main file "Improved Pauldron Meshes (Vanilla - Better Morrowind Armor) and enable the following BAIN options:
 		- 00 Data Files
 		- 01 Orcish Pauldrons with Fangs
