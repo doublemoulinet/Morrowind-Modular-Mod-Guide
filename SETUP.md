@@ -10,8 +10,7 @@ Some general tips:
 After you have installed the game, run the Morrowind Launcher and boot to the main menu. This ensures the proper files are generated.
 
 ## Wrye Mash - Polemos Fork
-[Wrye Mash - Polemos Fork - 2020](https://www.nexusmods.com/morrowind/mods/45439?tab=files)
-1. Download and install the latest x64 manual installation archive or the latest x64 beta manual installation archive
+1. Download and install the [latest x64 manual installation archive or the latest x64 beta manual installation archive](https://www.nexusmods.com/morrowind/mods/45439?tab=files)
 1. Extract the contents to your Morrowind root foler (C:\...\Morrowind). Overwrite/merge if prompted
 1. In the Morrowind root folder (C:\...\Morrowind) create a new folder called "Mods" (this is where you will extract and keep all your mod packages)
 1. Run mash64.exe
@@ -26,6 +25,10 @@ The plugins are listed in the "Mods" tab. They should be listed as follows:
 	- Bloodmoon.esm
 
 To install a mod in Wrye Mash, place the mod package in the "Mods" folder you created in your Morrowind directory. Wrye Mash will detect it and upate its "Installers Tab." 
+
+Wrye Mash has a few additional functions you should be aware of: cleaning saves and updating a plugin masters list:
+1. Cleaning saves: any time you change your load order (removing or updating a plugin) go to the "Saves" tab in WM. Select your save and click the right pane (which lists the plugins associated with the save). Mash will prompt you to edit/update the masters list. Click yes. Then click save at the bottom of the right pane.
+1. Updating masters lists: go to the "Mods" tab for your list of plugins. If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's. Select the plugin and click the right pane (which lists the masters associated with the plugin). Mash will prompt you to edit/update the masters list. Click yes. Then click save at the bottom of the right pane.
 
 ## Morrowind Code Patch
 The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It is an essential utility. The MCP must be installed manually. Do not place this in your Wrye Mash "Mods" directory. 
@@ -141,7 +144,7 @@ A plugin load order sorter. Highly recommended.
 You can add mlox to your list of executables in Wrye Mash by clicking the gear icon at the bottom bar. In the "Wrye Mash Settings" popup navigate to the "Paths" tab and add the Mlox.exe filepath.
 
 ### Official Construction Set
-The official Bethesda The Elder Scrolls Construction Set, patched and fixed to work with the Steam, GOG, or Bethesda.net version of Morrowind. While not technically needed for this guide, a useful resource if you want to directly edit a plugin or create your own mods.
+The official Bethesda The Elder Scrolls Construction Set, patched and fixed to work with the Steam, GOG, or Bethesda.net version of Morrowind. While not technically needed for this guide, a useful resource if you want to directly edit a plugin and necessary to create your own mods.
 1. Download the [TES Construction Set](https://www.nexusmods.com/morrowind/mods/42196?tab=files)
 1. Unpack the files to the Morrowind root directory (Morrowind\Tes Constructoin Set.exe)
 

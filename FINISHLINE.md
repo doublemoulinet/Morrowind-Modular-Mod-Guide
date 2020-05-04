@@ -87,9 +87,9 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Hide Credits Button = Yes
 	- Hide New Game Button (In Game) = Yes
 - Graphic Herbalism
-	In order for **Immersive Mining** to work with GH, set up a blacklist to block all ore activators:
-	- In the Blacklist tab, navigate to the Objects list and search “mine”
-	- Click Toggle Filtered to add these objects to the blacklist
+	- In order for **Immersive Mining** to work with GH, set up a blacklist to block all ore activators:
+		- In the Blacklist tab, navigate to the Objects list and search “mine”
+		- Click Toggle Filtered to add these objects to the blacklist
 - Illegal Summoning
 	- NPC Crime Trigger Distance = 2000
 - Multi Mark & Harder Recall

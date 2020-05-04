@@ -1,4 +1,4 @@
-A modular, vanilla-friendly installation guide for  Morrowind
+A modular, vanilla-friendly installation guide for Morrowind in 2020
 
 # Morrowind Modular Mod Guide
 
@@ -17,7 +17,7 @@ A modular, vanilla-friendly installation guide for  Morrowind
 ## Introduction
 This is my personal mod list for Morrowind, with an emphasis on performance and preserving the original character of the game. This is the result of years of modding this game, learning the tools, and curating mods that don't suck but actually rule, man.
 
-For a similar-looking but way better and better maintained guide, see [Sigourn's Morrowind Mended](https://github.com/Sigourn/morrowind-improved). Much of the structure of this guide (particularly the setup section) has been directly influenced by Sigourn's.
+For a similar-looking but way better and better maintained guide, see [Sigourn's Morrowind Mended](https://github.com/Sigourn/morrowind-improved). Much of the structure of this guide (particularly the setup section) has been directly cribbed from Sigourn's.
 
 ## Using this Guide and Installing Mods
 The guide is modular, meaning you can install most sections independently of one another. A first-time player need only follow the instructions in the first sections to have a stable, playable game. However, all modules are designed with the vanilla experience in mind. I recommend first-time players skip the "CONTENT" optional module.
@@ -27,12 +27,12 @@ This list does not typically describe what each mod does. Read the description o
 ## Mod Management
 My preferred mod manager is Wrye Mash (Polemos Fork). This is a very powerful mod organizing tool that, like Mod Organizer 2, allows users considerable freedom to adjust their mod installation on the fly.
 
-If you are more familiar with MO2, there is now a plugin (included in the main download) that enables Morrowind support. MO2's advantage is its Virtual File System (VFS), meaning you can create multiple game profiles with different mod orders on a whim. The disadvantage is that boot time is dramatically increased as paging the VFS is very slow for Morrowind. Setting up Morrowind's mod tools with MO2 is more complicated, and the VFS may also interfere with certain script extender mods.
+If you are more familiar with Mod Organizer 2, there is now a plugin (included in the main download) that enables Morrowind support. MO2's advantage is its Virtual File System (VFS), meaning you can create multiple game profiles with different mod orders on a whim. The disadvantage is that boot time is dramatically increased as paging the VFS is very slow for Morrowind. Setting up Morrowind's mod tools with MO2 is more complicated, and the VFS may also interfere with certain script extender mods.
 
 Wrye Mash does not have the advantage of VFS profiles, but doesn't suffer its quirks or bugs either. WM presents more information to the user in the main interface, has better integration with Morrowind, and is a necessary tool whether you use it to manage your installation or not--you need WM to clean your saves, fix master dependencies, and more.
 
-A note on terms: 
-- "Installation order" refers to the order of the mod archives themselves (the packages) in the "Installers Tab" in Wrye Mash or the left pane of MO2
+A note on terms: know the difference!
+- "Installation order" refers to the order of the mod archives themselves (the packages, usually .zip or .rar but sometimes unpacked folders) in the "Installers Tab" in Wrye Mash or the left pane of MO2
 - "Load order" refers to the plugin order (.esp or .esm files) in The "Mods Tab" or the right pane of MO2
 
 **NEXT SECTION**:

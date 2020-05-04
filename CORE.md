@@ -1,47 +1,14 @@
-# Optional Early Loaders
-These optional mods should not be used on your first playthrough, with the exception of the **Vanilla Uncompressed Textures**. The **Official Plugins** are of variable quality--some are great, others are trivial, some are best forgotten. The cleaned and fixed versions presented here are the best way to incorporate them into your game, but are not necessary for an enjoyable Morrowind experience. 
+# Core
+The following are all you need to play the game on modern systems. This section and [Setup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md) are the only required sections of the guide. The patches section fixes most of the game's bugs, and MOP and Project Atlas dramatically increase performance.
 
-The landmass mods--Tamriel Rebuilt and its sister projects--are highly recommended on subsequent playthroughs. These are arguably the most impressive modding projects on the web. Tamriel Rebuilt is a decades-long project to recreate the Morrowind mainland in TES3. The "Old Ebonheart" release is one of the best quest mods available and I recommend a TR-centric playthrough to play the different questlines.
 
-Solstheim Tomb of the Snow Prince overhauls the Bloodmoon expansion to bring the world design in line with current Tamriel Rebuilt / Project Tamriel design standards. It is highly recommended. You will see why after you play Bloodmoon in vanilla: the vanilla world design is flat, empty, and boring. STOTSP is a performance-friendly overhaul that makes playing Bloodmoon significantly more fun.
-
-I recommend installing these mods anyway **but not enabling them in the Installers tab** on your first playthrough.
 
 ## Texture Base
 1. [Vanilla Uncompressed Textures](https://www.nexusmods.com/morrowind/mods/45551?tab=files)
-	
-## Official Plugins
-1. [Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931?tab=files)
-	- Download both main files “UMOPP” and “Merged and Compatibility Versions”
-	- Install UMOPP first and do not activate any of the ESPs
-	- Install Merged and Compatibility Versions as a separate mod and activate the “UMOPP Compatibility Merged” BAIN option
-1. [Projectile Enchant Capacity](https://www.nexusmods.com/morrowind/mods/46685?tab=files)
-	- Download both main files and repackage as BAIN and install as a single mod
-	- Enable only one of the ESPs (Vanilla or Vanilla + Tamriel Rebuilt)
-	
-## Landmass
-1. [Tamriel Data](https://www.nexusmods.com/morrowind/mods/44537?tab=files)
-	- Download “Tamriel_Data (vanilla)”
-1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145?tab=files)
-	- Download both “Tamriel Rebuilt” and the optional “TR Music” files; install as separate mods
-	- Cleaning: TR_Preview.esp requires cleaning
-1. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921?tab=files)
-1. [VSW Solstheim Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
-	- Enable the following BAIN options:
-		- 00 Core
-		- 010 Solstheim - Tomb of the Snow Prince
-		- 012 Armor of the Snow Prince
-	- Cleaning: Snow Prince Armor Redux.esp, and VSW_Solstheim_TD_Item_Expansion.esp require cleaning
-1. [Rather Nice Factor Estate](https://www.nexusmods.com/morrowind/mods/47933?tab=files)
 
-# Core
 
 ## Patches
 1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096?tab=files)
-1. [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119?tab=files)
-	- Download and install Main File "Descriptive Shrines"
-1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?tab=files)
-1. [No More Stage Diving](https://www.nexusmods.com/morrowind/mods/47738?tab=files)
 1. [Anthology Solstheim](https://www.nexusmods.com/morrowind/mods/43436?tab=files)
 	- Download main file and enable the following options:
 		- 00 Core
@@ -49,8 +16,15 @@ I recommend installing these mods anyway **but not enabling them in the Installe
 		- 02 Patch - Patch for Purists 3.2.0 (or most recent)
 		- 06 Patch - TR_Preview (if using TR)
 		- 11 Addon - Fort Frostmoth Repaired
-	- NB: Incompatible with VSW Solstheim Tomb of the Snow Prince (VSW already includes this fix)
+	- NB: Don't install if using VSW Solstheim Tomb of the Snow Prince (VSW already includes this fix)
 	- NB: Patch for purists patch ESP requires Wrye Mash masters fix
+1. [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119?tab=files)
+	- Download and install Main File "Descriptive Shrines"
+1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?tab=files)
+1. [No More Stage Diving](https://www.nexusmods.com/morrowind/mods/47738?tab=files)
+1. [Projectile Enchant Capacity](https://www.nexusmods.com/morrowind/mods/46685?tab=files)
+	- Download both main files and repackage as BAIN and install as a single mod
+	- Enable only one of the ESPs (Vanilla, or, Vanilla + Tamriel Rebuilt)
 
 ## Mesh Fixes
 1. [Mesh Fix](https://www.nexusmods.com/morrowind/mods/42134?tab=files)
