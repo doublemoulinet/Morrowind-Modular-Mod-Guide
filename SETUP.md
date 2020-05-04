@@ -71,16 +71,27 @@ You will need to run MGE XE at the end of your mod installation to regenerate di
 Distant Land does what it says. My personal settings ensure a low performance impact and cleave to the original foggy aesthetic. 
 
 The **Distant land generator wizard** lets you select which plugins MGE XE will use when generating distant land. I recommend selecting **Use current load order**. When you click **Continue** a prompt will offer you three options to generate distant land:
-	- **Automatic setup will** generate distant land for you according to pre-defined settings
-	- **Customize setup** will let you modify the distant land generation options. I recommend this setting when generating distant land for the first time
-	- **Update existing distant land** will regenerate distant land according to the last used settings. If you've generated distant land previously, this is the option to use.
+- **Automatic setup will** generate distant land for you according to pre-defined settings
+- **Customize setup** will let you modify the distant land generation options. I recommend this setting when generating distant land for the first time
+- **Update existing distant land** will regenerate distant land according to the last used settings. If you've generated distant land previously, this is the option to use.
 
 For **Customize setup** I recommend the following settings:
-	- Land Textures: **world texture resolution**: 2048, **world normalmap resolution**: 1024
-	- Land Meshes: set **world mesh detail** to high
-	- Statics: set **minimum static size** to 150, **Mesh detail level** to Full, **Distant texture reduction** to 1/2, and tick all the right-hand options EXCEPT "include reflective water in interiors"
+- Land Textures: **world texture resolution**: 2048, **world normalmap resolution**: 1024
+- Land Meshes: set **world mesh detail** to high
+- Statics: set **minimum static size** to 150, **Mesh detail level** to Full, **Distant texture reduction** to 1/2, and tick all the right-hand options EXCEPT "include reflective water in interiors"
 
 After MGE XE has generated distant land, in the "Distant Land" tab in MGE XE, set the **Draw Distance** to 3.0 cells. I recommend between 2-4 cell draw distance to maintain the vanilla atmosphere and keep performance cost to a minimum.
+
+Other Distant Land settings:
+- Water:
+	- Reflections: ALL except "Blur Reflections"
+	- Dynamic ripples: 20 height of waves
+	- Caustics: 50%
+- XE: enable Dynamic solar shadows
+- Auto set other distances: By draw distance
+- Fog:
+	- Use high quality (exponential) fog: enable
+	- High quality atomosphere and distance colouring: enable
 
 You will need to run MGE XE at the end of your mod installation to regenerate distant land and enable mod-specific shaders.
 

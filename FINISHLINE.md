@@ -36,10 +36,72 @@ Ensure that the following mods always load last in your load order:
 ## Distant Land Generation
 Remember to re-run distant land generation according to the steps in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md).
 
-## In-game MCM Settings
+## Shaders
+Remember to set up the modd-added shaders and enable them in the MGE XE shader tool:
+- invisibility
+- r0_qk_shader
+- warp
+Add them to the bottom of the list of active shaders in MGE XE.
+
+## In-game Settings
+
+### Menu Options
+In the in-game menu Options set the following:
+**Prefs**
+- Set difficulty to 0 (Dynamic Difficulty will handle scaling to keep things interesting--unless you want to punish yourself and play at 100 difficulty)
+- Set **AI Distance** to the furthest left on the slider (improves performance)
+- Autosave when rest=OFF
+- Always Use Best Attack=ON (controversial but the direction-based attack types can be a pain--experiment and make up your own mind)
+- Subtitles=ON
+**Controls**
+- Use = mouse1
+- activate=e
+- Ready weapon=r
+- Ready magic=f
+- Jump=spacebar
+
+### MCM Settings
 The final step. Launch the game and enter the **Mod Configuration Menu** in the main menu. Some settings may require you to re-launch the game to take effect.
 
 Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new game because settings are stored in .json config files in the MWSE folder in the root directory. You only need to make these settings changes once.
 
-	- Graphic Herablism: blacklist ores for immersive mining compat
-	- Realistic Movement Speeds strafing to 100
+- Abot’s Smart Journal
+	- Add a prefix in order to group quest name? = 0
+	- Sort quest list by name? = No
+	- Add quest id to quest hint? = No
+	- Add source mod name to quest hint = No
+	- Add source mod author… = No
+	- Open first URL… = No
+- Abot’s tooltip
+	- Show item value/weight ratio in tooltip? = Yes
+	- Set remaining tooltip options to NO
+- Book Pickup
+	- On by default? = No (use shift + e to pickup books without reading them)
+- Clock Block
+	- Clock position=Bottom
+	- Clock type = Game time
+- Continue
+	- Hide Credits Button = Yes
+	- Hide New Game Button (In Game) = Yes
+- Graphic Herbalism
+	In order for **Immersive Mining** to work with GH, set up a blacklist to block all ore activators:
+	- In the Blacklist tab, navigate to the Objects list and search “mine”
+	- Click Toggle Filtered to add these objects to the blacklist
+- Illegal Summoning
+	- NPC Crime Trigger Distance = 2000
+- Multi Mark & Harder Recall
+	- Customize Limited Recall values
+		- Recalls per day: 4
+- Ownership Indicator
+	- Hide Crosshair = Yes (you may need to toggle the crosshair on/off in the game options menu to get this to work)
+- Quick Loot
+	- Hide lock status? = Yes
+	- Show quickloot menu on plant/organic containers? = No
+- Realistic Movement Speeds
+	- Strafing Movement Percentage Multiplier = 100
+- Sophisticated Save System
+	- set up autosaves as you prefer, but recommend disabling “Create autosaves after changing cells”
+- UI Expansion
+	- Use verbose buttons instead of icons for inventory filtering? = No
+- Weapon Sheathing
+	- Show unreadied shields on back = Yes!

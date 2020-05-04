@@ -28,7 +28,6 @@
 	- Install normally
 
 ## Anti-Cheese
-1. [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248?tab=files)
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?tab=files)
 1. [Better Balanced Booze](https://www.nexusmods.com/morrowind/mods/45844?tab=files)
 	- Download and install "Better Balanced Booze" main file
@@ -43,6 +42,7 @@
 1. [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?tab=files)
 1. [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305?tab=files)	
 	- ESP requires cleaning
+1. [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248?tab=files)
 1. [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766?tab=files)
 	- Enable only the following ESP: There Can Be Only One (Alt Fyr).esp	
 1. [Urnest Loot](https://www.nexusmods.com/morrowind/mods/45616?tab=files)

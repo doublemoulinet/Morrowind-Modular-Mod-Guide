@@ -103,10 +103,10 @@ I recommend installing these mods anyway **but not enabling them in the Installe
 1. [HUD Hider](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select HUD Hider and install
-1. [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/45952?tab=files)
 1. [Memory Monitor](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select Memory Monitor and install
+1. [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/45952?tab=files)
 1. [Sophisticated Save System](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select Sophisticated Save System and install

@@ -14,6 +14,8 @@
 1. [Rigging Morrowind](https://www.nexusmods.com/morrowind/mods/47754?tab=files)
 	- Cleaning: Rigging Morrowind chuzei_helm_no_neck.esp requires cleaning.
 1. [SmoOgrim](https://www.nexusmods.com/morrowind/mods/47829?tab=files)
+1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
+	- Enable one of the three options (I prefer "faint")
 
 ## Equipment Meshes
 1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?tab=files)
@@ -26,7 +28,7 @@
 	- Download and install only "No Orcish Clown Shoes"
 1. [Nordic Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46792?tab=files)
 1. [Silver Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46787?tab=files)
-1. [Very Slightly Better Weapons (Remiros Discord Beta)]
+1. [Very Slightly Better Weapons (Remiros Discord Beta)](you can skip this for now)
 1. [Improved Shields](https://www.nexusmods.com/morrowind/mods/47931?tab=files)
 	- Download the Main File and enable only the "00 Data Files" BAIN option
 1. [Various Armor Improvements and Patches](

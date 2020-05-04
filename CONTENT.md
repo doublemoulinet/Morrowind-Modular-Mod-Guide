@@ -81,7 +81,7 @@
 	- Cleaning: ESP requires cleaning
 1. [RR Holomayan](https://www.nexusmods.com/morrowind/mods/43524?tab=files)
 	- Cleaning: ESP requires cleaning
-1. [Odai River Reborn and Odai River Sources](
+1. [Odai River Reborn and Odai River Sources](https://www.nexusmods.com/morrowind/mods/45207?tab=files)
 	- Download and install Main File "Odai river sources"
 	- Cleaning: this ESP requires cleaning
 1. [Sanctus Shrine](https://www.nexusmods.com/morrowind/mods/47841?tab=files)
@@ -135,7 +135,6 @@
 	- Cleaning: ESP requires cleaning
 1. [Great House Vault Privileges](https://www.nexusmods.com/morrowind/mods/46086?tab=files)
 1. [Immersive Madness](https://www.nexusmods.com/morrowind/mods/44983?tab=files)
-1. [Plunder the Dungeon](https://www.nexusmods.com/morrowind/mods/46977?tab=files)
 1. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core
@@ -147,6 +146,7 @@
 	- Cleaning: ESP requires cleaning
 1. [Morag Tong Polished](https://www.nexusmods.com/morrowind/mods/47041?tab=files)
 	- Cleaning: ESP requires cleaning
+1. [Plunder the Dungeon](https://www.nexusmods.com/morrowind/mods/46977?tab=files)
 1. [Religions Elaborated](https://www.nexusmods.com/morrowind/mods/47843?tab=files)
 	- Download and install Main File
 1. [Scrolls of the Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831?tab=files)
