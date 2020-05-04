@@ -48,6 +48,7 @@ Add them to the bottom of the list of active shaders in MGE XE.
 
 ### Menu Options
 In the in-game menu Options set the following:
+
 **Prefs**
 - Set difficulty to 0 (Dynamic Difficulty will handle scaling to keep things interesting--unless you want to punish yourself and play at 100 difficulty)
 - Set **AI Distance** to the furthest left on the slider (improves performance)
