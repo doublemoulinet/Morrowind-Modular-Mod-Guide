@@ -54,6 +54,7 @@ In the in-game menu Options set the following:
 - Autosave when rest=OFF
 - Always Use Best Attack=ON (controversial but the direction-based attack types can be a pain--experiment and make up your own mind)
 - Subtitles=ON
+
 **Controls**
 - Use = mouse1
 - activate=e
