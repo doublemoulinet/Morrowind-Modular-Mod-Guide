@@ -10,6 +10,8 @@
 - added: GAMEPLAY: Actually Unlimited Skeleton Key
 - moved: Projectile Enchant Capacity to CORE: Patches
 - moved: OPTIONAL EARLY LOADERS to CONTENT section
+- removed: GAMEPLAY: Dwemer Statue Shield (resource not needed)
+- removed: GAMEPLAY: Plank Shield (resource not needed)
 
 2020-05-03
 - minor fixes
