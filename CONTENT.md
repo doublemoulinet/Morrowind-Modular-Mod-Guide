@@ -108,12 +108,6 @@
 	- Download Mail File "Unique Weapon - Mephala's Teacher"
 
 ## New Items
-1. [Dwemer Statue Shield](https://www.nexusmods.com/morrowind/mods/43729?tab=files)
-	- Download and install Update File "Armor - Dwemer Statue Shield"
-	- NB: This is a required resource for one of the dungeon mods
-1. [Plank Shield](https://www.nexusmods.com/morrowind/mods/43729?tab=files)
-	- Download and install Update File "Armor - Plank Shield"
-	- NB: This is a required resource for one of the dungeon mods
 1. [Dwemer Scrap Armour](https://www.nexusmods.com/morrowind/mods/47665?tab=files)
 1. [Heavy Chitin Armour](https://www.nexusmods.com/morrowind/mods/47684?tab=files)
 1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?tab=files)
