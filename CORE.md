@@ -59,16 +59,13 @@ The following are all you need to play the game on modern systems. This section 
 	
 ## User Interface – Core
 1. [Better Daedric Font](https://www.nexusmods.com/morrowind/mods/44540?tab=files)
-	- Repack the mod into a BAIN archive like so, splitting the .fnt and ESPs into separate options:
-		- 00 - Core (all the .fnt files)
-		- 01a - Standard
-		- 01b - Standard XY
-		- 02a - Aligned
-		- 02b - Aligned XY
-	- Enable only the “00 - Core” and “01b - Standard XY” options
-	- NB: if you uninstall this mod after enabling it you will CTD because the default .fnt files will have been overwritten and uninstalled by Mash. Remember to unzip the backup default .fnt files provided in the mod package!
+	- Download and install normally. This will enable the default "Standard style" Daedric font--identical to the vanilla game but in a higher resolution. Read the readme for instructions on installing the other variants if you prefer those.
+	- NB: if you uninstall this mod after enabling it you will crash to desktop because the default .fnt files will have been overwritten and then uninstalled by Mash, leaving no .fnt files at all. This mod does not by default provide a backup of the vanilla .fnt files, so you _should_ make a backup of the following:
+		- daedric_font.fnt
+		- daedric_font_obw.tex
+	- Create a "backup" folder in the Fonts folder and place copy-paste these two files there before you install Better Daedric Fonts
 1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873?tab=files)
-	- NB: if you uninstall this mod after enabling it you will CTD because the default .fnt files will have been overwritten and uninstalled by Mash. Remember to unzip the backup default .fnt files provided in the mod package!
+	- NB: if you uninstall this mod after enabling it you will CTD because the default .fnt files will have been overwritten and uninstalled by Mash. Remember to restore the backup default .fnt files provided in the mod package (They're in Morrowind\Data Files\Fonts\backup)!
 1. [Cheat Menu](https://www.nexusmods.com/morrowind/mods/47143?tab=files)
 1. [Continue](https://www.nexusmods.com/morrowind/mods/45952?tab=files)
 1. [Expeditious Exit](https://github.com/NullCascade/morrowind-mods)
