@@ -6,15 +6,14 @@ The following are all you need to play the game on modern systems. This section 
 ## Texture Base
 1. [Vanilla Uncompressed Textures](https://www.nexusmods.com/morrowind/mods/45551?tab=files)
 
-
 ## Patches
 1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096?tab=files)
 1. [Anthology Solstheim](https://www.nexusmods.com/morrowind/mods/43436?tab=files)
 	- Download main file and enable the following options:
 		- 00 Core
-		- 01 Core - ESM version, 
+		- 01 Core - ESM version
 		- 02 Patch - Patch for Purists 3.2.0 (or most recent)
-		- 06 Patch - TR_Preview (if using TR)
+		- 06 Patch - TR_Preview (enable *only* if using Tamriel Rebuilt)
 		- 11 Addon - Fort Frostmoth Repaired
 	- NB: Don't install if using VSW Solstheim Tomb of the Snow Prince (VSW already includes this fix)
 	- NB: Patch for purists patch ESP requires Wrye Mash masters fix
