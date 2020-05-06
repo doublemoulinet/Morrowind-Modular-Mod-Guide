@@ -1,9 +1,20 @@
 # VISUALS
 
+## Optional Replacers
+1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?tab=files)
+The definitive texture replacer for Morrowind. Highly recommended. No performance impact.
+	- Be sure to install the Main File and the Update File
+1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?tab=files)
+The definitive groundcover mod. Performance-friendly as grass mods go, but will affect FPS. Recommend downloading and experimenting with grass generation on subsequent playthroughs.
+
 ## Core Meshes
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?tab=files)
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?tab=files)
 	- Download both main files and the update file
+	- OPTIONAL: the textures in Intelligent Textures are superior but will be overwritten by Facelift. Recommend downloading Facelift and splitting into a BAIN structure:
+		- 00 Meshes (the \meshes folder from the main file and update)
+		- 01 Textures (the \textures folder from the main file and update)
+		- 02 Tamriel Rebuilt (the \textures folder from the TR optional file)
 1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core
@@ -14,7 +25,7 @@
 1. [Rigging Morrowind](https://www.nexusmods.com/morrowind/mods/47754?tab=files)
 	- Cleaning: Rigging Morrowind chuzei_helm_no_neck.esp requires cleaning
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?tab=files)
-	- Does what it says. Fits seamlessly when playing with high-res vanilla texutres from Intelligent Textures
+Does what it says. No, this mod is not optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla texutres from Intelligent Textures
 1. [SmoOgrim](https://www.nexusmods.com/morrowind/mods/47829?tab=files)
 1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
 	- Enable one of the three options (I prefer "faint")
@@ -25,7 +36,9 @@
 1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
 	- Download only "Lore Friendly Iron Warhammer" and install
 1. [Lougians Colovian helm fix](https://www.nexusmods.com/morrowind/mods/43795?tab=files)
-	- Download and install "Lougians colovian helm fix"
+Some small UV fixes for the best fashion item in the game.
+	- Download "Lougians colovian helm fix"
+	- Repackage the archive and install only the "meshes" folder
 1. [No Orcish Clown Shoes](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
 	- Download and install only "No Orcish Clown Shoes"
 1. [Nordic Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46792?tab=files)
@@ -58,13 +71,6 @@
 		- 1a Simple Signs
 	- Cleaning: ESP requires cleaning
 1. [Waterfall Tweaks](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
-
-## Optional Late Loaders
-1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?tab=files)
-The definitive texture replacer for Morrowind. Highly recommended. No  performance impact.
-1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?tab=files)
-The definitive groundcover mod. Performance-friendly as grass mods go, but will affect FPS. Recommend downloading and experimenting with grass generation on subsequent playthroughs.
-
 
 **NEXT SECTION**:
 [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md)
