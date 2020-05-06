@@ -19,13 +19,18 @@ After you have installed the game, run the Morrowind Launcher and boot to the ma
 
 Wrye Mash has now been successfully initialized. 
 
-The plugins are listed in the "Mods" tab. They should be listed as follows:
+### Mods Tab
+Plugins in the Morrowind\Data Files are listed in the "Mods" tab. The plugins need to be arranged in this order:
 	- Morrowind.esm
 	- Tribunal.esm
 	- Bloodmoon.esm
 
-To install a mod in Wrye Mash, place the mod package in the "Mods" folder you created in your Morrowind directory. Wrye Mash will detect it and upate its "Installers Tab." 
+### Installers Tab
+To install a mod in Wrye Mash, place the mod package in the "Mods" folder you created in your Morrowind directory. Wrye Mash will detect it and upate its "Installers Tab." You can rearrange the order of your mod packages in the Installers Tab left pane. Finally, right click the package and select "install." Mash will display a plus icon to indicate that a mod has been successfully installed. 
 
+Familiarize yourself with the colour coding scheme! If you are unfamiliar with Mash, you can access the readme by clicking the question mark at the bottom of the Mash interface. Read sections 5 (Installers Tab), 6 (Mods Tabs), and 7 (Saves Tab) at a minimum. 
+
+### Additional Functions
 Wrye Mash has a few additional functions you should be aware of: cleaning saves and updating a plugin masters list:
 1. Cleaning saves: any time you change your load order (removing or updating a plugin) go to the "Saves" tab in WM. Select your save and click the right pane (which lists the plugins associated with the save). Mash will prompt you to edit/update the masters list. Click yes. Then click save at the bottom of the right pane.
 1. Updating masters lists: go to the "Mods" tab for your list of plugins. If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's. Select the plugin and click the right pane (which lists the masters associated with the plugin). Mash will prompt you to edit/update the masters list. Click yes. Then click save at the bottom of the right pane.
@@ -49,7 +54,7 @@ The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It 
 ## MGE XE
 The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its other changes, it also supports and comes packaged with the MWSE 2.1 beta, the lua-based script extender. It works out of the box. Like the Morrowind Code Patch, MGE XE must be installed manually.
 1. Download the latest version of [MGE XE](https://www.nexusmods.com/morrowind/mods/41102?tab=files)
-1. Extract the contents to your Morrowind root directory (not "Data Files"). If you have unpacked correctly, the MGEXEGui.exe should be adjacent to the Morrowind.exe
+1. Extract the contents to your Morrowind root directory (not "Data Files"). If you have unpacked correctly, the MGEXEGui.exe should be in the same folder as the Morrowind.exe
 1. Right-click the MWSE-Update.exe and select **Run as Administrator**. (You may want to add this executable to your anti-virus whitelilst.) Allow the update process to take place. The command-line window will automatically close when this process is done. 
 1. Run MGEXEGui.exe
 
@@ -127,7 +132,7 @@ This tool will automatically patch mod conflicts by generating a merged patch. T
 1. Extract the contents to your Morrowind root directory in a new folder called "TES3Merge"
 
 ###  TES3View
-This experimental tool is an advanced GUI conflict viewer similar to xEdit for later TES/Bethesda games. It has more limited functionality than the latter but still provides excellent functionality
+This experimental tool is an advanced GUI conflict viewer similar to xEdit for later TES/Bethesda games. It has more limited functionality than the latter but still provides excellent GUI for plugin conflicts.
 1. Download the [xEdit 4.1.3a experimental build](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file) on MediaFire (courtesy of Sigourn). This download has already renamed the folder and .exe to TES3View in order to enable the tool to work in Morrowind
 1. Extract the folder to the Morrowind root directory (...Morrowind\TES3View\TES3View.exe)
 
@@ -175,7 +180,7 @@ To use the tes3cmd_clean.bat you need to drag and drop the .esp file onto to .ba
 Each time you drop a plugin on the .bat file, a -cleaned.log file will generate. These can safely be deleted after you are done cleaning all your plugins.
 	
 ### Installing cleaned plugins
-Once you have cleaned your plugins, create a new folder "[Mod name] - Cleaned ESP" and drop the cleaned plugin into this folder. Repeat for all cleaned plugins.
+Once you have cleaned your plugin, create a new folder "[Mod name] - Cleaned ESP" and drop the cleaned plugin into this folder. Repeat for all cleaned plugins.
 
 Drop the new "[Mod name] - Cleaned ESP" folders into your Mods directory. In Wrye Mash drag these new projects below the original mod packages in your Installers tab. You can disable the plugin file in the original mod package by deselecting it in the "Esp/m filter" right pane.
 

@@ -12,6 +12,11 @@
 1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?tab=files)
 	- ESP requires cleaning
 1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?tab=files)
+1. [Sotha Sil is a Dunmer](https://www.nexusmods.com/morrowind/mods/47839?tab=files)
+	- Archive is incorrectly packed. Extract and set up as a BAIN with the following options:
+		- 00 Vanilla
+		- 01 HD
+	- HD texture is based off Remiros' Intelligent Textures 2.0. Enable either option.
 1. [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423?tab=files)
 	- ESP requires cleaning
 1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?tab=files)
