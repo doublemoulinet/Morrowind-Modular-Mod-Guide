@@ -2,8 +2,7 @@
 
 ## Optional Replacers
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?tab=files)
-
-The definitive texture replacer for Morrowind. Highly recommended. No performance impact.
+- The definitive texture replacer for Morrowind. Highly recommended. No performance impact.
 	- Be sure to install the Main File and the Update File
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?tab=files)
 
@@ -27,8 +26,7 @@ The definitive groundcover mod. Performance-friendly as grass mods go, but will 
 1. [Rigging Morrowind](https://www.nexusmods.com/morrowind/mods/47754?tab=files)
 	- Cleaning: Rigging Morrowind chuzei_helm_no_neck.esp requires cleaning
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?tab=files)
-
-Does what it says. No, this mod is not optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla texutres from Intelligent Textures
+- Does what it says. No, this mod is not optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla texutres from Intelligent Textures
 1. [SmoOgrim](https://www.nexusmods.com/morrowind/mods/47829?tab=files)
 1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
 	- Enable one of the three options (I prefer "faint")
@@ -39,8 +37,7 @@ Does what it says. No, this mod is not optional. You have to install it. Adds mo
 1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
 	- Download only "Lore Friendly Iron Warhammer" and install
 1. [Lougians Colovian helm fix](https://www.nexusmods.com/morrowind/mods/43795?tab=files)
-
-Some small UV fixes for the best fashion item in the game.
+- Some small UV fixes for the best fashion item in the game.
 	- Download "Lougians colovian helm fix"
 	- Repackage the archive and install only the "meshes" folder
 1. [No Orcish Clown Shoes](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
