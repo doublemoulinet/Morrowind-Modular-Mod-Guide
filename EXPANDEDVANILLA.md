@@ -5,6 +5,7 @@
 1. [Book Worm](https://www.nexusmods.com/morrowind/mods/46851?tab=files)
 1. [Character Creation Name Generator](https://www.nexusmods.com/morrowind/mods/46189?tab=files)
 1. [Companion Health Bars MWSE Lua](https://www.nexusmods.com/morrowind/mods/46136?tab=files)
+1. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/47962?tab=files)
 1. [Mwse Alchemy Filter](https://www.nexusmods.com/morrowind/mods/44808?tab=files)
 	- Cleaning: MWSE AlchemyFilter.esp requires cleaning
 1. [MWSE Clock Block](https://www.nexusmods.com/morrowind/mods/46292?tab=files)
@@ -88,6 +89,7 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these instead
 	- Unzip, select Easy Escort and install
 1. [Kill Command](https://www.nexusmods.com/morrowind/mods/46723?tab=files)
 1. [No Accidental Stealing](https://www.nexusmods.com/morrowind/mods/47733?tab=files)
+1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?tab=files)
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?tab=files)
 
 **NEXT SECTION**:

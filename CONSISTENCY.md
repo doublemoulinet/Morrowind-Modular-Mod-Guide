@@ -64,6 +64,7 @@
 1. [Great Service](https://www.nexusmods.com/morrowind/mods/47767?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Greetings for No Lore](https://www.nexusmods.com/morrowind/mods/46063?tab=files)
+1. [It's a Deal](https://www.nexusmods.com/morrowind/mods/47968?tab=files)
 1. [Nastier Camonna Tong](https://www.nexusmods.com/morrowind/mods/22601?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Ooh You're Naked Begone](https://www.nexusmods.com/morrowind/mods/47284?tab=files)

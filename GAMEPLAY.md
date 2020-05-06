@@ -35,6 +35,7 @@
 1. [Enhanced Light](https://www.nexusmods.com/morrowind/mods/47672?tab=files)
 	- Enable the following BAIN options:
 		- 00 - Core
+1. [Miscast Enhanced](https://www.nexusmods.com/morrowind/mods/47948?tab=files)
 1. [Customizable MWSE Multi Mark and Limited Recall](https://www.nexusmods.com/morrowind/mods/47065?tab=files)
 1. [Purist Friendly Magicka Regen](https://www.nexusmods.com/morrowind/mods/45636?tab=files)
 	- Cleaning: ESP requires cleaning
@@ -50,6 +51,7 @@
 1. [2.1 MWSE Pursuit Revisited](https://www.nexusmods.com/morrowind/mods/45904?tab=files)
 	- Edit the features in the sve_pursuit_revisited.ini for compatibility with Limited Intervention:
 		- [Teleport, Travel and Intervention Restrictions Disabled:0, Enabled:1, Mark and Recall Skill Check:2] = 0
+1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?tab=files)
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?tab=files)
 1. [Defensive Stance](https://www.nexusmods.com/morrowind/mods/46845?tab=files)
 1. [Free the Slaves](https://www.nexusmods.com/morrowind/mods/45191?tab=files)

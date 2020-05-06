@@ -1,12 +1,20 @@
-2020-05-04
+2020-05-06
+- minor fixes
+- updated CORE: Better Daedric Font installation instructions
+- added: EXPANDED VANILLA: HUD Weapon Charge
+- added: EXPANDED VANILLA: Peaceful Pets
+- added: CONSISTENCY: Sotha Sil is a Dunmer
+- added: CONSISTENCY: Ist's a Deal
+- added: GAMEPLAY: Miscast Enhanced
+- added: GAMEPLAY: Actually Unlimited Skeleton Key
 - moved: Projectile Enchant Capacity to CORE: Patches
-- moved: OPTIONAL EARLY LOADERS to CONTENT
+- moved: OPTIONAL EARLY LOADERS to CONTENT section
 
 2020-05-03
 - minor fixes
 - added: SETUP: additional MGE XE graphics settings
 - added: VISUALS: Subtle Magic Glow
-- added: BALANCE: Mort's Ultimate Leveling Experien
+- added: BALANCE: Mort's Ultimate Leveling Experience
 - added: EXPANDED VANILLA: Golden Saint Splash Screen (discord exclusive)
 - added: FINISHING LINE: instructions for in-game MCM settings
 - added: FINISHING LINE: instructions for enabling mod-added shaders
