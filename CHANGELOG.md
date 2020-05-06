@@ -3,6 +3,7 @@
 - updated CORE: Better Daedric Font installation instructions
 - added: EXPANDED VANILLA: HUD Weapon Charge
 - added: EXPANDED VANILLA: Peaceful Pets
+- added: VISUALS: R-Zero's Throbbing Meat
 - added: CONSISTENCY: Sotha Sil is a Dunmer
 - added: CONSISTENCY: Ist's a Deal
 - added: GAMEPLAY: Miscast Enhanced

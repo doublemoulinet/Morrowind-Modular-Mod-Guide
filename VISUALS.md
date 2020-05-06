@@ -12,7 +12,9 @@
 	- Enable the following BAIN options:
 		- 00 Core
 1. [Rigging Morrowind](https://www.nexusmods.com/morrowind/mods/47754?tab=files)
-	- Cleaning: Rigging Morrowind chuzei_helm_no_neck.esp requires cleaning.
+	- Cleaning: Rigging Morrowind chuzei_helm_no_neck.esp requires cleaning
+1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?tab=files)
+	- Does what it says. Fits seamlessly when playing with high-res vanilla texutres from Intelligent Textures
 1. [SmoOgrim](https://www.nexusmods.com/morrowind/mods/47829?tab=files)
 1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
 	- Enable one of the three options (I prefer "faint")
