@@ -21,9 +21,9 @@ Wrye Mash has now been successfully initialized.
 
 ### Mods Tab
 Plugins in the Morrowind\Data Files are listed in the "Mods" tab. The plugins need to be arranged in this order:
-	- Morrowind.esm
-	- Tribunal.esm
-	- Bloodmoon.esm
+- Morrowind.esm
+- Tribunal.esm
+- Bloodmoon.esm
 
 ### Installers Tab
 To install a mod in Wrye Mash, place the mod package in the "Mods" folder you created in your Morrowind directory. Wrye Mash will detect it and upate its "Installers Tab." You can rearrange the order of your mod packages in the Installers Tab left pane. Finally, right click the package and select "install." Mash will display a plus icon to indicate that a mod has been successfully installed. 
