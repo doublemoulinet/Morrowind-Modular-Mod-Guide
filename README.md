@@ -1,4 +1,6 @@
-A modular, vanilla-friendly installation guide for Morrowind in 2020
+A modular, vanilla-friendly installation guide for Morrowind in 2020.
+
+See the [Changelog](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CHANGELOG.md) for a full list of changes.
 
 # Morrowind Modular Mod Guide
 
