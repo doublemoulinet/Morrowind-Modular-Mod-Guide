@@ -1,3 +1,7 @@
+2020-05-07
+- added: VISUALS: Near Vanilla Road Sign Replacer
+- removed: VISUALS: Swappable Texture Signposts
+
 2020-05-06
 - minor fixes
 - updated CORE: Better Daedric Font installation instructions
