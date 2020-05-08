@@ -1,4 +1,5 @@
 2020-05-07
+- added: EXPANDED VANILLA: Torch Hotkey
 - added: VISUALS: Near Vanilla Road Sign Replacer
 - removed: VISUALS: Swappable Texture Signposts
 
