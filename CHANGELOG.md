@@ -1,3 +1,6 @@
+2020-05-09
+- removed: Tidy Charsheet (pending bugfixes)
+
 2020-05-07
 - added: EXPANDED VANILLA: Torch Hotkey
 - added: VISUALS: Near Vanilla Road Sign Replacer
