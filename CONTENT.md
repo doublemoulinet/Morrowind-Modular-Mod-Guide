@@ -6,8 +6,6 @@
 		- 00 Core
 		- 01 ex_t_rootball collision fix
 1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?tab=files)
-1. [Balmora Balconies](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
-	- Download and install Main File "Balmora Balconies"
 1. [Better Gnisis Arch](https://www.nexusmods.com/morrowind/mods/46224?tab=files)
 	- Enable the following BAIN options:
 		- 00 - Main Files

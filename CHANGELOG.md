@@ -6,6 +6,7 @@
 - added: GAMEPLAY: Douse the Lights
 - removed: CORE: Vanilla Uncompressed Textures (use either vanilla textures or Intelligent Textures)
 - removed: EXPANDED VANILLA: Tidy Charsheet (pending bugfixes)
+- removed: CONTENT: Balmora Balconies
 
 2020-05-07
 - added: EXPANDED VANILLA: Torch Hotkey
