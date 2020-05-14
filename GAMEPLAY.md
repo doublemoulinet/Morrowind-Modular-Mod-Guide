@@ -3,6 +3,7 @@
 ## Skills and Crafting
 1. [Skills Module](https://www.nexusmods.com/morrowind/mods/46034?tab=files)
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?tab=files)
+	- Cleaning: ESP requires cleaning
 1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?tab=files)
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
 1. [Realistic Repair – Add-on](https://www.nexusmods.com/morrowind/mods/47461?tab=files)
@@ -49,11 +50,14 @@
 
 ## Combat / Crime Gameplay Changes
 1. [2.1 MWSE Pursuit Revisited](https://www.nexusmods.com/morrowind/mods/45904?tab=files)
-	- Edit the features in the sve_pursuit_revisited.ini for compatibility with Limited Intervention:
+	- Edit the features in the sve_pursuit_revisited.ini for compatibility with Limited Intervention and Abot's Loading Doors:
+		- [Lock and Thieves Tools Disabled:0, Enabled:1] = 0
 		- [Teleport, Travel and Intervention Restrictions Disabled:0, Enabled:1, Mark and Recall Skill Check:2] = 0
+		- [Intervention Tribute Disabled:0, Gold:1, Gold+Items:2] = 0
 1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?tab=files)
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?tab=files)
 1. [Defensive Stance](https://www.nexusmods.com/morrowind/mods/46845?tab=files)
+1. [Douse the Lights](https://www.nexusmods.com/morrowind/mods/47980?tab=files)
 1. [Free the Slaves](https://www.nexusmods.com/morrowind/mods/45191?tab=files)
 1. [Give a Gift](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods

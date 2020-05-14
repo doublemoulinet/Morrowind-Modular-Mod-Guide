@@ -21,6 +21,8 @@ Note that you will need to regenerate these two plugins each time you adjust you
 ## Merging
 If you have installed new weapon/item mods and would like to reduce the plugin count, you can use MWedit to open all these plugins simultaneously and merge them into a new plugin (I usually call mine "Unique Items Merged.esp"). Remember to clean any created plugins with TESTool and tes3cmd.
 
+As a rule, don't merge ESPs with scripts.
+
 ## Load order and Late Loaders
 Run mlox.exe and allow it to make changes.
 
@@ -68,6 +70,8 @@ The final step. Launch the game and enter the **Mod Configuration Menu** in the 
 
 Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new game because settings are stored in .json config files in the MWSE folder in the root directory. You only need to make these settings changes once.
 
+- Abot's Loading Door
+	- Lock door with shift + activate = yes
 - Abot’s Smart Journal
 	- Add a prefix in order to group quest name? = 0
 	- Sort quest list by name? = No
@@ -97,6 +101,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - Multi Mark & Harder Recall
 	- Customize Limited Recall values
 		- Recalls per day: 4
+	- *optional* Enable Miscast Enhanced integration!
 - Ownership Indicator
 	- Hide Crosshair = Yes (you may need to toggle the crosshair on/off in the game options menu to get this to work)
 - Quick Loot

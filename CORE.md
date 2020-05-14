@@ -1,11 +1,6 @@
 # Core
 The following are all you need to play the game on modern systems. This section and [Setup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md) are the only required sections of the guide. The patches section fixes most of the game's bugs, and MOP and Project Atlas dramatically increase performance.
 
-
-
-## Texture Base
-1. [Vanilla Uncompressed Textures](https://www.nexusmods.com/morrowind/mods/45551?tab=files)
-
 ## Patches
 1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096?tab=files)
 1. [Anthology Solstheim](https://www.nexusmods.com/morrowind/mods/43436?tab=files)

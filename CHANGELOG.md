@@ -1,5 +1,10 @@
-2020-05-09
-- removed: Tidy Charsheet (pending bugfixes)
+2020-05-14
+- added: CONSISTENCY: Cover Yourself
+- added: EXPANDED VANILLA: Widescreen Splash Additions
+- added: VISUALS: Subtle Smoke
+- added: GAMEPLAY: Douse the Lights
+- removed: CORE: Vanilla Uncompressed Textures (use either vanilla textures or Intelligent Textures)
+- removed: EXPANDED VANILLA: Tidy Charsheet (pending bugfixes)
 
 2020-05-07
 - added: EXPANDED VANILLA: Torch Hotkey

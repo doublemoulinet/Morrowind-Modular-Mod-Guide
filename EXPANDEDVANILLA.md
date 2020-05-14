@@ -29,13 +29,13 @@
 1. [The Role They Were to Play](https://www.nexusmods.com/morrowind/mods/46411?tab=files)
 1. [Cut Bethesda Splash Screens](https://www.nexusmods.com/morrowind/mods/45050?tab=files)
 1. [Fargoth Splash Screen](https://www.nexusmods.com/morrowind/mods/44538?tab=files) 
-1. [Golden Saint Splash Screen]()
 
 ## Alternate HD Splash Screen / Video 
 If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these instead of the “Splash Screen / Video” options above. High quality, seamless integration with the vanilla art style. Note that "The Role They Were to Play" should still be installed.
 1. [Widescreen Menu and Logo Replacer](https://www.nexusmods.com/morrowind/mods/47164?tab=files)
 1. [Widescreen Splash Replacer](https://www.nexusmods.com/morrowind/mods/47163?tab=files)
 1. [Additional Splash Screens](https://www.nexusmods.com/morrowind/mods/43319?tab=files)
+1. [Widescreen Splash Additions](https://www.nexusmods.com/morrowind/mods/48001?tab=files)
 
 ## Core Lua Mods - Immersion and Gameplay
 1. [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925?tab=files)

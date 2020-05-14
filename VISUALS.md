@@ -28,6 +28,7 @@
 1. [SmoOgrim](https://www.nexusmods.com/morrowind/mods/47829?tab=files)
 1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
 	- Enable one of the three options (I prefer "faint")
+1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?tab=files)
 
 ## Equipment Meshes
 1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?tab=files)

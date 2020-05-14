@@ -61,6 +61,7 @@
 1. [MAB0’s Manipulate](https://www.nexusmods.com/morrowind/mods/47222?tab=files)
 
 ## Dialogue
+1. [Cover Yourself](https://www.nexusmods.com/morrowind/mods/48016?tab=files)
 1. [Great Service](https://www.nexusmods.com/morrowind/mods/47767?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Greetings for No Lore](https://www.nexusmods.com/morrowind/mods/46063?tab=files)
