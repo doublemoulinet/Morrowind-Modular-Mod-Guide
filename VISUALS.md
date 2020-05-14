@@ -34,6 +34,7 @@
 1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?tab=files)
 
 ## Equipment Meshes
+1. [Fang-like Fang of Haynekhtnamet](https://www.nexusmods.com/morrowind/mods/47505?tab=files)
 1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?tab=files)
 	- Download and install the Optional File "Improved Nordic Iron Helm 1.0-alternate"
 1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?tab=files)

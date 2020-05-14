@@ -95,7 +95,6 @@
 
 ## Vanilla Item Replacers
 1. [Unique Jewelry Redone](https://www.nexusmods.com/morrowind/mods/46151?tab=files)
-1. [Fang-like Fang of Haynekhtnamet](https://www.nexusmods.com/morrowind/mods/47505?tab=files)
 1. [Unique Dagoth Dagger](https://www.nexusmods.com/morrowind/mods/46363?tab=files)
 1. [Unique Dreugh Cuirass](https://www.nexusmods.com/morrowind/mods/46508?tab=files)
 1. [Unique Gothren’s Cephalopod Helm](https://www.nexusmods.com/morrowind/mods/46534?tab=files)
