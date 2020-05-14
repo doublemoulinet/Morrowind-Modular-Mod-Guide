@@ -1,13 +1,13 @@
 # VISUALS
 
-## Lighting
-1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?tab=files)
-
 ## Optional Replacers
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?tab=files)
 	- The definitive texture replacer for Morrowind. Highly recommended. No performance impact.
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?tab=files)
 	- The definitive groundcover mod. Performance-friendly as grass mods go, but will affect FPS. Recommend downloading and experimenting with grass generation on subsequent playthroughs.
+
+## Lighting
+1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?tab=files)
 
 ## Core Meshes
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?tab=files)
