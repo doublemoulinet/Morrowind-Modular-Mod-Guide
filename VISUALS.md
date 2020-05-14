@@ -1,5 +1,8 @@
 # VISUALS
 
+## Lighting
+1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?tab=files)
+
 ## Optional Replacers
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?tab=files)
 	- The definitive texture replacer for Morrowind. Highly recommended. No performance impact.

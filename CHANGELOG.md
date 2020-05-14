@@ -1,6 +1,7 @@
 2020-05-14
 - added: CONSISTENCY: Cover Yourself
 - added: EXPANDED VANILLA: Widescreen Splash Additions
+- added: VISUALS: Let There Be Darkness
 - added: VISUALS: Subtle Smoke
 - added: GAMEPLAY: Douse the Lights
 - removed: CORE: Vanilla Uncompressed Textures (use either vanilla textures or Intelligent Textures)
