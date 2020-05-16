@@ -4,8 +4,10 @@
 Install Morrowind to a root directory (ex. C:\Steam\steamapps\common\Morrowind) or (C:\Games\Morrowind). Do not install the game in Program Files.
 
 Some general tips:
-	- Do not uninstall mods mid-playthrough. The only mods that can be safely uninstalled mid-game are esp-less replacers and MWSE mods. Any mod with an ESP/ESM should not be removed from your mod order mid-playthrough
-	- Always read the mod description on the mod page
+- Do not uninstall mods mid-playthrough. The only mods that can be safely uninstalled mid-game are esp-less replacers and MWSE mods. Any mod with an ESP/ESM should not be removed from your mod order mid-playthrough
+- Always read the mod description on the mod page
+- Remember to update MWSE! It's under active development and you should run the MWSE-Updater.exe frequently
+- Likewise, check the Nexus for mod updates. MWSE mods are frequently updated and can be safely installed mid-playthrough
 
 After you have installed the game, run the Morrowind Launcher and boot to the main menu. This ensures the proper files are generated.
 

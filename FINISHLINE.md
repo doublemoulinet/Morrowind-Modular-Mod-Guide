@@ -98,6 +98,8 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- You can toggle Immersive Mining's gameplay changes by undoing these blacklist changes
 - Illegal Summoning
 	- NPC Crime Trigger Distance = 2000
+- Miscast Enhanced
+	- Ensure "Debug Mode" is disabled
 - Multi Mark & Harder Recall
 	- Customize Limited Recall values
 		- Recalls per day: 4

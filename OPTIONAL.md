@@ -22,7 +22,7 @@ I recommend installing these mods anyway **but not enabling them in the Installe
 	- Download both “Tamriel Rebuilt” and the optional “TR Music” files; install as separate mods
 	- Cleaning: TR_Preview.esp requires cleaning
 1. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921?tab=files)
-1. [VSW Solstheim Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
+1. [HOTV Solstheim Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
 	- Enable the following BAIN options:
 		- 00 Core
 		- 010 Solstheim - Tomb of the Snow Prince

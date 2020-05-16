@@ -10,7 +10,7 @@ The following are all you need to play the game on modern systems. This section 
 		- 02 Patch - Patch for Purists 3.2.0 (or most recent)
 		- 06 Patch - TR_Preview (enable *only* if using Tamriel Rebuilt)
 		- 11 Addon - Fort Frostmoth Repaired
-	- NB: Don't install if using VSW Solstheim Tomb of the Snow Prince (VSW already includes this fix)
+	- NB: Don't install if using HoTV Solstheim Tomb of the Snow Prince (STOTSP already includes this fix)
 	- NB: Patch for purists patch ESP requires Wrye Mash masters fix
 1. [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119?tab=files)
 	- Download and install Main File "Descriptive Shrines"
@@ -28,9 +28,9 @@ The following are all you need to play the game on modern systems. This section 
 	- Activate the following:
 		- 00 Core
 		- 01 Fixed Vanilla Textures
-		- 02 Lake Fjalding Anti-Suck *do not enable if using VSW*
+		- 02 Lake Fjalding Anti-Suck *do not enable if using STOTSP*
 		- 03 MGE XE Addon
-	- NB: “Lake Fjalding Anti Suck” is already included in VSW
+	- NB: “Lake Fjalding Anti Suck” is already included in STOTSP
 	- NB: You will install the “04 Weapon Sheathing Patch” as a separate mod further down in the installation order
 1. [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399?tab=files)
 	- Enable only the following:
