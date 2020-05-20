@@ -15,7 +15,8 @@ First, you need to create the tes3cmd multipatch:
  
 Next, create the Merged Objects patch with TES3Merge:
 1. Launch TES3Merge.exe and follow the prompts
-1. Once complete, TES3Merge wil create Merged Objects.esp in your Data Files
+1. Once complete, TES3Merge wil create Merged Objects.esp in your Data Files. 
+
 Note that you will need to regenerate these two plugins each time you adjust your load order (update, remove or add a plugin) so that the changes are carried on. For your convenience, Wrye Mash will indicate if the plugins are missing masters and require regenerating (the plugin will turn red in the Mods Tab).
 
 ## Merging
