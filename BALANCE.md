@@ -62,7 +62,7 @@
 
 ## Economy
 1. [Harder Barter](https://www.nexusmods.com/morrowind/mods/46188?tab=files)
-1. [Harder Merchants](https://www.nexusmods.com/morrowind/mods/47416?tab=files)
+1. [Smart Merchants] (https://www.nexusmods.com/morrowind/mods/47787?tab=files)
 
 **NEXT SECTION**:
 [**Consistency**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md)

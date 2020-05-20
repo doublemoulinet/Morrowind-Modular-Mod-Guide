@@ -48,7 +48,7 @@ The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It 
 	- Game Mechanics: every option EXCEPT "Healthy Appetite" and "Allow Gloves with Bracers"
 	- Visuals: every option EXCEPT "Over-the-shoulder third person camera" and "Vanity camera lock"
 	- Mod specific: enable EVERY option
-	- Interface changes: enable every option EXCEPT "Disable map smoothing" and "Spell select by name" and "see all standard potion effects"
+	- Interface changes: enable every option EXCEPT "Disable map smoothing" and "Spell select by name" and "Level-up skills tooltip" and "see all standard potion effects"
 	- International: none
 	- Bug Fixes: ensure EVERY option is enabled
 1. Click the big "Apply chosen patches" button

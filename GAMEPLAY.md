@@ -29,13 +29,13 @@
 		- 00 - Core
 		- 01 - Cast VFX
 1. [Enhanced Invisibility](https://www.nexusmods.com/morrowind/mods/47565?tab=files)
-1. [Enhanced Telekinesis](https://www.nexusmods.com/morrowind/mods/47534?tab=files)
-	- Enable the following BAIN options:
-		- 00 - Core
-		- 01 - Cast VFX
 1. [Enhanced Light](https://www.nexusmods.com/morrowind/mods/47672?tab=files)
 	- Enable the following BAIN options:
 		- 00 - Core
+1. [Enhanced Telekinesis](https://www.nexusmods.com/morrowind/mods/47534?tab=files)
+	- Enable the following BAIN options:
+		- 00 - Core
+		- 01 - Cast VFX		
 1. [Miscast Enhanced](https://www.nexusmods.com/morrowind/mods/47948?tab=files)
 1. [Customizable MWSE Multi Mark and Limited Recall](https://www.nexusmods.com/morrowind/mods/47065?tab=files)
 1. [Purist Friendly Magicka Regen](https://www.nexusmods.com/morrowind/mods/45636?tab=files)

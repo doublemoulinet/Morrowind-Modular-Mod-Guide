@@ -1,3 +1,16 @@
+2020-05-18
+- added: CORE: Skill Increse GMST Fix
+- added: BALANCE: Smart Merchants
+- added: CONSISTENCY: Adamantium Weapons Ignore Normal Weapon Resistance
+- added: CONSISTENCY: Aesliip's Ring - Fortify Maximum Magicka
+- removed: BALANCE: Harder Merchants
+- removed: CONTENT: Dwemer Scrap Armor
+- removed: CONTENT: Heavy Chitin Armor
+- removed: CONTENT: RR Holamayan Monastery
+- removed: CONTENT: Odai River sources
+- removed: CONTENT: Sanctus Shrine
+- changed: SETUP: MCP interface changes selections (do not enable "level-up skills tooltip" patch)
+
 2020-05-14
 - added: CONSISTENCY: Cover Yourself
 - added: EXPANDED VANILLA: Widescreen Splash Additions

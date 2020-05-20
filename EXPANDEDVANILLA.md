@@ -88,8 +88,8 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these instead
 1. [Kill Command](https://www.nexusmods.com/morrowind/mods/46723?tab=files)
 1. [No Accidental Stealing](https://www.nexusmods.com/morrowind/mods/47733?tab=files)
 1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?tab=files)
-1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?tab=files)
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?tab=files)
+1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?tab=files)
 
 **NEXT SECTION**:
 [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md)

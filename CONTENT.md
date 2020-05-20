@@ -5,7 +5,6 @@
 	- Enable the following BAIN options:
 		- 00 Core
 		- 01 ex_t_rootball collision fix
-1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?tab=files)
 1. [Better Gnisis Arch](https://www.nexusmods.com/morrowind/mods/46224?tab=files)
 	- Enable the following BAIN options:
 		- 00 - Main Files
@@ -24,9 +23,10 @@
 	- Download and install normally
 	- Enable only the "Meteorite MInistry Temple" ESP
 	- Cleaning: ESP requires cleaning
+1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?tab=files)
 1. [Passage of Prayers - High Fane Corridor Overhaul](https://www.nexusmods.com/morrowind/mods/46786?tab=files)
 	- Enable the "Full" ESP
-	- NB: the objects instances and animations on the prayer wheels will affect FPS on weaker systems
+	- NB: the objects instances and animations on the prayer wheels will affect FPS on weaker systems. Disable/uninstall if the FPS drops are too steep.
 1. [Stav's Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/43237?tab=files)
 	- Disable the ESP. The meshes will be used in the following mod
 1. [Fixed Version of Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/46184?tab=files)
@@ -50,9 +50,6 @@
 1. [Vvardenfell Revisited – Caldera](https://www.nexusmods.com/morrowind/mods/45182?tab=files)
 1. [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614?tab=files)
 	- Cleaning: ESP requires cleaning
-1. [Vvardenfell Revisited – Pelagiad](https://www.nexusmods.com/morrowind/mods/46776?tab=files)
-	- Enable only the Vvardenfell Revisited - Pelagiad v1.0.ESP"
-	- NB: minor placement conflict with the quest mod "Magical Missions" 
 
 ## Guilds
 1. [Balmora Guilds Expanded](https://www.nexusmods.com/morrowind/mods/46859?tab=files)
@@ -71,20 +68,15 @@
 	- Cleaning: ESP requires cleaning
 1. [Samarys Ancestral Tomb Expanded](https://www.nexusmods.com/morrowind/mods/45612?tab=files)
 1. [Stone Halls of Solstheim](https://www.nexusmods.com/morrowind/mods/45666?tab=files)
+	- Note: remember to enable the Haunted Barrows patch ESP and load it after SHS and Haunted Barrows!
 
 ## Wilderness
 1. [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?tab=files)
 	- Cleaning: ESP requires cleaning
-1. [RR Holomayan](https://www.nexusmods.com/morrowind/mods/43524?tab=files)
-	- Cleaning: ESP requires cleaning
-1. [Odai River Reborn and Odai River Sources](https://www.nexusmods.com/morrowind/mods/45207?tab=files)
-	- Download and install Main File "Odai river sources"
-	- Cleaning: this ESP requires cleaning
-1. [Sanctus Shrine](https://www.nexusmods.com/morrowind/mods/47841?tab=files)
-	- Cleaning: ESP requires cleaning
-1. [Seven Graces Shrine Enhanced](https://www.nexusmods.com/morrowind/mods/46417?tab=files)
+1. [The Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/46137?tab=files)
+1. [Seven Graces Shrines Enhanced](https://www.nexusmods.com/morrowind/mods/46417?tab=files)
 	- Download and install Main File
 	- Cleaning: ESP requires cleaning
 1. [Shrine of Mount Assarnibibi](https://www.nexusmods.com/morrowind/mods/46858?tab=files)
@@ -102,11 +94,9 @@
 1. [Unique Rammekald](https://www.nexusmods.com/morrowind/mods/46763?tab=files)
 1. [Unique Snowy Crown](https://www.nexusmods.com/morrowind/mods/46782?tab=files)
 1. [Unique Weapon – Mephala’s Teacher](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
-	- Download Mail File "Unique Weapon - Mephala's Teacher"
+	- Download Main File "Unique Weapon - Mephala's Teacher"
 
 ## New Items
-1. [Dwemer Scrap Armour](https://www.nexusmods.com/morrowind/mods/47665?tab=files)
-1. [Heavy Chitin Armour](https://www.nexusmods.com/morrowind/mods/47684?tab=files)
 1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?tab=files)
 1. [Hunter’s Mark – A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656?tab=files)
 1. [Imperial Silver Armour](https://www.nexusmods.com/morrowind/mods/47751?tab=files)

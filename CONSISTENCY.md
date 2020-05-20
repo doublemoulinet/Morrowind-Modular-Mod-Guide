@@ -1,6 +1,8 @@
 # Consistency
 
 ## Fixes
+1. [Adamantium Weapons Ignore Normal Weapon Resistance](https://www.nexusmods.com/morrowind/mods/45774?tab=files)
+1. [Aesliip's Ring - Fortify Maximum Magicka](https://www.nexusmods.com/morrowind/mods/45744?tab=files)
 1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core Files
