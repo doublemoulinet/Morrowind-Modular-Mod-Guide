@@ -3,6 +3,7 @@
 - added: BALANCE: Smart Merchants
 - added: CONSISTENCY: Adamantium Weapons Ignore Normal Weapon Resistance
 - added: CONSISTENCY: Aesliip's Ring - Fortify Maximum Magicka
+- added: GAMEPLAY: Clear Your Name
 - removed: BALANCE: Harder Merchants
 - removed: CONTENT: Dwemer Scrap Armor
 - removed: CONTENT: Heavy Chitin Armor

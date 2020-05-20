@@ -56,6 +56,7 @@
 		- [Intervention Tribute Disabled:0, Gold:1, Gold+Items:2] = 0
 1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?tab=files)
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?tab=files)
+1. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786?tab=files)
 1. [Defensive Stance](https://www.nexusmods.com/morrowind/mods/46845?tab=files)
 1. [Douse the Lights](https://www.nexusmods.com/morrowind/mods/47980?tab=files)
 1. [Free the Slaves](https://www.nexusmods.com/morrowind/mods/45191?tab=files)
