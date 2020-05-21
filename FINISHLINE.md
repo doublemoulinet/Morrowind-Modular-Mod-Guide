@@ -54,7 +54,7 @@ In the in-game menu Options set the following:
 
 **Prefs**
 - Set difficulty to 0 (Dynamic Difficulty will handle scaling to keep things interesting--unless you want to punish yourself and play at 100 difficulty)
-- Set **AI Distance** to the furthest left on the slider (improves performance but may break AI commands) 
+- Set **AI Distance** to the furthest right on the slider (decreasing the value improves performance but may break AI commands) 
 - Autosave when rest=OFF
 - Always Use Best Attack=OFF (controversial opinion, but the direction-based attack types can be a pain--experiment and make up your own mind)
 - Subtitles=ON
