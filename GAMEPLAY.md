@@ -38,8 +38,7 @@
 		- 01 - Cast VFX		
 1. [Miscast Enhanced](https://www.nexusmods.com/morrowind/mods/47948?tab=files)
 1. [Customizable MWSE Multi Mark and Limited Recall](https://www.nexusmods.com/morrowind/mods/47065?tab=files)
-1. [Purist Friendly Magicka Regen](https://www.nexusmods.com/morrowind/mods/45636?tab=files)
-	- Cleaning: ESP requires cleaning
+1. [MWSE Magicka Regen](https://www.nexusmods.com/morrowind/mods/48129?tab=files)
 
 ## Chargen
 1. [Class Conscious](https://www.nexusmods.com/morrowind/mods/46902?tab=files)

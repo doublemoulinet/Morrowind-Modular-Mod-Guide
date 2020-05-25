@@ -89,6 +89,7 @@
 1. [Unique Dreugh Cuirass](https://www.nexusmods.com/morrowind/mods/46508?tab=files)
 1. [Unique Gothren’s Cephalopod Helm](https://www.nexusmods.com/morrowind/mods/46534?tab=files)
 1. [Unique Racerbeak](https://www.nexusmods.com/morrowind/mods/46501?tab=files)
+1. [Unique Rusty Dagger](https://www.nexusmods.com/morrowind/mods/47616?tab=files)
 1. [Unique Soul Drinker](https://www.nexusmods.com/morrowind/mods/47526?tab=files)
 1. [Vanilla Style Unique Eltonbrand](https://www.nexusmods.com/morrowind/mods/46633?tab=files)
 1. [Unique Rammekald](https://www.nexusmods.com/morrowind/mods/46763?tab=files)
@@ -129,7 +130,8 @@
 	- Cleaning: ESP requires cleaning
 1. [Plunder the Dungeon](https://www.nexusmods.com/morrowind/mods/46977?tab=files)
 1. [Religions Elaborated](https://www.nexusmods.com/morrowind/mods/47843?tab=files)
-	- Download and install Main File
+	- Download and install the optional "No Quest Changes" version in the Optional Files
+	- Cleaning: ESP requires cleaning
 1. [Scrolls of the Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831?tab=files)
 1. [Stormkiss Reforged](https://www.nexusmods.com/morrowind/mods/44565?tab=files)
 	- Cleaning: ESP requires cleaning

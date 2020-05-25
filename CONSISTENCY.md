@@ -20,7 +20,7 @@
 		- 01 HD
 	- HD texture is based off Remiros' Intelligent Textures 2.0. Enable either option.
 1. [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423?tab=files)
-	- ESP requires cleaning
+	- DON'T clean ESP
 1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?tab=files)
 1. [Corprus Fix](https://www.nexusmods.com/morrowind/mods/45544?tab=files)
 	- ESP requires cleaning

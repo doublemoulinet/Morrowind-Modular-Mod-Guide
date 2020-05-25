@@ -1,3 +1,9 @@
+2020-05-25
+- added: VISUALS: Mistify
+- added: GAMEPLAY: MWSE Magicka Regen
+- added: CONTENT: Unique Rusty Dagger
+- removed: GAMEPLAY: Purist-Friendly Magicka Regen
+
 2020-05-18
 - added: CORE: Skill Increse GMST Fix
 - added: BALANCE: Smart Merchants

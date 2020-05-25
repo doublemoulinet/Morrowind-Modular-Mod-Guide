@@ -67,6 +67,7 @@
 	- Enable the following BAIN options:
 		- 00 Core
 		- 01 MWSE Version
+1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?tab=files)
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?tab=files)
 	- Activate "00 Core" and "01 Vvardenfell only"
 1. [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339?tab=files)
