@@ -12,6 +12,9 @@
 1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Drop Light and install
+1. [Feed the Animals](https://www.nexusmods.com/morrowind/mods/47894?tab=files)
+1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?tab=files)
+	- This might just be the greatest Morrowind mod of all time. No joke.
 1. [Immersive Mining](https://www.nexusmods.com/morrowind/mods/46041?tab=files)
 1. [Illiterate](https://www.nexusmods.com/morrowind/mods/46600?tab=files)
 1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?tab=files)

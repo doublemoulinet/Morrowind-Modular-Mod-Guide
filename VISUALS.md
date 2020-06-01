@@ -11,6 +11,8 @@
 
 ## Core Meshes
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?tab=files)
+1. [Detailed Brooms](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
+	- Download only the "Detailed Brooms" main file
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?tab=files)
 	- Download both main files and the update file
 	- OPTIONAL: the textures in Intelligent Textures are superior but will be overwritten by Facelift. Recommend downloading Facelift and splitting into a BAIN structure:

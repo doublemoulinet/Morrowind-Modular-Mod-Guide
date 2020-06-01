@@ -78,6 +78,7 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these instead
 1. [MWSE AbotLib](https://www.nexusmods.com/morrowind/mods/47717?tab=files)
 
 ## Core Lua Mods - Convenience
+1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?tab=files)
 1. [Darhk’s Super-Sized Storage](https://www.nexusmods.com/morrowind/mods/45147?tab=files)
 1. [Diligent Defenders](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
@@ -86,7 +87,6 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these instead
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select Easy Escort and install
 1. [Kill Command](https://www.nexusmods.com/morrowind/mods/46723?tab=files)
-1. [No Accidental Stealing](https://www.nexusmods.com/morrowind/mods/47733?tab=files)
 1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?tab=files)
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?tab=files)
 1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?tab=files)

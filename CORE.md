@@ -20,6 +20,7 @@ The following are all you need to play the game on modern systems. This section 
 	- Download both main files and repackage as BAIN and install as a single mod
 	- Enable only one of the ESPs (Vanilla, or, Vanilla + Tamriel Rebuilt)
 1. [Skill Increase GMST Fix](https://www.nexusmods.com/morrowind/mods/48029?tab=files)
+1. [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269?tab=files)
 
 ## Mesh Fixes
 1. [Mesh Fix](https://www.nexusmods.com/morrowind/mods/42134?tab=files)

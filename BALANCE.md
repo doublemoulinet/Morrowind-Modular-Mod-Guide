@@ -40,6 +40,7 @@
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Limited Leaping and install	
 1. [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?tab=files)
+1. [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?tab=files)
 1. [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305?tab=files)	
 	- ESP requires cleaning
 1. [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248?tab=files)
@@ -49,7 +50,14 @@
 	- Download and install the Optional File "Urnest Loot"	
 	
 ## Levelling and Skills
-1. [Mort's Ultimate Levelling Experience - MULE](https://www.nexusmods.com/morrowind/mods/47452?tab=files)
+Morrowind's levelling system shows its age. Because of how it handles skill-ups and attribute modifiers, Morrowind encourages powergaming, which is uNiMmERsiVE and BAD. There are several recent lua-based levelling overhauls that make skill increases/levelling much less intrusive.
+
+Choose only one of the following levelling mods. I recommend playing with Improved Vanilla Levelling first (it most closely resembles the original game's system), and the trying MULE on a subsequent playthrough:
+
+1. [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065?tab=files)
+1. [Mort's Ultimate Levelling Experience - MULE](https://www.nexusmods.com/morrowind/mods/47452?tab=files
+
+Install the rest of this section:
 1. [Beast Race Abilities Toggleable](https://www.nexusmods.com/morrowind/mods/44948?tab=files)
 1. [Dynamic Difficulty](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods

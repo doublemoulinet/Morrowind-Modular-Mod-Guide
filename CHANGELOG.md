@@ -1,3 +1,13 @@
+2020-06-01
+- added: CORE: Quest Skill Reward Fix
+- added: EXPANDED VANILLA: Accidental Theft Protection
+- added: VISUALS: Detailed Brooms
+- added: BALANCE: Misc Mates
+- added: BALANCE: Improved Vanilla Leveling
+- added: GAMEPLAY: Feed the Animals
+- added: GAMEPLAY: Guar Whisperer
+- removed: EXPANDED VANILLA: No Accidental Stealing
+
 2020-05-25
 - added: VISUALS: Mistify
 - added: GAMEPLAY: MWSE Magicka Regen
