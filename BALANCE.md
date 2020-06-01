@@ -55,10 +55,7 @@ Morrowind's levelling system shows its age. Because of how it handles skill-ups 
 Choose and **install only ONE** of the following levelling mods. I recommend playing with Improved Vanilla Levelling first (it most closely resembles the original game's system), and trying MULE on a subsequent playthrough:
 
 1. [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065?tab=files)
-
-OR
-
-2. [Mort's Ultimate Levelling Experience - MULE](https://www.nexusmods.com/morrowind/mods/47452?tab=files)
+1. [Mort's Ultimate Levelling Experience - MULE](https://www.nexusmods.com/morrowind/mods/47452?tab=files)
 
 Install the rest of this section:
 1. [Beast Race Abilities Toggleable](https://www.nexusmods.com/morrowind/mods/44948?tab=files)
