@@ -5,8 +5,6 @@ The landmass mods--Tamriel Rebuilt and its sister projects--are highly recommend
 
 Solstheim Tomb of the Snow Prince overhauls the Bloodmoon expansion to bring the world design in line with current Tamriel Rebuilt / Project Tamriel design standards. It is highly recommended. You will see why after you play Bloodmoon in vanilla: the vanilla world design is flat, empty, and boring. STOTSP is a performance-friendly overhaul that makes playing Bloodmoon significantly more fun.
 
-I recommend installing these mods anyway **but not enabling them in the Installers tab** on your first playthrough.
-
 **Important**: if you install the Unofficial Plugins and/or Landmass mods move them to the *top of your install order* in the Wrye Mash Installers Tab. This is to ensure neither TR nor the official plugins overwrite your mesh/texture fixes in the [Core](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) section
 	
 ## Official Plugins
