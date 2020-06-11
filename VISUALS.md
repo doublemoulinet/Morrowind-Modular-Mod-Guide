@@ -4,21 +4,31 @@
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?tab=files)
 	- The definitive texture replacer for Morrowind. Highly recommended. No performance impact.
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?tab=files)
-	- The definitive groundcover mod. Performance-friendly as grass mods go, but will affect FPS. Recommend downloading and experimenting with grass generation on subsequent playthroughs.
+	- The definitive groundcover mod. Performance-friendly as grass mods go, but will affect FPS. Recommend downloading and experimenting with grass generation on subsequent playthroughs (will probably push you below 60FPS).
 
 ## Lighting
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?tab=files)
 
 ## Core Meshes
+1. [Ashmire Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
+	- Download "Ashmire Replacer," "Bitter Coast Scum Replacer," "Luminous VFX Atronachs," and "Vivec Water Replacer." Install separately as directed in this section.
+	- Install "Ashmire Replacer" and enable ONLY the following BAIN option:
+		- 01 - Still Mire
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?tab=files)
+1. [Bitter Coast Scum Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
+	- Enable the following BAIN options:
+		- 00 Core 
+		- 03 Standalone - Lougian's Meshes Fixed
 1. [Detailed Brooms](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 	- Download only the "Detailed Brooms" main file
+	- Seriously
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?tab=files)
 	- Download both main files and the update file
 	- OPTIONAL: the textures in Intelligent Textures are superior but will be overwritten by Facelift. Recommend downloading Facelift and splitting into a BAIN structure:
 		- 00 Meshes (the \meshes folder from the main file and update)
 		- 01 Textures (the \textures folder from the main file and update)
 		- 02 Tamriel Rebuilt (the \textures folder from the TR optional file)
+1. [Luminous VFX Atronachs](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
 1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core
@@ -34,6 +44,10 @@
 1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
 	- Enable one of the three options (I prefer "faint")
 1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?tab=files)
+1. [Vivec Palace Water Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
+	- Enable the following BAIN options 
+		- 00 Core 
+		- 01 Original Color
 
 ## Equipment Meshes
 1. [Fang-like Fang of Haynekhtnamet](https://www.nexusmods.com/morrowind/mods/47505?tab=files)

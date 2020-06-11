@@ -1,11 +1,18 @@
 # EXPANDED VANILLA
 
 ## User Interface - Expanded
+1. [Better Questlist](https://www.nexusmods.com/morrowind/mods/48272?tab=files)
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?tab=files)
 1. [Book Worm](https://www.nexusmods.com/morrowind/mods/46851?tab=files)
 1. [Character Creation Name Generator](https://www.nexusmods.com/morrowind/mods/46189?tab=files)
 1. [Companion Health Bars MWSE Lua](https://www.nexusmods.com/morrowind/mods/46136?tab=files)
+1. [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119?tab=files)
+	- Download and install Main File "Descriptive Shrines"
+1. [Hotkeys Extended](https://www.nexusmods.com/morrowind/mods/48055?tab=files)
 1. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/47962?tab=files)
+1. [Matching Manuscripts](https://github.com/NullCascade/morrowind-mods)
+	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
+	- Unzip, select Matching Manuscripts and install
 1. [Mwse Alchemy Filter](https://www.nexusmods.com/morrowind/mods/44808?tab=files)
 	- Cleaning: MWSE AlchemyFilter.esp requires cleaning
 1. [MWSE Clock Block](https://www.nexusmods.com/morrowind/mods/46292?tab=files)
@@ -14,18 +21,19 @@
 1. [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?tab=files)
 1. [Randomised Chargen](https://www.nexusmods.com/morrowind/mods/46915?tab=files)
 1. [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492?tab=files)
+1. [Smart Map](https://www.nexusmods.com/morrowind/mods/46634?tab=files)
 1. [Switchable Scriptures](https://www.nexusmods.com/morrowind/mods/46680?tab=files)
 1. [User Interface Expansion](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select User Interface Expansion and install
 	
 ## Tooltips
+1. [Shrine Tooltips](https://www.nexusmods.com/morrowind/mods/48275?tab=files)
 1. [Tooltips Complete](https://www.nexusmods.com/morrowind/mods/46842?tab=files)
-1. [Abot’s Tooltip](https://www.nexusmods.com/morrowind/mods/45969?tab=files)
-	- NB: Make sure to enable only the value/weight ratio tooltip in the in-game MCM, otherwise this mod will add a permanent asterisk to skillbook names and mess up your inventory sorting!
 1. [Class Description Tooltip](https://www.nexusmods.com/morrowind/mods/47527?tab=files)
 
 ## Splash Screen / Video
+Restores several cut Bethesda splashscreens and restores the game's most drastic oversight by adding a splashscreen for Fargoth. Install *either* this section or the following HD alternative.
 1. [The Role They Were to Play](https://www.nexusmods.com/morrowind/mods/46411?tab=files)
 1. [Cut Bethesda Splash Screens](https://www.nexusmods.com/morrowind/mods/45050?tab=files)
 1. [Fargoth Splash Screen](https://www.nexusmods.com/morrowind/mods/44538?tab=files) 
@@ -63,9 +71,9 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these instead
 		 -01 Vanilla Alt. Draw (meshes folder from extra/vanilla/meshes)
 	 -Enable the following BAIN options:
 		-00 Core
-1. [Weapon Sheathing for TR](https://www.nexusmods.com/morrowind/mods/46603?tab=files)
 1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?tab=files)
 	- Install the “04 Weapon Sheathing Patch” as a separate mod and install
+1. [MWSE Blood Diversity](https://www.nexusmods.com/morrowind/mods/47913?tab=files)
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?tab=files)
 1. [Loading Doors](https://www.nexusmods.com/morrowind/mods/46094?tab=files)
 1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?tab=files)

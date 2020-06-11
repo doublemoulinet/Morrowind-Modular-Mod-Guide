@@ -1,3 +1,22 @@
+2020-06-11
+- moved: Descriptive Shrines from CORE to EXPANDED VANILLA
+- added: CORE: Fixed Journal Next Button
+- added: EXPANDED VANILLA: Better Questlist
+- added: EXPANDED VANILLA: Matching Manuscripts
+- added: EXPANDED VANILLA: Smart Map
+- added: EXPANDED VANILLA: Shrine Tooltips
+- added: EXPANDED VANILLA: MWSE Blood Diversity
+- added: VISUALS: Ashmire Replacer
+- added: VISUALS: Bitter Coast Scum Replacer
+- added: VISUALS: Luminous VFX Atronachs
+- added: VISUALS: Vivec Palace Water Replacer
+- added: CONSISTENCY: LDM - Context Matters
+- added: GAMEPLAY: The Midnight Oil
+- added: GAMEPLAY: Passing Time While Reading
+- removed: EXPANDED VANILLA: Abot's Tooltip
+- removed: EXPANDED VANILLA: Weapon Sheathing for TR
+- removed: CONSISTENCY: LDM - Ooh You're Naked Begone
+
 2020-06-01
 - added: CORE: Quest Skill Reward Fix
 - added: EXPANDED VANILLA: Accidental Theft Protection

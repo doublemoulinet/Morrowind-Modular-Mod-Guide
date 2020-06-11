@@ -21,6 +21,8 @@ This is my personal mod list for Morrowind, with an emphasis on performance and 
 
 For a similar-looking but way better and better maintained guide, see [Sigourn's Morrowind Mended](https://github.com/Sigourn/morrowind-improved). Much of the structure of this guide (particularly the setup section) has been directly cribbed from Sigourn's.
 
+This guide's selling feature: on moderate hardware (ex., an i7-3770 and GTX 680), you will get a solid 60FPS in-game. Seriously!
+
 ## Using this Guide and Installing Mods
 The guide is modular, meaning you can install most sections independently of one another. A first-time player need only follow the instructions in the first sections to have a stable, playable game. However, all modules are designed with the vanilla experience in mind. I recommend first-time players skip the "CONTENT" optional module.
 

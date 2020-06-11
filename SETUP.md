@@ -30,7 +30,9 @@ Plugins in the Morrowind\Data Files are listed in the "Mods" tab. The plugins ne
 ### Installers Tab
 To install a mod in Wrye Mash, place the mod package in the "Mods" folder you created in your Morrowind directory. Wrye Mash will detect it and upate its "Installers Tab." You can rearrange the order of your mod packages in the Installers Tab left pane. Finally, right click the package and select "install." Mash will display a plus icon to indicate that a mod has been successfully installed. 
 
-Familiarize yourself with the colour coding scheme! If you are unfamiliar with Mash, you can access the readme by clicking the question mark at the bottom of the Mash interface. Read sections 5 (Installers Tab), 6 (Mods Tabs), and 7 (Saves Tab) at a minimum. 
+Familiarize yourself with the colour coding scheme! If you are unfamiliar with Mash, you can access the readme by clicking the question mark at the bottom of the Mash interface. Read sections 5 (Installers Tab), 6 (Mods Tabs), and 7 (Saves Tab) at a minimum.
+
+Pro tip: use markers to create helpful visual separators in your installers tab. In the menu bar: Actions->Add marker. Enter a name (Ex., "CORE" or "Patches" as per the headings and subheadings of this guide) and click OK. Drag and drop in the install order.
 
 ### Additional Functions
 Wrye Mash has a few additional functions you should be aware of: cleaning saves and updating a plugin masters list:

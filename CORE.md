@@ -10,10 +10,8 @@ The following are all you need to play the game on modern systems. This section 
 		- 02 Patch - Patch for Purists 3.2.0 (or most recent)
 		- 06 Patch - TR_Preview (enable *only* if using Tamriel Rebuilt)
 		- 11 Addon - Fort Frostmoth Repaired
-	- NB: Don't install if using HoTV Solstheim Tomb of the Snow Prince (STOTSP already includes this fix)
-	- NB: Patch for purists patch ESP requires Wrye Mash masters fix
-1. [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119?tab=files)
-	- Download and install Main File "Descriptive Shrines"
+	- NB: Don't install Anthology Solstheim if using HoTV Solstheim Tomb of the Snow Prince (STOTSP already includes this fix)
+	- NB: Patch for purists patch ESP requires you to fix the masters in Wrye Mash
 1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?tab=files)
 1. [No More Stage Diving](https://www.nexusmods.com/morrowind/mods/47738?tab=files)
 1. [Projectile Enchant Capacity](https://www.nexusmods.com/morrowind/mods/46685?tab=files)
@@ -67,6 +65,7 @@ The following are all you need to play the game on modern systems. This section 
 1. [Expeditious Exit](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select Expeditious Exit and install
+1. [Fixed Journal Next Button](https://www.nexusmods.com/morrowind/mods/48097?tab=files)
 1. [HUD Hider](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select HUD Hider and install

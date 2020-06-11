@@ -2,7 +2,7 @@
 
 ## Balance - Core
 1. [Beware the Sixth House](https://www.nexusmods.com/morrowind/mods/46036?tab=files)
-	- NB: This makes all Sixth House enemies exceptionally difficult and in-line with in-game lore/dialogue
+	- NB: This makes all Sixth House enemies exceptionally difficult and in-line with in-game lore/dialogue. Prepare to Die!
 1. [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714?tab=files)
 1. [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713?tab=files)
 1. [More Passive Wildlife (PS Edit)](https://www.nexusmods.com/morrowind/mods/46120?tab=files)

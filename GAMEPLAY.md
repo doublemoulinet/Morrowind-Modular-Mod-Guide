@@ -6,7 +6,7 @@
 	- Cleaning: ESP requires cleaning
 1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?tab=files)
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
-1. [Realistic Repair – Add-on](https://www.nexusmods.com/morrowind/mods/47461?tab=files)
+1. [Realistic Repair – Add-on](https://mega.nz/folder/S1gC3ShI#WkcS9xC00nb27ZZZAJ0ZKQ)
 
 ## Immersion
 1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
@@ -15,9 +15,11 @@
 1. [Feed the Animals](https://www.nexusmods.com/morrowind/mods/47894?tab=files)
 1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?tab=files)
 	- This might just be the greatest Morrowind mod of all time. No joke.
-1. [Immersive Mining](https://www.nexusmods.com/morrowind/mods/46041?tab=files)
 1. [Illiterate](https://www.nexusmods.com/morrowind/mods/46600?tab=files)
+1. [Immersive Mining](https://www.nexusmods.com/morrowind/mods/46041?tab=files)
 1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?tab=files)
+1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?tab=files)
+1. [Passing Time While Reading](https://www.nexusmods.com/morrowind/mods/48059?tab=files)
 1. [Plaguebearer](https://www.nexusmods.com/morrowind/mods/45760?tab=files)
 
 ## Expanded Magic

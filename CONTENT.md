@@ -114,7 +114,8 @@
 1. [Dura gra-Bol's House Reclaimed](https://www.nexusmods.com/morrowind/mods/46772?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Expedition to Mzelthuand](https://www.nexusmods.com/morrowind/mods/45229?tab=files)
-	- Cleaning: ESP requires cleaning
+	- Download the Main File and the updated ESP
+	- Extract and drop the new ESP into the mod archive. Rezip and install as a single package
 1. [Great House Vault Privileges](https://www.nexusmods.com/morrowind/mods/46086?tab=files)
 1. [Immersive Madness](https://www.nexusmods.com/morrowind/mods/44983?tab=files)
 1. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739?tab=files)

@@ -10,7 +10,7 @@
 	- Cleaning: ESP requires cleaning
 1. [Blighted Animals](https://www.nexusmods.com/morrowind/mods/42245?tab=files)
 	- Download and install the "Blighted Animals with Vanilla Textures" main file
-	- Download and install the optional file "Nix-Hound knockout animation fix" as a separate mod
+	- Download the optional file "Nix-Hound knockout animation fix" and install as a separate mod directly after "Blighted Animals"
 1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?tab=files)
 	- ESP requires cleaning
 1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?tab=files)
@@ -46,8 +46,8 @@
 1. [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646?tab=files)
 1. [Services Restored](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Services Restored"
-1. [Severa Magia DB Fix](https://www.nexusmods.com/morrowind/mods/45647?tab=files)
-	- Mod is packaged incorrectly: set "Data Files" as the root folder and install
+1. [Severa Magia DB Fix](https://mega.nz/folder/S1gC3ShI#WkcS9xC00nb27ZZZAJ0ZKQ)
+	- Download "Severa Magia DB Fix" from the link above
 1. [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150?tab=files)
 1. [The Madstone](https://www.nexusmods.com/morrowind/mods/47653?tab=files)
 1. [The Publicans](https://www.nexusmods.com/morrowind/mods/45410?tab=files)
@@ -68,9 +68,9 @@
 	- Cleaning: ESP requires cleaning
 1. [Greetings for No Lore](https://www.nexusmods.com/morrowind/mods/46063?tab=files)
 1. [It's a Deal](https://www.nexusmods.com/morrowind/mods/47968?tab=files)
+1. [LDM - Context Matters](https://www.nexusmods.com/morrowind/mods/48273?tab=files)
 1. [Nastier Camonna Tong](https://www.nexusmods.com/morrowind/mods/22601?tab=files)
 	- Cleaning: ESP requires cleaning
-1. [Ooh You're Naked Begone](https://www.nexusmods.com/morrowind/mods/47284?tab=files)
 1. [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066?tab=files)
 1. [What Thieves Guild](https://www.nexusmods.com/morrowind/mods/47728?tab=files)
 	- Cleaning: ESP requires cleaning
@@ -80,8 +80,6 @@
 	- Enable the following BAIN options:
 		- 00 Core
 		- 01 Fire Sound Replacer
-	- Enable the following option if you play with "The Stone Halls of Solstheim" added in the Content section:
-		- 01 SHS Patch
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?tab=files)
