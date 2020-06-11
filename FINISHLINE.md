@@ -80,9 +80,6 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Add source mod name to quest hint = No
 	- Add source mod author… = No
 	- Open first URL… = No
-- Abot’s tooltip
-	- Show item value/weight ratio in tooltip? = Yes
-	- Set remaining tooltip options to NO
 - Accidental Theft Protection
 	- Blacklist: select the "Books" filter and click "filter all" in the right pane (this will allow you to read owned books without toggling sneak first).
 - Book Pickup
