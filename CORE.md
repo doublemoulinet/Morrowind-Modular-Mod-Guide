@@ -7,11 +7,9 @@ The following are all you need to play the game on modern systems. This section 
 	- Download main file and enable the following options:
 		- 00 Core
 		- 01 Core - ESM version
-		- 02 Patch - Patch for Purists 3.2.0 (or most recent)
-		- 06 Patch - TR_Preview (enable *only* if using Tamriel Rebuilt)
+		- 02 Patch - Patch for Purists 4.0
 		- 11 Addon - Fort Frostmoth Repaired
-	- NB: Don't install Anthology Solstheim if using HoTV Solstheim Tomb of the Snow Prince (STOTSP already includes this fix)
-	- NB: Patch for purists patch ESP requires you to fix the masters in Wrye Mash
+	- NB: Don't install Anthology Solstheim if using HoTV Solstheim Tomb of the Snow Prince, included in the Optional Content section at the end of this guide (STOTSP already includes the Anthology fix)
 1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?tab=files)
 1. [No More Stage Diving](https://www.nexusmods.com/morrowind/mods/47738?tab=files)
 1. [Projectile Enchant Capacity](https://www.nexusmods.com/morrowind/mods/46685?tab=files)
