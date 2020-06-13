@@ -5,7 +5,6 @@
 - moved: Drop Light from GAMEPLAY to EXPANDED VANILLA
 - moved: Illiterate from GAMEPLAY to EXPANDED VANILLA
 - moved: Light Decay from GAMEPLAY to EXPANDED VANILLA
-
 - removed: VISUALS: Luminous VFX Atronachs
 - removed: GAMEPLAY: Feed the Animals (until bugfixes)
 - removed: GAMEPLAY: Plaguebearer
