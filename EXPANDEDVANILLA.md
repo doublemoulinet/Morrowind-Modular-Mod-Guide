@@ -74,6 +74,9 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these instead
 1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?tab=files)
 	- Install the “04 Weapon Sheathing Patch” as a separate mod and install
 1. [MWSE Blood Diversity](https://www.nexusmods.com/morrowind/mods/47913?tab=files)
+1. [Illiterate](https://www.nexusmods.com/morrowind/mods/46600?tab=files)
+	- Needs repacking. Create the following folder structure: "MWSE\mods\illiterate\[main.lua file goes here]"
+	- Zip and install normally
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?tab=files)
 1. [Loading Doors](https://www.nexusmods.com/morrowind/mods/46094?tab=files)
 1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?tab=files)
@@ -91,10 +94,14 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these instead
 1. [Diligent Defenders](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select Diliegent Defenders and install
+1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
+	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
+	- Unzip, selected Drop Light and install
 1. [Easy Escort](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select Easy Escort and install
 1. [Kill Command](https://www.nexusmods.com/morrowind/mods/46723?tab=files)
+1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?tab=files)
 1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?tab=files)
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?tab=files)
 1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?tab=files)

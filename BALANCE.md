@@ -39,7 +39,6 @@
 1. [Limited Leaping](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Limited Leaping and install	
-1. [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?tab=files)
 1. [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?tab=files)
 1. [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305?tab=files)	
 	- ESP requires cleaning

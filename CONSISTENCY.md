@@ -4,8 +4,15 @@
 1. [Adamantium Weapons Ignore Normal Weapon Resistance](https://www.nexusmods.com/morrowind/mods/45774?tab=files)
 1. [Aesliip's Ring - Fortify Maximum Magicka](https://www.nexusmods.com/morrowind/mods/45744?tab=files)
 1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?tab=files)
+	- Mod archive is incorrectly packaged. Repack:
+		- Extract the "ex_velothi_big.nif" mesh in "000 Core Files\Glow in the Dahrk\Vanilla" 
+		- Place in a new folder with the following strucure: "00 - Core Files\meshes\x\ex_velothi_big.nif"
+		- Extract the ESP in "001 ESP - Bigger Velothi Temples"
+		- Place the ESP in a new folder with the following structure: "01 - Vanilla (GitD)\Bigger Velothi Temples.esp"
+		- Select the two new folders ("00 - Core Files" and "01 - Vanilla (GitD)" and compress as a new archive
+		- Install normally
 	- Enable the following BAIN options:
-		- 00 Core Files
+		- 00 - Core Files
 		- 01 - Vanilla (GitD)
 	- Cleaning: ESP requires cleaning
 1. [Blighted Animals](https://www.nexusmods.com/morrowind/mods/42245?tab=files)
@@ -43,11 +50,8 @@
 	- ESP requires additional cleaning: the mod is incompatible with Stone Halls of Solstheim. You will need to remove an instance of this chest in a single cell, Bloodskal Barrow
 1. [Outdoor Banners with Sound](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Outdoor Banners with Sound"
-1. [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646?tab=files)
 1. [Services Restored](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Services Restored"
-1. [Severa Magia DB Fix](https://mega.nz/folder/S1gC3ShI#WkcS9xC00nb27ZZZAJ0ZKQ)
-	- Download "Severa Magia DB Fix" from the link above
 1. [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150?tab=files)
 1. [The Madstone](https://www.nexusmods.com/morrowind/mods/47653?tab=files)
 1. [The Publicans](https://www.nexusmods.com/morrowind/mods/45410?tab=files)

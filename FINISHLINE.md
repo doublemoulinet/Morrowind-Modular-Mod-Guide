@@ -95,7 +95,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 		- In the Blacklist tab, navigate to the Objects list and search “mine”
 		- Click Toggle Filtered to add these objects to the blacklist
 		- Repeat these steps for the keyword "rock"
-	- You can toggle Immersive Mining's gameplay changes by undoing these blacklist changes
+	- You can toggle off Immersive Mining's gameplay changes by undoing these blacklist changes
 - Illegal Summoning
 	- NPC Crime Trigger Distance = 2000
 - Miscast Enhanced

@@ -1,3 +1,20 @@
+2020-06-13
+- moved: Marksman Rebalanced from BALANCE to GAMEPLAY
+- moved: Redaynia Restored from CONSISTENCY to CONTENT
+- moved: Severa Magia DB Overhaul from CONSISTENCY to CONTENT
+- moved: Drop Light from GAMEPLAY to EXPANDED VANILLA
+- moved: Illiterate from GAMEPLAY to EXPANDED VANILLA
+- moved: Light Decay from GAMEPLAY to EXPANDED VANILLA
+
+- removed: VISUALS: Luminous VFX Atronachs
+- removed: GAMEPLAY: Feed the Animals (until bugfixes)
+- removed: GAMEPLAY: Plaguebearer
+- removed: GAMEPLAY: Passing Time While Reading
+- removed: CONTENT: Vvardenfell Revisited - Caldera
+- removed: CONTENT: Stone Halls of Solstheim
+- removed: CONTENT: Dagoth Ur Welcomes You
+- removed: CONTENT: Vanilla Style Unique Eltonbrand
+
 2020-06-11
 - moved: Descriptive Shrines from CORE to EXPANDED VANILLA
 - added: CORE: Fixed Journal Next Button

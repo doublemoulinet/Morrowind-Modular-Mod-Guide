@@ -27,6 +27,7 @@
 1. [Passage of Prayers - High Fane Corridor Overhaul](https://www.nexusmods.com/morrowind/mods/46786?tab=files)
 	- Enable the "Full" ESP
 	- NB: the objects instances and animations on the prayer wheels will affect FPS on weaker systems. Disable/uninstall if the FPS drops are too steep.
+1. [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646?tab=files)
 1. [Stav's Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/43237?tab=files)
 	- Disable the ESP. The meshes will be used in the following mod
 1. [Fixed Version of Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/46184?tab=files)
@@ -47,7 +48,6 @@
 		- 02 - Main ESP - English
 	- Cleaning: the ESP requires cleaning
 1. [Tower of Vos](https://www.nexusmods.com/morrowind/mods/43527?tab=files)
-1. [Vvardenfell Revisited – Caldera](https://www.nexusmods.com/morrowind/mods/45182?tab=files)
 1. [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614?tab=files)
 	- Cleaning: ESP requires cleaning
 
@@ -59,16 +59,14 @@
 
 ## Dungeons
 1. [Andrano Tomb Remastered](https://www.nexusmods.com/morrowind/mods/44672?tab=files)
-1. [Dagoth Ur Welcomes You](https://www.nexusmods.com/morrowind/mods/44204?tab=files)
-	- Cleaning: this ESP requires cleaning
 1. [Forge of Hilbongard](https://www.nexusmods.com/morrowind/mods/43222?tab=files)
 1. [Mawia Overhaul](https://www.nexusmods.com/morrowind/mods/46884?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Remiros' Tombs Expansion](https://www.nexusmods.com/morrowind/mods/45616?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Samarys Ancestral Tomb Expanded](https://www.nexusmods.com/morrowind/mods/45612?tab=files)
-1. [Stone Halls of Solstheim](https://www.nexusmods.com/morrowind/mods/45666?tab=files)
-	- Note: remember to enable the Haunted Barrows patch ESP and load it after SHS and Haunted Barrows!
+1. [Severa Magia DB Fix](https://mega.nz/folder/S1gC3ShI#WkcS9xC00nb27ZZZAJ0ZKQ)
+	- Download "Severa Magia DB Fix" from the link above
 
 ## Wilderness
 1. [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?tab=files)
@@ -76,6 +74,8 @@
 1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [The Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/46137?tab=files)
+	- Download my [personal edit of the ESP](https://mega.nz/folder/W4o1DKKD#olqWpI0C1dPJEqKBqqG4QQ) and install as a separate mod after the main archive
+		- This edited ESP removes the region name edits that generate a cluster of map markers on the world map
 1. [Seven Graces Shrines Enhanced](https://www.nexusmods.com/morrowind/mods/46417?tab=files)
 	- Download and install Main File
 	- Cleaning: ESP requires cleaning
@@ -84,6 +84,7 @@
 1. [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691?tab=files)
 
 ## Vanilla Item Replacers
+Many unique items are assigned generic models in the game. These mods make many of the uniques... unique.
 1. [Unique Jewelry Redone](https://www.nexusmods.com/morrowind/mods/46151?tab=files)
 1. [Unique Dagoth Dagger](https://www.nexusmods.com/morrowind/mods/46363?tab=files)
 1. [Unique Dreugh Cuirass](https://www.nexusmods.com/morrowind/mods/46508?tab=files)
@@ -91,7 +92,6 @@
 1. [Unique Racerbeak](https://www.nexusmods.com/morrowind/mods/46501?tab=files)
 1. [Unique Rusty Dagger](https://www.nexusmods.com/morrowind/mods/47616?tab=files)
 1. [Unique Soul Drinker](https://www.nexusmods.com/morrowind/mods/47526?tab=files)
-1. [Vanilla Style Unique Eltonbrand](https://www.nexusmods.com/morrowind/mods/46633?tab=files)
 1. [Unique Rammekald](https://www.nexusmods.com/morrowind/mods/46763?tab=files)
 1. [Unique Snowy Crown](https://www.nexusmods.com/morrowind/mods/46782?tab=files)
 1. [Unique Weapon – Mephala’s Teacher](https://www.nexusmods.com/morrowind/mods/43528?tab=files)

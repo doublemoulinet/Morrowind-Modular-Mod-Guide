@@ -28,7 +28,6 @@
 		- 00 Meshes (the \meshes folder from the main file and update)
 		- 01 Textures (the \textures folder from the main file and update)
 		- 02 Tamriel Rebuilt (the \textures folder from the TR optional file)
-1. [Luminous VFX Atronachs](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
 1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core

@@ -4,24 +4,24 @@
 1. [Skills Module](https://www.nexusmods.com/morrowind/mods/46034?tab=files)
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?tab=files)
 	- Cleaning: ESP requires cleaning
+
+## Optional New Mechanics
+Optional, but recommended!
+1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?tab=files)
+	- This might just be the greatest Morrowind mod of all time. No joke.
+1. [Immersive Mining](https://www.nexusmods.com/morrowind/mods/46041?tab=files)
+1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?tab=files)
 1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?tab=files)
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
 1. [Realistic Repair – Add-on](https://mega.nz/folder/S1gC3ShI#WkcS9xC00nb27ZZZAJ0ZKQ)
 
-## Immersion
-1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, selected Drop Light and install
-1. [Feed the Animals](https://www.nexusmods.com/morrowind/mods/47894?tab=files)
-1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?tab=files)
-	- This might just be the greatest Morrowind mod of all time. No joke.
-1. [Illiterate](https://www.nexusmods.com/morrowind/mods/46600?tab=files)
-1. [Immersive Mining](https://www.nexusmods.com/morrowind/mods/46041?tab=files)
-1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?tab=files)
-1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?tab=files)
-1. [Passing Time While Reading](https://www.nexusmods.com/morrowind/mods/48059?tab=files)
-1. [Plaguebearer](https://www.nexusmods.com/morrowind/mods/45760?tab=files)
-
+## Character Generation
+1. [Class Conscious](https://www.nexusmods.com/morrowind/mods/46902?tab=files)
+1. [Merlord’s Character Background](https://www.nexusmods.com/morrowind/mods/46795?tab=files)
+1. [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?tab=files)
+	- Enable only Personal Effects_MWSE.esp version
+	- Cleaning: the ESP requires cleaning
+	
 ## Expanded Magic
 1. [Magicka Expanded](https://www.nexusmods.com/morrowind/mods/47111?tab=files)
 	- Enable the "00 - Framework" and whichever packs you like. I prefer the following BAIN options:
@@ -45,13 +45,6 @@
 1. [Customizable MWSE Multi Mark and Limited Recall](https://www.nexusmods.com/morrowind/mods/47065?tab=files)
 1. [MWSE Magicka Regen](https://www.nexusmods.com/morrowind/mods/48129?tab=files)
 
-## Chargen
-1. [Class Conscious](https://www.nexusmods.com/morrowind/mods/46902?tab=files)
-1. [Merlord’s Character Background](https://www.nexusmods.com/morrowind/mods/46795?tab=files)
-1. [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?tab=files)
-	- Enable only Personal Effects_MWSE.esp version
-	- Cleaning: the ESP requires cleaning
-
 ## Combat / Crime Gameplay Changes
 1. [2.1 MWSE Pursuit Revisited](https://www.nexusmods.com/morrowind/mods/45904?tab=files)
 	- Edit the features in the sve_pursuit_revisited.ini for compatibility with Limited Intervention and Abot's Loading Doors:
@@ -70,10 +63,11 @@
 1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select The Last Witness and install
-1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?tab=files)	
-1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?tab=files)	
+1. [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?tab=files)
+1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?tab=files)
+1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?tab=files)
 1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?tab=files)
-1. [Skill-based Trap Detection](https://www.nexusmods.com/morrowind/mods/47120?tab=files)	
+1. [Skill-based Trap Detection](https://www.nexusmods.com/morrowind/mods/47120?tab=files)
 
 	
 **NEXT SECTION**:
