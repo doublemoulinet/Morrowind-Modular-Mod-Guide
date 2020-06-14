@@ -1,4 +1,5 @@
 2020-06-13
+- added: BALANCE: Ownership Overhaul
 - moved: Marksman Rebalanced from BALANCE to GAMEPLAY
 - moved: Redaynia Restored from CONSISTENCY to CONTENT
 - moved: Severa Magia DB Overhaul from CONSISTENCY to CONTENT

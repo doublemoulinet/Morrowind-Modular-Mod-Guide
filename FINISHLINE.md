@@ -27,11 +27,18 @@ As a rule, don't merge ESPs with scripts.
 ## Load order and Late Loaders
 Run mlox.exe and allow it to make changes.
 
-Ensure that the following mods always load last in your load order:
+Additional re-ordering may be required. Ensure the following load *first* in your load order:
+1. (Whatever ESMs you have enabled, ending with "Patch for Purists.esm")
+1. Patch for Purists - Book Typos.esp
+1. Patch for Purists - Semi-Purist Fixes
+1. Projectile Enchant Capacity.esp
+1. Morrowind Anti-Cheese.esp
+1. Ownership Overhaul.esp
+
+Ensure that the following mods always load *last* in your load order:
 1. Yet Another Guard Diversity - Regular.esp
 1. Urnest Loot.esp
 1. There Can Be Only One.esp
-1. Morrowind Anti-Cheese.esp
 1. XE Sky Variations.esp
 1. multipatch.esp
 1. Merged Objects.esp

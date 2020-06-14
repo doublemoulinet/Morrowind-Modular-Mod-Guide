@@ -42,6 +42,7 @@
 1. [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?tab=files)
 1. [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305?tab=files)	
 	- ESP requires cleaning
+1. [Ownership Overhaul](https://www.nexusmods.com/morrowind/mods/48051?tab=files)
 1. [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248?tab=files)
 1. [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766?tab=files)
 	- Enable only the following ESP: There Can Be Only One (Alt Fyr).esp	

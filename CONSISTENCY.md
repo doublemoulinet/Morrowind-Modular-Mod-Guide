@@ -47,7 +47,6 @@
 	- ESP requires cleaning
 1. [Nordic Chest Replacer](https://www.nexusmods.com/morrowind/mods/45383?tab=files)
 	- ESP requires cleaning
-	- ESP requires additional cleaning: the mod is incompatible with Stone Halls of Solstheim. You will need to remove an instance of this chest in a single cell, Bloodskal Barrow
 1. [Outdoor Banners with Sound](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Outdoor Banners with Sound"
 1. [Services Restored](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
