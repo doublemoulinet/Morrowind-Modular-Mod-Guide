@@ -16,7 +16,7 @@
 		- 01 - Vanilla (GitD)
 	- Cleaning: ESP requires cleaning
 1. [Blighted Animals](https://www.nexusmods.com/morrowind/mods/42245?tab=files)
-	- Download and install the "Blighted Animals with Vanilla Textures" main file
+	- Download and install the "Blighted Animals with Vanilla Textures" main file (the HD texture versions clash with the rest of the game)
 	- Download the optional file "Nix-Hound knockout animation fix" and install as a separate mod directly after "Blighted Animals"
 1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?tab=files)
 	- ESP requires cleaning

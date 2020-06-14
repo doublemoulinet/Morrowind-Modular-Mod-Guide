@@ -29,6 +29,7 @@ Run mlox.exe and allow it to make changes.
 
 Additional re-ordering may be required. Ensure the following load *first* in your load order:
 1. (Whatever ESMs you have enabled, ending with "Patch for Purists.esm")
+1. (If you've installed VSW Solstheim, make sure the ESM loads AFTER Patch for Purists.esm)
 1. Patch for Purists - Book Typos.esp
 1. Patch for Purists - Semi-Purist Fixes
 1. Projectile Enchant Capacity.esp
