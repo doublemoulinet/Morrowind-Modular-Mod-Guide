@@ -47,10 +47,10 @@ Ensure that the following mods always load *last* in your load order:
 Remember to re-run distant land generation according to the steps in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md).
 
 ## Shaders
-Remember to set up the modd-added shaders and enable them in the MGE XE shader tool:
-- invisibility
-- r0_qk_shader
-- warp
+Remember to set up the mod-added shaders and enable them in the MGE XE shader tool. (If the following shaders don't appear in your shader list, that just means you didn't install the relevant mod, so you're fine!):
+- invisibility (from Enhanced Invisibility)
+- r0_qk_shader (from Shattered Stones - an Earthquake Mod)
+- warp (from Expedition to Mzelthuand)
 
 Add them to the bottom of the list of active shaders in MGE XE.
 
