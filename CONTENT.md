@@ -19,6 +19,8 @@
 	- Cleaning: ESP requires cleaning
 1. [Caldera Mine Expanded](https://www.nexusmods.com/morrowind/mods/45194?tab=files)
 	- Cleaning: ESP requires cleaning
+1. [Concept Art Palace](https://www.nexusmods.com/morrowind/mods/48136?tab=files)
+	- Download the Main File and select the Version 1 sub-package
 1. [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506?tab=files)
 	- Download and install normally
 	- Enable only the "Meteorite MInistry Temple" ESP

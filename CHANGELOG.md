@@ -1,4 +1,5 @@
 2020-06-15
+- added: CONTENT: Concept Art Palace
 - removed: CONSISTENCY: Great Service
 
 2020-06-13
