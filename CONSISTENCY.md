@@ -67,8 +67,6 @@
 
 ## Dialogue
 1. [Cover Yourself](https://www.nexusmods.com/morrowind/mods/48016?tab=files)
-1. [Great Service](https://www.nexusmods.com/morrowind/mods/47767?tab=files)
-	- Cleaning: ESP requires cleaning
 1. [Greetings for No Lore](https://www.nexusmods.com/morrowind/mods/46063?tab=files)
 1. [It's a Deal](https://www.nexusmods.com/morrowind/mods/47968?tab=files)
 1. [LDM - Context Matters](https://www.nexusmods.com/morrowind/mods/48273?tab=files)
