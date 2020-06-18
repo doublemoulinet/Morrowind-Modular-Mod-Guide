@@ -119,6 +119,8 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Show quickloot menu on plant/organic containers? = No
 - Realistic Movement Speeds
 	- Strafing Movement Percentage Multiplier = 100
+- Security Enhanced
+	- Disable "auto equip probe on detect trap" (for compatibility with Skill-based trap detection)
 - Sophisticated Save System
 	- set up autosaves as you prefer, but recommend disabling “Create autosaves after changing cells”
 - UI Expansion

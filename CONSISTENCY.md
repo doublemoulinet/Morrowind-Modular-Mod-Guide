@@ -39,6 +39,8 @@
 1. [Blight Storms Restored](https://www.nexusmods.com/morrowind/mods/45558?tab=files)
 1. [Bloat Caves](https://www.nexusmods.com/morrowind/mods/43141?tab=files)
 	- ESP requires cleaning
+1. [Creeping Blight](https://www.nexusmods.com/morrowind/mods/47904?tab=files)
+	- Download the MWSE Version Main File. Install normally
 1. [Diseases Restored](https://www.nexusmods.com/morrowind/mods/45228?tab=files)
 1. [FMI - Caius' Big Package](https://www.nexusmods.com/morrowind/mods/47580?tab=files)
 	- ESP requires cleaning

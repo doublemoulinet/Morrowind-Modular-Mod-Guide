@@ -56,8 +56,10 @@
 ## Guilds
 1. [Balmora Guilds Expanded](https://www.nexusmods.com/morrowind/mods/46859?tab=files)
 1. [Caldera Mages Guild Expanded](https://www.nexusmods.com/morrowind/mods/45750?tab=files)
-1. [Vivec Mages Guild Expanded](https://www.nexusmods.com/morrowind/mods/44935?tab=files)
-1. [Wolverine Hall Interior Expansion](https://www.nexusmods.com/morrowind/mods/44965?tab=files)
+1. [Vivec Mages Guild Expansion - Fixed](https://www.nexusmods.com/morrowind/mods/47700?tab=files)
+	- Download only Vivec Mages Guild Expansion - Fixed. Install normally
+1. [Wolverine Hall Interior Expansion - Fixed](https://www.nexusmods.com/morrowind/mods/47700?tab=files)
+	- Download only Wolverine Hall Interior Expansion - Fixed. Install normally
 
 ## Dungeons
 1. [Andrano Tomb Remastered](https://www.nexusmods.com/morrowind/mods/44672?tab=files)
