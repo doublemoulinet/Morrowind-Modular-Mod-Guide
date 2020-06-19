@@ -78,8 +78,6 @@
 1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [The Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/46137?tab=files)
-	- Download my [personal edit of the ESP](https://mega.nz/folder/W4o1DKKD#olqWpI0C1dPJEqKBqqG4QQ) and install as a separate mod after the main archive
-		- This edited ESP removes the region name edits that generate a cluster of map markers on the world map
 1. [Seven Graces Shrines Enhanced](https://www.nexusmods.com/morrowind/mods/46417?tab=files)
 	- Download and install Main File
 	- Cleaning: ESP requires cleaning

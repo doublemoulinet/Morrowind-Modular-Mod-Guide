@@ -1,4 +1,5 @@
 2020-06-17
+- added: BALANCE: Proportional Progression config file
 - added: CONSISTENCY: Creeping Blight MWSE Version
 
 2020-06-15

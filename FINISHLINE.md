@@ -89,7 +89,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Add source mod author… = No
 	- Open first URL… = No
 - Accidental Theft Protection
-	- Blacklist: select the "Books" filter and click "filter all" in the right pane (this will allow you to read owned books without toggling sneak first).
+	- Blacklist: select the "Books" filter and click "filter all" in the right pane (this will allow you to read owned books without toggling sneak first)
 - Book Pickup
 	- On by default? = No (use shift + e to pickup books without reading them)
 - Clock Block
