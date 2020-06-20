@@ -158,7 +158,7 @@ The official Bethesda The Elder Scrolls Construction Set, patched and fixed to w
 1. Unpack the files to the Morrowind root directory (Morrowind\Tes Constructoin Set.exe)
 
 ## MWedit
-An experimental alternative to the Construction Set. Unlike the CS, you can use MWedit to create merged plugins of certain mods (item/weapon replacers, for example) in order to reduce plugin count. This is optional.
+An experimental alternative to the Construction Set. You can easily use MWedit to create merged plugins of certain mods (item/weapon replacers, for example) in order to reduce plugin count. This is optional.
 1. Download [MWedit](http://wiki.theassimilationlab.com/mmw/MWEdit)
 1. Extract the folder to the Morrowind root directory (Morrowind\MWedit\Mwedit.exe)
 

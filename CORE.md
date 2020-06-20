@@ -9,7 +9,7 @@ The following are all you need to play the game on modern systems. This section 
 		- 01 Core - ESM version
 		- 02 Patch - Patch for Purists 4.0
 		- 11 Addon - Fort Frostmoth Repaired
-	- NB: Don't install Anthology Solstheim if using HoTV Solstheim Tomb of the Snow Prince, included in the Optional Content section at the end of this guide (STOTSP already includes the Anthology fix)
+	- NB: Don't enable Anthology Solstheim if using HoTV Solstheim Tomb of the Snow Prince, included in the Optional Content section at the end of this guide (STOTSP already includes the Anthology fix)
 1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?tab=files)
 1. [No More Stage Diving](https://www.nexusmods.com/morrowind/mods/47738?tab=files)
 1. [Projectile Enchant Capacity](https://www.nexusmods.com/morrowind/mods/46685?tab=files)
@@ -19,18 +19,11 @@ The following are all you need to play the game on modern systems. This section 
 1. [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269?tab=files)
 
 ## MWSE Fixes
+The following (and many more mods you will install as part of this guide) are available on GitHub in a single archive, courtesy of MWSE guru and engine-dehardcoding wizard NullCascade. Clone/download [NullCascade's Morrowind Mods](https://github.com/NullCascade/morrowind-mods) here and install in the following order:
 1. [Easy Escort](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Easy Escort and install
 1. [Expeditious Exit](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Expeditious Exit and install
 1. [Memory Monitor](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Memory Monitor and install
 1. [Sophisticated Save System](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Sophisticated Save System and install
 
 ## Mesh Fixes
 1. [Mesh Fix](https://www.nexusmods.com/morrowind/mods/42134?tab=files)
@@ -53,7 +46,7 @@ The following are all you need to play the game on modern systems. This section 
 
 ## User Interface – Core
 1. [Better Daedric Font](https://www.nexusmods.com/morrowind/mods/44540?tab=files)
-	- NB before you download and install this mod: if you uninstall this mod after enabling it you will crash to desktop because the default .fnt files will have been overwritten and then uninstalled by Mash, leaving no .fnt files at all. This mod does not by default provide a backup of the vanilla .fnt files, so you _should_ make a backup of the following:
+	- NB before you download and install this mod: you _should_ make a backup of the following:
 		- daedric_font.fnt
 		- daedric_font_obw.tex
 	- Create a "backup" folder in the Fonts folder and  copy-paste these two files there before you install Better Daedric Fonts

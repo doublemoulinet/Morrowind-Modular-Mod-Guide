@@ -51,9 +51,15 @@
 	- Enable the following BAIN options:
 		- 02a Vanilla Textures 2x-4x Texture Size
 1. [SmoOgrim](https://www.nexusmods.com/morrowind/mods/47829?tab=files)
+1. [Sotha Sil is a Dunmer](https://www.nexusmods.com/morrowind/mods/47839?tab=files)
+	- Archive is incorrectly packed. Extract and set up as a BAIN with the following options:
+		- 00 Vanilla
+		- 01 HD
+	- HD texture is based off Remiros' Intelligent Textures 2.0. Enable either option.
 1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
 	- Enable one of the three options (I prefer "faint")
 1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?tab=files)
+1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?tab=files)
 1. [Vivec Palace Water Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
 	- Enable the following BAIN options 
 		- 00 Core 
@@ -86,7 +92,7 @@
 		- 03 Weapon Sheathing Patch
 
 ## Vanilla Item Replacers
-Many unique items are assigned generic models in the game. These mods make many of the uniques... unique. These ESPs can be safely merged after installation, though it is not necessary. 
+Many unique items are assigned generic models in the game. These mods make some of the uniques... unique. These ESPs can be safely merged after installation, though it is not necessary. 
 1. [Fang-like Fang of Haynekhtnamet](https://www.nexusmods.com/morrowind/mods/47505?tab=files)
 1. [Unique Dagoth Dagger](https://www.nexusmods.com/morrowind/mods/46363?tab=files)
 1. [Unique Dreugh Cuirass](https://www.nexusmods.com/morrowind/mods/46508?tab=files)
@@ -100,6 +106,8 @@ Many unique items are assigned generic models in the game. These mods make many 
 	- Download Main File "Unique Weapon - Mephala's Teacher"
 
 ## Replacers
+1. [FMI - Caius' Big Package](https://www.nexusmods.com/morrowind/mods/47580?tab=files)
+	- ESP requires cleaning
 1. [Hopesfire Glow](https://www.nexusmods.com/morrowind/mods/45855?tab=files)
 	- Enable only the "Hopesfire Torch (+brighter trueflame).esp
 1. [Keg Drip](https://www.nexusmods.com/morrowind/mods/47903?tab=files)
@@ -109,6 +117,8 @@ Many unique items are assigned generic models in the game. These mods make many 
 1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?tab=files)
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?tab=files)
 	- Activate "00 Core" and "01 Vvardenfell only"
+1. [Nordic Chest Replacer](https://www.nexusmods.com/morrowind/mods/45383?tab=files)
+	- ESP requires cleaning
 1. [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339?tab=files)
 	- Install normally and enable only one ESP: "Old_dwemer_books_Better_typography.esp"
 1. [Waterfall Tweaks](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
