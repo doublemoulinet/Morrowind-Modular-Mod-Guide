@@ -69,6 +69,6 @@ Optional, but recommended!
 1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?tab=files)
 1. [Skill-based Trap Detection](https://www.nexusmods.com/morrowind/mods/47120?tab=files)
 
-	
+
 **NEXT SECTION**:
 [**Content**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONTENT.md)

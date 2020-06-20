@@ -11,23 +11,30 @@
 
 ## Core Meshes
 1. [Ashmire Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
-	- Download "Ashmire Replacer," "Bitter Coast Scum Replacer," "Luminous VFX Atronachs," and "Vivec Water Replacer." Install separately as directed in this section.
+	- Download "Ashmire Replacer," "Bitter Coast Scum Replacer," and "Vivec Water Replacer." Install separately as directed in this section.
 	- Install "Ashmire Replacer" and enable ONLY the following BAIN option:
 		- 01 - Still Mire
+1. [Atlased Silt Strider](https://www.nexusmods.com/morrowind/mods/46806?tab=files)
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?tab=files)
 1. [Bitter Coast Scum Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core 
 		- 03 Standalone - Lougian's Meshes Fixed
+1. [Correct UV Mudcrabs](https://www.nexusmods.com/morrowind/mods/42130?tab=files)
+	-Enable only the “00 - Regular” BAIN option
 1. [Detailed Brooms](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 	- Download only the "Detailed Brooms" main file
 	- Seriously
+1. [Enhanced Stone Walls](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
+	-Download the “Enhanced Stone Walls” file
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?tab=files)
 	- Download both main files and the update file
 	- OPTIONAL: the textures in Intelligent Textures are superior but will be overwritten by Facelift. Recommend downloading Facelift and splitting into a BAIN structure:
 		- 00 Meshes (the \meshes folder from the main file and update)
 		- 01 Textures (the \textures folder from the main file and update)
 		- 02 Tamriel Rebuilt (the \textures folder from the TR optional file)
+1. [Furn_overhang_18__smoooooth](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
+	- Download the main file "furn_overhang_18_smooooooth" and install normally
 1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core
@@ -39,6 +46,10 @@
 	- Cleaning: Rigging Morrowind chuzei_helm_no_neck.esp requires cleaning
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?tab=files)
 	- Does what it says. No, this mod is not optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla texutres from Intelligent Textures
+1. [Skeletons Atlased](https://www.nexusmods.com/morrowind/mods/46012?tab=files)
+	- Download only the optional file “Skeletons Atlased”
+	- Enable the following BAIN options:
+		- 02a Vanilla Textures 2x-4x Texture Size
 1. [SmoOgrim](https://www.nexusmods.com/morrowind/mods/47829?tab=files)
 1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
 	- Enable one of the three options (I prefer "faint")
@@ -49,7 +60,6 @@
 		- 01 Original Color
 
 ## Equipment Meshes
-1. [Fang-like Fang of Haynekhtnamet](https://www.nexusmods.com/morrowind/mods/47505?tab=files)
 1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?tab=files)
 	- Download and install the Optional File "Improved Nordic Iron Helm 1.0-alternate"
 1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
@@ -75,6 +85,20 @@
 		- 00 Data Files
 		- 03 Weapon Sheathing Patch
 
+## Vanilla Item Replacers
+Many unique items are assigned generic models in the game. These mods make many of the uniques... unique. These ESPs can be safely merged after installation, though it is not necessary. 
+1. [Fang-like Fang of Haynekhtnamet](https://www.nexusmods.com/morrowind/mods/47505?tab=files)
+1. [Unique Dagoth Dagger](https://www.nexusmods.com/morrowind/mods/46363?tab=files)
+1. [Unique Dreugh Cuirass](https://www.nexusmods.com/morrowind/mods/46508?tab=files)
+1. [Unique Gothren’s Cephalopod Helm](https://www.nexusmods.com/morrowind/mods/46534?tab=files)
+1. [Unique Racerbeak](https://www.nexusmods.com/morrowind/mods/46501?tab=files)
+1. [Unique Rusty Dagger](https://www.nexusmods.com/morrowind/mods/47616?tab=files)
+1. [Unique Rammekald](https://www.nexusmods.com/morrowind/mods/46763?tab=files)
+	- Enable both 00 Core and 01 Better Stats
+1. [Unique Snowy Crown](https://www.nexusmods.com/morrowind/mods/46782?tab=files)
+1. [Unique Weapon – Mephala’s Teacher](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
+	- Download Main File "Unique Weapon - Mephala's Teacher"
+
 ## Replacers
 1. [Hopesfire Glow](https://www.nexusmods.com/morrowind/mods/45855?tab=files)
 	- Enable only the "Hopesfire Torch (+brighter trueflame).esp
@@ -88,6 +112,7 @@
 1. [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339?tab=files)
 	- Install normally and enable only one ESP: "Old_dwemer_books_Better_typography.esp"
 1. [Waterfall Tweaks](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
+
 
 **NEXT SECTION**:
 [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md)

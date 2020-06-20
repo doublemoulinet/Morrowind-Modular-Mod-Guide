@@ -1,3 +1,20 @@
+2020-06-20
+- moved: Cheat Menu from CORE to EXPANDED VANILLA
+- moved: Atlased Silt Strider from CORE to VISUALS
+- moved: Correct UV Mudcrabs from CORE to VISUALS
+- moved: Creature VFX Restoration from CORE to EXPANDED VANILLA
+- moved: Melchior's Magnificent Manuscripts from CORE to EXPANDED VANILLA
+- moved: Shut the Fuck Up Cliffracrs from CORE to EXPANDED VANILLA
+- moved: Enhanced Stone Walls from CORE to VISUALS
+- moved: Skeletons Atlased from CORE to VISUALS
+- moved: Easy Escort from EXPANDED VANILLA to CORE
+- moved: MWSEAbotlib from EXPANDED VANILLA to BALANCE
+- moved: Unique Item Replacers subsection from CONTENT to VISUALS
+- removed: EXPANDED VANILLA: Matching Manuscripts (mod not finished)
+- removed: VISUALS: Unique Jewelry Redone
+- removed: CONSISTENCY: Adamantium Weapons Ignore Normal Weapons Resistance
+- removed: CONSISTENCY: Aesliip's Ring - Maximum Magicka Fortified
+
 2020-06-17
 - added: BALANCE: Proportional Progression config file
 - added: CONSISTENCY: Creeping Blight MWSE Version

@@ -1,5 +1,5 @@
 # Optional Early Loaders
-These optional mods should not be used on your first playthrough. The **Official Plugins** are a real grab bag--some are great, others are trivial, some are best forgotten. The cleaned and fixed versions presented here are the best way to incorporate them into your game, but are not necessary for an enjoyable Morrowind experience. 
+These optional mods should not be used on your first playthrough. The **Official Plugins** are a real grab bag--some are mediocre, others are trivial, most are best forgotten. The cleaned and fixed versions presented here are the best way to incorporate them into your game, but are not necessary (or even recommended) for an enjoyable Morrowind experience. 
 
 The landmass mods--Tamriel Rebuilt and its sister projects--are highly recommended on subsequent playthroughs. These are arguably the most impressive modding projects on the web. Tamriel Rebuilt is a decades-long project to recreate the Morrowind mainland in TES3. The "Old Ebonheart" release is one of the best quest mods available and I recommend a TR-centric playthrough to play the different questlines.
 
@@ -21,6 +21,7 @@ Solstheim Tomb of the Snow Prince overhauls the Bloodmoon expansion to bring the
 	- Cleaning: TR_Preview.esp requires cleaning
 1. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921?tab=files)
 1. [HOTV Solstheim Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
+	- STOTSP incorporates Anthology Solstheim's worldspace edits. Be sure to disable "Anthology Solstheim" in the CORE section
 	- Enable the following BAIN options:
 		- 00 Core
 		- 010 Solstheim - Tomb of the Snow Prince
@@ -29,6 +30,7 @@ Solstheim Tomb of the Snow Prince overhauls the Bloodmoon expansion to bring the
 1. [Rather Nice Factor Estate](https://www.nexusmods.com/morrowind/mods/47933?tab=files)
 
 Remember to drag this Optional Early Loaders section to the top of your Install order.
+
 
 **NEXT SECTION**:
 [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md)

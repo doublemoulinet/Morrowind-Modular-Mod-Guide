@@ -85,20 +85,6 @@
 1. [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661?tab=files)
 1. [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691?tab=files)
 
-## Vanilla Item Replacers
-Many unique items are assigned generic models in the game. These mods make many of the uniques... unique.
-1. [Unique Jewelry Redone](https://www.nexusmods.com/morrowind/mods/46151?tab=files)
-1. [Unique Dagoth Dagger](https://www.nexusmods.com/morrowind/mods/46363?tab=files)
-1. [Unique Dreugh Cuirass](https://www.nexusmods.com/morrowind/mods/46508?tab=files)
-1. [Unique Gothren’s Cephalopod Helm](https://www.nexusmods.com/morrowind/mods/46534?tab=files)
-1. [Unique Racerbeak](https://www.nexusmods.com/morrowind/mods/46501?tab=files)
-1. [Unique Rusty Dagger](https://www.nexusmods.com/morrowind/mods/47616?tab=files)
-1. [Unique Soul Drinker](https://www.nexusmods.com/morrowind/mods/47526?tab=files)
-1. [Unique Rammekald](https://www.nexusmods.com/morrowind/mods/46763?tab=files)
-1. [Unique Snowy Crown](https://www.nexusmods.com/morrowind/mods/46782?tab=files)
-1. [Unique Weapon – Mephala’s Teacher](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
-	- Download Main File "Unique Weapon - Mephala's Teacher"
-
 ## New Items
 1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?tab=files)
 1. [Hunter’s Mark – A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656?tab=files)
@@ -141,6 +127,7 @@ Many unique items are assigned generic models in the game. These mods make many 
 1. [The Sanguine Rose](https://www.nexusmods.com/morrowind/mods/46214?tab=files)
 	- Enable the following BAIN options: 00 Core, 02 MWSE ME Patch
 1. [Umbra Blademaster](https://www.nexusmods.com/morrowind/mods/43275?tab=files)
+
 
 **NEXT SECTION**:
 [**Optional Early Loaders**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md)

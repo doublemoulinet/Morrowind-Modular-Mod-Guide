@@ -64,10 +64,11 @@
 ## Levelling and Skills
 Morrowind's levelling system shows its age. Because of how it handles skill-ups and attribute modifiers, Morrowind encourages powergaming, which is uNiMmERsiVE and BAD. There are several recent lua-based levelling overhauls that make skill increases/levelling much less intrusive.
 
-Choose and **install only ONE** of the following levelling mods. I recommend playing with Improved Vanilla Levelling first (it most closely resembles the original game's system), and trying MULE on a subsequent playthrough:
+Choose and **install only ONE** of the following levelling mods. I recommend playing with Improved Vanilla Levelling first (it most closely resembles the original game's system), and trying MULE or CCCP on a subsequent playthrough:
 
 1. [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065?tab=files)
-1. [Mort's Ultimate Levelling Experience - MULE](https://www.nexusmods.com/morrowind/mods/47452?tab=files)
+1. [Mort's Ultimate Leveling Experience - MULE](https://www.nexusmods.com/morrowind/mods/47452?tab=files)
+1. [Class-Conscious Character Progression](https://www.nexusmods.com/morrowind/mods/48110?tab=files)
 
 Install the rest of this section:
 1. [Beast Race Abilities Toggleable](https://www.nexusmods.com/morrowind/mods/44948?tab=files)
@@ -86,6 +87,8 @@ Install the rest of this section:
 ## Economy
 1. [Harder Barter](https://www.nexusmods.com/morrowind/mods/46188?tab=files)
 1. [Smart Merchants](https://www.nexusmods.com/morrowind/mods/47787?tab=files)
+1. [MWSE AbotLib](https://www.nexusmods.com/morrowind/mods/47717?tab=files)
+
 
 **NEXT SECTION**:
 [**Consistency**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md)

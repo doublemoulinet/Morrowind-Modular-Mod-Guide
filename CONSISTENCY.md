@@ -1,8 +1,6 @@
 # Consistency
 
 ## Fixes
-1. [Adamantium Weapons Ignore Normal Weapon Resistance](https://www.nexusmods.com/morrowind/mods/45774?tab=files)
-1. [Aesliip's Ring - Fortify Maximum Magicka](https://www.nexusmods.com/morrowind/mods/45744?tab=files)
 1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?tab=files)
 	- Mod archive is incorrectly packaged. Repack:
 		- Extract the "ex_velothi_big.nif" mesh in "000 Core Files\Glow in the Dahrk\Vanilla" 
@@ -73,7 +71,6 @@
 1. [It's a Deal](https://www.nexusmods.com/morrowind/mods/47968?tab=files)
 1. [LDM - Context Matters](https://www.nexusmods.com/morrowind/mods/48273?tab=files)
 1. [Nastier Camonna Tong](https://www.nexusmods.com/morrowind/mods/22601?tab=files)
-	- Cleaning: ESP requires cleaning
 1. [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066?tab=files)
 1. [What Thieves Guild](https://www.nexusmods.com/morrowind/mods/47728?tab=files)
 	- Cleaning: ESP requires cleaning
