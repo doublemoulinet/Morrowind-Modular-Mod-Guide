@@ -23,7 +23,7 @@
 	- Download the Main File and select the Version 1 sub-package
 1. [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506?tab=files)
 	- Download and install normally
-	- Enable only the "Meteorite MInistry Temple" ESP
+	- Enable only the "Meteorite Ministry Temple" ESP
 	- Cleaning: ESP requires cleaning
 1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?tab=files)
 1. [Passage of Prayers - High Fane Corridor Overhaul](https://www.nexusmods.com/morrowind/mods/46786?tab=files)
@@ -36,6 +36,7 @@
 	- Download and install the Optional File "Fixed Version of Gnisis Minaret"
 	- Enable only the "ENG" ESP
 	- Cleaning: the ESP requires cleaning
+1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?tab=files)
 1. [Tales of Ald Velothi](https://www.nexusmods.com/morrowind/mods/47276?tab=files)
 	- Cleaning: the mod requires cleaning
 1. [Telvanni Lighthouse - Tel Branora](https://www.nexusmods.com/morrowind/mods/42664?tab=files)
@@ -55,6 +56,8 @@
 
 ## Guilds
 1. [Balmora Guilds Expanded](https://www.nexusmods.com/morrowind/mods/46859?tab=files)
+	- Don't enable the ESP
+1. [Balmora Guilds Expanded - Fixed ESP](https://www.nexusmods.com/morrowind/mods/47700?tab=files)
 1. [Caldera Mages Guild Expanded](https://www.nexusmods.com/morrowind/mods/45750?tab=files)
 1. [Vivec Mages Guild Expansion - Fixed](https://www.nexusmods.com/morrowind/mods/47700?tab=files)
 	- Download only Vivec Mages Guild Expansion - Fixed. Install normally
@@ -81,6 +84,7 @@
 1. [Seven Graces Shrines Enhanced](https://www.nexusmods.com/morrowind/mods/46417?tab=files)
 	- Download and install Main File
 	- Cleaning: ESP requires cleaning
+1. [Shrine of Azura](https://www.nexusmods.com/morrowind/mods/48278?tab=files)
 1. [Shrine of Mount Assarnibibi](https://www.nexusmods.com/morrowind/mods/46858?tab=files)
 1. [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661?tab=files)
 1. [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691?tab=files)

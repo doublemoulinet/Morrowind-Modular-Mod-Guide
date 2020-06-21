@@ -91,7 +91,7 @@
 		- 00 Data Files
 		- 03 Weapon Sheathing Patch
 
-## Vanilla Item Replacers
+## Unique Item Replacers
 Many unique items are assigned generic models in the game. These mods make some of the uniques... unique. These ESPs can be safely merged after installation, though it is not necessary. 
 1. [Fang-like Fang of Haynekhtnamet](https://www.nexusmods.com/morrowind/mods/47505?tab=files)
 1. [Unique Dagoth Dagger](https://www.nexusmods.com/morrowind/mods/46363?tab=files)

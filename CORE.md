@@ -19,7 +19,7 @@ The following are all you need to play the game on modern systems. This section 
 1. [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269?tab=files)
 
 ## MWSE Fixes
-The following (and many more mods you will install as part of this guide) are available on GitHub in a single archive, courtesy of MWSE guru and engine-dehardcoding wizard NullCascade. Clone/download [NullCascade's Morrowind Mods](https://github.com/NullCascade/morrowind-mods) here and install in the following order:
+These fixes (and many more mods you will install as part of this guide) are available on GitHub in a single archive, courtesy of MWSE guru and engine-dehardcoding wizard NullCascade. Clone/download [NullCascade's Morrowind Mods](https://github.com/NullCascade/morrowind-mods) here and install the following:
 1. [Easy Escort](https://github.com/NullCascade/morrowind-mods)
 1. [Expeditious Exit](https://github.com/NullCascade/morrowind-mods)
 1. [Memory Monitor](https://github.com/NullCascade/morrowind-mods)

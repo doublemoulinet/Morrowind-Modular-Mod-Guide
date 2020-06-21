@@ -9,8 +9,8 @@
 	- ESP requires cleaning
 1. [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897?tab=files)
 1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?tab=files)
-	- Download and extract the main file to a new folder
-	- Open the pg_gmst_config.json. Copy-paste the following GMST changes:
+	- Download and install as a project (i.e. unpack it into your mods folder)
+	- Within the project package, open the pg_gmst_config.json. Copy-paste the following GMST changes:
 			
 			"pg_gmst_hotReloadKey": 88
 			
@@ -25,7 +25,6 @@
 			"fProjectileThrownStoreChance": 80
 			
 			"fTargetSpellMaxSpeed": 120
-	- Install normally
 
 ## Anti-Cheese
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?tab=files)
@@ -42,6 +41,7 @@
 1. [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?tab=files)
 1. [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305?tab=files)	
 	- ESP requires cleaning
+1. [No Disease Labels](https://www.nexusmods.com/morrowind/mods/48295?tab=files)
 1. [Ownership Overhaul](https://www.nexusmods.com/morrowind/mods/48051?tab=files)
 	- This mod overwrites some changes to Anthology Solstheim / Solstheim Tomb of the Snow Prince (which moves the island of Solstheim farther north). You will need to delete the exterior Solstheim cell references with TESAME (or suffer floating objects in the middle of the sea)
 	- The cell edits you need to delete in TESAME are:

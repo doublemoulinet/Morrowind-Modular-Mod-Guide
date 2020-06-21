@@ -1,4 +1,6 @@
-2020-06-20
+2020-06-21
+- added: BALANCE: No Disease Labels
+- added: CONSISTENCY: Synthesis Series - Creatures and Diseases
 - moved: Cheat Menu from CORE to EXPANDED VANILLA
 - moved: Atlased Silt Strider from CORE to VISUALS
 - moved: Correct UV Mudcrabs from CORE to VISUALS
@@ -14,7 +16,7 @@
 - removed: VISUALS: Unique Jewelry Redone
 - removed: CONSISTENCY: Adamantium Weapons Ignore Normal Weapons Resistance
 - removed: CONSISTENCY: Aesliip's Ring - Maximum Magicka Fortified
-
+- removed: CONSISTENCY: Diseases Restored (replaced with Synthesis Series - Creatures and Diseases)
 2020-06-17
 - added: BALANCE: Proportional Progression config file
 - added: CONSISTENCY: Creeping Blight MWSE Version

@@ -33,18 +33,14 @@
 	- ESP requires cleaning
 1. [Creeping Blight](https://www.nexusmods.com/morrowind/mods/47904?tab=files)
 	- Download the MWSE Version Main File. Install normally
-1. [Diseases Restored](https://www.nexusmods.com/morrowind/mods/45228?tab=files)
-1. [FMI - Caius' Big Package](https://www.nexusmods.com/morrowind/mods/47580?tab=files)
-	- ESP requires cleaning
 1. [FMI - Hospitality Papers Expanded](https://www.nexusmods.com/morrowind/mods/46107?tab=files)
 1. [FMI - Service Refusal and Contraband](https://www.nexusmods.com/morrowind/mods/47456?tab=files)
-	- ESP requires cleaning
-1. [Nordic Chest Replacer](https://www.nexusmods.com/morrowind/mods/45383?tab=files)
 	- ESP requires cleaning
 1. [Outdoor Banners with Sound](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Outdoor Banners with Sound"
 1. [Services Restored](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Services Restored"
+1. [Synthesis Series - Creatures and Diseases](https://www.nexusmods.com/morrowind/mods/48279?tab=files)
 1. [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150?tab=files)
 1. [The Madstone](https://www.nexusmods.com/morrowind/mods/47653?tab=files)
 1. [The Publicans](https://www.nexusmods.com/morrowind/mods/45410?tab=files)
