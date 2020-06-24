@@ -1,10 +1,5 @@
 # EXPANDED VANILLA
 
-## Additional Mesh Fixes
-1. [Creature VFX Restoration](https://www.nexusmods.com/morrowind/mods/46194?tab=files)	
-1. [Melchior’s Magnificent Manuscript](https://www.nexusmods.com/morrowind/mods/45626?tab=files)
-1. [Shut the Fuck Up Cliffracers](https://www.nexusmods.com/morrowind/mods/46588?tab=files)
-
 ## User Interface - Expanded
 1. [Better Questlist](https://www.nexusmods.com/morrowind/mods/48272?tab=files)
 1. [Book Worm](https://www.nexusmods.com/morrowind/mods/46851?tab=files)
@@ -19,8 +14,6 @@
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select HUD Hider and install
 1. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/47962?tab=files)
-1. [Mwse Alchemy Filter](https://www.nexusmods.com/morrowind/mods/44808?tab=files)
-	- Cleaning: MWSE AlchemyFilter.esp requires cleaning
 1. [MWSE Clock Block](https://www.nexusmods.com/morrowind/mods/46292?tab=files)
 1. [Ownership Indicator](https://www.nexusmods.com/morrowind/mods/45940?tab=files)
 1. [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?tab=files)

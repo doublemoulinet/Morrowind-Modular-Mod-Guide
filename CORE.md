@@ -15,14 +15,15 @@ The following are all you need to play the game on modern systems. This section 
 1. [Projectile Enchant Capacity](https://www.nexusmods.com/morrowind/mods/46685?tab=files)
 	- Download both main files and repackage as BAIN and install as a single mod
 	- Enable only one of the ESPs (Vanilla, or, Vanilla + Tamriel Rebuilt)
-1. [Skill Increase GMST Fix](https://www.nexusmods.com/morrowind/mods/48029?tab=files)
-1. [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269?tab=files)
 
 ## MWSE Fixes
-These fixes (and many more mods you will install as part of this guide) are available on GitHub in a single archive, courtesy of MWSE guru and engine-dehardcoding wizard NullCascade. Clone/download [NullCascade's Morrowind Mods](https://github.com/NullCascade/morrowind-mods) here and install the following:
+Several of these fixes (and many more mods you will install as part of this guide) are available on GitHub in a single archive, courtesy of MWSE guru and engine-dehardcoding wizard NullCascade. Clone/download [NullCascade's Morrowind Mods](https://github.com/NullCascade/morrowind-mods) here and install the following:
 1. [Easy Escort](https://github.com/NullCascade/morrowind-mods)
 1. [Expeditious Exit](https://github.com/NullCascade/morrowind-mods)
+1. [Immersive Run Fix](https://www.nexusmods.com/morrowind/mods/45947?tab=files)
 1. [Memory Monitor](https://github.com/NullCascade/morrowind-mods)
+1. [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269?tab=files)
+1. [Skill Increase GMST Fix](https://www.nexusmods.com/morrowind/mods/48029?tab=files)
 1. [Sophisticated Save System](https://github.com/NullCascade/morrowind-mods)
 
 ## Mesh Fixes
@@ -43,6 +44,11 @@ These fixes (and many more mods you will install as part of this guide) are avai
 	- Enable only the following:
 		- 00 Core
 	- NB: you will enable the “10 Glow in the Darhk Patch” options later in the installation as a separate mod
+
+## Additional Mesh Fixes
+1. [Creature VFX Restoration](https://www.nexusmods.com/morrowind/mods/46194?tab=files)	
+1. [Melchior’s Magnificent Manuscript](https://www.nexusmods.com/morrowind/mods/45626?tab=files)
+1. [Shut the Fuck Up Cliffracers](https://www.nexusmods.com/morrowind/mods/46588?tab=files)
 
 ## User Interface – Core
 1. [Better Daedric Font](https://www.nexusmods.com/morrowind/mods/44540?tab=files)

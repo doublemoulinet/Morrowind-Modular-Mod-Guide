@@ -27,6 +27,7 @@ Solstheim Tomb of the Snow Prince overhauls the Bloodmoon expansion to bring the
 		- 010 Solstheim - Tomb of the Snow Prince
 		- 012 Armor of the Snow Prince
 	- Cleaning: Snow Prince Armor Redux.esp, and VSW_Solstheim_TD_Item_Expansion.esp require cleaning
+	- NB: STOTSP requires Tamriel_Data.esm
 1. [Rather Nice Factor Estate](https://www.nexusmods.com/morrowind/mods/47933?tab=files)
 
 Remember to drag this Optional Early Loaders section to the top of your Install order.

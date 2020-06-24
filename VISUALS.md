@@ -1,13 +1,17 @@
 # VISUALS
 
 ## Optional Replacers
+
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?tab=files)
 	- The definitive texture replacer for Morrowind. Highly recommended. No performance impact.
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?tab=files)
 	- The definitive groundcover mod. Performance-friendly as grass mods go, but will affect FPS. Recommend downloading and experimenting with grass generation on subsequent playthroughs (will probably push you below 60FPS).
 
-## Lighting
+## Optional Lighting
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?tab=files)
+1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?tab=files)
+	- Wrye Mash will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder
+1. [Weather Adjsuter presets](coming soon)
 
 ## Core Meshes
 1. [Ashmire Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
@@ -25,10 +29,12 @@
 1. [Detailed Brooms](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 	- Download only the "Detailed Brooms" main file
 	- Seriously
+1. [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219?tab=files)
+	- Enable both "00 Core" and "03 Glow Effect" options
 1. [Enhanced Stone Walls](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
 	-Download the “Enhanced Stone Walls” file
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?tab=files)
-	- Download both main files and the update file
+	- Download both main files and the update file (also grab the hotfix from Lucas9 in the comment section)
 	- OPTIONAL: the textures in Intelligent Textures are superior but will be overwritten by Facelift. Recommend downloading Facelift and splitting into a BAIN structure:
 		- 00 Meshes (the \meshes folder from the main file and update)
 		- 01 Textures (the \textures folder from the main file and update)
@@ -94,13 +100,11 @@
 ## Unique Item Replacers
 Many unique items are assigned generic models in the game. These mods make some of the uniques... unique. These ESPs can be safely merged after installation, though it is not necessary. 
 1. [Fang-like Fang of Haynekhtnamet](https://www.nexusmods.com/morrowind/mods/47505?tab=files)
-1. [Unique Dagoth Dagger](https://www.nexusmods.com/morrowind/mods/46363?tab=files)
 1. [Unique Dreugh Cuirass](https://www.nexusmods.com/morrowind/mods/46508?tab=files)
-1. [Unique Gothren’s Cephalopod Helm](https://www.nexusmods.com/morrowind/mods/46534?tab=files)
 1. [Unique Racerbeak](https://www.nexusmods.com/morrowind/mods/46501?tab=files)
-1. [Unique Rusty Dagger](https://www.nexusmods.com/morrowind/mods/47616?tab=files)
 1. [Unique Rammekald](https://www.nexusmods.com/morrowind/mods/46763?tab=files)
 	- Enable both 00 Core and 01 Better Stats
+1. [Unique Rusty Dagger](https://www.nexusmods.com/morrowind/mods/47616?tab=files)
 1. [Unique Snowy Crown](https://www.nexusmods.com/morrowind/mods/46782?tab=files)
 1. [Unique Weapon – Mephala’s Teacher](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 	- Download Main File "Unique Weapon - Mephala's Teacher"

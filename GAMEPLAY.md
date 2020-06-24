@@ -53,22 +53,21 @@
 1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?tab=files)
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?tab=files)
 1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?tab=files)
-1. [Skill-based Trap Detection](https://www.nexusmods.com/morrowind/mods/47120?tab=files)
 
 ## Optional New Mechanics
-These mods add either new game mechanics or modify existing mechanics beyond the scope of fixing vanilla oversights. These tend to make the game more hardcore (ex., Immersive Mining, Realistic Repair). Optional, but recommended!
-1. [Defensive Stance](https://www.nexusmods.com/morrowind/mods/46845?tab=files)
+These mods add either new game mechanics or modify existing mechanics beyond the scope of fixing vanilla oversights. These tend to make the game more hardcore (ex., Immersive Mining, Realistic Repair). Optional, but strongly recommended!
 1. [Give a Gift](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Give a Gift and install
 1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?tab=files)
 	- This might just be the greatest Morrowind mod of all time. For real.
-1. [Immersive Mining](https://www.nexusmods.com/morrowind/mods/46041?tab=files)
+1. ~~[Immersive Mining](https://www.nexusmods.com/morrowind/mods/46041?tab=files)~~
 1. [Merlord’s Character Background](https://www.nexusmods.com/morrowind/mods/46795?tab=files)
 1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?tab=files)
 1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?tab=files)
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
-1. [Realistic Repair – Add-on](https://mega.nz/folder/S1gC3ShI#WkcS9xC00nb27ZZZAJ0ZKQ)
+1. [Realistic Repair – Add-on - Fixed](https://mega.nz/folder/S1gC3ShI#WkcS9xC00nb27ZZZAJ0ZKQ)
+	- Be sure to download the Fixed version
 
 **NEXT SECTION**:
 [**Content**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONTENT.md)

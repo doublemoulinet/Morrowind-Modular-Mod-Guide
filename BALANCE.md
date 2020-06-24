@@ -33,7 +33,6 @@
 1. [Controlled Consumption](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select Controlled Consumption and install
-1. [Immersive Run Fix](https://www.nexusmods.com/morrowind/mods/45947?tab=files)
 1. [Limited Intervention](https://www.nexusmods.com/morrowind/mods/46687?tab=files)	
 1. [Limited Leaping](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods

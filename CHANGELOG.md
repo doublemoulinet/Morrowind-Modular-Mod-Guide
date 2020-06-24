@@ -1,3 +1,11 @@
+2020-06-23
+- added: VISUALS: Dunmer Lanterns Replacer
+- added: VISUALS: Weather Adjust
+- removed: EXPANDED VANILLA: MWSE Alchemy Filter
+- removed: VISUALS: Unique Gothren's Cephalopod Helm
+- removed: GAMEPLAY: Defensive Stance
+- removed: GAMEPLAY: Skill-based trap detection
+
 2020-06-21
 - added: BALANCE: No Disease Labels
 - added: CONSISTENCY: Synthesis Series - Creatures and Diseases
@@ -13,6 +21,7 @@
 - moved: MWSEAbotlib from EXPANDED VANILLA to BALANCE
 - moved: Unique Item Replacers subsection from CONTENT to VISUALS
 - removed: EXPANDED VANILLA: Matching Manuscripts (mod not finished)
+- removed: VISUALS: Unique Dagoth Dagger
 - removed: VISUALS: Unique Jewelry Redone
 - removed: CONSISTENCY: Adamantium Weapons Ignore Normal Weapons Resistance
 - removed: CONSISTENCY: Aesliip's Ring - Maximum Magicka Fortified

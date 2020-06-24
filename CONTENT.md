@@ -1,6 +1,6 @@
 # Content 
 
-## Cities
+## Expanded Locations
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/44020?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core
@@ -15,12 +15,20 @@
 	- Enable only the following BAIN option:
 		- 04 - Better Aldruhn-under Skar
 	- Enable only the RR_Aldruhn_Under_Skar_ENG.esp
+	- Cleaning: ESP requires cleaning
 1. [Brevur of Balmora](https://www.nexusmods.com/morrowind/mods/47557?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Caldera Mine Expanded](https://www.nexusmods.com/morrowind/mods/45194?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Concept Art Palace](https://www.nexusmods.com/morrowind/mods/48136?tab=files)
 	- Download the Main File and select the Version 1 sub-package
+1. [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?tab=files)
+	- Cleaning: ESP requires cleaning
+1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?tab=files)
+	- Cleaning: ESP requires cleaning
+1. [The Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/46137?tab=files)
+1. [RR Holamayan](https://www.nexusmods.com/morrowind/mods/43524?tab=files)
+1. [RR Holayaman - Vanilla Statue](https://mega.nz/file/z1ZyzASS#Sxg_woC1TjGImgJP-CU6WVgTvaWn9q1tBcPHxa9F4u8)
 1. [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506?tab=files)
 	- Download and install normally
 	- Enable only the "Meteorite Ministry Temple" ESP
@@ -30,13 +38,19 @@
 	- Enable the "Full" ESP
 	- NB: the objects instances and animations on the prayer wheels will affect FPS on weaker systems. Disable/uninstall if the FPS drops are too steep.
 1. [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646?tab=files)
+1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?tab=files)
+1. [Seven Graces Shrines Enhanced](https://www.nexusmods.com/morrowind/mods/46417?tab=files)
+	- Download and install Main File
+	- Cleaning: ESP requires cleaning
+1. [Shrine of Azura](https://www.nexusmods.com/morrowind/mods/48278?tab=files)
+1. [Shrine of Mount Assarnibibi](https://www.nexusmods.com/morrowind/mods/46858?tab=files)
+1. [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661?tab=files)
 1. [Stav's Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/43237?tab=files)
 	- Disable the ESP. The meshes will be used in the following mod
 1. [Fixed Version of Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/46184?tab=files)
 	- Download and install the Optional File "Fixed Version of Gnisis Minaret"
 	- Enable only the "ENG" ESP
 	- Cleaning: the ESP requires cleaning
-1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?tab=files)
 1. [Tales of Ald Velothi](https://www.nexusmods.com/morrowind/mods/47276?tab=files)
 	- Cleaning: the mod requires cleaning
 1. [Telvanni Lighthouse - Tel Branora](https://www.nexusmods.com/morrowind/mods/42664?tab=files)
@@ -51,6 +65,7 @@
 		- 02 - Main ESP - English
 	- Cleaning: the ESP requires cleaning
 1. [Tower of Vos](https://www.nexusmods.com/morrowind/mods/43527?tab=files)
+1. [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691?tab=files)
 1. [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614?tab=files)
 	- Cleaning: ESP requires cleaning
 
@@ -74,20 +89,6 @@
 1. [Samarys Ancestral Tomb Expanded](https://www.nexusmods.com/morrowind/mods/45612?tab=files)
 1. [Severa Magia DB Fix](https://mega.nz/folder/S1gC3ShI#WkcS9xC00nb27ZZZAJ0ZKQ)
 	- Download "Severa Magia DB Fix" from the link above
-
-## Wilderness
-1. [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?tab=files)
-	- Cleaning: ESP requires cleaning
-1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?tab=files)
-	- Cleaning: ESP requires cleaning
-1. [The Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/46137?tab=files)
-1. [Seven Graces Shrines Enhanced](https://www.nexusmods.com/morrowind/mods/46417?tab=files)
-	- Download and install Main File
-	- Cleaning: ESP requires cleaning
-1. [Shrine of Azura](https://www.nexusmods.com/morrowind/mods/48278?tab=files)
-1. [Shrine of Mount Assarnibibi](https://www.nexusmods.com/morrowind/mods/46858?tab=files)
-1. [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661?tab=files)
-1. [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691?tab=files)
 
 ## New Items
 1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?tab=files)

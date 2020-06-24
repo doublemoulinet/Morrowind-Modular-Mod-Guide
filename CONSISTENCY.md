@@ -1,38 +1,31 @@
 # Consistency
 
-## Fixes
+## Restored and Expanded Content
 1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?tab=files)
 	- Mod archive is incorrectly packaged. Repack:
-		- Extract the "ex_velothi_big.nif" mesh in "000 Core Files\Glow in the Dahrk\Vanilla" 
-		- Place in a new folder with the following strucure: "00 - Core Files\meshes\x\ex_velothi_big.nif"
+		- Extract the "ex_velothi_big.nif" in "000 Core Files\Glow in the Dahrk\Vanilla" 
+		- Place in a new folder with the following strucure: "00 - Vanilla (GitD)\meshes\x\ex_velothi_big.nif"
 		- Extract the ESP in "001 ESP - Bigger Velothi Temples"
-		- Place the ESP in a new folder with the following structure: "01 - Vanilla (GitD)\Bigger Velothi Temples.esp"
-		- Select the two new folders ("00 - Core Files" and "01 - Vanilla (GitD)" and compress as a new archive
-		- Install normally
-	- Enable the following BAIN options:
-		- 00 - Core Files
-		- 01 - Vanilla (GitD)
+		- Place the ESP in your new folder
+		- Zip as a new mod archive and install normally
 	- Cleaning: ESP requires cleaning
 1. [Blighted Animals](https://www.nexusmods.com/morrowind/mods/42245?tab=files)
 	- Download and install the "Blighted Animals with Vanilla Textures" main file (the HD texture versions clash with the rest of the game)
 	- Download the optional file "Nix-Hound knockout animation fix" and install as a separate mod directly after "Blighted Animals"
-1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?tab=files)
-	- ESP requires cleaning
-1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?tab=files)
-1. [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423?tab=files)
-	- DON'T clean ESP
-1. [Corprus Fix](https://www.nexusmods.com/morrowind/mods/45544?tab=files)
-	- ESP requires cleaning
-1. [Yet Another Guard Diversity](https://www.nexusmods.com/morrowind/mods/45894?tab=files)
-	- Download and install the Main File "Yet Another Guard Diversity - Regular"
-
-## Restored and Expanded Content
+1. [Blighted Animals - IT Retexture](https://mega.nz/file/7pAGhSpK#4R1x2NTQ18iTWLiRTJRTM7TAYdIZ4_QNHQj1z_pQKQ4)
 1. [Blight is Coming](https://www.nexusmods.com/morrowind/mods/47649?tab=files)
 1. [Blight Storms Restored](https://www.nexusmods.com/morrowind/mods/45558?tab=files)
 1. [Bloat Caves](https://www.nexusmods.com/morrowind/mods/43141?tab=files)
 	- ESP requires cleaning
+1. [Corprus Fix](https://www.nexusmods.com/morrowind/mods/45544?tab=files)
+	- ESP requires cleaning
 1. [Creeping Blight](https://www.nexusmods.com/morrowind/mods/47904?tab=files)
 	- Download the MWSE Version Main File. Install normally
+1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?tab=files)
+	- ESP requires cleaning
+1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?tab=files)
+1. [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423?tab=files)
+	- DON'T clean ESP	
 1. [FMI - Hospitality Papers Expanded](https://www.nexusmods.com/morrowind/mods/46107?tab=files)
 1. [FMI - Service Refusal and Contraband](https://www.nexusmods.com/morrowind/mods/47456?tab=files)
 	- ESP requires cleaning
@@ -49,6 +42,8 @@
 	- ESP requires cleaning
 1. [True Scourge](https://www.nexusmods.com/morrowind/mods/43294?tab=files)
 	- Install and enable only "TrueScourge.esp"
+1. [Yet Another Guard Diversity](https://www.nexusmods.com/morrowind/mods/45894?tab=files)
+	- Download and install the Main File "Yet Another Guard Diversity - Regular"
 
 ## Crime 
 1. [Illegal Summoning](https://www.nexusmods.com/morrowind/mods/47105?tab=files)
