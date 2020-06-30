@@ -106,6 +106,10 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- You can toggle off Immersive Mining's gameplay changes by undoing these blacklist changes~~
 - Illegal Summoning
 	- NPC Crime Trigger Distance = 2000
+- Let There Be Darkness
+	- In the General and Cell Settings tab, set Cell Lighting Value Overrides to TLAD
+	- In the Light Settings tab, set the Light radius scaling slider to 120% 
+	- In the same tab, disable lights without a mesh to On
 - Miscast Enhanced
 	- Ensure "Debug Mode" is disabled
 - Multi Mark & Harder Recall
@@ -120,7 +124,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - Realistic Movement Speeds
 	- Strafing Movement Percentage Multiplier = 100
 - Security Enhanced
-	- Disable "auto equip probe on detect trap" (for compatibility with Skill-based trap detection)
+	- Change the equip/cycle lockpick hotkey to "O" ("L" is used by Let There Be Darkness)
 - Sophisticated Save System
 	- set up autosaves as you prefer, but recommend disabling “Create autosaves after changing cells”
 - UI Expansion

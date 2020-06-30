@@ -29,8 +29,15 @@
 1. [FMI - Hospitality Papers Expanded](https://www.nexusmods.com/morrowind/mods/46107?tab=files)
 1. [FMI - Service Refusal and Contraband](https://www.nexusmods.com/morrowind/mods/47456?tab=files)
 	- ESP requires cleaning
+1. [Illegal Summoning](https://www.nexusmods.com/morrowind/mods/47105?tab=files)
+1. [MAB0’s Foundations](https://www.nexusmods.com/morrowind/mods/47244?tab=files)
+1. [MAB0’s Manipulate](https://www.nexusmods.com/morrowind/mods/47222?tab=files)
+1. [Open Mournhold](https://www.nexusmods.com/morrowind/mods/44981?tab=files)
 1. [Outdoor Banners with Sound](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Outdoor Banners with Sound"
+1. [Religions Elaborated](https://www.nexusmods.com/morrowind/mods/47843?tab=files)
+	- Download and install the optional "No Quest Changes" version in the Optional Files
+	- Cleaning: ESP requires cleaning
 1. [Services Restored](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Services Restored"
 1. [Synthesis Series - Creatures and Diseases](https://www.nexusmods.com/morrowind/mods/48279?tab=files)
@@ -45,13 +52,11 @@
 1. [Yet Another Guard Diversity](https://www.nexusmods.com/morrowind/mods/45894?tab=files)
 	- Download and install the Main File "Yet Another Guard Diversity - Regular"
 
-## Crime 
-1. [Illegal Summoning](https://www.nexusmods.com/morrowind/mods/47105?tab=files)
-1. [MAB0’s Foundations](https://www.nexusmods.com/morrowind/mods/47244?tab=files)
-1. [MAB0’s Manipulate](https://www.nexusmods.com/morrowind/mods/47222?tab=files)
-
 ## Dialogue
 1. [Cover Yourself](https://www.nexusmods.com/morrowind/mods/48016?tab=files)
+1. [FMI - Nice to Meet You](https://www.nexusmods.com/morrowind/mods/47329?tab=files)
+	- Cleaning: ESP requires cleaning
+1. [FMI - NotAllDunmer](https://www.nexusmods.com/morrowind/mods/47569?tab=files)
 1. [Greetings for No Lore](https://www.nexusmods.com/morrowind/mods/46063?tab=files)
 1. [It's a Deal](https://www.nexusmods.com/morrowind/mods/47968?tab=files)
 1. [LDM - Context Matters](https://www.nexusmods.com/morrowind/mods/48273?tab=files)

@@ -62,6 +62,7 @@ Several of these fixes (and many more mods you will install as part of this guid
 1. [Continue](https://www.nexusmods.com/morrowind/mods/45952?tab=files)
 1. [Fixed Journal Next Button](https://www.nexusmods.com/morrowind/mods/48097?tab=files)
 1. [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/45952?tab=files)
+1. [Right Click Menu Exit](https://www.nexusmods.com/morrowind/mods/48458?tab=files)
 
 
 **NEXT SECTION**:

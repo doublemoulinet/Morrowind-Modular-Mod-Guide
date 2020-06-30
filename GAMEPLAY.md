@@ -5,12 +5,6 @@
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?tab=files)
 	- Cleaning: ESP requires cleaning
 
-## Character Generation
-1. [Class Conscious](https://www.nexusmods.com/morrowind/mods/46902?tab=files)
-1. [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?tab=files)
-	- Enable only Personal Effects_MWSE.esp version
-	- Cleaning: the ESP requires cleaning
-	
 ## Expanded Magic
 1. [Magicka Expanded](https://www.nexusmods.com/morrowind/mods/47111?tab=files)
 	- Enable the "00 - Framework" and whichever packs you like. I prefer the following BAIN options:
@@ -22,6 +16,9 @@
 	- Enable the following BAIN options
 		- 00 - Core
 		- 01 - Cast VFX
+1. [Enhanced Detection Lite](https://www.nexusmods.com/morrowind/mods/48471?tab=files)
+	- Optional: an add-on for Enhanced Detection that strips down to just the visual effect for vanilla detection spells
+	- Requires Enhanced Detection
 1. [Enhanced Invisibility](https://www.nexusmods.com/morrowind/mods/47565?tab=files)
 1. [Enhanced Light](https://www.nexusmods.com/morrowind/mods/47672?tab=files)
 	- Enable the following BAIN options:
@@ -55,7 +52,7 @@
 1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?tab=files)
 
 ## Optional New Mechanics
-These mods add either new game mechanics or modify existing mechanics beyond the scope of fixing vanilla oversights. These tend to make the game more hardcore (ex., Immersive Mining, Realistic Repair). Optional, but strongly recommended!
+These mods add new game mechanics. These tend to make the game more hardcore (ex., Immersive Mining, Realistic Repair). Optional, but strongly recommended!
 1. [Give a Gift](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Give a Gift and install
@@ -63,7 +60,9 @@ These mods add either new game mechanics or modify existing mechanics beyond the
 	- This might just be the greatest Morrowind mod of all time. For real.
 1. ~~[Immersive Mining](https://www.nexusmods.com/morrowind/mods/46041?tab=files)~~
 1. [Merlord’s Character Background](https://www.nexusmods.com/morrowind/mods/46795?tab=files)
-1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?tab=files)
+1. [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?tab=files)
+	- Enable only Personal Effects_MWSE.esp version
+	- Cleaning: the ESP requires cleaning
 1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?tab=files)
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
 1. [Realistic Repair – Add-on - Fixed](https://mega.nz/folder/S1gC3ShI#WkcS9xC00nb27ZZZAJ0ZKQ)

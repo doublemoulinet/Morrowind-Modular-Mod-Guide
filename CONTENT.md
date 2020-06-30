@@ -49,8 +49,7 @@
 	- Disable the ESP. The meshes will be used in the following mod
 1. [Fixed Version of Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/46184?tab=files)
 	- Download and install the Optional File "Fixed Version of Gnisis Minaret"
-	- Enable only the "ENG" ESP
-	- Cleaning: the ESP requires cleaning
+	- Enable only the English ESP
 1. [Tales of Ald Velothi](https://www.nexusmods.com/morrowind/mods/47276?tab=files)
 	- Cleaning: the mod requires cleaning
 1. [Telvanni Lighthouse - Tel Branora](https://www.nexusmods.com/morrowind/mods/42664?tab=files)
@@ -87,8 +86,6 @@
 1. [Remiros' Tombs Expansion](https://www.nexusmods.com/morrowind/mods/45616?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Samarys Ancestral Tomb Expanded](https://www.nexusmods.com/morrowind/mods/45612?tab=files)
-1. [Severa Magia DB Fix](https://mega.nz/folder/S1gC3ShI#WkcS9xC00nb27ZZZAJ0ZKQ)
-	- Download "Severa Magia DB Fix" from the link above
 
 ## New Items
 1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?tab=files)
@@ -116,19 +113,12 @@
 		- 00 Core
 		- 01 Automatic Add-Ons (MWSE)
 	- Cleaning: ESP requires cleaning
-1. [Magical Missions](https://www.nexusmods.com/morrowind/mods/38773?tab=files)
-	- Cleaning: ESP requires Cleaning
 1. [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Morag Tong Polished](https://www.nexusmods.com/morrowind/mods/47041?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Plunder the Dungeon](https://www.nexusmods.com/morrowind/mods/46977?tab=files)
-1. [Religions Elaborated](https://www.nexusmods.com/morrowind/mods/47843?tab=files)
-	- Download and install the optional "No Quest Changes" version in the Optional Files
-	- Cleaning: ESP requires cleaning
 1. [Scrolls of the Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831?tab=files)
-1. [Stormkiss Reforged](https://www.nexusmods.com/morrowind/mods/44565?tab=files)
-	- Cleaning: ESP requires cleaning
 1. [The Sanguine Rose](https://www.nexusmods.com/morrowind/mods/46214?tab=files)
 	- Enable the following BAIN options: 00 Core, 02 MWSE ME Patch
 1. [Umbra Blademaster](https://www.nexusmods.com/morrowind/mods/43275?tab=files)

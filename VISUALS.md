@@ -1,19 +1,19 @@
 # VISUALS
 
 ## Optional Replacers
-
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?tab=files)
 	- The definitive texture replacer for Morrowind. Highly recommended. No performance impact.
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?tab=files)
-	- The definitive groundcover mod. Performance-friendly as grass mods go, but will affect FPS. Recommend downloading and experimenting with grass generation on subsequent playthroughs (will probably push you below 60FPS).
+	- **Optional, will drop FPS** The definitive groundcover mod. Performance-friendly as grass mods go, but will affect FPS. Recommend downloading and experimenting with grass generation (I don't play with grass mods, so consult the readme for instructions on plugin use and MGE XE grass settings).
 
-## Optional Lighting
+## Lighting
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?tab=files)
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?tab=files)
 	- Wrye Mash will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder
 1. [Weather Adjsuter presets](coming soon)
+1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?tab=files)
 
-## Core Meshes
+## Core Meshes and Textures
 1. [Ashmire Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
 	- Download "Ashmire Replacer," "Bitter Coast Scum Replacer," and "Vivec Water Replacer." Install separately as directed in this section.
 	- Install "Ashmire Replacer" and enable ONLY the following BAIN option:
@@ -39,6 +39,8 @@
 		- 00 Meshes (the \meshes folder from the main file and update)
 		- 01 Textures (the \textures folder from the main file and update)
 		- 02 Tamriel Rebuilt (the \textures folder from the TR optional file)
+1. [Facelift 0.10 Hotfix](https://www.mediafire.com/file/t9zlai0m8kkkzpe/Facelift_v0.10.2_Hotfix.zip/file)
+	- Lucas9/Sigourn has created a quick hotfix for two vampire heads. Install normally
 1. [Furn_overhang_18__smoooooth](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
 	- Download the main file "furn_overhang_18_smooooooth" and install normally
 1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?tab=files)
@@ -48,8 +50,6 @@
 1. [Parasol Particles](https://www.nexusmods.com/morrowind/mods/47755?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core
-1. [Rigging Morrowind](https://www.nexusmods.com/morrowind/mods/47754?tab=files)
-	- Cleaning: Rigging Morrowind chuzei_helm_no_neck.esp requires cleaning
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?tab=files)
 	- Does what it says. No, this mod is not optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla texutres from Intelligent Textures
 1. [Skeletons Atlased](https://www.nexusmods.com/morrowind/mods/46012?tab=files)
@@ -72,6 +72,7 @@
 		- 01 Original Color
 
 ## Equipment Meshes
+1. [Helseth's Robe Fixed](https://www.nexusmods.com/morrowind/mods/47664?tab=files)
 1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?tab=files)
 	- Download and install the Optional File "Improved Nordic Iron Helm 1.0-alternate"
 1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
@@ -82,14 +83,16 @@
 1. [No Orcish Clown Shoes](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
 	- Download and install only "No Orcish Clown Shoes"
 1. [Nordic Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46792?tab=files)
-1. [Silver Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46787?tab=files)
-1. [Very Slightly Better Weapons (Remiros Discord Beta)](you can skip this for now)
-1. [Improved Shields](https://www.nexusmods.com/morrowind/mods/47931?tab=files)
-	- Download the Main File and enable only the "00 Data Files" BAIN option
-1. [Various Armor Improvements and Patches](https://www.nexusmods.com/morrowind/mods/47920?tab=files)
+1. [Rigging Morrowind](https://www.nexusmods.com/morrowind/mods/47754?tab=files)
+	- Cleaning: Rigging Morrowind chuzei_helm_no_neck.esp requires cleaning
+1. [Improved Pauldron Meshes](https://www.nexusmods.com/morrowind/mods/47920?tab=files)
 	- Download the main file "Improved Pauldron Meshes (Vanilla - Better Morrowind Armor) and enable the following BAIN options:
 		- 00 Data Files
 		- 01 Orcish Pauldrons with Fangs
+1. [Improved Shields](https://www.nexusmods.com/morrowind/mods/47931?tab=files)
+	- Download the Main File and enable only the "00 Data Files" BAIN option
+1. [Silver Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46787?tab=files)
+1. [Very Slightly Better Weapons (Remiros Discord Beta)](you can skip this for now)
 1. [Improved Thrown Weapon Projectiles](https://www.nexusmods.com/morrowind/mods/44763?tab=files)
 	- Download and install only the main file
 1. [Improved Weapon Meshes - Organic](https://www.nexusmods.com/morrowind/mods/47892?tab=files)

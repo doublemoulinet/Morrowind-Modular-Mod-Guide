@@ -1,3 +1,16 @@
+2020-06-30
+- added: CORE: Right Click Menu Exit
+- added: VISUALS: Helseth's Robe Fixed
+- added: CONSISTENCY: FMI - Nice to Meet You
+- added: CONSISTENCY: FMI - NotAllDunmer
+- added: CONSISTENCY: Open Mournhold
+- added: GAMEPLAY: Enhanced Detection Lite
+- moved: Religions Elaborated - No Quest Changes from CONTENT to CONSISTENCY
+- removed: GAMEPLAY: Class Conscious
+- removed: CONTENT: Stormkiss Reforged
+- removed: CONTENT: Severa Magia DB Fix
+- removed: CONTENT: Magical Missions
+
 2020-06-23
 - added: VISUALS: Dunmer Lanterns Replacer
 - added: VISUALS: Weather Adjust

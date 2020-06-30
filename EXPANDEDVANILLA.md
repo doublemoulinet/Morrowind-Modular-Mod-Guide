@@ -54,12 +54,6 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 		- 10 Glow in the Dahrk Patch - Interior Sunrays
 1. [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069?tab=files)
 	- Download and install the “MWSE” Main File
-	- Repack the archive into this BAIN structure:
-		- 00 Core (all the folders/files inside /Data Files)
-		 -01 Animation Compilation Alt. Draw (meshes folder in extras/alternate draw animations/animation compilation/meshes)
-		 -01 Vanilla Alt. Draw (meshes folder from extra/vanilla/meshes)
-	 -Enable the following BAIN options:
-		-00 Core
 1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?tab=files)
 	- Install the “04 Weapon Sheathing Patch” as a separate mod and install
 
