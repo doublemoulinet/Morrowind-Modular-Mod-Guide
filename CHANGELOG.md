@@ -1,3 +1,6 @@
+2020-07-03
+- added: EXPANDED VANILLA: Vanity
+
 2020-06-30
 - added: CORE: Right Click Menu Exit
 - added: VISUALS: Helseth's Robe Fixed

@@ -3,8 +3,7 @@
 ## Optional Replacers
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?tab=files)
 	- The definitive texture replacer for Morrowind. Highly recommended. No performance impact.
-1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?tab=files)
-	- **Optional, will drop FPS** The definitive groundcover mod. Performance-friendly as grass mods go, but will affect FPS. Recommend downloading and experimenting with grass generation (I don't play with grass mods, so consult the readme for instructions on plugin use and MGE XE grass settings).
+	- Enbale both "00 Core" and "01 Atlas Textures"
 
 ## Lighting
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?tab=files)

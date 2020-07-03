@@ -91,6 +91,7 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 1. [Visually Filled Soul Gems](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select Visually Filled Soul Gems and install
+1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?tab=files)
 
 
 **NEXT SECTION**:
