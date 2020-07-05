@@ -96,7 +96,7 @@ After MGE XE has generated distant land, in the "Distant Land" tab in MGE XE, se
 Other Distant Land settings:
 - Water:
 	- Reflections: ALL except "Blur Reflections"
-	- Dynamic ripples: 20 height of waves
+	- Dynamic ripples: 12 height of waves
 	- Caustics: 50%
 - XE: enable Dynamic solar shadows
 - Auto set other distances: By draw distance
@@ -107,17 +107,16 @@ Other Distant Land settings:
 You will need to run MGE XE at the end of your mod installation to regenerate distant land and enable mod-specific shaders.
 
 ### In-game
-
 Enable the following options:
-	- Skip opening movie
-	- Crosshair autohide
-	- Responsive menu caching
+- Skip opening movie
+- Crosshair autohide
+- Responsive menu caching
 Under Morrowind engine settings, enable the following:
-	- Allow yes to all load errors
-	- Show subtitles
-	- Allow screenshots
-	- Thread loading
-	- Hit fader
+- Allow yes to all load errors
+- Show subtitles
+- Allow screenshots
+- Thread loading
+- Hit fader
 
 ## Additional Tools
 

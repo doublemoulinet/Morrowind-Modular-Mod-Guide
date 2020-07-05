@@ -78,7 +78,6 @@ Install the rest of this section:
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Proportional Progression and install
 1. [Proportional Progression config file](https://mega.nz/file/K1gFmJ7T#yWj0DX5MgjO4HqXxTfbWOmeK4fiBVcX0bwD7wEwOd9c)
-	- Click "Clone or download" the zip file and install normally
 	- This custom config file enables the levelling scaling of Proportional Progression. Unpack to a project and experiment with the values!
 1. [Putting Power in Willpower](https://www.nexusmods.com/morrowind/mods/45742?tab=files)
 1. [Wings of Will](https://www.nexusmods.com/morrowind/mods/46626?tab=files)

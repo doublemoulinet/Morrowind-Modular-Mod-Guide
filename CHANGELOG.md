@@ -1,5 +1,7 @@
 2020-07-03
 - added: EXPANDED VANILLA: Vanity
+- added: CONSISTENCY: Temples with Shrines
+- added: CONSISTENCY: What is something that is too long for an ESP name
 
 2020-06-30
 - added: CORE: Right Click Menu Exit

@@ -9,7 +9,7 @@
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?tab=files)
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?tab=files)
 	- Wrye Mash will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder
-1. [Weather Adjsuter presets](coming soon)
+1. [Weather Adjuster preset](
 1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?tab=files)
 
 ## Core Meshes and Textures

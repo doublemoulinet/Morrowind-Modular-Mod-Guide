@@ -38,8 +38,8 @@ Additional re-ordering may be required. Ensure the following load *first* in you
 
 Ensure that the following mods always load *last* in your load order:
 1. Yet Another Guard Diversity - Regular.esp
-1. Urnest Loot.esp
 1. There Can Be Only One.esp
+1. What is something that is too long for an ESP name.esp
 1. XE Sky Variations.esp
 1. multipatch.esp
 1. Merged Objects.esp

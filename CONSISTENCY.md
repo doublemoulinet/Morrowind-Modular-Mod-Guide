@@ -42,6 +42,7 @@
 	- Download and install Main File "Services Restored"
 1. [Synthesis Series - Creatures and Diseases](https://www.nexusmods.com/morrowind/mods/48279?tab=files)
 1. [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150?tab=files)
+1. [Temples with Shrines](https://www.nexusmods.com/morrowind/mods/45535?tab=files)
 1. [The Madstone](https://www.nexusmods.com/morrowind/mods/47653?tab=files)
 1. [The Publicans](https://www.nexusmods.com/morrowind/mods/45410?tab=files)
 1. [TriangleTooth's Missing Characters](https://www.nexusmods.com/morrowind/mods/46234?tab=files)
@@ -49,6 +50,8 @@
 	- ESP requires cleaning
 1. [True Scourge](https://www.nexusmods.com/morrowind/mods/43294?tab=files)
 	- Install and enable only "TrueScourge.esp"
+1. [What is something that is too long for an ESP name - Daedric Edit](https://mega.nz/file/f4pyFSZL#BoAxWMDSOMc7XQIUPjNIyrTQe5HWAW4yFk3Pm00aMps)
+	- A personal edit of Gilboron's edit of [Gavrilo93's mod](https://www.nexusmods.com/morrowind/mods/47598?tab=description), which gives Dark Brotherhood armour to faction members in Vvardenfell. This version is compatible with There Can Be Only One
 1. [Yet Another Guard Diversity](https://www.nexusmods.com/morrowind/mods/45894?tab=files)
 	- Download and install the Main File "Yet Another Guard Diversity - Regular"
 
