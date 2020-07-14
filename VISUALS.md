@@ -65,6 +65,7 @@
 	- Enable one of the three options (I prefer "faint")
 1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?tab=files)
 1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?tab=files)
+1. [Unto Dust](https://www.nexusmods.com/morrowind/mods/48435?tab=files)
 1. [Vivec Palace Water Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
 	- Enable the following BAIN options 
 		- 00 Core 
@@ -123,8 +124,7 @@ Many unique items are assigned generic models in the game. These mods make some 
 1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?tab=files)
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?tab=files)
 	- Activate "00 Core" and "01 Vvardenfell only"
-1. [Nordic Chest Replacer](https://www.nexusmods.com/morrowind/mods/45383?tab=files)
-	- ESP requires cleaning
+1. [No Translation Tooltips](https://www.nexusmods.com/morrowind/mods/48540?tab=files)
 1. [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339?tab=files)
 	- Install normally and enable only one ESP: "Old_dwemer_books_Better_typography.esp"
 1. [Waterfall Tweaks](https://www.nexusmods.com/morrowind/mods/4468?tab=files)

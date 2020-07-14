@@ -5,6 +5,7 @@
 	- Enable the following BAIN options:
 		- 00 Core
 		- 01 ex_t_rootball collision fix
+1. [Atmospheric Delights](https://www.nexusmods.com/morrowind/mods/47472?tab=files)
 1. [Better Gnisis Arch](https://www.nexusmods.com/morrowind/mods/46224?tab=files)
 	- Enable the following BAIN options:
 		- 00 - Main Files
@@ -18,8 +19,6 @@
 	- Cleaning: ESP requires cleaning
 1. [Brevur of Balmora](https://www.nexusmods.com/morrowind/mods/47557?tab=files)
 	- Cleaning: ESP requires cleaning
-1. [Caldera Mine Expanded](https://www.nexusmods.com/morrowind/mods/45194?tab=files)
-	- Cleaning: ESP requires cleaning
 1. [Concept Art Palace](https://www.nexusmods.com/morrowind/mods/48136?tab=files)
 	- Download the Main File and select the Version 1 sub-package
 1. [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?tab=files)
@@ -27,6 +26,7 @@
 1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [The Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/46137?tab=files)
+1. [The Grove of Ben'Abi - Region name reverted](https://mega.nz/file/Gl4TQBrR#YqRPilupBPUwneqR0lOs70IvXuBQ5xwbAw_bdGjpG74)
 1. [RR Holamayan](https://www.nexusmods.com/morrowind/mods/43524?tab=files)
 1. [RR Holayaman - Vanilla Statue](https://mega.nz/file/z1ZyzASS#Sxg_woC1TjGImgJP-CU6WVgTvaWn9q1tBcPHxa9F4u8)
 1. [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506?tab=files)
@@ -34,9 +34,6 @@
 	- Enable only the "Meteorite Ministry Temple" ESP
 	- Cleaning: ESP requires cleaning
 1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?tab=files)
-1. [Passage of Prayers - High Fane Corridor Overhaul](https://www.nexusmods.com/morrowind/mods/46786?tab=files)
-	- Enable the "Full" ESP
-	- NB: the objects instances and animations on the prayer wheels will affect FPS on weaker systems. Disable/uninstall if the FPS drops are too steep.
 1. [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646?tab=files)
 1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?tab=files)
 1. [Seven Graces Shrines Enhanced](https://www.nexusmods.com/morrowind/mods/46417?tab=files)

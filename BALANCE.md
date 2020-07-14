@@ -38,8 +38,8 @@
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Limited Leaping and install	
 1. [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?tab=files)
-1. [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/47305?tab=files)	
-	- ESP requires cleaning
+1. [Morrowind Anti-Cheese](https://mega.nz/file/T5REhSRR#ovyKXC-0H9Z9Sa2c9Apw3FBe-8maOYs4rZPSph5u638)	
+	- Be sure to [endorse the original mod](https://www.nexusmods.com/morrowind/mods/47305?tab=files)
 1. [No Disease Labels](https://www.nexusmods.com/morrowind/mods/48295?tab=files)
 1. [Ownership Overhaul](https://www.nexusmods.com/morrowind/mods/48051?tab=files)
 	- This mod overwrites some changes to Anthology Solstheim / Solstheim Tomb of the Snow Prince (which moves the island of Solstheim farther north). You will need to delete the exterior Solstheim cell references with TESAME (or suffer floating objects in the middle of the sea)

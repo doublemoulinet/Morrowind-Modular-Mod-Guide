@@ -1,3 +1,20 @@
+2020-07-14
+- added: VISUALS: No Translation Tooltips
+- added: VISUALS: Unto Dust
+- added: CONSISTNECY: AURA
+- added: GAMEPLAY: Locks and Traps Detection
+- added: GAMEPLAY: Lua Lockbashing
+- added: CONTENT: Atmospheric Delights
+ 
+- removed: VISUALS: Nordic Chest Replacer
+- removed: CONSISTENCY: Silent Assassins
+- removed: CONSISTENCY: Sound Spell Effect
+- removed: CONSISTENCY: Tunnel Cough
+- removed: GAMEPLAY: MWSE 2.1 Pursuit Revisited
+- removed: GAMEPLAY: Immersive Mining (issues when used with both Quickloot and Graphic Herbalism)
+- removed: CONTENT: Caldera Mine Expanded
+- removed: CONTENT: Passage of Prayers
+
 2020-07-03
 - added: EXPANDED VANILLA: Vanity
 - added: CONSISTENCY: Temples with Shrines

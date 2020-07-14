@@ -40,8 +40,8 @@
 	- Cleaning: ESP requires cleaning
 1. [Services Restored](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Services Restored"
-1. [Synthesis Series - Creatures and Diseases](https://www.nexusmods.com/morrowind/mods/48279?tab=files)
 1. [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150?tab=files)
+1. [Synthesis Series - Creatures and Diseases](https://www.nexusmods.com/morrowind/mods/48279?tab=files)
 1. [Temples with Shrines](https://www.nexusmods.com/morrowind/mods/45535?tab=files)
 1. [The Madstone](https://www.nexusmods.com/morrowind/mods/47653?tab=files)
 1. [The Publicans](https://www.nexusmods.com/morrowind/mods/45410?tab=files)
@@ -69,6 +69,8 @@
 	- Cleaning: ESP requires cleaning
 
 ## Sound
+1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?tab=files)
+	- Download the main file
 1. [Haunted Barrows](https://www.nexusmods.com/morrowind/mods/46826?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core
@@ -77,9 +79,6 @@
 	- Cleaning: ESP requires cleaning
 1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?tab=files)
 	- Cleaning: ESP requires cleaning
-1. [Silent Assassins](https://www.nexusmods.com/morrowind/mods/44371?tab=files)
-	- Cleaning: ESP requires cleaning
-1. [Tunnel Cough](https://www.nexusmods.com/morrowind/mods/47603?tab=files)
 
 **NEXT SECTION**:
 [**Gameplay**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/GAMEPLAY.md)

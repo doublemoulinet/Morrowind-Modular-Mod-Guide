@@ -1,5 +1,5 @@
 # Optional Early Loaders
-These optional mods should not be used on your first playthrough. The **Official Plugins** are a real grab bag--some are mediocre, others are trivial, most are best forgotten. The cleaned and fixed versions presented here are the best way to incorporate them into your game, but are not necessary (or even recommended) for an enjoyable Morrowind experience. 
+These optional mods should not be used on your first playthrough. The **Official Plugins** are a real grab bag--some are mediocre, others are trivial, most are best forgotten. The cleaned and fixed versions presented here are the best way to incorporate them into your game, but are not necessary (or even recommended) for an enjoyable Morrowind experience. In fact, I strongly discourage using any of the Offical Plugins. Just don't.
 
 The landmass mods--Tamriel Rebuilt and its sister projects--are highly recommended on subsequent playthroughs. These are arguably the most impressive modding projects on the web. Tamriel Rebuilt is a decades-long project to recreate the Morrowind mainland in TES3. The "Old Ebonheart" release is one of the best quest mods available and I recommend a TR-centric playthrough to play the different questlines.
 

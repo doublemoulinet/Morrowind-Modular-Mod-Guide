@@ -14,6 +14,8 @@
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select HUD Hider and install
 1. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/47962?tab=files)
+	- The fillbar is too narrow for my tastes. You can adjust the width in the main.lua. Find the line "chargeFillbar.height" and change the value after the equals sign to 7
+	- Install normally
 1. [MWSE Clock Block](https://www.nexusmods.com/morrowind/mods/46292?tab=files)
 1. [Ownership Indicator](https://www.nexusmods.com/morrowind/mods/45940?tab=files)
 1. [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?tab=files)
@@ -88,11 +90,10 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 		- 00 Core
 		- 03 Melchior's Magnificent Manuscripts
 1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?tab=files)
+1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?tab=files)
 1. [Visually Filled Soul Gems](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select Visually Filled Soul Gems and install
-1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?tab=files)
-
 
 **NEXT SECTION**:
 [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md)

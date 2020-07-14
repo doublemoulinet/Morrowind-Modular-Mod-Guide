@@ -98,24 +98,21 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - Continue
 	- Hide Credits Button = Yes
 	- Hide New Game Button (In Game) = Yes
-- ~~Graphic Herbalism
-	- In order for **Immersive Mining** to work with GH, set up a blacklist to block all ore activators:
-		- In the Blacklist tab, navigate to the Objects list and search “mine”
-		- Click Toggle Filtered to add these objects to the blacklist
-		- Repeat these steps for the keyword "rock"
-	- You can toggle off Immersive Mining's gameplay changes by undoing these blacklist changes~~
 - Illegal Summoning
 	- NPC Crime Trigger Distance = 2000
 - Let There Be Darkness
 	- In the General and Cell Settings tab, set Cell Lighting Value Overrides to TLAD
 	- In the Light Settings tab, set the Light radius scaling slider to 120% 
-	- In the same tab, disable lights without a mesh to On
+	- In the same tab, set **disable lights without a mesh** to Off
 - Miscast Enhanced
 	- Ensure "Debug Mode" is disabled
 - Multi Mark & Harder Recall
 	- Customize Limited Recall values
 		- Recalls per day: 4
 	- *optional* Enable Miscast Enhanced integration!
+- No Translation Tooltips
+	- Disable road sign tooltips: yes
+	- Disable banner tooltips: no
 - Ownership Indicator
 	- Hide Crosshair = Yes (you may need to toggle the crosshair on/off in the game options menu to get this to work)
 - Quick Loot
