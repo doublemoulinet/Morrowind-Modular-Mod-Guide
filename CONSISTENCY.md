@@ -54,6 +54,8 @@
 	- A personal edit of Gilboron's edit of [Gavrilo93's mod](https://www.nexusmods.com/morrowind/mods/47598?tab=description), which gives Dark Brotherhood armour to faction members in Vvardenfell. This version is compatible with There Can Be Only One
 1. [Yet Another Guard Diversity](https://www.nexusmods.com/morrowind/mods/45894?tab=files)
 	- Download and install the Main File "Yet Another Guard Diversity - Regular"
+1. [Yet Another Guard Diversity - PfP Fix](https://mega.nz/file/ug5HFJKI#yJ8TsnIXqFJYVOx964Ia8LEUE3KB3J5oVz4KCPHb-ew)
+	- YAGD overwrites a fix to a single cell; this ESP replacer corrects that (this is temporary until the mod gets updated)
 
 ## Dialogue
 1. [Cover Yourself](https://www.nexusmods.com/morrowind/mods/48016?tab=files)

@@ -47,8 +47,6 @@
 1. [Fixed Version of Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/46184?tab=files)
 	- Download and install the Optional File "Fixed Version of Gnisis Minaret"
 	- Enable only the English ESP
-1. [Tales of Ald Velothi](https://www.nexusmods.com/morrowind/mods/47276?tab=files)
-	- Cleaning: the mod requires cleaning
 1. [Telvanni Lighthouse - Tel Branora](https://www.nexusmods.com/morrowind/mods/42664?tab=files)
 	- Enable the following BAIN options:
 		- 00 - Main Files

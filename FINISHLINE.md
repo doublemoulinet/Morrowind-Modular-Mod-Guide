@@ -36,8 +36,12 @@ Additional re-ordering may be required. Ensure the following load *first* in you
 1. Morrowind Anti-Cheese.esp
 1. Ownership Overhaul.esp
 
+Ensure that the following three ESPS load in this sequence (doesn't have to be contiguous):
+1. Quorn Resource Integration.esp
+1. Yet Another Guard Diversity Overhaul.esp
+1. Mamaea Awakened.esp
+
 Ensure that the following mods always load *last* in your load order:
-1. Yet Another Guard Diversity - Regular.esp
 1. There Can Be Only One.esp
 1. What is something that is too long for an ESP name.esp
 1. XE Sky Variations.esp

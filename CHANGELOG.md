@@ -14,6 +14,7 @@
 - removed: GAMEPLAY: Immersive Mining (issues when used with both Quickloot and Graphic Herbalism)
 - removed: CONTENT: Caldera Mine Expanded
 - removed: CONTENT: Passage of Prayers
+- removed: CONTENT: Tales of Ald Velothi
 
 2020-07-03
 - added: EXPANDED VANILLA: Vanity
