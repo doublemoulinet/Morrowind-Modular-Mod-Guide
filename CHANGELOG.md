@@ -1,3 +1,6 @@
+2020-07-19
+- added: CONSISTENCY: FMBP - Michael, Michael, Michael
+
 2020-07-14
 - added: VISUALS: No Translation Tooltips
 - added: VISUALS: Unto Dust

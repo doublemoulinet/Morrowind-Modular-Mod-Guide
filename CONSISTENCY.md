@@ -73,6 +73,7 @@
 ## Sound
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?tab=files)
 	- Download the main file
+1. [FMBP - Michael, Michael, Michael](https://www.nexusmods.com/morrowind/mods/48598?tab=files)
 1. [Haunted Barrows](https://www.nexusmods.com/morrowind/mods/46826?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core
