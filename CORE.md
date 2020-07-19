@@ -63,13 +63,8 @@ Several of these fixes (and many more mods you will install as part of this guid
 
 ## User Interface – Core
 1. [Better Daedric Font](https://www.nexusmods.com/morrowind/mods/44540?tab=files)
-	- NB before you download and install this mod: you _should_ make a backup of the following:
-		- daedric_font.fnt
-		- daedric_font_obw.tex
-	- Create a "backup" folder in the Fonts folder and  copy-paste these two files there before you install Better Daedric Fonts
 	- Download and install normally. This will enable the default "Standard style" Daedric font--identical to the vanilla game but in a higher resolution. Read the readme for instructions on installing the other variants if you prefer those.
 1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873?tab=files)
-	- NB: if you uninstall this mod after enabling it you will CTD because the default .fnt files will have been overwritten and uninstalled by Mash. Remember to restore the backup default .fnt files provided in the mod package (They're in Morrowind\Data Files\Fonts\backup)!
 1. [Continue](https://www.nexusmods.com/morrowind/mods/45952?tab=files)
 1. [Fixed Journal Next Button](https://www.nexusmods.com/morrowind/mods/48097?tab=files)
 1. [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/45952?tab=files)
