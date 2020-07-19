@@ -9,6 +9,7 @@ Most of the game's files are packed in the game BSAs, but a few file types (font
 	- mw_intro.bik
 	- mw_logo.bik
 	- mw_menu.bik
+
 Drop this zip file in your mod directory and install with your mod manager at the top of your installation order
 
 ## Patches
