@@ -2,14 +2,14 @@
 The following are all you need to play the game on modern systems. This section and [Setup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md) are the only required sections of the guide. The patches section fixes most of the game's bugs, and MOP and Project Atlas dramatically increase performance.
 
 ## Loose Files Backups
-1. Most of the game's files are packed in the game BSAs, but a few file types (fonts, splash screens, video) are installed loose. It's recommended that you navigate to your game's /Data Files and create a zip backup of the following folders:
+Most of the game's files are packed in the game BSAs, but a few file types (fonts, splash screens, video) are installed loose. It's recommended that you navigate to your game's /Data Files and create a zip backup of the following folders:
 	1. Fonts
 	1. Splash
 	1. the 3 videos from the /Videos folder:
 		- mw_intro.bik
 		- mw_logo.bik
 		- mw_menu.bik
-1. Drop this zip file in your mod directory and install with your mod manager at the top of your installation order
+Drop this zip file in your mod directory and install with your mod manager at the top of your installation order
 
 ## Patches
 1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096?tab=files)
