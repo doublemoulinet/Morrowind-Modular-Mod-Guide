@@ -3,12 +3,12 @@ The following are all you need to play the game on modern systems. This section 
 
 ## Loose Files Backups
 Most of the game's files are packed in the game BSAs, but a few file types (fonts, splash screens, video) are installed loose. It's recommended that you navigate to your game's /Data Files and create a zip backup of the following folders:
-	1. Fonts
-	1. Splash
-	1. the 3 videos from the /Videos folder:
-		- mw_intro.bik
-		- mw_logo.bik
-		- mw_menu.bik
+1. Fonts
+1. Splash
+1. the 3 videos from the /Videos folder:
+	- mw_intro.bik
+	- mw_logo.bik
+	- mw_menu.bik
 Drop this zip file in your mod directory and install with your mod manager at the top of your installation order
 
 ## Patches
