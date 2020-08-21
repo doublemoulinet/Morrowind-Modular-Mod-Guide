@@ -1,31 +1,24 @@
 # Consistency
 
 ## Restored and Expanded Content
-1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?tab=files)
-	- Mod archive is incorrectly packaged. Repack:
-		- Extract the "ex_velothi_big.nif" in "000 Core Files\Glow in the Dahrk\Vanilla" 
-		- Place in a new folder with the following strucure: "00 - Vanilla (GitD)\meshes\x\ex_velothi_big.nif"
-		- Extract the ESP in "001 ESP - Bigger Velothi Temples"
-		- Place the ESP in your new folder
-		- Zip as a new mod archive and install normally
-	- Cleaning: ESP requires cleaning
 1. [Blighted Animals](https://www.nexusmods.com/morrowind/mods/42245?tab=files)
 	- Download and install the "Blighted Animals with Vanilla Textures" main file (the HD texture versions clash with the rest of the game)
 	- Download the optional file "Nix-Hound knockout animation fix" and install as a separate mod directly after "Blighted Animals"
 1. [Blighted Animals - IT Retexture](https://mega.nz/file/7pAGhSpK#4R1x2NTQ18iTWLiRTJRTM7TAYdIZ4_QNHQj1z_pQKQ4)
+1. [Blighted Blight](https://www.nexusmods.com/morrowind/mods/48631?tab=files)
 1. [Blight is Coming](https://www.nexusmods.com/morrowind/mods/47649?tab=files)
-1. [Blight Storms Restored](https://www.nexusmods.com/morrowind/mods/45558?tab=files)
 1. [Bloat Caves](https://www.nexusmods.com/morrowind/mods/43141?tab=files)
 	- ESP requires cleaning
 1. [Corprus Fix](https://www.nexusmods.com/morrowind/mods/45544?tab=files)
 	- ESP requires cleaning
 1. [Creeping Blight](https://www.nexusmods.com/morrowind/mods/47904?tab=files)
 	- Download the MWSE Version Main File. Install normally
+1. [Diseasese Restored](https://www.nexusmods.com/morrowind/mods/45228?tab=files)
 1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?tab=files)
 	- ESP requires cleaning
-1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?tab=files)
 1. [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423?tab=files)
 	- DON'T clean ESP	
+1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?tab=files)
 1. [FMI - Hospitality Papers Expanded](https://www.nexusmods.com/morrowind/mods/46107?tab=files)
 1. [FMI - Service Refusal and Contraband](https://www.nexusmods.com/morrowind/mods/47456?tab=files)
 	- ESP requires cleaning
@@ -41,7 +34,6 @@
 1. [Services Restored](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Services Restored"
 1. [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150?tab=files)
-1. [Synthesis Series - Creatures and Diseases](https://www.nexusmods.com/morrowind/mods/48279?tab=files)
 1. [Temples with Shrines](https://www.nexusmods.com/morrowind/mods/45535?tab=files)
 1. [The Madstone](https://www.nexusmods.com/morrowind/mods/47653?tab=files)
 1. [The Publicans](https://www.nexusmods.com/morrowind/mods/45410?tab=files)
@@ -72,7 +64,7 @@
 
 ## Sound
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?tab=files)
-	- Download the main file
+	- Download the main file and the update file. Install separately, which allows the update to overwrite and make its changes.
 1. [FMBP - Michael, Michael, Michael](https://www.nexusmods.com/morrowind/mods/48598?tab=files)
 1. [Haunted Barrows](https://www.nexusmods.com/morrowind/mods/46826?tab=files)
 	- Enable the following BAIN options:

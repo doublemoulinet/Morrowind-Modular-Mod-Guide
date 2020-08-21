@@ -9,7 +9,7 @@
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?tab=files)
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?tab=files)
 	- Wrye Mash will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder
-1. [Weather Adjuster preset](
+1. [Weather Adjuster preset](https://mega.nz/file/CkgnBR7C#sYAUBouPwf5uPUhi_4rlpgdqYqTWGbVAdi5O84vuwZo)
 1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?tab=files)
 
 ## Core Meshes and Textures
@@ -24,22 +24,20 @@
 		- 00 Core 
 		- 03 Standalone - Lougian's Meshes Fixed
 1. [Correct UV Mudcrabs](https://www.nexusmods.com/morrowind/mods/42130?tab=files)
-	-Enable only the “00 - Regular” BAIN option
+	- Enable only the “00 - Regular” BAIN option
 1. [Detailed Brooms](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 	- Download only the "Detailed Brooms" main file
 	- Seriously
 1. [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219?tab=files)
 	- Enable both "00 Core" and "03 Glow Effect" options
 1. [Enhanced Stone Walls](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
-	-Download the “Enhanced Stone Walls” file
+	- Download the “Enhanced Stone Walls” file
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?tab=files)
-	- Download both main files and the update file (also grab the hotfix from Lucas9 in the comment section)
+	- Download both main files and the 10.3 update file
 	- OPTIONAL: the textures in Intelligent Textures are superior but will be overwritten by Facelift. Recommend downloading Facelift and splitting into a BAIN structure:
 		- 00 Meshes (the \meshes folder from the main file and update)
 		- 01 Textures (the \textures folder from the main file and update)
 		- 02 Tamriel Rebuilt (the \textures folder from the TR optional file)
-1. [Facelift 0.10 Hotfix](https://www.mediafire.com/file/t9zlai0m8kkkzpe/Facelift_v0.10.2_Hotfix.zip/file)
-	- Lucas9/Sigourn has created a quick hotfix for two vampire heads. Install normally
 1. [Furn_overhang_18__smoooooth](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
 	- Download the main file "furn_overhang_18_smooooooth" and install normally
 1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?tab=files)
@@ -92,7 +90,6 @@
 1. [Improved Shields](https://www.nexusmods.com/morrowind/mods/47931?tab=files)
 	- Download the Main File and enable only the "00 Data Files" BAIN option
 1. [Silver Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46787?tab=files)
-1. [Very Slightly Better Weapons (Remiros Discord Beta)](you can skip this for now)
 1. [Improved Thrown Weapon Projectiles](https://www.nexusmods.com/morrowind/mods/44763?tab=files)
 	- Download and install only the main file
 1. [Improved Weapon Meshes - Organic](https://www.nexusmods.com/morrowind/mods/47892?tab=files)

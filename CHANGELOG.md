@@ -1,3 +1,13 @@
+2020-08-17
+- added: VISUALS: Weather Adjuster Preset
+- added: CONSISTENCY: Blighted Blight
+- added: CONSISTENCY: Diseases Restored
+- moved: Bigger Velothi Temples from CONSISTENCY to CONTENT
+- removed: CORE: Anthology Solstheim (compatibility reasons)
+- removed: EXPANDED VANILLA: MWSE Blood Diversity
+- removed: CONSISTENCY: Blight Storms Restored (Replaced with Blighted Blight)
+- removed: CONSISTENCY: Synthesis Series - Creatures and Diseases (replaced with Diseases Restored)
+
 2020-07-19
 - added: CONSISTENCY: FMBP - Michael, Michael, Michael
 

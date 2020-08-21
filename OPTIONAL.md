@@ -30,6 +30,24 @@ Solstheim Tomb of the Snow Prince overhauls the Bloodmoon expansion to bring the
 	- NB: STOTSP requires Tamriel_Data.esm
 1. [Rather Nice Factor Estate](https://www.nexusmods.com/morrowind/mods/47933?tab=files)
 
+### Landmass Mod Compatibility
+
+Solstheim Tomb of the Snow Prince overhauls the entire landmass of Bloodmoon, so any mods that edit the same landmass create incompatibilities. You will need to make some edits:
+
+1. Ownership Overhaul (installed in the Balance section)
+	- NOTE: This mod overwrites some changes to Anthology Solstheim / Solstheim Tomb of the Snow Prince (which moves the island of Solstheim farther north). If you are using this mod (recommended in the upcoming "Optional Early Loaders" section), you will need to delete the exterior Solstheim cell references with TESAME (or get use to floating objects in the middle of the sea)
+	- The cell edits you need to delete in TESAME are:
+		1. Felsaad Coast Region (This Cell is unnamed; it will be the penultimate unnamed entry if listed alphabetically)
+		1. Isinfer Plains Region (This Cell is unnamed; it will be the last unnamed entry if listed alphabetically)
+		1. Fort Frostmoth
+		1. Fort Frostmoth
+		1. Raven Rock
+		1. Skaal Village
+		1. Skaal Village
+		1. Thirsk
+	- Delete these *and only* these cells in TESAME. Remember to save the plugin before exiting TESAME
+	- I recommend zipping the edited ESP and installing as a new mod to avoid accidentally overwriting it
+
 Remember to drag this Optional Early Loaders section to the top of your Install order.
 
 

@@ -17,6 +17,14 @@
 		- 04 - Better Aldruhn-under Skar
 	- Enable only the RR_Aldruhn_Under_Skar_ENG.esp
 	- Cleaning: ESP requires cleaning
+1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?tab=files)
+	- Mod archive is incorrectly packaged. Repack:
+		- Extract the "ex_velothi_big.nif" in "000 Core Files\Glow in the Dahrk\Vanilla" 
+		- Place in a new folder with the following strucure: "00 - Vanilla (GitD)\meshes\x\ex_velothi_big.nif"
+		- Extract the ESP in "001 ESP - Bigger Velothi Temples"
+		- Place the ESP in your new folder
+		- Zip as a new mod archive and install normally
+	- Cleaning: ESP requires cleaning
 1. [Brevur of Balmora](https://www.nexusmods.com/morrowind/mods/47557?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Concept Art Palace](https://www.nexusmods.com/morrowind/mods/48136?tab=files)

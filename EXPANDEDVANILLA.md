@@ -62,7 +62,6 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 ## More MWSE Mods
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?tab=files)
 1. [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925?tab=files)
-1. [MWSE Blood Diversity](https://www.nexusmods.com/morrowind/mods/47913?tab=files)
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?tab=files)
 1. [Darhk’s Super-Sized Storage](https://www.nexusmods.com/morrowind/mods/45147?tab=files)
 1. [Diligent Defenders](https://github.com/NullCascade/morrowind-mods)

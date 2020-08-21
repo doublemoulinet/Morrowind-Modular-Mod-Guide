@@ -42,18 +42,6 @@
 	- Be sure to [endorse the original mod](https://www.nexusmods.com/morrowind/mods/47305?tab=files)
 1. [No Disease Labels](https://www.nexusmods.com/morrowind/mods/48295?tab=files)
 1. [Ownership Overhaul](https://www.nexusmods.com/morrowind/mods/48051?tab=files)
-	- This mod overwrites some changes to Anthology Solstheim / Solstheim Tomb of the Snow Prince (which moves the island of Solstheim farther north). You will need to delete the exterior Solstheim cell references with TESAME (or suffer floating objects in the middle of the sea)
-	- The cell edits you need to delete in TESAME are:
-		1. Felsaad Coast Region (This Cell is unnamed; it will be the penultimate unnamed entry if listed alphabetically)
-		1. Isinfer Plains Region (This Cell is unnamed; it will be the last unnamed entry if listed alphabetically)
-		1. Fort Frostmoth
-		1. Fort Frostmoth
-		1. Raven Rock
-		1. Skaal Village
-		1. Skaal Village
-		1. Thirsk
-	- Delete these *and only* these cells in TESAME. Remember to save the plugin before exiting TESAME
-	- I recommend zipping the edited ESP and installing as a new mod to avoid accidentally overwriting it
 1. [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248?tab=files)
 1. [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766?tab=files)
 	- Enable only the following ESP: There Can Be Only One (Alt Fyr).esp	

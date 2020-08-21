@@ -14,13 +14,6 @@ Drop this zip file in your mod directory and install with your mod manager at th
 
 ## Patches
 1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096?tab=files)
-1. [Anthology Solstheim](https://www.nexusmods.com/morrowind/mods/43436?tab=files)
-	- Download main file and enable the following options:
-		- 00 Core
-		- 01 Core - ESM version
-		- 02 Patch - Patch for Purists 4.0
-		- 11 Addon - Fort Frostmoth Repaired
-	- NB: Don't enable Anthology Solstheim if using HoTV Solstheim Tomb of the Snow Prince, included in the Optional Content section at the end of this guide (STOTSP already includes the Anthology fix)
 1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?tab=files)
 1. [No More Stage Diving](https://www.nexusmods.com/morrowind/mods/47738?tab=files)
 1. [Projectile Enchant Capacity](https://www.nexusmods.com/morrowind/mods/46685?tab=files)
