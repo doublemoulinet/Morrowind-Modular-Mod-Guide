@@ -1,36 +1,35 @@
 # Consistency
 
-## Restored and Expanded Content
-1. [Blighted Animals](https://www.nexusmods.com/morrowind/mods/42245?tab=files)
-	- Download and install the "Blighted Animals with Vanilla Textures" main file (the HD texture versions clash with the rest of the game)
-	- Download the optional file "Nix-Hound knockout animation fix" and install as a separate mod directly after "Blighted Animals"
-1. [Blighted Animals - IT Retexture](https://mega.nz/file/7pAGhSpK#4R1x2NTQ18iTWLiRTJRTM7TAYdIZ4_QNHQj1z_pQKQ4)
+## Restored and Expanded Mechanics
 1. [Blighted Blight](https://www.nexusmods.com/morrowind/mods/48631?tab=files)
 1. [Blight is Coming](https://www.nexusmods.com/morrowind/mods/47649?tab=files)
-1. [Bloat Caves](https://www.nexusmods.com/morrowind/mods/43141?tab=files)
-	- ESP requires cleaning
 1. [Corprus Fix](https://www.nexusmods.com/morrowind/mods/45544?tab=files)
 	- ESP requires cleaning
 1. [Creeping Blight](https://www.nexusmods.com/morrowind/mods/47904?tab=files)
 	- Download the MWSE Version Main File. Install normally
-1. [Diseasese Restored](https://www.nexusmods.com/morrowind/mods/45228?tab=files)
-1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?tab=files)
-	- ESP requires cleaning
-1. [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423?tab=files)
-	- DON'T clean ESP	
-1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?tab=files)
 1. [FMI - Hospitality Papers Expanded](https://www.nexusmods.com/morrowind/mods/46107?tab=files)
 1. [FMI - Service Refusal and Contraband](https://www.nexusmods.com/morrowind/mods/47456?tab=files)
 	- ESP requires cleaning
 1. [Illegal Summoning](https://www.nexusmods.com/morrowind/mods/47105?tab=files)
 1. [MAB0’s Foundations](https://www.nexusmods.com/morrowind/mods/47244?tab=files)
 1. [MAB0’s Manipulate](https://www.nexusmods.com/morrowind/mods/47222?tab=files)
-1. [Open Mournhold](https://www.nexusmods.com/morrowind/mods/44981?tab=files)
-1. [Outdoor Banners with Sound](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
-	- Download and install Main File "Outdoor Banners with Sound"
 1. [Religions Elaborated](https://www.nexusmods.com/morrowind/mods/47843?tab=files)
 	- Download and install the optional "No Quest Changes" version in the Optional Files
-	- Cleaning: ESP requires cleaning
+	- Cleaning: ESP requires cleaning	
+	
+## Restored and Expanded Content
+1. [Blighted Animals](https://www.nexusmods.com/morrowind/mods/42245?tab=files)
+	- Download and install the "Blighted Animals with Vanilla Textures" main file (the HD texture versions clash with the rest of the game)
+	- Download the optional file "Nix-Hound knockout animation fix" and install as a separate mod directly after "Blighted Animals"
+1. [Blighted Animals - IT Retexture](https://mega.nz/file/7pAGhSpK#4R1x2NTQ18iTWLiRTJRTM7TAYdIZ4_QNHQj1z_pQKQ4)
+1. [Bloat Caves](https://www.nexusmods.com/morrowind/mods/43141?tab=files)
+	- ESP requires cleaning
+1. [Diseasese Restored](https://www.nexusmods.com/morrowind/mods/45228?tab=files)
+1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?tab=files)
+	- ESP requires cleaning
+1. [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423?tab=files)
+	- DON'T clean ESP	
+1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?tab=files)
 1. [Services Restored](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Services Restored"
 1. [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150?tab=files)
@@ -62,7 +61,7 @@
 1. [What Thieves Guild](https://www.nexusmods.com/morrowind/mods/47728?tab=files)
 	- Cleaning: ESP requires cleaning
 
-## Sound
+## Audio
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?tab=files)
 	- Download the main file and the update file. Install separately, which allows the update to overwrite and make its changes.
 1. [FMBP - Michael, Michael, Michael](https://www.nexusmods.com/morrowind/mods/48598?tab=files)
@@ -70,10 +69,9 @@
 	- Enable the following BAIN options:
 		- 00 Core
 		- 01 Fire Sound Replacer
-1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178?tab=files)
-	- Cleaning: ESP requires cleaning
-1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?tab=files)
-	- Cleaning: ESP requires cleaning
+1. [Outdoor Banners with Sound](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
+	- Download and install Main File "Outdoor Banners with Sound"
+
 
 **NEXT SECTION**:
 [**Gameplay**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/GAMEPLAY.md)

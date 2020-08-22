@@ -1,3 +1,14 @@
+2020-08-22
+
+- split some sections into further subsections for ease of use / readability
+- moved a bunch of mods around, including:
+- moved: Blighted Blight from CONSISTENCY to GAMEPLAY
+- moved: Blight is Coming from CONSISTENCY to GAMEPLAY
+- moved: Creeping Blight from CONSISTENCY to GAMEPLAY
+- moved: Open Mournhold from CONSISTENCY to CONTENT
+- moved: Hearthrum from CONSISTENCY to GAMEPLAY
+- moved: Shattered Stones from CONSISTENCY to GAMEPLAY
+
 2020-08-17
 - added: VISUALS: Weather Adjuster Preset
 - added: CONSISTENCY: Blighted Blight

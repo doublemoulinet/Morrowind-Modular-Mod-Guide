@@ -1,6 +1,6 @@
 # Content 
 
-## Expanded Locations
+## Expanded Cities/Towns
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/44020?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core
@@ -29,6 +29,24 @@
 	- Cleaning: ESP requires cleaning
 1. [Concept Art Palace](https://www.nexusmods.com/morrowind/mods/48136?tab=files)
 	- Download the Main File and select the Version 1 sub-package
+1. [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506?tab=files)
+	- Download and install normally
+	- Enable only the "Meteorite Ministry Temple" ESP
+	- Cleaning: ESP requires cleaning
+1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?tab=files)
+1. [Open Mournhold](https://www.nexusmods.com/morrowind/mods/44981?tab=files)
+1. [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646?tab=files)
+1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?tab=files)
+1. [Stav's Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/43237?tab=files)
+	- Disable the ESP. The meshes will be used in the following mod
+1. [Fixed Version of Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/46184?tab=files)
+	- Download and install the Optional File "Fixed Version of Gnisis Minaret"
+	- Enable only the English ESP
+1. [Tower of Vos](https://www.nexusmods.com/morrowind/mods/43527?tab=files)
+1. [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614?tab=files)
+	- Cleaning: ESP requires cleaning
+
+## Expanded Wilderness
 1. [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?tab=files)
@@ -37,24 +55,12 @@
 1. [The Grove of Ben'Abi - Region name reverted](https://mega.nz/file/Gl4TQBrR#YqRPilupBPUwneqR0lOs70IvXuBQ5xwbAw_bdGjpG74)
 1. [RR Holamayan](https://www.nexusmods.com/morrowind/mods/43524?tab=files)
 1. [RR Holayaman - Vanilla Statue](https://mega.nz/file/z1ZyzASS#Sxg_woC1TjGImgJP-CU6WVgTvaWn9q1tBcPHxa9F4u8)
-1. [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506?tab=files)
-	- Download and install normally
-	- Enable only the "Meteorite Ministry Temple" ESP
-	- Cleaning: ESP requires cleaning
-1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?tab=files)
-1. [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646?tab=files)
-1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?tab=files)
 1. [Seven Graces Shrines Enhanced](https://www.nexusmods.com/morrowind/mods/46417?tab=files)
 	- Download and install Main File
 	- Cleaning: ESP requires cleaning
 1. [Shrine of Azura](https://www.nexusmods.com/morrowind/mods/48278?tab=files)
 1. [Shrine of Mount Assarnibibi](https://www.nexusmods.com/morrowind/mods/46858?tab=files)
 1. [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661?tab=files)
-1. [Stav's Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/43237?tab=files)
-	- Disable the ESP. The meshes will be used in the following mod
-1. [Fixed Version of Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/46184?tab=files)
-	- Download and install the Optional File "Fixed Version of Gnisis Minaret"
-	- Enable only the English ESP
 1. [Telvanni Lighthouse - Tel Branora](https://www.nexusmods.com/morrowind/mods/42664?tab=files)
 	- Enable the following BAIN options:
 		- 00 - Main Files
@@ -66,10 +72,7 @@
 		- 01 - Main Files GitD Patch
 		- 02 - Main ESP - English
 	- Cleaning: the ESP requires cleaning
-1. [Tower of Vos](https://www.nexusmods.com/morrowind/mods/43527?tab=files)
 1. [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691?tab=files)
-1. [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614?tab=files)
-	- Cleaning: ESP requires cleaning
 
 ## Guilds
 1. [Balmora Guilds Expanded](https://www.nexusmods.com/morrowind/mods/46859?tab=files)

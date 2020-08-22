@@ -1,6 +1,6 @@
 # VISUALS
 
-## Optional Replacers
+## Texture Overhauls
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?tab=files)
 	- The definitive texture replacer for Morrowind. Highly recommended. No performance impact.
 	- Enbale both "00 Core" and "01 Atlas Textures"
@@ -12,22 +12,10 @@
 1. [Weather Adjuster preset](https://mega.nz/file/CkgnBR7C#sYAUBouPwf5uPUhi_4rlpgdqYqTWGbVAdi5O84vuwZo)
 1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?tab=files)
 
-## Core Meshes and Textures
-1. [Ashmire Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
-	- Download "Ashmire Replacer," "Bitter Coast Scum Replacer," and "Vivec Water Replacer." Install separately as directed in this section.
-	- Install "Ashmire Replacer" and enable ONLY the following BAIN option:
-		- 01 - Still Mire
-1. [Atlased Silt Strider](https://www.nexusmods.com/morrowind/mods/46806?tab=files)
+## Meshes and Textures - Core
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?tab=files)
-1. [Bitter Coast Scum Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
-	- Enable the following BAIN options:
-		- 00 Core 
-		- 03 Standalone - Lougian's Meshes Fixed
 1. [Correct UV Mudcrabs](https://www.nexusmods.com/morrowind/mods/42130?tab=files)
 	- Enable only the “00 - Regular” BAIN option
-1. [Detailed Brooms](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
-	- Download only the "Detailed Brooms" main file
-	- Seriously
 1. [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219?tab=files)
 	- Enable both "00 Core" and "03 Glow Effect" options
 1. [Enhanced Stone Walls](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
@@ -38,17 +26,10 @@
 		- 00 Meshes (the \meshes folder from the main file and update)
 		- 01 Textures (the \textures folder from the main file and update)
 		- 02 Tamriel Rebuilt (the \textures folder from the TR optional file)
-1. [Furn_overhang_18__smoooooth](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
-	- Download the main file "furn_overhang_18_smooooooth" and install normally
 1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core
 		- 02 Iron Repair Prongs
-1. [Parasol Particles](https://www.nexusmods.com/morrowind/mods/47755?tab=files)
-	- Enable the following BAIN options:
-		- 00 Core
-1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?tab=files)
-	- Does what it says. No, this mod is not optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla texutres from Intelligent Textures
 1. [Skeletons Atlased](https://www.nexusmods.com/morrowind/mods/46012?tab=files)
 	- Download only the optional file “Skeletons Atlased”
 	- Enable the following BAIN options:
@@ -62,6 +43,27 @@
 1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
 	- Enable one of the three options (I prefer "faint")
 1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?tab=files)
+
+## Meshes and Textures - Optional
+1. [Ashmire Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
+	- Download "Ashmire Replacer," "Bitter Coast Scum Replacer," and "Vivec Water Replacer." Install separately as directed in this section.
+	- Install "Ashmire Replacer" and enable ONLY the following BAIN option:
+		- 01 - Still Mire
+1. [Atlased Silt Strider](https://www.nexusmods.com/morrowind/mods/46806?tab=files)
+1. [Bitter Coast Scum Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
+	- Enable the following BAIN options:
+		- 00 Core 
+		- 03 Standalone - Lougian's Meshes Fixed
+1. [Detailed Brooms](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
+	- Download only the "Detailed Brooms" main file
+	- Seriously
+1. [Furn_overhang_18__smoooooth](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
+	- Download the main file "furn_overhang_18_smooooooth" and install normally
+1. [Parasol Particles](https://www.nexusmods.com/morrowind/mods/47755?tab=files)
+	- Enable the following BAIN options:
+		- 00 Core
+1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?tab=files)
+	- Does what it says. No, this mod is not optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla texutres from Intelligent Textures
 1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?tab=files)
 1. [Unto Dust](https://www.nexusmods.com/morrowind/mods/48435?tab=files)
 1. [Vivec Palace Water Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
