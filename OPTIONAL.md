@@ -31,10 +31,11 @@ Solstheim Tomb of the Snow Prince overhauls the Bloodmoon expansion to bring the
 1. [Rather Nice Factor Estate](https://www.nexusmods.com/morrowind/mods/47933?tab=files)
 
 ### Landmass Mod Compatibility
-
 Solstheim Tomb of the Snow Prince overhauls the entire landmass of Bloodmoon, so any mods that edit the same landmass create incompatibilities. You will need to make some edits:
 
-1. Ownership Overhaul (installed in the Balance section)
+1. Run the **Morrowind Code Patch (MCP)** again. Under the **Interface Changes** section, enable the "Map Expansion (for Tamriel Rebuilt)" option. 
+	- This will expand the map boundaries so that Solstheim will not be cut off on your in-game map.
+1. **Ownership Overhaul** (installed in the [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md) section)
 	- NOTE: This mod overwrites some changes to Anthology Solstheim / Solstheim Tomb of the Snow Prince (which moves the island of Solstheim farther north). If you are using this mod (recommended in the upcoming "Optional Early Loaders" section), you will need to delete the exterior Solstheim cell references with TESAME (or get use to floating objects in the middle of the sea)
 	- The cell edits you need to delete in TESAME are:
 		1. Felsaad Coast Region (This Cell is unnamed; it will be the penultimate unnamed entry if listed alphabetically)
