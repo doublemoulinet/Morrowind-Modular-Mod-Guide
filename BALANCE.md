@@ -45,8 +45,9 @@
 1. [No Disease Labels](https://www.nexusmods.com/morrowind/mods/48295?tab=files)
 1. [Ownership Overhaul](https://www.nexusmods.com/morrowind/mods/48051?tab=files)
 1. [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248?tab=files)
-1. [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766?tab=files)
-	- Enable only the following ESP: There Can Be Only One (Alt Fyr).esp	
+1. [Some of a Kind - There Can Be Several](https://mega.nz/file/nghzkaTb#eTPvgPDimlIauXtrsbeK9T7qPnr8RW3Znl5dlz75aw8)
+	- A tweaked version of Mort's "One of a Kind" and Necrolesian's "Some of a Kind" daedric rarity mods, by Gilboron. 
+	- Enable the "00 Core" option. Additionally, enable the "01 Hunter's Mark Version" **only** if you intend to install the **CONTENT** section of this guide. This version replaces a quest reward with a nice Ebony Bow from the mod "Hunter's Mark."
 1. [Urnest Loot](https://www.nexusmods.com/morrowind/mods/45616?tab=files)
 	- Download and install the Optional File "Urnest Loot"	
 	
@@ -68,8 +69,9 @@ Install this section if you want to play with Improved Vanilla.
 1. [Proportional Progression](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Proportional Progression and install
-1. [Proportional Progression config file](COMING SOON)
+1. [Proportional Progression config file](https://mega.nz/file/H55hCTJK#tCCEBsid81bSK2-mS8WfT5NB1KKRnctvhp_idfNBgc8)
 	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for Vanilla/Improved Vanilla levelling. Unpack to a project and experiment with the values!
+	- This config adjusts skill gain speed per skill (slower magic, extremely slow athletics and acrobatics, slightly faster armorer and security skill gain); level specific (at low levels characters level skills faster, and then gradually slower as they level up); and skill-level specific (low-level skills level up faster, but rates slow down until capped at level 200).
 1. [Putting Power in Willpower](https://www.nexusmods.com/morrowind/mods/45742?tab=files)
 1. [Wings of Will](https://www.nexusmods.com/morrowind/mods/46626?tab=files)
 

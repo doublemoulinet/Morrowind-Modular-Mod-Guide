@@ -12,12 +12,18 @@ First, you need to create the tes3cmd multipatch:
 1. Click the tes3cmd_multipatch.bat in your Data Files (you created this in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md))
 1. Follow the instructions/prompts in the command-line window
 1. Once complete, tes3cmd will create multipatch.esp in your Data Files
+
+The multipatch erroneously edits four levelled lists affected by the Daedric rarity mod "Some of a Kind." Open TESAME and open the multipatch.esp. Filter by type and select the following four "Lev Item" entries and delete them (right click the entries and hit the delete key on your keyboard):
+1. l_m_enchantitem_temple_rank8_2
+1. random_Golden_saint_weapon
+1. random_Golden_saint_shield
+Save the edited plugin by choosing "save as" and overwriting the original plugin. In Wrye Mash's Mods Tab, ensure the multipatch.esp plugin is at the bottom of your load order. **NOTE:** You will have to do this each time you regenerate your multipatch.
  
 Next, create the Merged Objects patch with TES3Merge:
 1. Launch TES3Merge.exe and follow the prompts
 1. Once complete, TES3Merge wil create Merged Objects.esp in your Data Files. 
 
-Note that you will need to regenerate these two plugins each time you adjust your load order (update, remove or add a plugin) so that the changes are carried on. For your convenience, Wrye Mash will indicate if the plugins are missing masters and require regenerating (the plugin will turn red in the Mods Tab).
+Note that you will need to regenerate these two plugins nearly each time you adjust your load order (update, remove or add a plugin) so that the changes are carried on. For your convenience, Wrye Mash will indicate if the plugins are missing masters and require regenerating (the plugin will turn yellow or red in the Mods Tab).
 
 ## Merging
 If you have installed new weapon/item mods and would like to reduce the plugin count, you can use MWedit to open all these plugins simultaneously and merge them into a new plugin (I usually call mine "Unique Items Merged.esp"). Remember to clean any created plugins with TESTool and tes3cmd.
@@ -46,7 +52,7 @@ If you installed the **Content** section, you will need to move "Quorn Resource 
 1. Mamaea Awakened.esp
 
 Ensure that the following mods always load *last* in your load order:
-1. There Can Be Only One.esp
+1. Some of a Kind.esp
 1. What is something that is too long for an ESP name.esp
 1. XE Sky Variations.esp
 1. multipatch.esp
@@ -112,7 +118,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- In the General and Cell Settings tab, set Cell Lighting Value Overrides to TLAD
 	- Leave the remaining settings at their defaults
 - Magicka Based Skill Progression
-	- Set Skill Experience per Magicka to 0.066667
+	- Leave the Skill Experience per Magicka at default, or adjust as desired if magic skills are advancing too quickly.
 - Miscast Enhanced
 	- Ensure "Debug Mode" is disabled
 - Multi Mark & Harder Recall
