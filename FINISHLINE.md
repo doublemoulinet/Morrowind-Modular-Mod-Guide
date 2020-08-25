@@ -22,7 +22,7 @@ The multipatch erroneously edits four levelled lists affected by the Daedric rar
 
 Save the edited plugin by choosing "save as" and overwriting the original plugin. In Wrye Mash's Mods Tab, ensure the multipatch.esp plugin is at the bottom of your load order. **NOTE:** You will have to do this each time you regenerate your multipatch.
 
-###Merged Objects
+### Merged Objects
 Next, create the **Merged Objects patch** with **TES3Merge**:
 1. Launch TES3Merge.exe and follow the prompts
 1. Once complete, TES3Merge wil create Merged Objects.esp in your Data Files. 
