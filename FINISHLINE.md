@@ -25,19 +25,23 @@ If you have installed new weapon/item mods and would like to reduce the plugin c
 As a rule, don't merge ESPs with scripts.
 
 ## Load order and Late Loaders
-Run mlox.exe and allow it to make changes.
+Generally, ESPs should remain in the order that they were installed in this guide. 
 
 Additional re-ordering may be required. Ensure the following load *first* in your load order:
 1. (Whatever ESMs you have enabled, ending with "Patch for Purists.esm")
-1. (If you've installed VSW Solstheim, make sure the ESM loads AFTER Patch for Purists.esm)
+1. (If you've installed HOTV Solstheim, make sure the ESM loads AFTER Patch for Purists.esm)
 1. Patch for Purists - Book Typos.esp
-1. Patch for Purists - Semi-Purist Fixes
-1. Projectile Enchant Capacity.esp
+1. Patch for Purists - Semi-Purist Fixes.esp
 1. Morrowind Anti-Cheese.esp
 1. Ownership Overhaul.esp
 
-Ensure that the following three ESPS load in this sequence (doesn't have to be contiguous):
+If you installed the **Content** section, you will need to move "Quorn Resource Integration.esp" higher in your load order, so that YAGD and Mamaea Awakened overwrite its changes. Move "Quorn Resource Integration.esp" and "Hunter's Mark.esp" below the unique item ESPs from the **Visuals** section:
+1. Complete Armor Joints.esp
+1. chuzei_helm_no_neck.esp
+1. [Unique Item ESPS or the Unique Item Merged ESP]
 1. Quorn Resource Integration.esp
+1. Hunter's Mark.esp
+[...]
 1. Yet Another Guard Diversity Overhaul.esp
 1. Mamaea Awakened.esp
 
@@ -106,8 +110,9 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- NPC Crime Trigger Distance = 2000
 - Let There Be Darkness
 	- In the General and Cell Settings tab, set Cell Lighting Value Overrides to TLAD
-	- In the Light Settings tab, set the Light radius scaling slider to 120% 
-	- In the same tab, set **disable lights without a mesh** to Off
+	- Leave the remaining settings at their defaults
+- Magicka Based Skill Progression
+	- Set Skill Experience per Magicka to 0.066667
 - Miscast Enhanced
 	- Ensure "Debug Mode" is disabled
 - Multi Mark & Harder Recall
@@ -126,6 +131,8 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Strafing Movement Percentage Multiplier = 100
 - Security Enhanced
 	- Change the equip/cycle lockpick hotkey to "O" ("L" is used by Let There Be Darkness)
+- Smart Merchants
+	- Enable **Harder Barter like merchants buying prices reduction**: 2. Medium
 - Sophisticated Save System
 	- set up autosaves as you prefer, but recommend disabling “Create autosaves after changing cells”
 - UI Expansion

@@ -30,7 +30,6 @@
 		- 01 - Cast VFX
 1. [Miscast Enhanced](https://www.nexusmods.com/morrowind/mods/47948?tab=files)
 1. [Customizable MWSE Multi Mark and Limited Recall](https://www.nexusmods.com/morrowind/mods/47065?tab=files)
-1. [MWSE Magicka Regen](https://www.nexusmods.com/morrowind/mods/48129?tab=files)
 
 ## Combat / Crime Gameplay Changes
 1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?tab=files)

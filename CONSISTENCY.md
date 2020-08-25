@@ -18,18 +18,20 @@
 	- Cleaning: ESP requires cleaning	
 	
 ## Restored and Expanded Content
+1. [Abundant Adamantium Ore](https://www.nexusmods.com/morrowind/mods/45726?tab=files)
 1. [Blighted Animals](https://www.nexusmods.com/morrowind/mods/42245?tab=files)
 	- Download and install the "Blighted Animals with Vanilla Textures" main file (the HD texture versions clash with the rest of the game)
 	- Download the optional file "Nix-Hound knockout animation fix" and install as a separate mod directly after "Blighted Animals"
 1. [Blighted Animals - IT Retexture](https://mega.nz/file/7pAGhSpK#4R1x2NTQ18iTWLiRTJRTM7TAYdIZ4_QNHQj1z_pQKQ4)
 1. [Bloat Caves](https://www.nexusmods.com/morrowind/mods/43141?tab=files)
 	- ESP requires cleaning
-1. [Diseasese Restored](https://www.nexusmods.com/morrowind/mods/45228?tab=files)
+1. [Diseases Restored](https://www.nexusmods.com/morrowind/mods/45228?tab=files)
 1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?tab=files)
 	- ESP requires cleaning
 1. [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423?tab=files)
 	- DON'T clean ESP	
 1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?tab=files)
+	- ESP requires cleaning
 1. [Services Restored](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Services Restored"
 1. [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150?tab=files)
@@ -45,6 +47,7 @@
 	- A personal edit of Gilboron's edit of [Gavrilo93's mod](https://www.nexusmods.com/morrowind/mods/47598?tab=description), which gives Dark Brotherhood armour to faction members in Vvardenfell. This version is compatible with There Can Be Only One
 1. [Yet Another Guard Diversity](https://www.nexusmods.com/morrowind/mods/45894?tab=files)
 	- Download and install the Main File "Yet Another Guard Diversity - Regular"
+	- ESP requires cleaning
 1. [Yet Another Guard Diversity - PfP Fix](https://mega.nz/file/ug5HFJKI#yJ8TsnIXqFJYVOx964Ia8LEUE3KB3J5oVz4KCPHb-ew)
 	- YAGD overwrites a fix to a single cell; this ESP replacer corrects that (this is temporary until the mod gets updated)
 
@@ -71,7 +74,10 @@
 		- 01 Fire Sound Replacer
 1. [Outdoor Banners with Sound](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 	- Download and install Main File "Outdoor Banners with Sound"
-
+1. [Shut the Fuck Up Cliffracers](https://www.nexusmods.com/morrowind/mods/46588?tab=files)
+1. [Sounds of Souls](https://github.com/NullCascade/morrowind-mods)
+	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
+	- Unzip, select Sounds of Souls and install
 
 **NEXT SECTION**:
 [**Gameplay**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/GAMEPLAY.md)

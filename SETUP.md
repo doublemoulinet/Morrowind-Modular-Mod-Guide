@@ -4,7 +4,7 @@
 Install Morrowind to a root directory (ex. C:\Steam\steamapps\common\Morrowind) or (C:\Games\Morrowind). Do not install the game in Program Files.
 
 Some general tips:
-- Do not uninstall mods mid-playthrough. The only mods that can be safely uninstalled mid-game are esp-less replacers and MWSE mods. Any mod with an ESP/ESM should not be removed from your mod order mid-playthrough
+- Do not uninstall mods mid-playthrough. The only mods that can be safely uninstalled mid-game are esp-less replacers and MWSE mods. Any mod with an ESP/ESM should not be removed from your mod order mid-playthrough (unless you know what you're doing)
 - Always read the mod description on the mod page
 - Remember to update MWSE! It's under active development and you should run the MWSE-Updater.exe frequently
 - Likewise, check the Nexus for mod updates. MWSE mods are frequently updated and can be safely installed mid-playthrough
@@ -49,7 +49,7 @@ The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It 
 	- Beta: every option EXCEPT "Doppler audio fix"
 	- Game Mechanics: every option EXCEPT "Healthy Appetite" and "Allow Gloves with Bracers"
 	- Visuals: every option EXCEPT "Over-the-shoulder third person camera," and "Vanity camera lock"
-	- Interface changes: enable every option EXCEPT "Disable map smoothing," "Spell select by name," "Level-up skills tooltip" and "see all standard potion effects"
+	- Interface changes: enable every option EXCEPT "Map Expansion (for TR)," "Disable map smoothing," "Spell select by name," and "see all standard potion effects"
 	- International: none
 	- Bug Fixes: ensure EVERY option is enabled
 1. Click the big "Apply chosen patches" button
@@ -145,7 +145,7 @@ TESTool is a mod repair and management tool. You will use it to clean your plugi
 1. [Download TESTool](https://en.uesp.net/wiki/Tes3Mod:TESTool) and extract the executable and files to your root directory (Morrowind\TESTool.exe).
 
 ### Mlox
-A plugin load order sorter. Highly recommended.
+A plugin load order sorter. Mlox will not be used in this guide (plugin order will be adjusted manually in the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section of the guide. If you add your own mods, you will want to check your load order with Mlox.
 1. Download the latest version of [mlox from github](https://github.com/mlox/mlox/releases/). Review the [github page](https://github.com/mlox/mlox) for more information on its use
 1. Extract the mlox.exe to your Morrowind root directory (Morrowind\mlox.exe).
 You can add mlox to your list of executables in Wrye Mash by clicking the gear icon at the bottom bar. In the "Wrye Mash Settings" popup navigate to the "Paths" tab and add the Mlox.exe filepath.

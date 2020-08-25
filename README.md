@@ -32,7 +32,7 @@ This list does not typically describe what each mod does. Read the description o
 ## Mod Management
 My preferred mod manager is Wrye Mash (Polemos Fork). This is a very powerful mod organizing tool that, like Mod Organizer 2, allows users considerable freedom to adjust their mod installation on the fly.
 
-If you are more familiar with Mod Organizer 2, it now has native Morrowind support. MO2's advantage is its Virtual File System (VFS), meaning you can create multiple game profiles with different mod orders on a whim. The disadvantage is that boot time is dramatically increased as paging the VFS is very slow for Morrowind. Setting up Morrowind's mod tools with MO2 is more complicated, and the VFS may also interfere with certain script extender mods.
+If you are more familiar with Mod Organizer 2, it now has native Morrowind support. MO2's advantage is its Virtual File System (VFS), meaning you can create multiple game profiles with different mod orders on a whim. The disadvantage is that boot time is dramatically increased as paging the VFS is very slow for Morrowind (dramatic increase: 30-50 seconds). The initial set up for Morrowind's mod tools with MO2 is more complicated, though there are some excellent guides. Follow Sigourn's setup instructions in [Sigourn's Morrowind Improved](https://github.com/Sigourn/morrowind-improved/blob/master/setup.md) if you want to use MO2.
 
 Wrye Mash does not have the advantage of VFS profiles, but doesn't suffer its quirks or bugs either. WM presents more information to the user in the main interface, has better integration with Morrowind, and is a necessary tool whether you use it to manage your installation or not--you need WM to clean your saves, fix master dependencies, and more.
 

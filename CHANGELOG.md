@@ -1,5 +1,10 @@
 2020-08-22
+- added: VISUALS: Complete Armor Joints
+- added: CONTENT: The Ashen Divide
 
+2020-08-22
+- added: BALANCE: Enchant Capacity Rebalanace
+- added: BALANCE: Magicka Based Skill Progression
 - split some sections into further subsections for ease of use / readability
 - moved a bunch of mods around, including:
 - moved: Blighted Blight from CONSISTENCY to GAMEPLAY
@@ -8,6 +13,7 @@
 - moved: Open Mournhold from CONSISTENCY to CONTENT
 - moved: Hearthrum from CONSISTENCY to GAMEPLAY
 - moved: Shattered Stones from CONSISTENCY to GAMEPLAY
+- removed: CORE: Projectile Enchant Capacity
 
 2020-08-17
 - added: VISUALS: Weather Adjuster Preset

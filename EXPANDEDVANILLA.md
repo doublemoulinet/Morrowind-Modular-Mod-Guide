@@ -5,12 +5,15 @@
 1. [Book Worm](https://www.nexusmods.com/morrowind/mods/46851?tab=files)
 1. [Character Creation Name Generator](https://www.nexusmods.com/morrowind/mods/46189?tab=files)
 1. [Class Description Tooltip](https://www.nexusmods.com/morrowind/mods/47527?tab=files)
+1. [Continue](https://www.nexusmods.com/morrowind/mods/45952?tab=files)
 1. [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119?tab=files)
 	- Download and install Main File "Descriptive Shrines"
 1. [MWSE Clock Block](https://www.nexusmods.com/morrowind/mods/46292?tab=files)
+1. [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693?tab=files)
 1. [Ownership Indicator](https://www.nexusmods.com/morrowind/mods/45940?tab=files)
 1. [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?tab=files)
 1. [Randomised Chargen](https://www.nexusmods.com/morrowind/mods/46915?tab=files)
+1. [Right Click Menu Exit](https://www.nexusmods.com/morrowind/mods/48458?tab=files)
 1. [Shrine Tooltips](https://www.nexusmods.com/morrowind/mods/48275?tab=files)
 1. [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492?tab=files)
 1. [Smart Map](https://www.nexusmods.com/morrowind/mods/46634?tab=files)
@@ -38,6 +41,7 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 1. [Widescreen Splash Replacer](https://www.nexusmods.com/morrowind/mods/47163?tab=files)
 1. [Additional Splash Screens](https://www.nexusmods.com/morrowind/mods/43319?tab=files)
 1. [Widescreen Splash Additions](https://www.nexusmods.com/morrowind/mods/48001?tab=files)
+	- Archive is incorrectly packed: create a "splash" folder and place the .tga files inside. Repack and install.
 
 ##  MWSE - Core
 1. [Graphic Herbalism MWSE](https://www.nexusmods.com/morrowind/mods/46599?tab=files)
@@ -64,7 +68,6 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 
 ## MWSE - QOL and Immersion
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?tab=files)
-1. [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925?tab=files)
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?tab=files)
 1. [Darhk’s Super-Sized Storage](https://www.nexusmods.com/morrowind/mods/45147?tab=files)
 1. [Loading Doors](https://www.nexusmods.com/morrowind/mods/46094?tab=files)
@@ -72,17 +75,10 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?tab=files)
 1. [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735?tab=files)
 1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?tab=files)
-1. [Sounds of Souls](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Sounds of Souls and install
 1. [Switchable Scriptures](https://www.nexusmods.com/morrowind/mods/46680?tab=files)
 	- Enable the following BAIN options
 		- 00 Core
 		- 03 Melchior's Magnificent Manuscripts
-1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?tab=files)
-1. [Visually Filled Soul Gems](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Visually Filled Soul Gems and install
 
 
 **NEXT SECTION**:

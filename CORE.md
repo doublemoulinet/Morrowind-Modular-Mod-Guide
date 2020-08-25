@@ -16,9 +16,6 @@ Drop this zip file in your mod directory and install with your mod manager at th
 1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096?tab=files)
 1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?tab=files)
 1. [No More Stage Diving](https://www.nexusmods.com/morrowind/mods/47738?tab=files)
-1. [Projectile Enchant Capacity](https://www.nexusmods.com/morrowind/mods/46685?tab=files)
-	- Download both main files and repackage as BAIN and install as a single mod
-	- Enable only one of the ESPs (Vanilla, or, Vanilla + Tamriel Rebuilt)
 
 ## MWSE Fixes
 Several of these fixes (and many more mods you will install as part of this guide) are available on GitHub in a single archive, courtesy of MWSE guru and engine-dehardcoding wizard NullCascade. Clone/download [NullCascade's Morrowind Mods](https://github.com/NullCascade/morrowind-mods) here and install the following:
@@ -50,16 +47,12 @@ Several of these fixes (and many more mods you will install as part of this guid
 	- NB: you will enable the “10 Glow in the Darhk Patch” options later in the installation as a separate mod
 1. [Creature VFX Restoration](https://www.nexusmods.com/morrowind/mods/46194?tab=files)	
 1. [Melchior’s Magnificent Manuscript](https://www.nexusmods.com/morrowind/mods/45626?tab=files)
-1. [Shut the Fuck Up Cliffracers](https://www.nexusmods.com/morrowind/mods/46588?tab=files)
 
 ## User Interface – Core
 1. [Better Daedric Font](https://www.nexusmods.com/morrowind/mods/44540?tab=files)
 	- Download and install normally. This will enable the default "Standard style" Daedric font--identical to the vanilla game but in a higher resolution. Read the readme for instructions on installing the other variants if you prefer those.
 1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873?tab=files)
-1. [Continue](https://www.nexusmods.com/morrowind/mods/45952?tab=files)
 1. [Fixed Journal Next Button](https://www.nexusmods.com/morrowind/mods/48097?tab=files)
-1. [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/45952?tab=files)
-1. [Right Click Menu Exit](https://www.nexusmods.com/morrowind/mods/48458?tab=files)
 
 
 **NEXT SECTION**:
