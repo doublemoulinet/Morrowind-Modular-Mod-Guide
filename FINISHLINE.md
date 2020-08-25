@@ -48,7 +48,7 @@ Additional re-ordering may be required. Ensure the following load *first* in you
 If you installed the **Content** section, you will need to move "Quorn Resource Integration.esp" higher in your load order, so that YAGD and Mamaea Awakened overwrite its changes. Move "Quorn Resource Integration.esp" and "Hunter's Mark.esp" below the unique item ESPs from the **Visuals** section:
 1. Complete Armor Joints.esp
 1. chuzei_helm_no_neck.esp
-1. [**Unique Items ESPs** or the self-created *Unique Items Merged ESP**]
+1. [**Unique Items ESPs** or the self-created **Unique Items Merged ESP**]
 1. Quorn Resource Integration.esp
 1. Hunter's Mark.esp
 1. [All the other **VISUALS** plugins and subsequent sections' plugins]
