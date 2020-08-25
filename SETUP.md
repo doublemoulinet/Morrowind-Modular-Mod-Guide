@@ -144,8 +144,12 @@ Familiarize yourself with TES3View. Like other xEdit iterations, it is a powerfu
 TESTool is a mod repair and management tool. You will use it to clean your plugins.
 1. [Download TESTool](https://en.uesp.net/wiki/Tes3Mod:TESTool) and extract the executable and files to your root directory (Morrowind\TESTool.exe).
 
+### TESAME
+TESAME is a useful mod editing program that we will use exclusively to delete bad references within a plugin.
+1. [Download TESAME](http://mw.modhistory.com/download-95-5289) and extract the contents to your Morrowind root folder in a new folder called "TESAME"
+
 ### Mlox
-A plugin load order sorter. Mlox will not be used in this guide (plugin order will be adjusted manually in the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section of the guide. If you add your own mods, you will want to check your load order with Mlox.
+A plugin load order sorter. Mlox will not be used in this guide (plugin order will be adjusted manually in the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section of the guide. If you add your own mods, you may want to check your load order with Mlox.
 1. Download the latest version of [mlox from github](https://github.com/mlox/mlox/releases/). Review the [github page](https://github.com/mlox/mlox) for more information on its use
 1. Extract the mlox.exe to your Morrowind root directory (Morrowind\mlox.exe).
 You can add mlox to your list of executables in Wrye Mash by clicking the gear icon at the bottom bar. In the "Wrye Mash Settings" popup navigate to the "Paths" tab and add the Mlox.exe filepath.
@@ -184,7 +188,7 @@ Each time you drop a plugin on the .bat file, a -cleaned.log file will generate.
 ### Installing cleaned plugins
 Once you have cleaned your plugin, create a new folder "[Mod name] - Cleaned ESP" and drop the cleaned plugin into this folder. Repeat for all cleaned plugins.
 
-Drop the new "[Mod name] - Cleaned ESP" folders into your Mods directory. In Wrye Mash drag these new projects below the original mod packages in your Installers tab. You can disable the plugin file in the original mod package by deselecting it in the "Esp/m filter" right pane.
+Drop the new "[Mod name] - Cleaned ESP" folders into your Mods directory. In Wrye Mash drag these new projects below the original mod packages in your Installers tab. You can then disable the plugin file in the original mod package by deselecting it in the "Esp/m filter" right pane, and then **refreshing** or **annealling** your Installers Tab to ensure these changes are registered.
 
 **NEXT SECTION**:
 [**Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md)
