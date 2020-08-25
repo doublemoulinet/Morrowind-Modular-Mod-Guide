@@ -51,7 +51,7 @@ If you installed the **Content** section, you will need to move "Quorn Resource 
 1. [Unique Item ESPS or the Unique Item Merged ESP]
 1. Quorn Resource Integration.esp
 1. Hunter's Mark.esp
-[...]
+1. [All the other **VISUALS** plugins and subsequent sections' plugins]
 1. Yet Another Guard Diversity Overhaul.esp
 1. Mamaea Awakened.esp
 
