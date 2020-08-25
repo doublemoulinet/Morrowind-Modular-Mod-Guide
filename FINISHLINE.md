@@ -8,7 +8,8 @@ If you followed the cleaning advice as you installed each mod then you have alre
 ## Multipatch and Merged Patch
 You need to create two merged patches to resolve plugin conflicts.
 
-First, you need to create the tes3cmd multipatch:
+### Multipatch
+First, you need to create the **tes3cmd multipatch**:
 1. Click the tes3cmd_multipatch.bat in your Data Files (you created this in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md))
 1. Follow the instructions/prompts in the command-line window
 1. Once complete, tes3cmd will create multipatch.esp in your Data Files
@@ -20,8 +21,9 @@ The multipatch erroneously edits four levelled lists affected by the Daedric rar
 1. random_Golden_saint_shield
 
 Save the edited plugin by choosing "save as" and overwriting the original plugin. In Wrye Mash's Mods Tab, ensure the multipatch.esp plugin is at the bottom of your load order. **NOTE:** You will have to do this each time you regenerate your multipatch.
- 
-Next, create the Merged Objects patch with TES3Merge:
+
+###Merged Objects
+Next, create the **Merged Objects patch** with **TES3Merge**:
 1. Launch TES3Merge.exe and follow the prompts
 1. Once complete, TES3Merge wil create Merged Objects.esp in your Data Files. 
 
