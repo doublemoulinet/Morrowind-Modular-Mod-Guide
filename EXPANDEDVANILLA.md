@@ -66,7 +66,7 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?tab=files)
 	- Install the “04 Weapon Sheathing Patch” as a separate mod and install
 
-## MWSE - QOL and Immersion
+## MWSE - QoL and Immersion
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?tab=files)
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?tab=files)
 1. [Darhk’s Super-Sized Storage](https://www.nexusmods.com/morrowind/mods/45147?tab=files)

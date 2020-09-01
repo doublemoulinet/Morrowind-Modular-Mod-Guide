@@ -1,5 +1,5 @@
 # Optional Early Loaders
-These optional mods should not be used on your first playthrough. The **Official Plugins** are a real grab bag--some are mediocre, others are trivial, most are best forgotten. The cleaned and fixed versions presented here are the best way to incorporate them into your game, but are not necessary (or even recommended) for an enjoyable Morrowind experience. In fact, I strongly discourage using any of the Offical Plugins. Just don't.
+These optional mods should not be used on your first playthrough. The **Official Plugins** are a real grab bag--some are mediocre, others are trivial, most are best forgotten. The cleaned and fixed versions presented here are the best way to incorporate them into your game, but are not necessary (or even recommended) for an enjoyable Morrowind experience. In fact, let me put this another way: I strongly discourage using any of the Offical Plugins. Just don't.
 
 The landmass mods--Tamriel Rebuilt and its sister projects--are highly recommended on subsequent playthroughs. These are arguably the most impressive modding projects on the web. Tamriel Rebuilt is a decades-long project to recreate the Morrowind mainland in TES3. The "Old Ebonheart" release is one of the best quest mods available and I recommend a TR-centric playthrough to play the different questlines.
 
@@ -8,6 +8,7 @@ Solstheim Tomb of the Snow Prince overhauls the Bloodmoon expansion to bring the
 **Important**: if you install the Unofficial Plugins and/or Landmass mods move them to the *top of your install order* in the Wrye Mash Installers Tab. This is to ensure neither TR nor the official plugins overwrite your mesh/texture fixes in the [Core](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) section
 	
 ## Official Plugins
+All due respect to the mod author, who has done taken on a Sisyphean task in fixing and polishing the official plugins--but you are better off without them. If you *must* play with the official plugins, this is the best way to experience them:
 1. [Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931?tab=files)
 	- Download both main files “UMOPP” and “Merged and Compatibility Versions”
 	- Install UMOPP first and do not activate any of the ESPs
@@ -27,7 +28,7 @@ Solstheim Tomb of the Snow Prince overhauls the Bloodmoon expansion to bring the
 		- 010 Solstheim - Tomb of the Snow Prince
 		- 012 Armor of the Snow Prince
 	- Cleaning: Snow Prince Armor Redux.esp, and VSW_Solstheim_TD_Item_Expansion.esp require cleaning
-	- NB: STOTSP requires Tamriel_Data.esm
+	- NB: STOTSP requires Tamriel_Data.esm, which you installed just above
 1. [Rather Nice Factor Estate](https://www.nexusmods.com/morrowind/mods/47933?tab=files)
 
 ### Landmass Mod Compatibility

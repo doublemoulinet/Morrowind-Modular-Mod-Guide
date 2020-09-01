@@ -1,10 +1,17 @@
 # VISUALS
 
-## Texture Overhauls
+## Texture Base
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?tab=files)
 	- The definitive texture replacer for Morrowind. Highly recommended. No performance impact.
 	- Install both the Main File and the "Wood Fix 2.1b" Update File
 	- Enable both "00 Core" and "01 Atlas Textures"
+
+## Grass
+1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?tab=files)
+	- The definitive groundcover/grass mod for Morrowind. Highly recommended. No performance impact on my setup, though your experience may vary.
+	- Installation: enable the "00 Core" option
+	- Note: the plugins will only be enabled during MGE XE's distant land generation, which you will run at the end of the guide. Otherwise, the plugins should not be enabled in your load order, and after distant land generation can be disabled in the Installers Tab. Again, the **ESPs should be disabled except when regenerating distant land**
+	- If you want to be a real nerd about it, you can repackage the mod with the grass plugins in a separate folder within "Data Files" (ex., \Data Files\Grass Plugins). You can then specify this as an additional directory in the MGE XE distant land generator
 
 ## Lighting
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?tab=files)
@@ -32,6 +39,20 @@
 		- 00 Meshes (the \meshes folder from the main file and update)
 		- 01 Textures (the \textures folder from the main file and update)
 		- 02 Tamriel Rebuilt (the \textures folder from the TR optional file)
+1. [Keg Drip](https://www.nexusmods.com/morrowind/mods/47903?tab=files)
+	- Enable the following BAIN options:
+		- 00 Core
+		- 01 MWSE Version	
+1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?tab=files)
+	- Enable both the "00 Core" and "01 Vanilla Mist Replacer" options
+1. [Mist Retexture](https://www.nexusmods.com/morrowind/mods/44322?tab=files)
+1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?tab=files)
+	- Enable the following BAIN options:
+		- 00 Core
+		- 02 Iron Repair Prongs
+1. [Parasol Particles](https://www.nexusmods.com/morrowind/mods/47755?tab=files)
+	- Enable the following BAIN options:
+		- 00 Core
 1. [Skeletons Atlased](https://www.nexusmods.com/morrowind/mods/46012?tab=files)
 	- Download only the optional file “Skeletons Atlased”
 	- Enable the following BAIN options:
@@ -45,18 +66,25 @@
 1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
 	- Enable one of the three options (I prefer "faint")
 1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?tab=files)
+1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?tab=files)
+1. [Unto Dust](https://www.nexusmods.com/morrowind/mods/48435?tab=files)
+	- Enable both "00 Core" and "01 Default Dust"
 1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?tab=files)
 1. [Visually Filled Soul Gems](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select Visually Filled Soul Gems and install
+1. [Waterfall Tweaks](https://www.nexusmods.com/morrowind/mods/46271?tab=files)
 
 ## Meshes and Textures - Optional
 1. [Ashmire Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
 	- Download "Ashmire Replacer," "Bitter Coast Scum Replacer," and "Vivec Water Replacer." Install separately as directed in this section.
 	- Install "Ashmire Replacer" and enable ONLY the following BAIN option:
 		- 01 - Still Mire
+	- NB: the bubble effect can be a little taxing on slower hardware
 1. [Detailed Brooms](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 	- Download only the "Detailed Brooms" main file
+1. [FMI - Caius' Big Package](https://www.nexusmods.com/morrowind/mods/47580?tab=files)
+	- ESP requires cleaning
 1. [Furn_overhang_18__smoooooth](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
 	- Download the main file "furn_overhang_18_smooooooth" and install normally
 1. [MWSE Blood Diversity](https://www.nexusmods.com/morrowind/mods/47913)
@@ -64,18 +92,13 @@
 	- The "main.lua" has a leftover debug function. Open the file and delete the following line (line 37):
 			
 			mwse.log("[Blood Diversity] Setting blood to type %d for %s", bloodOverride, object)
-1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?tab=files)
-	- Enable the following BAIN options:
-		- 00 Core
-		- 02 Iron Repair Prongs
-1. [Parasol Particles](https://www.nexusmods.com/morrowind/mods/47755?tab=files)
-	- Enable the following BAIN options:
-		- 00 Core
+1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?tab=files)
+	- Activate "00 Core" and "01 Vvardenfell only"
+1. [No Translation Tooltips](https://www.nexusmods.com/morrowind/mods/48540?tab=files)
+1. [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339?tab=files)
+	- Install normally and enable only one ESP: "Old_dwemer_books_Better_typography.esp"
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?tab=files)
-	- Does what it says. No, this mod is not optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla texutres from Intelligent Textures
-1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?tab=files)
-1. [Unto Dust](https://www.nexusmods.com/morrowind/mods/48435?tab=files)
-	- Enable both "00 Core" and "01 Default Dust"
+	- Does what it says. No, this mod is not really optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla texutres from Intelligent Textures
 1. [Vivec Palace Water Replacer](https://www.nexusmods.com/morrowind/mods/48291?tab=files)
 	- Enable the following BAIN options 
 		- 00 Core 
@@ -86,6 +109,8 @@
 	- Make sure you click the download button in the top-right corner and download the latest version. **Do not** download the old version at the bottom of the mod page
 1. [Helseth's Robe Fixed](https://www.nexusmods.com/morrowind/mods/47664?tab=files)
 	- Don't enable the ESP
+1. [Hopesfire Glow](https://www.nexusmods.com/morrowind/mods/45855?tab=files)
+	- Enable only the "Hopesfire Torch (+brighter trueflame).esp
 1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?tab=files)
 	- Download and install the Optional File "Improved Nordic Iron Helm 1.0-alternate"
 1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
@@ -127,23 +152,6 @@ Many unique items are assigned generic models in the game. These mods make some 
 1. [Unique Snowy Crown](https://www.nexusmods.com/morrowind/mods/46782?tab=files)
 1. [Unique Weapon – Mephala’s Teacher](https://www.nexusmods.com/morrowind/mods/43528?tab=files)
 	- Download Main File "Unique Weapon - Mephala's Teacher"
-
-## Replacers
-1. [FMI - Caius' Big Package](https://www.nexusmods.com/morrowind/mods/47580?tab=files)
-	- ESP requires cleaning
-1. [Hopesfire Glow](https://www.nexusmods.com/morrowind/mods/45855?tab=files)
-	- Enable only the "Hopesfire Torch (+brighter trueflame).esp
-1. [Keg Drip](https://www.nexusmods.com/morrowind/mods/47903?tab=files)
-	- Enable the following BAIN options:
-		- 00 Core
-		- 01 MWSE Version
-1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?tab=files)
-1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?tab=files)
-	- Activate "00 Core" and "01 Vvardenfell only"
-1. [No Translation Tooltips](https://www.nexusmods.com/morrowind/mods/48540?tab=files)
-1. [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339?tab=files)
-	- Install normally and enable only one ESP: "Old_dwemer_books_Better_typography.esp"
-1. [Waterfall Tweaks](https://www.nexusmods.com/morrowind/mods/46271?tab=files)
 
 
 **NEXT SECTION**:

@@ -38,7 +38,7 @@
 1. [Diligent Defenders](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select Diliegent Defenders and install
-1. [Douse the Lights](https://www.nexusmods.com/morrowind/mods/47980?tab=files)
+	- BUG: this may or may not cause combat bark subtitles (the things NPCs yell at you when in combat) to trigger whenever you enter combat the first time in a game session, regardless if it's a creature or humanoid NPC. If this bothers you, you can safely disable the mod
 1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Drop Light and install
@@ -47,6 +47,8 @@
 1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select The Last Witness and install
+1. [The Law is Sacred](https://www.nexusmods.com/morrowind/mods/48130?tab=files)
+	- ESP is optional (it changes a dialogue line to reflect guards' new non-lethal arrest tactics); you can leave it disabled
 1. [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528?tab=files)
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?tab=files)
 1. [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?tab=files)
@@ -56,7 +58,7 @@
 1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?tab=files)
 
 ## Optional New Mechanics
-These mods add new game mechanics. These tend to make the game more challenging or add immersive elements. Optional, but strongly recommended!
+These mods add new game mechanics. These tend to make the game more challenging or add immersive elements like illiteracy and animal taming. Optional, but strongly recommended!
 1. [Give a Gift](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Give a Gift and install

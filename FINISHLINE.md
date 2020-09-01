@@ -65,6 +65,10 @@ Ensure that the following mods always load *last* in your load order:
 ## Distant Land Generation
 Remember to re-run distant land generation according to the steps in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md).
 
+If you have installed Remiros' Groundcover, there are additional settings to check in MGE XE's distant land generation tab:
+1. On the "Create Distant Statics" tab, set **Grassy Density** to 50% and click generate statics
+1. After distant land generation completes, disable the Remiros' Groundcover grass ESPs in Wrye Mash. Anneal/refresh your Installers Tab
+
 ## Shaders
 Remember to set up the mod-added shaders and enable them in the MGE XE shader tool. (If the following shaders don't appear in your shader list, that just means you didn't install the relevant mod, so you're fine!):
 - invisibility (from Enhanced Invisibility)
@@ -121,6 +125,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - Let There Be Darkness
 	- In the General and Cell Settings tab, set Cell Lighting Value Overrides to TLAD
 	- Leave the remaining settings at their defaults
+- Less Aggressive Creatures
 - Magicka Based Skill Progression
 	- Leave the Skill Experience per Magicka at default, or adjust as desired if magic skills are advancing too quickly.
 - Miscast Enhanced

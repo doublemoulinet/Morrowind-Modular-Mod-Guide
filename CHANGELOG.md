@@ -1,6 +1,15 @@
+2020-08-31
+- More minor changes
+- added: BALANCE: Less Aggressive Creatures
+- added: CONSISTENCY: Synthesis Series - Creatures and Diseases
+- removed: BALANCE: More Passive Wildlife (replaced with Less Aggressive Creatures)
+- removed: CONSISTENCY: Diseases Restored (replaced with Synthesis Series - Creatures and Diseases)
+- removed: GAMEPLAY: Douse the Lights (very cool mechanic, but purely visual since stealth is calculated solely by skill)
+
 2020-08-22
 - added: VISUALS: Complete Armor Joints
 - added: CONTENT: The Ashen Divide
+- A bunch of other changes I didn't document
 
 2020-08-22
 - added: BALANCE: Enchant Capacity Rebalanace
