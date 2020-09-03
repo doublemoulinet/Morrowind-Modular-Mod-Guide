@@ -2,7 +2,7 @@
 The following are all you need to play the game on modern systems. This section and [Setup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md) are the only required sections of the guide. The patches section fixes most of the game's bugs, and MOP and Project Atlas dramatically increase performance.
 
 ## Loose Files Backups
-Most of the game's files are packed in the game BSAs, but a few file types (fonts, splash screens, video) are installed loose. If you intend to tinker with your mod installations, it's recommended that you navigate to your game's /Data Files and create a zip backup of the following folders:
+Most of the game's files are packed in the game BSAs, but a few file types (fonts, splash screens, video) are installed loose. Since Wrye Mash doesn't use a virtual file system, installed mods that change these loose files will overwrite them, making uninstallation a pain. If you intend to tinker with your mod installations, it's recommended that you navigate to your game's */Data Files* and create a zip backup of the following folders:
 1. Fonts
 1. Splash
 1. the 3 videos from the /Videos folder:
@@ -10,7 +10,7 @@ Most of the game's files are packed in the game BSAs, but a few file types (font
 	- mw_logo.bik
 	- mw_menu.bik
 
-Drop this zip file in your mod directory and install with your mod manager at the top of your installation order. This backup means you can easily revert to vanilla loose files in the event you uninstall, ex., the **Better Fonts** mods at the end of this **CORE** section, or the **Intro Video** replacers in the **EXPANDED VANILLA** section.
+Drop this zip file in your mod directory and install with your mod manager at the top of your installation order. This backup means you will automatically revert to vanilla loose files in the event you uninstall, for example, the **Better Fonts** mods at the end of this **CORE** section, or the **Intro Video** replacers in the **EXPANDED VANILLA** section.
 
 ## Patches
 1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096?tab=files)

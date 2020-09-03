@@ -22,7 +22,7 @@
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select User Interface Expansion and install
 
-## Optional User Interface - Expanded
+## User Interface - Optional Expanded
 1. [Cheat Menu](https://www.nexusmods.com/morrowind/mods/47143?tab=files)
 1. [Companion Health Bars MWSE Lua](https://www.nexusmods.com/morrowind/mods/46136?tab=files)
 1. [Hotkeys Extended](https://www.nexusmods.com/morrowind/mods/48055?tab=files)
@@ -34,7 +34,7 @@
 	- Install normally
 1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?tab=files)
 
-## Optional Splash Screen / Video 
+## User Interface - Splash Screen / Video 
 If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replacers. High quality, seamless integration with the vanilla art style. Before installing these mods, you may want to manually backup your **Data Files\Splash folder** (to preserve the original 4:3 splash screens), and zip your **Data Files\Video\mw_logo.bik** and **Data Files\Video\mw_intro.bik**.
 1. [The Role They Were to Play](https://www.nexusmods.com/morrowind/mods/46411?tab=files)
 1. [Widescreen Menu and Logo Replacer](https://www.nexusmods.com/morrowind/mods/47164?tab=files)

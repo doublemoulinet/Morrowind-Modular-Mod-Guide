@@ -1,10 +1,18 @@
+2020-09-03
+- added MGE XE shaders to the SETUP section
+- small cleanup of guide subsections
+- added: BALANCE: Wading in Water MW
+- removed: VISUALS: Helseth's Robe (already in PfP)
+- removed: CONTENT: Tower of Vos
+- removed: CONTENT: Forge of Hilbongard
+
 2020-08-31
 - More minor changes
 - added: BALANCE: Less Aggressive Creatures
 - added: CONSISTENCY: Synthesis Series - Creatures and Diseases
 - removed: BALANCE: More Passive Wildlife (replaced with Less Aggressive Creatures)
 - removed: CONSISTENCY: Diseases Restored (replaced with Synthesis Series - Creatures and Diseases)
-- removed: GAMEPLAY: Douse the Lights (very cool mechanic, but purely visual since stealth is calculated solely by skill)
+- removed: GAMEPLAY: Douse the Lights (very cool mechanic, but purely visual since stealth is calculated only by skill level)
 
 2020-08-22
 - added: VISUALS: Complete Armor Joints

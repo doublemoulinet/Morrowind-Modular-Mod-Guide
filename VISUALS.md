@@ -8,11 +8,12 @@
 
 ## Grass
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?tab=files)
-	- The definitive groundcover/grass mod for Morrowind. Highly recommended. No performance impact on my setup, though your experience may vary.
+	- The definitive groundcover/grass mod for Morrowind. Highly recommended. No performance impact on my setup (GTX 1070 Ti), though performance may vary depending on your GPU.
 	- Installation: enable the "00 Core" option
-	- Note: the plugins will only be enabled during MGE XE's distant land generation, which you will run at the end of the guide. Otherwise, the plugins should not be enabled in your load order, and after distant land generation can be disabled in the Installers Tab. Again, the **ESPs should be disabled except when regenerating distant land**
+	- Note: the plugins will only be enabled during MGE XE's distant land generation, which you will run at the end of the guide in the [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section. 
 	- If you want to be a real nerd about it, you can repackage the mod with the grass plugins in a separate folder within "Data Files" (ex., \Data Files\Grass Plugins). You can then specify this as an additional directory in the MGE XE distant land generator
-
+	- Otherwise, the plugins should not be enabled in your load order, and after distant land generation can be disabled in the Installers Tab. Again, the **ESPs should be disabled except when regenerating distant land**
+	
 ## Lighting
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?tab=files)
 1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?tab=files)
@@ -42,7 +43,9 @@
 1. [Keg Drip](https://www.nexusmods.com/morrowind/mods/47903?tab=files)
 	- Enable the following BAIN options:
 		- 00 Core
-		- 01 MWSE Version	
+		- 01 MWSE Version
+1. [Lazily Atlased Statues of Delyn and Olms](https://www.nexusmods.com/morrowind/mods/48578?tab=files)
+	- Download the Main File. If using vanilla textures (i.e. you haven't installed Intelligent Textures), download the optional file and install as a separate mod
 1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?tab=files)
 	- Enable both the "00 Core" and "01 Vanilla Mist Replacer" options
 1. [Mist Retexture](https://www.nexusmods.com/morrowind/mods/44322?tab=files)
@@ -107,12 +110,12 @@
 ## Equipment Meshes
 1. [Complete Armor Joints](http://mw.modhistory.com/download-4-12572)
 	- Make sure you click the download button in the top-right corner and download the latest version. **Do not** download the old version at the bottom of the mod page
-1. [Helseth's Robe Fixed](https://www.nexusmods.com/morrowind/mods/47664?tab=files)
-	- Don't enable the ESP
 1. [Hopesfire Glow](https://www.nexusmods.com/morrowind/mods/45855?tab=files)
 	- Enable only the "Hopesfire Torch (+brighter trueflame).esp
 1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?tab=files)
 	- Download and install the Optional File "Improved Nordic Iron Helm 1.0-alternate"
+1. [Improved Shields](https://www.nexusmods.com/morrowind/mods/47931?tab=files)
+	- Download the Main File and enable only the "00 Data Files" BAIN option
 1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?tab=files)
 	- Download only "Lore Friendly Iron Warhammer" and install
 1. [Lougians Colovian helm fix](https://www.nexusmods.com/morrowind/mods/43795?tab=files)
@@ -128,8 +131,6 @@
 	- Download the main file "Improved Pauldron Meshes (Vanilla - Better Morrowind Armor) and enable the following BAIN options:
 		- 00 Data Files
 		- 01 Orcish Pauldrons with Fangs
-1. [Improved Shields](https://www.nexusmods.com/morrowind/mods/47931?tab=files)
-	- Download the Main File and enable only the "00 Data Files" BAIN option
 1. [Silver Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46787?tab=files)
 	- Install both "00 Core" and "01 Weapon Sheathing Patch"
 1. [Improved Thrown Weapon Projectiles](https://www.nexusmods.com/morrowind/mods/44763?tab=files)

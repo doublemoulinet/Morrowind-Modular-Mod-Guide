@@ -49,14 +49,15 @@
 	- Enable the "00 Core" option. Additionally, enable the "01 Hunter's Mark Version" **only** if you intend to install the **CONTENT** section of this guide. This version replaces a quest reward with a nice Ebony Bow from the mod "Hunter's Mark."
 1. [Urnest Loot](https://www.nexusmods.com/morrowind/mods/45616?tab=files)
 	- Download and install the Optional File "Urnest Loot"	
-	
+1. [Wading in Water MW](https://www.nexusmods.com/morrowind/mods/48783?tab=files)
+
 ## Levelling and Skills
 Morrowind's levelling system shows its age. Because of how it handles skill-ups and attribute modifiers, Morrowind encourages powergaming, which is uNiMmERsiVE and BAD. There are several recent lua-based levelling overhauls that make skill increases/levelling much less intrusive.
 
 Choose and **install only ONE** of the following levelling mod sections. If this is your first time with Morrowind, I recommend playing with Improved Vanilla Levelling first (it most closely resembles the original game's system), and trying CCCP on a subsequent playthrough:
 
 ### Improved Vanilla 
-Install this section if you want to play with Improved Vanilla, which eliminates the meta-gaming aspect of levelling and smooths out the kinks/inconsistencies, while remaining faithful to the original system.
+Install this section if you want to play with Improved Vanilla, which does as the name suggests: it irons out the kinks and inconsistencies in the game's levelling system.
 1. [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065?tab=files)
 1. [Beast Race Abilities Toggleable](https://www.nexusmods.com/morrowind/mods/44948?tab=files)
 	- You can skip this if you won't be playing as a Lizard or a Cat.

@@ -59,26 +59,32 @@ The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its oth
 1. Download the latest version of [MGE XE](https://www.nexusmods.com/morrowind/mods/41102?tab=files)
 1. Extract the contents to your Morrowind root directory (not "Data Files"). If you have unpacked correctly, the MGEXEGui.exe should be in the same folder as the Morrowind.exe
 1. Right-click the MWSE-Update.exe and select **Run as Administrator**. (You may want to add this executable to your anti-virus whitelilst.) Allow the update process to take place. The command-line window will automatically close when this process is done. 
-1. Run MGEXEGui.exe
+
+Next, download the following MGE XE shaders. You can install these manually or using Wrye Mash's Installers Tab. If installing manually, extract them to your Morrowind *Data Files* folder:
+1. [MGE XE Land Bias Fix](https://mega.nz/file/ft5hUJ5L#-5Y533Rtwy2uX5moycm4pQjEDXClyFGl78XMDvfVzME) small tweak to the distant land height bias to reduce clipping/seams
+1. [MGE XE Shader - deband_fogaware](https://mega.nz/file/W8x3RTCK#w94LPJSeym5h82KUOg8SbkIoS8M7E-9Xm2Lar0gjqXw) an improved fog shader
+1. [MGE XE Shader - EdgeAA](https://mega.nz/file/HwxVXbQY#eSxnVWTbC165OC1EyC-P9IahvH05We88pyba-fy2ePI) improved anti-aliasing, to be used with MGE XE's AA settings
 
 MGE XE consists of five tabs with configurable options: Graphics, Distant Land, In-Game, Config, and Instructions. There are a number of MGE XE options to enable now:
 
-### Graphics
-The features in this section are self-explanatory. Select your display resoultion, set AA and AF (check the Config tab to report the max AA/AF your hardware supports). I recommend borderless windowed mode. Enable Vsync only if not already enabled through your GPU options. 
+### Graphics Tab
+The features in this section are mostly self-explanatory. Select your display resoultion, set AA and AF (check the Config tab to report the max AA/AF your hardware supports). Enable borderless fullscreen windowed mode. Enable Vsync only if not already enabled through your GPU hardware options (if using an Nvidia card, this is enabled through the Nvidia Control Panel). 
 
 Shaders requires some setup:
 1. Click the checkbox to enable shaders and enter "Shader setup..."
 1. Select the High quality preset. Ensure the following shaders are enabled:
+	- EdgeAA
 	- SSAO Fast
 	- Underwater Interior Effects
 	- Underwater Effects
 	- Sunshafts
 	- Bloom Soft
 	- Eye Adaptation (HDR)
+	- deband_fogaware
 	
 You will need to run MGE XE at the end of your mod installation to regenerate distant land and enable mod-specific shaders.
 
-### Distant Land
+### Distant Land Tab
 Distant Land does what it says. My personal settings ensure a low performance impact and cleave to the original foggy aesthetic. 
 
 The **Distant land generator wizard** lets you select which plugins MGE XE will use when generating distant land. I recommend selecting **Use current load order**. When you click **Continue** a prompt will offer you three options to generate distant land:
@@ -106,7 +112,7 @@ Other Distant Land settings:
 
 You will need to run MGE XE at the end of your mod installation to regenerate distant land and enable mod-specific shaders.
 
-### In-game
+### In-game Tab
 Enable the following options:
 - Skip opening movie
 - Crosshair autohide

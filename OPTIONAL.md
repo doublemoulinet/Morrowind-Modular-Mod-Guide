@@ -8,7 +8,7 @@ Solstheim Tomb of the Snow Prince overhauls the Bloodmoon expansion to bring the
 **Important**: if you install the Unofficial Plugins and/or Landmass mods move them to the *top of your install order* in the Wrye Mash Installers Tab. This is to ensure neither TR nor the official plugins overwrite your mesh/texture fixes in the [Core](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) section
 	
 ## Official Plugins
-All due respect to the mod author, who has done taken on a Sisyphean task in fixing and polishing the official plugins--but you are better off without them. If you *must* play with the official plugins, this is the best way to experience them:
+All due respect to the mod author, who has done taken on an enormous task in fixing and polishing the official plugins--but you are better off without them. If you *must* play with the official plugins, this is the best way to experience them:
 1. [Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931?tab=files)
 	- Download both main files “UMOPP” and “Merged and Compatibility Versions”
 	- Install UMOPP first and do not activate any of the ESPs

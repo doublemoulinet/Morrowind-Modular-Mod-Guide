@@ -20,7 +20,7 @@ See the [Changelog](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guid
 ## Introduction
 This is my personal mod list for Morrowind, with an emphasis on performance and preserving the original character of the game. This is the result of years of modding this game, learning the tools, and curating mods that don't suck but actually rule, man.
 
-For a similar-looking but way better and better maintained guide, see [Sigourn's Morrowind Mended](https://github.com/Sigourn/morrowind-improved). Much of the structure of this guide (particularly the setup section) has been directly cribbed from Sigourn's.
+For a similar-looking guide, with better instructions, see [Sigourn's Morrowind Mended](https://github.com/Sigourn/morrowind-improved). Some of the structure of this guide (particularly the setup section) has been directly cribbed from Sigourn's.
 
 This guide's selling feature: on moderate hardware (ex., an i7-3770 and GTX 680), you will get a solid 50-60FPS in-game. Dips below 60FPS should be rare. Seriously!
 

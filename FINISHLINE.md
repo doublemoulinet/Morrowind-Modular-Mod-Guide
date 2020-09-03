@@ -3,7 +3,9 @@
 Congraulations! You're nearly there. This last section details a few quick steps to ensure a bug-free playthrough.
 
 ## Cleaning
-If you followed the cleaning advice as you installed each mod then you have already completed this section. Otherwise, run TESTool according to the instructions in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md), and then the tes3cmd_clean.bat for individual plugins.
+If you followed the cleaning advice as you installed each mod then you have already completed this section. Otherwise, run TESTool according to the instructions in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md), and then the tes3cmd_clean.bat for individual plugins. 
+
+Please note that this may take some time. However, cleaning your plugins is absolutely worth it. 
 
 ## Multipatch and Merged Patch
 You need to create two merged patches to resolve plugin conflicts.
@@ -37,8 +39,8 @@ As a rule, don't merge ESPs with scripts.
 ## Load order and Late Loaders
 Generally, ESPs should remain in the order that they were installed in this guide. 
 
-Additional re-ordering may be required. Ensure the following load *first* in your load order:
-1. (Whatever ESMs you have enabled, ending with "Patch for Purists.esm")
+Additional re-ordering may be required. Ensure the following load *first* (i.e. at the very top) in your load order:
+1. (Whatever ESMs you have enabled, beginning with Morrowind.esm and ending with "Patch for Purists.esm")
 1. (If you've installed HOTV Solstheim, make sure the ESM loads AFTER Patch for Purists.esm)
 1. Patch for Purists - Book Typos.esp
 1. Patch for Purists - Semi-Purist Fixes.esp
@@ -48,14 +50,14 @@ Additional re-ordering may be required. Ensure the following load *first* in you
 If you installed the **Content** section, you will need to move "Quorn Resource Integration.esp" higher in your load order, so that YAGD and Mamaea Awakened overwrite its changes. Move "Quorn Resource Integration.esp" and "Hunter's Mark.esp" below the unique item ESPs from the **Visuals** section:
 1. Complete Armor Joints.esp
 1. chuzei_helm_no_neck.esp
-1. [**Unique Items ESPs** or the self-created **Unique Items Merged ESP**]
+1. [**All the unique items ESPs** or the self-created **Unique Items Merged ESP**]
 1. Quorn Resource Integration.esp
 1. Hunter's Mark.esp
 1. [All the other **VISUALS** plugins and subsequent sections' plugins]
 1. Yet Another Guard Diversity Overhaul.esp
 1. Mamaea Awakened.esp
 
-Ensure that the following mods always load *last* in your load order:
+Ensure that the following mods always load *last* (i.e. at the very bottom) in your load order:
 1. Some of a Kind.esp
 1. What is something that is too long for an ESP name.esp
 1. XE Sky Variations.esp
@@ -101,7 +103,7 @@ The final step. Launch the game and enter the **Mod Configuration Menu** in the 
 
 Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new game because settings are stored in .json config files in the MWSE folder in the root directory. You only need to make these settings changes once.
 
-- Abot's Loading Door
+- **Abot's Loading Door**
 	- Lock door with shift + activate = yes
 - Abot’s Smart Journal
 	- Add a prefix in order to group quest name? = 0
@@ -110,47 +112,54 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Add source mod name to quest hint = No
 	- Add source mod author… = No
 	- Open first URL… = No
-- Accidental Theft Protection
+- **Accidental Theft Protection**
 	- Blacklist: select the "Books" filter and click "filter all" in the right pane (this will allow you to read owned books without toggling sneak first). You may also want to blacklist "Doors" if you haven't installed Ownership Overhaul
-- Book Pickup
+- **Book Pickup**
 	- On by default? = No (use shift + e to pickup books without reading them)
-- Clock Block
+- **Clock Block**
 	- Clock position=Bottom
 	- Clock type = Game time
-- Continue
+- **Continue**
 	- Hide Credits Button = Yes
 	- Hide New Game Button (In Game) = Yes
-- Illegal Summoning
+- **Illegal Summoning**
 	- NPC Crime Trigger Distance = 2000
-- Let There Be Darkness
+- **Let There Be Darkness**
 	- In the General and Cell Settings tab, set Cell Lighting Value Overrides to TLAD
 	- Leave the remaining settings at their defaults
-- Less Aggressive Creatures
-- Magicka Based Skill Progression
+- **Less Aggressive Creatures**
+	- Peaceful Chance: I recommend a value between 50-80% 
+	- Peaceful Creatures Whitelist:
+	
+	alit, alit_diseased, bm_horker, guar, guar_feral, h11_kwama_forager_dis, h11_kwama_warrior_dis, h11_netch_betty_dis, h11_netch_bull_dis, h11_rat_rust, h11_slaughterfish_dis, kagouti, kagouti_diseased, kwama forager, kwama worker, kwama worker diseased, mudcrab, mudcrab-diseased, netch_betty, netch_bull, nix-hound, rat, rat_diseased, scrib, scrib_diseased, shalk, shalk_diseased, slaughterfish, slaughterfish_small
+	
+- **Magicka Based Skill Progression**
 	- Leave the Skill Experience per Magicka at default, or adjust as desired if magic skills are advancing too quickly.
-- Miscast Enhanced
+- **Miscast Enhanced**
 	- Ensure "Debug Mode" is disabled
-- Multi Mark & Harder Recall
+- **Multi Mark & Harder Recall**
 	- Customize Limited Recall values
 		- Recalls per day: 4
 	- *optional* Enable Miscast Enhanced integration!
-- No Translation Tooltips
+- **No Translation Tooltips**
 	- Disable road sign tooltips: yes
 	- Disable banner tooltips: no
-- Ownership Indicator
+- **Ownership Indicator**
 	- Hide Crosshair = Yes (you may need to toggle the crosshair on/off in the game options menu to get this to work)
-- Quick Loot
+- **Quick Loot**
 	- Hide lock status? = Yes
 	- Show quickloot menu on plant/organic containers? = No
-- Realistic Movement Speeds
+- **Realistic Movement Speeds**
 	- Strafing Movement Percentage Multiplier = 100
-- Security Enhanced
+- **Security Enhanced**
 	- Change the equip/cycle lockpick hotkey to "O" ("L" is used by Let There Be Darkness)
-- Smart Merchants
+- **Smart Merchants**
 	- Enable **Harder Barter like merchants buying prices reduction**: 2. Medium
-- Sophisticated Save System
+- **Sophisticated Save System**
 	- set up autosaves as you prefer, but recommend disabling “Create autosaves after changing cells”
-- UI Expansion
+- **The Midnight Oil**
+	- Toggle Static Lights only = No (this enables imperial lanterns to toggle in towns)
+- **UI Expansion**
 	- Use verbose buttons instead of icons for inventory filtering? = No
-- Weapon Sheathing
+- **Weapon Sheathing**
 	- Show unreadied shields on back = Yes!

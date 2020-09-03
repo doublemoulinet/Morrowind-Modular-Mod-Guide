@@ -45,7 +45,6 @@
 	- Download and install the Optional File "Fixed Version of Gnisis Minaret"
 	- Enable only the English ESP
 	- ESP requires Cleaning
-1. [Tower of Vos](https://www.nexusmods.com/morrowind/mods/43527?tab=files)
 1. [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614?tab=files)
 	- Cleaning: ESP requires cleaning
 
@@ -59,30 +58,25 @@
 1. [The Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/46137?tab=files)
 	- Don't enable the ESP; the next mod reverts some cell name changes and will supply the ESP
 1. [The Grove of Ben'Abi - Region name reverted](https://mega.nz/file/Gl4TQBrR#YqRPilupBPUwneqR0lOs70IvXuBQ5xwbAw_bdGjpG74)
-1. [Seven Graces Shrines Enhanced](https://www.nexusmods.com/morrowind/mods/46417?tab=files)
-	- Download and install both the Main File and the "No Script Edits" optional file. Install both.
-	- Cleaning: ESP requires cleaning
-1. [Shrine of Azura](https://www.nexusmods.com/morrowind/mods/48278?tab=files)
-1. [Telvanni Lighthouse - Tel Branora](https://www.nexusmods.com/morrowind/mods/42664?tab=files)
+1. [RR Mod Series - Holamayan](https://www.nexusmods.com/morrowind/mods/43524?tab=files)
+	- ESP requires cleaning
+1. [RR Mod Series - Holayaman - Vanilla Statue](https://mega.nz/file/z1ZyzASS#Sxg_woC1TjGImgJP-CU6WVgTvaWn9q1tBcPHxa9F4u8)
+1. [RR Mod Series - Telvanni Lighthouse - Tel Branora](https://www.nexusmods.com/morrowind/mods/42664?tab=files)
 	- Enable the following BAIN options:
 		- 00 - Main Files
 		- 01 - Main ESP - English
-1. [Telvanni Lightouse - Tel Vos](https://www.nexusmods.com/morrowind/mods/42744?tab=files)
+1. [RR Mod Series - Telvanni Lightouse - Tel Vos](https://www.nexusmods.com/morrowind/mods/42744?tab=files)
 	- Download the Main File and Update File and install as separate mods in this order
 	- For the Main File, enable the following BAIN options:
 		- 00 - Main Files
 		- 01 - Main Files GitD Patch
 		- 02 - Main ESP - English
 	- Cleaning: the ESP requires cleaning
-
-## Expanded Wilderness - Optional
-1. [RR Holamayan](https://www.nexusmods.com/morrowind/mods/43524?tab=files)
-	- ESP requires cleaning
-1. [RR Holayaman - Vanilla Statue](https://mega.nz/file/z1ZyzASS#Sxg_woC1TjGImgJP-CU6WVgTvaWn9q1tBcPHxa9F4u8)
-1. [Shrine of Mount Assarnibibi](https://www.nexusmods.com/morrowind/mods/46858?tab=files)
+1. [Seven Graces Shrines Enhanced](https://www.nexusmods.com/morrowind/mods/46417?tab=files)
+	- Download and install both the Main File and the "No Script Edits" optional file. Install both.
+	- Cleaning: ESP requires cleaning
+1. [Shrine of Azura](https://www.nexusmods.com/morrowind/mods/48278?tab=files)
 1. [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661?tab=files)
-1. [Urshilaku Spiritual](https://www.nexusmods.com/morrowind/mods/48699?tab=files)
-1. [Valley of the Wind Overhaul](https://www.nexusmods.com/morrowind/mods/46691?tab=files)
 
 ## Guilds
 1. [Balmora Guilds Expanded](https://www.nexusmods.com/morrowind/mods/46859?tab=files)
@@ -96,7 +90,6 @@
 
 ## Dungeons
 1. [Andrano Tomb Remastered](https://www.nexusmods.com/morrowind/mods/44672?tab=files)
-1. [Forge of Hilbongard](https://www.nexusmods.com/morrowind/mods/43222?tab=files)
 1. [Mawia Overhaul](https://www.nexusmods.com/morrowind/mods/46884?tab=files)
 	- Cleaning: ESP requires cleaning
 1. [Remiros' Tombs Expansion](https://www.nexusmods.com/morrowind/mods/45616?tab=files)
