@@ -184,15 +184,17 @@ The first step is to use TESTool to clean your plugins.
 1. Select **Clean ESP/ESM Files** and click **Execute**
 1. Select the relevant plugin that requires cleaning (or, alternately select ALL .esm/.esp files and check the log after for a list of cleaned plugins)
 
-### tes3cmd_clean.bat
-Tes3cmd catches errors that TESTool misses, and vice versa.
+### tes3cmd cleaning
+Tes3cmd catches errors that TESTool misses, and vice versa. 
 
-To use the tes3cmd_clean.bat you need to drag and drop the .esp file onto to .bat and allow tes3cmd processes to run. To expedite this process, I recommend creating a desktop shortcut of the tes3cmd_clean.bat and drag/drop ESP/ESM files this way.
+**Easy method**: Tes3cmd can be accessed through Wrye Mash's **Mods Tabs** by right-clicking the plugin and selecting: *clean with tes3cmd*. It's as easy as that. Move on to the next step: **Installing cleaned plugins**
+
+**Manual method**: If for some reason Wrye Mash's integrated tes3cmd isn't working, or you are a masochist, you can use the tes3cmd_clean.bat you created earlier. To use the tes3cmd_clean.bat you need to drag and drop the .esp file onto the .bat and allow tes3cmd processes to run. To expedite this process, I recommend creating a desktop shortcut of the tes3cmd_clean.bat and drag/drop ESP/ESM files this way.
 
 Each time you drop a plugin on the .bat file, a -cleaned.log file will generate. These can safely be deleted after you are done cleaning all your plugins.
 	
 ### Installing cleaned plugins
-Once you have cleaned your plugin, create a new folder "[Mod name] - Cleaned ESP" and drop the cleaned plugin into this folder. Repeat for all cleaned plugins.
+Once you have cleaned your plugin, create a new folder "[Mod name] - Cleaned ESP" and drop the cleaned plugin into this folder. Repeat for all cleaned plugins. This is so that you don't overwrite the cleaned plugin with the dirty one if you accidentally reinstall the mod.
 
 Drop the new "[Mod name] - Cleaned ESP" folders into your Mods directory. In Wrye Mash drag these new projects below the original mod packages in your Installers tab. You can then disable the plugin file in the original mod package by deselecting it in the "Esp/m filter" right pane, and then **refreshing** or **annealling** your Installers Tab to ensure these changes are registered.
 
