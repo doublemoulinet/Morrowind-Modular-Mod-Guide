@@ -169,4 +169,4 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Show unreadied shields on back = Yes!
 
 ## The End
-Hey, congratulations. You've made it to the end of the guide. Enjoy the game!
+Hey, congratulations. You've made it to the end of the guide. Email Virgil if you have any questions or complaints. Enjoy the game!

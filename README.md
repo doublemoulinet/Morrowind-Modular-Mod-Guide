@@ -29,7 +29,7 @@ This guide's selling feature: on fairly modest hardware (ex., an i7-3770 and GTX
 Morrowind is a single-core application, meaning CPU load is the major performance bottleneck. A CPU with fast single-core processing speed will have a much higher overhead for the most costly CPU work: draw calls, NPCs and animations, collision calculations. This guide tries to keep the CPU overhead low, so that a range of moderate systems will get stable framerates. Mods that add lots of objects to exteriors, or add lots of NPCs, should be installed sparingly.
 
 ## Using this Guide and Installing Mods
-The guide is modular, meaning you can install most sections incrementally. A first-time player need only follow the instructions in the first sections to have a stable, playable game. However, all modules are designed with a vanilla-friendly experience in mind. I recommend first-time players skip the "CONTENT"  module.
+The guide is modular, meaning you can install most sections incrementally. A first-time player need only follow the instructions in the first sections to have a stable, playable game. However, all sections are designed with a vanilla-friendly experience in mind. I recommend first-time players skip the "CONTENT"  section.
 
 This list does not typically describe what each mod does. Read the description on the mod page, and always read the readme.
 

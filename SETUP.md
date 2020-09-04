@@ -1,18 +1,33 @@
 # Setup
 
+## Index
+1.[Modding Basics](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#modding-basics)
+1. [Wrye Mash](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#wrye-mash)
+	1. [Mods Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#mods-tab)
+	1. [Installers Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#installers-tab)
+	1. [Additional Functions](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#additional-functions)
+1. [Morrowind Code Patch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#morrowind-code-patch)
+1. [MGE XE](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#MGE-XE)
+	1. [Graphics Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#graphics-tab)
+	1. [Distant Land Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#distant-land-tab)
+	1. [In-game Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#in-game-tab)
+1. [Additional Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#additional-tools)
+1. [Optional Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#optional-tools)
+1. [Plugin Cleaning](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#plugin-cleaning)
+
 ## Modding Basics
 Install Morrowind to a root directory (ex. C:\Steam\steamapps\common\Morrowind) or (C:\Games\Morrowind). Do not install the game in Program Files.
 
 Some general tips:
-- Do not uninstall mods mid-playthrough. The only mods that can be safely uninstalled mid-game are esp-less replacers and *some* MWSE mods. Any mod with an ESP/ESM should not be removed from your mod order mid-playthrough (unless you know what you're doing)
+- Do not uninstall mods mid-playthrough. The only mods that can be safely uninstalled mid-game are esp-less texture/mesh replacers and *some* MWSE mods. Any mod with an ESP/ESM should not be removed from your mod order mid-playthrough (unless you know what you're doing)
 - Always read the mod description on the mod page
 - Remember to update MWSE! It's under active development and you should run the MWSE-Updater.exe frequently
 - Likewise, check the Nexus for mod updates. MWSE mods are frequently updated and most can be safely installed and updated mid-playthrough
 
 After you have installed the game, run the Morrowind Launcher and boot to the main menu. This ensures the proper files are generated.
 
-## Wrye Mash - Polemos Fork
-1. Download and install the [latest x64 manual installation archive or the latest x64 beta manual installation archive](https://www.nexusmods.com/morrowind/mods/45439?tab=files)
+## Wrye Mash
+1. Download and install the [latest x64 manual installation archive, under Main Files](https://www.nexusmods.com/morrowind/mods/45439?tab=files)
 1. Extract the contents to your Morrowind root foler (C:\...\Morrowind). Overwrite/merge if prompted
 1. In the Morrowind root folder (C:\...\Morrowind) create a new folder called "Mods" (this is where you will extract and keep all your mod packages)
 1. Run mash64.exe

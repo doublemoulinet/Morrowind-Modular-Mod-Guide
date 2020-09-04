@@ -3,11 +3,12 @@
 - small cleanup of guide subsections
 - added: BALANCE: Wading in Water MW
 - removed: VISUALS: Helseth's Robe (already in PfP)
-- removed: CONTENT: Tower of Vos
-- removed: CONTENT: Forge of Hilbongard
+- removed: CONTENT: Tower of Vos (anticpating upcoming release Melchior Dahrks's Vos overhaul)
+- removed: CONTENT: Forge of Hilbongard (anticipating upcoming release of Remiros' Hanin's Wake mod)
 
 2020-08-31
 - More minor changes
+- added: VISUALS: MWSE Blood Diversity (added it back, improved installation instructions)
 - added: BALANCE: Less Aggressive Creatures
 - added: CONSISTENCY: Synthesis Series - Creatures and Diseases
 - removed: BALANCE: More Passive Wildlife (replaced with Less Aggressive Creatures)
@@ -30,7 +31,7 @@
 - moved: Open Mournhold from CONSISTENCY to CONTENT
 - moved: Hearthrum from CONSISTENCY to GAMEPLAY
 - moved: Shattered Stones from CONSISTENCY to GAMEPLAY
-- removed: CORE: Projectile Enchant Capacity
+- removed: CORE: Projectile Enchant Capacity (replaced with Enchant Capacity Rebalance)
 
 2020-08-17
 - added: VISUALS: Weather Adjuster Preset
@@ -52,7 +53,6 @@
 - added: GAMEPLAY: Locks and Traps Detection
 - added: GAMEPLAY: Lua Lockbashing
 - added: CONTENT: Atmospheric Delights
- 
 - removed: VISUALS: Nordic Chest Replacer
 - removed: CONSISTENCY: Silent Assassins
 - removed: CONSISTENCY: Sound Spell Effect

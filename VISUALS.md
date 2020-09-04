@@ -2,7 +2,7 @@
 
 ## Texture Base
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?tab=files)
-	- The definitive texture replacer for Morrowind. Highly recommended. No performance impact.
+	- The definitive texture replacer for Morrowind. Highly recommended.
 	- Install both the Main File and the "Wood Fix 2.1b" Update File
 	- Enable both "00 Core" and "01 Atlas Textures"
 

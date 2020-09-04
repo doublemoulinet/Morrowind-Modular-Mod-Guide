@@ -22,7 +22,7 @@
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select User Interface Expansion and install
 
-## User Interface - Optional Expanded
+## User Interface - Expanded (Optional)
 1. [Cheat Menu](https://www.nexusmods.com/morrowind/mods/47143?tab=files)
 1. [Companion Health Bars MWSE Lua](https://www.nexusmods.com/morrowind/mods/46136?tab=files)
 1. [Hotkeys Extended](https://www.nexusmods.com/morrowind/mods/48055?tab=files)
