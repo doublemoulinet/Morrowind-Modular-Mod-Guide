@@ -75,10 +75,6 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?tab=files)
 1. [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735?tab=files)
 1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?tab=files)
-1. [Switchable Scriptures](https://www.nexusmods.com/morrowind/mods/46680?tab=files)
-	- Enable the following BAIN options
-		- 00 Core
-		- 03 Melchior's Magnificent Manuscripts
 
 
 **NEXT SECTION**:

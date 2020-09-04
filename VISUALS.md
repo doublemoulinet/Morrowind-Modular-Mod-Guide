@@ -46,6 +46,7 @@
 		- 01 MWSE Version
 1. [Lazily Atlased Statues of Delyn and Olms](https://www.nexusmods.com/morrowind/mods/48578?tab=files)
 	- Download the Main File. If using vanilla textures (i.e. you haven't installed Intelligent Textures), download the optional file and install as a separate mod
+1. [Melchior’s Magnificent Manuscript](https://www.nexusmods.com/morrowind/mods/45626?tab=files)
 1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?tab=files)
 	- Enable both the "00 Core" and "01 Vanilla Mist Replacer" options
 1. [Mist Retexture](https://www.nexusmods.com/morrowind/mods/44322?tab=files)
@@ -69,6 +70,10 @@
 1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?tab=files)
 	- Enable one of the three options (I prefer "faint")
 1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?tab=files)
+1. [Switchable Scriptures](https://www.nexusmods.com/morrowind/mods/46680?tab=files)
+	- Enable the following BAIN options
+		- 00 Core
+		- 03 Melchior's Magnificent Manuscripts
 1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?tab=files)
 1. [Unto Dust](https://www.nexusmods.com/morrowind/mods/48435?tab=files)
 	- Enable both "00 Core" and "01 Default Dust"

@@ -46,7 +46,6 @@ Several of these fixes (and many more mods you will install as part of this guid
 		- 00 Core
 	- NB: you will enable the “10 Glow in the Darhk Patch” options later in the installation as a separate mod
 1. [Creature VFX Restoration](https://www.nexusmods.com/morrowind/mods/46194?tab=files)	
-1. [Melchior’s Magnificent Manuscript](https://www.nexusmods.com/morrowind/mods/45626?tab=files)
 
 ## User Interface – Core
 1. [Better Daedric Font](https://www.nexusmods.com/morrowind/mods/44540?tab=files)

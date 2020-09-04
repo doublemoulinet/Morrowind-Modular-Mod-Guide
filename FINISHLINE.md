@@ -32,9 +32,11 @@ Next, create the **Merged Objects patch** with **TES3Merge**:
 Note that you will need to regenerate these two plugins nearly each time you adjust your load order (update, remove or add a plugin) so that the changes are carried on. For your convenience, Wrye Mash will indicate if the plugins are missing masters and require regenerating (the plugin will turn yellow or red in the Mods Tab).
 
 ## Merging
-If you have installed new weapon/item mods and would like to reduce the plugin count, you can use MWedit to open all these plugins simultaneously and merge them into a new plugin (I usually call mine "Unique Items Merged.esp"). Remember to clean any created plugins with TESTool and tes3cmd.
+If you have installed new weapon/item mods and would like to reduce the plugin count, you can use MWedit to open all these plugins simultaneously and merge them into a new plugin (I usually call mine "Unique Items Merged.esp"). This is an optional, and unnecessary, step. Remember to clean any created plugins with TESTool and tes3cmd.
 
-As a rule, don't merge ESPs with scripts.
+Morrowind's plugin limits is 255 active plugins. If you have followed this guide you will likely wind up with 125-140 plugins, well below the limit.
+
+As a rule, don't merge ESPs with dialogue. Scripts, if they are few and short, may be safe to merge.
 
 ## Load order and Late Loaders
 Generally, ESPs should remain in the order that they were installed in this guide. 
@@ -101,11 +103,11 @@ In the in-game menu Options set the following:
 ### MCM Settings
 The final step. Launch the game and enter the **Mod Configuration Menu** in the main menu. Some settings may require you to re-launch the game to take effect.
 
-Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new game because settings are stored in .json config files in the MWSE folder in the root directory. You only need to make these settings changes once.
+Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new game because settings are stored in .json config files in the MWSE folder in the root directory. You only need to make these settings changes once per installation.
 
 - **Abot's Loading Door**
 	- Lock door with shift + activate = yes
-- Abot’s Smart Journal
+- **Abot’s Smart Journal**
 	- Add a prefix in order to group quest name? = 0
 	- Sort quest list by name? = No
 	- Add quest id to quest hint? = No

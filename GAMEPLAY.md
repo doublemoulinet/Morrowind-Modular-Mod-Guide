@@ -77,7 +77,6 @@ These mods add new game mechanics. These tend to make the game more challenging 
 1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?tab=files)
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
 1. [Realistic Repair – Add-on - Fixed](https://mega.nz/file/HlRyzQQL#54F5B_laHzQSCuekUmDDm0145E4wuodPA-XLoCbNG8A)
-	- Be sure to download the Fixed version
 1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?tab=files)
 	- Cleaning: ESP requires cleaning
 
