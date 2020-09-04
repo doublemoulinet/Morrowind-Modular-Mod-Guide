@@ -135,10 +135,8 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Leave the remaining settings at their defaults
 - **Less Aggressive Creatures**
 	- Peaceful Chance: I recommend a value between 50-80% 
-	- Peaceful Creatures Whitelist:
-	
+	- Peaceful Creatures Whitelist: 
 		alit, alit_diseased, bm_horker, guar, guar_feral, h11_kwama_forager_dis, h11_kwama_warrior_dis, h11_netch_betty_dis, h11_netch_bull_dis, h11_rat_rust, h11_slaughterfish_dis, kagouti, kagouti_diseased, kwama forager, kwama worker, kwama worker diseased, mudcrab, mudcrab-diseased, netch_betty, netch_bull, nix-hound, rat, rat_diseased, scrib, scrib_diseased, shalk, shalk_diseased, slaughterfish, slaughterfish_small
-	
 - **Magicka Based Skill Progression**
 	- Leave the Skill Experience per Magicka at default, or adjust as desired if magic skills are advancing too quickly.
 - **Miscast Enhanced**
@@ -169,3 +167,6 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Use verbose buttons instead of icons for inventory filtering? = No
 - **Weapon Sheathing**
 	- Show unreadied shields on back = Yes!
+
+## The End
+Hey, congratulations. You've made it to the end of the guide. Enjoy the game!
