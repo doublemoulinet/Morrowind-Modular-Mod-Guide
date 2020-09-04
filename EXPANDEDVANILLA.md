@@ -58,13 +58,12 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 		- 06 Tamriel Rebuilt Patch Interior Sunrays (if using TR, installed in the Optional Early Loaders)
 	- In the “ESP/m filter” enable ONLY the GITD_Telavnni_Dormers.esp and GITD_WL_RR_Interiors.esp
 1. [Project Atlas - Glow in the Dahrk Patch](https://www.nexusmods.com/morrowind/mods/45399?tab=files)
-	- Download the main file and repack the two BAIN options “10 Glow in the Dahrk Patch” and “10 Glow in the Dahrk Patch - Interior Sunrays” into a separate mod and install
-	- Enable the following BAIN option:
+	- Download the main file install *only* the following BAIN option:
 		- 10 Glow in the Dahrk Patch - Interior Sunrays
 1. [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069?tab=files)
 	- Download and install the “MWSE” Main File
 1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?tab=files)
-	- Install the “04 Weapon Sheathing Patch” as a separate mod and install
+	- Install *only* the “04 Weapon Sheathing Patch” BAIN option
 
 ## MWSE - QoL and Immersion
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?tab=files)

@@ -36,7 +36,7 @@
 	- Download the “Enhanced Stone Walls” file
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?tab=files)
 	- Download both main files and the 10.3 update file
-	- OPTIONAL: the textures in Intelligent Textures are superior but will be overwritten by Facelift. Recommend downloading Facelift and splitting into a BAIN structure:
+	- OPTIONAL: the textures in Intelligent Textures are superior but will be overwritten by Facelift. Recommend downloading Facelift and splitting into a BAIN structure, so you can easily toggle the options on/off to suit your preference:
 		- 00 Meshes (the \meshes folder from the main file and update)
 		- 01 Textures (the \textures folder from the main file and update)
 		- 02 Tamriel Rebuilt (the \textures folder from the TR optional file)
@@ -47,6 +47,7 @@
 1. [Lazily Atlased Statues of Delyn and Olms](https://www.nexusmods.com/morrowind/mods/48578?tab=files)
 	- Download the Main File. If using vanilla textures (i.e. you haven't installed Intelligent Textures), download the optional file and install as a separate mod
 1. [Melchior’s Magnificent Manuscript](https://www.nexusmods.com/morrowind/mods/45626?tab=files)
+	- Enable *only* the "00 Core" BAIN option
 1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?tab=files)
 	- Enable both the "00 Core" and "01 Vanilla Mist Replacer" options
 1. [Mist Retexture](https://www.nexusmods.com/morrowind/mods/44322?tab=files)

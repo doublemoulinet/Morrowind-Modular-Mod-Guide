@@ -54,10 +54,10 @@
 ## Levelling and Skills
 Morrowind's levelling system shows its age. Because of how it handles skill-ups and attribute modifiers, Morrowind encourages powergaming, which is uNiMmERsiVE and BAD. There are several recent lua-based levelling overhauls that make skill increases/levelling much less intrusive.
 
-Choose and **install only ONE** of the following levelling mod sections. If this is your first time with Morrowind, I recommend playing with Improved Vanilla Levelling first (it most closely resembles the original game's system), and trying CCCP on a subsequent playthrough:
+Choose and **install only ONE** of the following levelling mod sections. If this is your first time with Morrowind, I recommend playing with **Improved Vanilla Levelling** first (it most closely resembles the original game's system), and trying **Class-Conscious Character Progression (CCCP)** on a subsequent playthrough:
 
 ### Improved Vanilla 
-Install this section if you want to play with Improved Vanilla, which does as the name suggests: it irons out the kinks and inconsistencies in the game's levelling system.
+Install this section if you want to play with **Improved Vanilla**, which does as the name suggests: it irons out the kinks and inconsistencies in the game's levelling system.
 1. [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065?tab=files)
 1. [Beast Race Abilities Toggleable](https://www.nexusmods.com/morrowind/mods/44948?tab=files)
 	- You can skip this if you won't be playing as a Lizard or a Cat.
@@ -76,7 +76,7 @@ Install this section if you want to play with Improved Vanilla, which does as th
 1. [Wings of Will](https://www.nexusmods.com/morrowind/mods/46626?tab=files)
 
 ### Class-Conscious Character Progression
-Install this section if you want to play with Class-Conscious Character Progression (CCCP). CCCP makes major changes to the game's levelling system, which I won't summarize here. Basically it is very, very good:
+Install this section if you want to play with **Class-Conscious Character Progression (CCCP)**. **CCCP** makes major changes to the game's levelling system, which I won't summarize here. Basically it is very, very good:
 1. [Class-Conscious Character Progression](https://www.nexusmods.com/morrowind/mods/48110?tab=files)
 1. [Beast Race Abilities Toggleable](https://www.nexusmods.com/morrowind/mods/44948?tab=files)
 	- You can skip this if you won't be playing as a Lizard or a Cat. 

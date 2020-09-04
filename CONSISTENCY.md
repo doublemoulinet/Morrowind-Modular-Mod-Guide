@@ -23,9 +23,8 @@
 	- Download and install the "Blighted Animals with Vanilla Textures" main file (the HD texture versions clash with the rest of the game)
 	- Download the optional file "Nix-Hound knockout animation fix" and install as a separate mod directly after "Blighted Animals"
 1. [Blighted Animals - IT Retexture](https://mega.nz/file/7pAGhSpK#4R1x2NTQ18iTWLiRTJRTM7TAYdIZ4_QNHQj1z_pQKQ4)
-1. [Bloat Caves] (https://mega.nz/file/285BhaYb#AYdaP7ZDgNpKPxqGA3N4CxtucjaJCne6Oc6mw1zQjBk)
+1. [Bloat Caves](https://mega.nz/file/285BhaYb#AYdaP7ZDgNpKPxqGA3N4CxtucjaJCne6Oc6mw1zQjBk)
 	- Cleaned and fixed version. As a courtesy, please remember to [endorse the original mod](https://www.nexusmods.com/morrowind/mods/43141?tab=files)
-	- ESP requires cleaning
 1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?tab=files)
 	- ESP requires cleaning
 1. [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423?tab=files)

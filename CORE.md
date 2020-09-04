@@ -18,7 +18,7 @@ Drop this zip file in your mod directory and install with your mod manager at th
 1. [No More Stage Diving](https://www.nexusmods.com/morrowind/mods/47738?tab=files)
 
 ## MWSE Fixes
-Several of these fixes (and many more mods you will install as part of this guide) are available on GitHub in a single archive, courtesy of MWSE guru and engine-dehardcoding wizard NullCascade. Clone/download [NullCascade's Morrowind Mods](https://github.com/NullCascade/morrowind-mods) here and install the following:
+Several of these fixes (and many more mods you will install as part of this guide) are available on GitHub in a single archive, courtesy of MWSE guru and engine-dehardcoding wizard NullCascade. Download [NullCascade's Morrowind Mods](https://github.com/NullCascade/morrowind-mods) here and install the following:
 1. [Easy Escort](https://github.com/NullCascade/morrowind-mods)
 1. [Expeditious Exit](https://github.com/NullCascade/morrowind-mods)
 1. [Immersive Run Fix](https://www.nexusmods.com/morrowind/mods/45947?tab=files)

@@ -16,7 +16,7 @@ All due respect to the mod author, who has done taken on an enormous task in fix
 	
 ## Landmass
 1. [Tamriel Data](https://www.nexusmods.com/morrowind/mods/44537?tab=files)
-	- Download “Tamriel_Data (vanilla)”
+	- Download “Tamriel_Data (vanilla)” or "Tamriel_Data (HD)" based on prefence. The latter fits well with Intelligent Textures
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145?tab=files)
 	- Download both “Tamriel Rebuilt” and the optional “TR Music” files; install as separate mods
 	- Cleaning: TR_Preview.esp requires cleaning
@@ -37,16 +37,17 @@ Solstheim Tomb of the Snow Prince overhauls the entire landmass of Bloodmoon, so
 1. Run the **Morrowind Code Patch (MCP)** again. Under the **Interface Changes** section, enable the "Map Expansion (for Tamriel Rebuilt)" option. 
 	- This will expand the map boundaries so that Solstheim will not be cut off on your in-game map.
 1. **Ownership Overhaul** (installed in the [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md) section)
-	- NOTE: This mod overwrites some changes to Anthology Solstheim / Solstheim Tomb of the Snow Prince (which moves the island of Solstheim farther north). If you are using this mod (recommended in the upcoming "Optional Early Loaders" section), you will need to delete the exterior Solstheim cell references with TESAME (or get use to floating objects in the middle of the sea)
-	- The cell edits you need to delete in TESAME are:
-		1. Felsaad Coast Region (This Cell is unnamed; it will be the penultimate unnamed entry if listed alphabetically)
-		1. Isinfer Plains Region (This Cell is unnamed; it will be the last unnamed entry if listed alphabetically)
-		1. Fort Frostmoth
-		1. Fort Frostmoth
-		1. Raven Rock
-		1. Skaal Village
-		1. Skaal Village
-		1. Thirsk
+	- NOTE: This mod overwrites some changes to Anthology Solstheim / Solstheim Tomb of the Snow Prince (which moves the island of Solstheim farther north). If you are using STOTSP, you will need to delete the exterior Solstheim cell references with TESAME (or get used to floating objects in the middle of the sea)
+	- Run TESAME and open the *"Ownership Overhaul.esp"* plugin. TESAME will generate a list of the edits created by the plugin
+	- The Cell edits you need to delete in TESAME are:
+		1. **Felsaad Coast Region** (This Cell is unnamed; it will be the penultimate unnamed entry if listed alphabetically--you can check by clicking the entry and looking at the information in the bottom tab of the GUI)
+		1. **Isinfer Plains Region** (This Cell is unnamed; it will be the last unnamed entry if listed alphabetically--you can check by clicking the entry and looking at the information in the bottom tab of the GUI)
+		1. **Fort Frostmoth**
+		1. **Fort Frostmoth**
+		1. **Raven Rock**
+		1. **Skaal Village**
+		1. **Skaal Village**
+		1. **Thirsk**
 	- Delete these *and only* these cells in TESAME. Remember to save the plugin before exiting TESAME
 	- I recommend zipping the edited ESP and installing as a new mod to avoid accidentally overwriting it
 

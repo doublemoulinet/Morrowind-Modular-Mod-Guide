@@ -13,26 +13,27 @@ You need to create two merged patches to resolve plugin conflicts.
 ### Multipatch
 First, you need to create the **tes3cmd multipatch**:
 1. Click the tes3cmd_multipatch.bat in your Data Files (you created this in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md))
-1. Follow the instructions/prompts in the command-line window
+1. Follow the prompts in the command-line window and wait for it to generate the patch
 1. Once complete, tes3cmd will create multipatch.esp in your Data Files
 
-The multipatch erroneously edits four levelled lists affected by the Daedric rarity mod "Some of a Kind." Open TESAME and open the multipatch.esp. Filter by type and select the following four "Lev Item" entries and delete them (right click the entries and hit the delete key on your keyboard):
-1. l_m_enchantitem_temple_rank8_2
-1. random excellent melee weapon
-1. random_Golden_saint_weapon
-1. random_Golden_saint_shield
+The multipatch erroneously edits four levelled lists affected by the Daedric rarity mod "Some of a Kind" (installed in the [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md) section. Open TESAME and open the multipatch.esp. Filter by type and select the following four "Lev Item" entries and delete them (right click the entries and hit the delete key on your keyboard):
+1. **l_m_enchantitem_temple_rank8_2**
+1. **random excellent melee weapon**
+1. **random_Golden_saint_weapon**
+1. **random_Golden_saint_shield**
 
-Save the edited plugin by choosing "save as" and overwriting the original plugin. In Wrye Mash's Mods Tab, ensure the multipatch.esp plugin is at the bottom of your load order. **NOTE:** You will have to do this each time you regenerate your multipatch.
+Save the edited plugin by choosing "save as" and overwriting the original plugin. In Wrye Mash's Mods Tab, ensure the **multipatch.esp plugin** is at the bottom of your load order (i.e. last). **NOTE:** You will have to do this each time you regenerate your multipatch.
 
 ### Merged Objects
 Next, create the **Merged Objects patch** with **TES3Merge**:
-1. Launch TES3Merge.exe and follow the prompts
-1. Once complete, TES3Merge wil create Merged Objects.esp in your Data Files. 
+1. Launch TES3Merge.exe and wait for it to generate the plugin
+1. Once complete, TES3Merge wil create Merged Objects.esp in your Data Files
+1. Move the newly-created **Merged Objects.esp plugin** to the bottom of your load order (i.e. last)
 
 Note that you will need to regenerate these two plugins nearly each time you adjust your load order (update, remove or add a plugin) so that the changes are carried on. For your convenience, Wrye Mash will indicate if the plugins are missing masters and require regenerating (the plugin will turn yellow or red in the Mods Tab).
 
 ## Merging
-If you have installed new weapon/item mods and would like to reduce the plugin count, you can use MWedit to open all these plugins simultaneously and merge them into a new plugin (I usually call mine "Unique Items Merged.esp"). This is an optional, and unnecessary, step. Remember to clean any created plugins with TESTool and tes3cmd.
+If you have installed new weapon/item mods and would like to reduce your plugin count, you can use MWedit to open all these plugins simultaneously and merge them into a new plugin (I usually call mine "Unique Items Merged.esp"). This is an optional, and unnecessary, step, and I won't provide instructions for basic use of MWEdit. If you're familiar with the tool, have at it. Remember to clean any created plugins with TESTool and tes3cmd.
 
 Morrowind's plugin limits is 255 active plugins. If you have followed this guide you will likely wind up with 125-140 plugins, well below the limit.
 
@@ -70,14 +71,17 @@ Ensure that the following mods always load *last* (i.e. at the very bottom) in y
 Remember to re-run distant land generation according to the steps in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md).
 
 If you have installed Remiros' Groundcover, there are additional settings to check in MGE XE's distant land generation tab:
-1. On the "Create Distant Statics" tab, set **Grassy Density** to 50% and click generate statics
-1. After distant land generation completes, disable the Remiros' Groundcover grass ESPs in Wrye Mash. Anneal/refresh your Installers Tab
+1. Depending on the method you followed during installation, ensure that the ESPs are enabled and appear in your load order. They should be at the very bottom (i.e. last)
+1. If you installed the plugins to a separate folder (ex, \Data Files\Grass Plugins), you will need to specify this directory in the distant land generator wizard. Again, ensure the plugins are enabled and have a tick box in the wizard
+1. On the "Create Distant Statics" tab, set **Grassy Density** to 100% and click generate statics
+	- Note: you can tweak this setting and re-generate distant land if the grass density affects performance. On my setup, 100% had no impact on framerate
+1. After distant land generation completes, remember to disable the Remiros' Groundcover grass ESPs in Wrye Mash. Anneal/refresh your Installers Tab
 
 ## Shaders
 Remember to set up the mod-added shaders and enable them in the MGE XE shader tool. (If the following shaders don't appear in your shader list, that just means you didn't install the relevant mod, so you're fine!):
-- invisibility (from Enhanced Invisibility)
-- r0_qk_shader (from Shattered Stones - an Earthquake Mod)
-- warp (from Expedition to Mzelthuand)
+- invisibility (from **Enhanced Invisibility** in **GAMEPLAY**)
+- r0_qk_shader (from **Shattered Stones - an Earthquake Mod** in **GAMEPLAY**)
+- warp (from **Expedition to Mzelthuand** in **CONTENT**)
 
 Add them to the bottom of the list of active shaders in MGE XE.
 
@@ -88,7 +92,7 @@ In the in-game menu Options set the following:
 
 **Prefs**
 - Set difficulty to 0 (Dynamic Difficulty will handle scaling to keep things interesting--unless you want to punish yourself and play at 100 difficulty)
-- Set **AI Distance** to the furthest right on the slider (decreasing the value improves performance but may break AI commands. I play with the AI slider set to the furthest left--this saves about 5-7 FPS in areas with lots of NPCs) 
+- Set **AI Distance** to the furthest left on the slider (decreasing the value improves performance but may break AI commands. I play with the AI slider set to the furthest left--this saves about 5-10 FPS in areas with lots of NPCs)
 - Autosave when rest=OFF
 - Always Use Best Attack=OFF (controversial opinion, but the direction-based attack types can be a pain--experiment and make up your own mind)
 - Subtitles=ON
@@ -133,7 +137,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Peaceful Chance: I recommend a value between 50-80% 
 	- Peaceful Creatures Whitelist:
 	
-	alit, alit_diseased, bm_horker, guar, guar_feral, h11_kwama_forager_dis, h11_kwama_warrior_dis, h11_netch_betty_dis, h11_netch_bull_dis, h11_rat_rust, h11_slaughterfish_dis, kagouti, kagouti_diseased, kwama forager, kwama worker, kwama worker diseased, mudcrab, mudcrab-diseased, netch_betty, netch_bull, nix-hound, rat, rat_diseased, scrib, scrib_diseased, shalk, shalk_diseased, slaughterfish, slaughterfish_small
+		alit, alit_diseased, bm_horker, guar, guar_feral, h11_kwama_forager_dis, h11_kwama_warrior_dis, h11_netch_betty_dis, h11_netch_bull_dis, h11_rat_rust, h11_slaughterfish_dis, kagouti, kagouti_diseased, kwama forager, kwama worker, kwama worker diseased, mudcrab, mudcrab-diseased, netch_betty, netch_bull, nix-hound, rat, rat_diseased, scrib, scrib_diseased, shalk, shalk_diseased, slaughterfish, slaughterfish_small
 	
 - **Magicka Based Skill Progression**
 	- Leave the Skill Experience per Magicka at default, or adjust as desired if magic skills are advancing too quickly.
