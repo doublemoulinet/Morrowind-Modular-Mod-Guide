@@ -70,7 +70,7 @@ Ensure that the following mods always load *last* (i.e. at the very bottom) in y
 ## Distant Land Generation
 Remember to re-run distant land generation according to the steps in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md).
 
-If you have installed Remiros' Groundcover, there are additional settings to check in MGE XE's distant land generation tab:
+If you have installed **Remiros' Groundcover**, there are additional settings to check in MGE XE's distant land generation tab:
 1. Depending on the method you followed during installation, ensure that the ESPs are enabled and appear in your load order. They should be at the very bottom (i.e. last)
 1. If you installed the plugins to a separate folder (ex, \Data Files\Grass Plugins), you will need to specify this directory in the distant land generator wizard. Again, ensure the plugins are enabled and have a tick box in the wizard
 1. On the "Create Distant Statics" tab, set **Grassy Density** to 100% and click generate statics
@@ -78,7 +78,7 @@ If you have installed Remiros' Groundcover, there are additional settings to che
 1. After distant land generation completes, remember to disable the Remiros' Groundcover grass ESPs in Wrye Mash. Anneal/refresh your Installers Tab
 
 ## Shaders
-Remember to set up the mod-added shaders and enable them in the MGE XE shader tool. (If the following shaders don't appear in your shader list, that just means you didn't install the relevant mod, so you're fine!):
+Remember to set up the mod-added shaders and enable them in the MGE XE shader tool. (If the following shaders don't appear in your shader list, that just means you didn't install the respective mods, and these instructions can be ignored):
 - invisibility (from **Enhanced Invisibility** in **GAMEPLAY**)
 - r0_qk_shader (from **Shattered Stones - an Earthquake Mod** in **GAMEPLAY**)
 - warp (from **Expedition to Mzelthuand** in **CONTENT**)
