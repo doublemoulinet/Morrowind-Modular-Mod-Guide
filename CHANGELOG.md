@@ -1,3 +1,9 @@
+2020-09-08
+- moved the loose files backup instructions from CORE to the SETUP section
+- added: EXPANDED VANILLA: No More Friendly Fire
+- moved: Diligent Defenders to EXPANDED VANILLA
+- moved: Peaceful Pets to EXPANDED VANILLA
+
 2020-09-03
 - added MGE XE shaders to the SETUP section
 - small cleanup of guide subsections

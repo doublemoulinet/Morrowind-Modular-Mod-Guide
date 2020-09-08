@@ -9,18 +9,18 @@ The landmass mods--**Tamriel Rebuilt** and its sister projects like **Skyrim: Ho
 	
 ## Official Plugins
 All due respect to the mod author, who has done taken on an enormous task in fixing and polishing the official plugins--but you are better off without them. If you *must* play with the official plugins, this is the best way to experience them:
-1. [Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931?tab=files)
+1. [Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931?)
 	- Download both main files “UMOPP” and “Merged and Compatibility Versions”
 	- Install UMOPP first and do not activate any of the ESPs
 	- Install Merged and Compatibility Versions as a separate mod and activate the “UMOPP Compatibility Merged” BAIN option
 	
 ## Landmass
-1. [Tamriel Data](https://www.nexusmods.com/morrowind/mods/44537?tab=files)
+1. [Tamriel Data](https://www.nexusmods.com/morrowind/mods/44537?)
 	- Download “Tamriel_Data (vanilla)” or "Tamriel_Data (HD)" based on prefence. The latter fits well with Intelligent Textures
-1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145?tab=files)
+1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145?)
 	- Download both “Tamriel Rebuilt” and the optional “TR Music” files; install as separate mods
 	- Cleaning: TR_Preview.esp requires cleaning
-1. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921?tab=files)
+1. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921?)
 1. [HOTV Solstheim Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
 	- STOTSP incorporates Anthology Solstheim's worldspace edits. Be sure to disable "Anthology Solstheim" in the CORE section
 	- Enable the following BAIN options:
@@ -29,7 +29,7 @@ All due respect to the mod author, who has done taken on an enormous task in fix
 		- 012 Armor of the Snow Prince
 	- Cleaning: Snow Prince Armor Redux.esp, and VSW_Solstheim_TD_Item_Expansion.esp require cleaning
 	- NB: STOTSP requires Tamriel_Data.esm, which you installed just above
-1. [Rather Nice Factor Estate](https://www.nexusmods.com/morrowind/mods/47933?tab=files)
+1. [Rather Nice Factor Estate](https://www.nexusmods.com/morrowind/mods/47933?)
 
 ### Landmass Mod Compatibility
 Solstheim Tomb of the Snow Prince overhauls the entire landmass of Bloodmoon, so any mods that edit the same landmass create incompatibilities. You will need to make some edits:

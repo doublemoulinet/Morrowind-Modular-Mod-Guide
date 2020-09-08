@@ -28,7 +28,7 @@ Some general tips:
 After you have installed the game, run the Morrowind Launcher and boot to the main menu. This ensures the proper files are generated.
 
 ## Wrye Mash
-1. Download and install the [latest x64 manual installation archive, under Main Files](https://www.nexusmods.com/morrowind/mods/45439?tab=files)
+1. Download and install the [latest x64 manual installation archive, under Main Files](https://www.nexusmods.com/morrowind/mods/45439?)
 1. Extract the contents to your Morrowind root foler (C:\...\Morrowind). Overwrite/merge if prompted
 1. In the Morrowind root folder (C:\...\Morrowind) create a new folder called "Mods" (this is where you will extract and keep all your mod packages)
 1. Run mash64.exe
@@ -72,7 +72,7 @@ Note: If you're using Mod Organizer 2, this step is unnecessary (since MO2 doesn
 
 ## Morrowind Code Patch
 The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It is an essential utility. The MCP must be installed manually. Do not place this in your Wrye Mash "Mods" directory. 
-1. Download the Morrowind Code Patch main file from [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510?tab=files)
+1. Download the Morrowind Code Patch main file from [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510?)
 1. Extract to your Morrowind root directory (C:\...\Morrowind). Do not extract it to Morrowind\Data Files.
 1. Download the MCP Beta from [MCP Skunk Works](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
 1. Extract the contents to your Morrowind root diectory, and overwrite when prompted
@@ -87,7 +87,7 @@ The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It 
 
 ## MGE XE
 The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its other changes, it also supports and comes packaged with the MWSE 2.1 beta, the lua-based script extender. It works out of the box. Like the Morrowind Code Patch, MGE XE must be installed manually.
-1. Download the latest version of [MGE XE](https://www.nexusmods.com/morrowind/mods/41102?tab=files)
+1. Download the latest version of [MGE XE](https://www.nexusmods.com/morrowind/mods/41102?)
 1. Extract the contents to your Morrowind root directory (not "Data Files"). If you have unpacked correctly, the MGEXEGui.exe should be in the same folder as the Morrowind.exe
 1. Right-click the MWSE-Update.exe and select **Run as Administrator**. (You may want to add this executable to your anti-virus whitelilst.) Allow the update process to take place. The command-line window will automatically close when this process is done. 
 
@@ -183,7 +183,7 @@ TESTool is a mod repair and management tool. You will use it to clean your plugi
 1. [Download TESTool](https://en.uesp.net/wiki/Tes3Mod:TESTool) and extract the executable and files to your root directory (Morrowind\TESTool.exe).
 
 ### TESAME
-TESAME is a useful mod editing program that we will use exclusively to delete bad references within a plugin.
+TESAME is a useful mod editing program that we will use to delete bad and unwanted references within a plugin.
 1. [Download TESAME](http://mw.modhistory.com/download-95-5289) and extract the contents to your Morrowind root folder in a new folder called "TESAME"
 
 ## Optional Tools
