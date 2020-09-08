@@ -35,10 +35,6 @@
 1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?tab=files)
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?tab=files)
 1. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786?tab=files)
-1. [Diligent Defenders](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Diliegent Defenders and install
-	- BUG: this may or may not cause combat bark subtitles (the things NPCs yell at you when in combat) to trigger whenever you enter combat the first time in a game session, regardless if it's a creature or humanoid NPC. If this bothers you, you can safely disable the mod
 1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Drop Light and install
@@ -52,7 +48,6 @@
 1. [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528?tab=files)
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?tab=files)
 1. [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?tab=files)
-1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?tab=files)
 1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?tab=files)
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?tab=files)
 1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?tab=files)

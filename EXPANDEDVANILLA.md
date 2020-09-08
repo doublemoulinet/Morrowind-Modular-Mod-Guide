@@ -69,7 +69,13 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?tab=files)
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?tab=files)
 1. [Darhk’s Super-Sized Storage](https://www.nexusmods.com/morrowind/mods/45147?tab=files)
+1. [Diligent Defenders](https://github.com/NullCascade/morrowind-mods)
+	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
+	- Unzip, select Diliegent Defenders and install
+	- BUG: this may or may not cause combat bark subtitles (the things NPCs yell at you when in combat) to trigger whenever you enter combat the first time in a game session, regardless if it's a creature or humanoid NPC. If this bothers you, you can safely disable the mod
 1. [Loading Doors](https://www.nexusmods.com/morrowind/mods/46094?tab=files)
+1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)
+1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?tab=files)
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?tab=files)
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?tab=files)
 1. [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735?tab=files)

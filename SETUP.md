@@ -6,6 +6,7 @@
 	1. [Mods Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#mods-tab)
 	1. [Installers Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#installers-tab)
 	1. [Additional Functions](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#additional-functions)
+1. [Loose Files Backups](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#loose-files-backups)
 1. [Morrowind Code Patch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#morrowind-code-patch)
 1. [MGE XE](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#MGE-XE)
 	1. [Graphics Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#graphics-tab)
@@ -54,6 +55,21 @@ Wrye Mash has a few additional functions you should be aware of: cleaning saves 
 1. **Cleaning saves**: any time you change your load order (removing or updating a plugin) go to the "Saves" tab in WM. Select your save and click the right pane (which lists the plugins associated with the save). Mash will prompt you to edit/update the masters list. Click yes. Then click save at the bottom of the right pane.
 1. **Updating masters lists**: go to the "Mods" tab for your list of plugins. If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's. Select the plugin and click the right pane (which lists the masters associated with the plugin). Mash will prompt you to edit/update the masters list. Click yes. Then click save at the bottom of the right pane.
 
+## Loose Files Backups
+Now that you're familiar with Wrye Mash's Installers Tab, it's time to test it out and install your first mod:
+
+Most of the game's files are packed in the game BSAs, but a few file types (fonts, splash screens, video) are installed loose. Since Wrye Mash doesn't use a virtual file system, installed mods that change these loose files will overwrite them, making uninstallation a pain. If you intend to tinker with your mod installations, it's recommended that you navigate to your game's */Data Files* and create a zip backup of the following folders:
+1. Fonts
+1. Splash
+1. the 3 videos from the /Videos folder:
+	- mw_intro.bik
+	- mw_logo.bik
+	- mw_menu.bik
+
+Drop this zip file in your mod directory (C:\...Morrowind\Mods) and install with your mod manager (in the Installers Tab) at the top of your installation order. This backup means you will automatically revert to vanilla loose files in the event you uninstall, for example, the **Better Fonts** mods at the end of this **CORE** section, or the **Intro Video** replacers in the **EXPANDED VANILLA** section.
+
+Note: If you're using Mod Organizer 2, this step is unnecessary (since MO2 doesn't alter files in the game folder).
+
 ## Morrowind Code Patch
 The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It is an essential utility. The MCP must be installed manually. Do not place this in your Wrye Mash "Mods" directory. 
 1. Download the Morrowind Code Patch main file from [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510?tab=files)
@@ -75,7 +91,7 @@ The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its oth
 1. Extract the contents to your Morrowind root directory (not "Data Files"). If you have unpacked correctly, the MGEXEGui.exe should be in the same folder as the Morrowind.exe
 1. Right-click the MWSE-Update.exe and select **Run as Administrator**. (You may want to add this executable to your anti-virus whitelilst.) Allow the update process to take place. The command-line window will automatically close when this process is done. 
 
-Next, download the following MGE XE shaders. You can install these manually or using Wrye Mash's Installers Tab. If installing manually, extract them to your Morrowind *Data Files* folder:
+Next, download the following MGE XE shaders. You can install these manually or using Wrye Mash's Installers Tab, as in the previous step . If installing manually, extract them to your Morrowind *Data Files* folder:
 1. [MGE XE Land Bias Fix](https://mega.nz/file/ft5hUJ5L#-5Y533Rtwy2uX5moycm4pQjEDXClyFGl78XMDvfVzME) small tweak to the distant land height bias to reduce clipping/seams
 1. [MGE XE Shader - deband_fogaware](https://mega.nz/file/W8x3RTCK#w94LPJSeym5h82KUOg8SbkIoS8M7E-9Xm2Lar0gjqXw) an improved fog shader
 1. [MGE XE Shader - EdgeAA](https://mega.nz/file/HwxVXbQY#eSxnVWTbC165OC1EyC-P9IahvH05We88pyba-fy2ePI) improved anti-aliasing, to be used with MGE XE's AA settings
