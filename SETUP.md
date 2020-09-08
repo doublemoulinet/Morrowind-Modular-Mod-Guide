@@ -6,7 +6,7 @@
 	1. [Mods Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#mods-tab)
 	1. [Installers Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#installers-tab)
 	1. [Additional Functions](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#additional-functions)
-1. [Loose Files Backups](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#loose-files-backups)
+	1. [Loose Files Backups](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#loose-files-backups)
 1. [Morrowind Code Patch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#morrowind-code-patch)
 1. [MGE XE](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#MGE-XE)
 	1. [Graphics Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#graphics-tab)
@@ -55,7 +55,7 @@ Wrye Mash has a few additional functions you should be aware of: cleaning saves 
 1. **Cleaning saves**: any time you change your load order (removing or updating a plugin) go to the "Saves" tab in WM. Select your save and click the right pane (which lists the plugins associated with the save). Mash will prompt you to edit/update the masters list. Click yes. Then click save at the bottom of the right pane.
 1. **Updating masters lists**: go to the "Mods" tab for your list of plugins. If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's. Select the plugin and click the right pane (which lists the masters associated with the plugin). Mash will prompt you to edit/update the masters list. Click yes. Then click save at the bottom of the right pane.
 
-## Loose Files Backups
+### Loose Files Backups
 Now that you're familiar with Wrye Mash's Installers Tab, it's time to test it out and install your first mod:
 
 Most of the game's files are packed in the game BSAs, but a few file types (fonts, splash screens, video) are installed loose. Since Wrye Mash doesn't use a virtual file system, installed mods that change these loose files will overwrite them, making uninstallation a pain. If you intend to tinker with your mod installations, it's recommended that you navigate to your game's */Data Files* and create a zip backup of the following folders:
