@@ -26,7 +26,7 @@ Morrowind's plugin limits is 255 active plugins. If you have followed this guide
 
 As a rule, don't merge ESPs with dialogue. Scripts, if they are few and short, may be safe to merge.
 
-## Load order and Late Loaders
+## Load Order
 Generally, ESPs should remain in the order that they were installed in this guide. 
 
 Additional re-ordering may be required. Ensure the following load *first* (i.e. at the very top) in your load order:
