@@ -1,8 +1,11 @@
 2020-09-08
 - moved the loose files backup instructions from CORE to the SETUP section
 - added: EXPANDED VANILLA: No More Friendly Fire
+- added: BALANCE: MDMD - More Deadly Morrowind Denizens
+- added: FINISH LINE: Conflict resolution patch for Quorn Resource Integration, More Deadly Morrowind Denizens, Some of a Kind, and Morag Tong Polished
 - moved: Diligent Defenders to EXPANDED VANILLA
 - moved: Peaceful Pets to EXPANDED VANILLA
+- removed: CONSISTENCY: What is something that is too long for an ESP name (unnecessary with changes from MDMD)
 
 2020-09-03
 - added MGE XE shaders to the SETUP section

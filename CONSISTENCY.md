@@ -43,8 +43,6 @@
 	- ESP requires cleaning
 1. [True Scourge](https://www.nexusmods.com/morrowind/mods/43294?)
 	- Install and enable only "TrueScourge.esp"
-1. [What is something that is too long for an ESP name - Daedric Edit](https://mega.nz/file/f4pyFSZL#BoAxWMDSOMc7XQIUPjNIyrTQe5HWAW4yFk3Pm00aMps)
-	- A personal edit of Gilboron's edit of [Gavrilo93's mod](https://www.nexusmods.com/morrowind/mods/47598?tab=description), which gives Dark Brotherhood armour to faction members in Vvardenfell. This version is compatible with There Can Be Only One / Some of a Kind
 1. [Yet Another Guard Diversity](https://www.nexusmods.com/morrowind/mods/45894?)
 	- Download and install the Main File "Yet Another Guard Diversity - Regular"
 	- Do not enable the ESP (the next mod will provide the plugin you will enable)

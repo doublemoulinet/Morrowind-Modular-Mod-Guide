@@ -2,13 +2,68 @@
 
 Congraulations! You're nearly there. This last section details a few quick steps to ensure a bug-free playthrough.
 
+## Index
+1. [Cleaning](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#cleaning)
+1. [Merging Plugins](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#merging-plugins)
+1. [Load Order](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#load-order)
+1. [Conflict Resolution](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#conflict-resolution)
+	1. [Conflict Resolution Patch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#conflict-resolution-patch)
+	1. [Multipatch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#multipatch)
+	1. [Merged Objects](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#merged-objects)
+1. [Distant Land](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#distant-land)
+1. [Shaders](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#shaders)
+1. [In-game Settings](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#in-game-settings)
+
 ## Cleaning
 If you followed the cleaning advice as you installed each mod then you have already completed this section. Otherwise, run TESTool according to the instructions in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md), and then the "clean with tes3cmd" utility in Wrye Mash for individual plugins. 
 
-Please note that this may take some time. However, cleaning your plugins is absolutely worth it. 
+Please note that this may take some time. However, cleaning your plugins is absolutely worth it.
 
-## Multipatch and Merged Patch
-You need to create two merged patches to resolve plugin conflicts.
+## Merging Plugins
+If you have installed new weapon/item mods and would like to reduce your plugin count, you can use MWedit to open all these plugins simultaneously and merge them into a new plugin (I usually call mine "Unique Items Merged.esp"). This is an optional, and unnecessary, step, and I won't provide instructions for basic use of MWEdit. If you're familiar with the tool, have at it. Remember to clean any created plugins with TESTool and tes3cmd.
+
+Morrowind's plugin limits is 255 active plugins. If you have followed this guide you will likely wind up with 125-140 plugins, well below the limit.
+
+As a rule, don't merge ESPs with dialogue. Scripts, if they are few and short, may be safe to merge.
+
+## Load order and Late Loaders
+Generally, ESPs should remain in the order that they were installed in this guide. 
+
+Additional re-ordering may be required. Ensure the following load *first* (i.e. at the very top) in your load order:
+1. Morrowind.esm
+1. Tribunal.esm
+1. Bloodmoon.esm
+1. Patch for Purists.esm
+1. (Whatever ESMs installed in the CONTENT or OPTIONAL EARLY LOADERS section, ex OOAB_Data.esm or Tamriel_Data.esm)
+1. Patch for Purists - Book Typos.esp
+1. Patch for Purists - Semi-Purist Fixes.esp
+1. Morrowind Anti-Cheese.esp
+1. MDMD - More Deadly Morrowind Denizens.esp
+1. MDMD - Creatures Add-on.esp
+1. Ownership Overhaul.esp
+
+If you installed the **Content** section, you will need to move "Quorn Resource Integration.esp" higher in your load order, so that Yet Another Guard Diversity Overhaul and Mamaea Awakened overwrite its changes. Move "Quorn Resource Integration.esp" and "Hunter's Mark.esp" below the unique item ESPs from the **Visuals** section:
+1. Complete Armor Joints.esp
+1. chuzei_helm_no_neck.esp
+1. [**All the unique items ESPs** or the self-created **Unique Items Merged ESP**]
+1. Quorn Resource Integration.esp
+1. Hunter's Mark.esp
+
+Ensure that the following mods always load *last* (i.e. at the very bottom) in your load order:
+1. Some of a Kind.esp
+1. Conflict Resolution - Finish Line.esp
+1. XE Sky Variations.esp
+1. multipatch.esp
+1. Merged Objects.esp
+
+## Conflict Resolution
+Several of the mods in this guide make edits to the same creatures and NPCs, and in some cases these changes will not be carried over and merged by the multipatch and merged patch. The following patch will resolve those conflicts and ensure the correct changes are carried forward into your merged patches in the next step of this guide.
+
+You need to create two merged patches to resolve remaining plugin conflicts. Make sure all your plugins are enabled in the Mods Tab and follow these instructions to generate the patch
+
+### Conflict Resolution Patch
+1. [Conflict Resolution - Finish Line](https://mega.nz/file/S4pxSY4S#L7wwkEFiIRouGkg7m0VYo_98GZMc_jxg5hTP68rfm_Q)
+	- Select one of the options based on your installation order and install. Make sure the plugin is enabled and at the bottom of your load order
 
 ### Multipatch
 First, you need to create the **tes3cmd multipatch**:
@@ -32,42 +87,7 @@ Next, create the **Merged Objects patch** with **TES3Merge**:
 
 Note that you will need to regenerate these two plugins nearly each time you adjust your load order (update, remove or add a plugin) so that the changes are carried on. For your convenience, Wrye Mash will indicate if the plugins are missing masters and require regenerating (the plugin will turn yellow or red in the Mods Tab).
 
-## Merging
-If you have installed new weapon/item mods and would like to reduce your plugin count, you can use MWedit to open all these plugins simultaneously and merge them into a new plugin (I usually call mine "Unique Items Merged.esp"). This is an optional, and unnecessary, step, and I won't provide instructions for basic use of MWEdit. If you're familiar with the tool, have at it. Remember to clean any created plugins with TESTool and tes3cmd.
-
-Morrowind's plugin limits is 255 active plugins. If you have followed this guide you will likely wind up with 125-140 plugins, well below the limit.
-
-As a rule, don't merge ESPs with dialogue. Scripts, if they are few and short, may be safe to merge.
-
-## Load order and Late Loaders
-Generally, ESPs should remain in the order that they were installed in this guide. 
-
-Additional re-ordering may be required. Ensure the following load *first* (i.e. at the very top) in your load order:
-1. (Whatever ESMs you have enabled, beginning with Morrowind.esm and ending with "Patch for Purists.esm")
-1. (If you've installed HOTV Solstheim, make sure the ESM loads AFTER Patch for Purists.esm)
-1. Patch for Purists - Book Typos.esp
-1. Patch for Purists - Semi-Purist Fixes.esp
-1. Morrowind Anti-Cheese.esp
-1. Ownership Overhaul.esp
-
-If you installed the **Content** section, you will need to move "Quorn Resource Integration.esp" higher in your load order, so that YAGD and Mamaea Awakened overwrite its changes. Move "Quorn Resource Integration.esp" and "Hunter's Mark.esp" below the unique item ESPs from the **Visuals** section:
-1. Complete Armor Joints.esp
-1. chuzei_helm_no_neck.esp
-1. [**All the unique items ESPs** or the self-created **Unique Items Merged ESP**]
-1. Quorn Resource Integration.esp
-1. Hunter's Mark.esp
-1. [All the other **VISUALS** plugins and subsequent sections' plugins]
-1. Yet Another Guard Diversity Overhaul.esp
-1. Mamaea Awakened.esp
-
-Ensure that the following mods always load *last* (i.e. at the very bottom) in your load order:
-1. Some of a Kind.esp
-1. What is something that is too long for an ESP name.esp
-1. XE Sky Variations.esp
-1. multipatch.esp
-1. Merged Objects.esp
-
-## Distant Land Generation
+## Distant Land
 Remember to re-run distant land generation according to the steps in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md).
 
 If you have installed **Remiros' Groundcover**, there are additional settings to check in MGE XE's distant land generation tab:
