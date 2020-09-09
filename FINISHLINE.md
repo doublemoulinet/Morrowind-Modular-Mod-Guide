@@ -3,7 +3,7 @@
 Congraulations! You're nearly there. This last section details a few quick steps to ensure a bug-free playthrough.
 
 ## Cleaning
-If you followed the cleaning advice as you installed each mod then you have already completed this section. Otherwise, run TESTool according to the instructions in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md), and then the tes3cmd_clean.bat for individual plugins. 
+If you followed the cleaning advice as you installed each mod then you have already completed this section. Otherwise, run TESTool according to the instructions in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md), and then the "clean with tes3cmd" utility in Wrye Mash for individual plugins. 
 
 Please note that this may take some time. However, cleaning your plugins is absolutely worth it. 
 
