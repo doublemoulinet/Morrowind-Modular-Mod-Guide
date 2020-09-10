@@ -35,8 +35,12 @@ Additional re-ordering may be required. Ensure the following load *first* (i.e. 
 1. Bloodmoon.esm
 1. Patch for Purists.esm
 1. (Whatever ESMs installed in the CONTENT or OPTIONAL EARLY LOADERS section, ex OOAB_Data.esm or Tamriel_Data.esm)
+1. (Whatever ESPs installed in the OPTIONAL EARLY LOADERS section, ex, VSW_Solstheim_TD_Item_Expansion.esp or Rather Nice Factor's Estate.esp)
 1. Patch for Purists - Book Typos.esp
 1. Patch for Purists - Semi-Purist Fixes.esp
+1. Expansion Delay.esp
+1. No More Stage Diving.esp
+1. Descriptive Shrines.esp
 1. Morrowind Anti-Cheese.esp
 1. MDMD - More Deadly Morrowind Denizens.esp
 1. MDMD - Creatures Add-on.esp
@@ -62,7 +66,8 @@ Several of the mods in this guide make edits to the same creatures and NPCs, and
 You need to create two merged patches to resolve remaining plugin conflicts. Make sure all your plugins are enabled in the Mods Tab and follow these instructions to generate the patch
 
 ### Conflict Resolution Patch
-1. [Conflict Resolution - Finish Line](https://mega.nz/file/S4pxSY4S#L7wwkEFiIRouGkg7m0VYo_98GZMc_jxg5hTP68rfm_Q)
+1. [Conflict Resolution - Finish Line](https://mega.nz/file/itRVGSrb#Q4-BXCUqIOsny1h4zDqFGh2weScc9u_ZLu5Ma4NWeW8)
+	- Conflict resolution patch for MDMD - More Deadly Morrowind Denizens, Quorn Resource Integration, Some of a Kind, and Morag Tong Polished
 	- Select one of the options based on your installation order and install. Make sure the plugin is enabled and at the bottom of your load order
 
 ### Multipatch
