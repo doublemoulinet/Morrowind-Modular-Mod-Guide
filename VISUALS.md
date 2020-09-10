@@ -45,7 +45,7 @@
 		- 00 Core
 		- 01 MWSE Version
 1. [Lazily Atlased Statues of Delyn and Olms](https://www.nexusmods.com/morrowind/mods/48578?)
-	- Download the Main File. If using vanilla textures (i.e. you haven't installed Intelligent Textures), download the optional file and install as a separate mod
+	- Download the Main File if using Intelligent Textures. Download the optional file if using vanilla textures.
 1. [Melchior’s Magnificent Manuscript](https://www.nexusmods.com/morrowind/mods/45626?)
 	- Enable *only* the "00 Core" BAIN option
 1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?)
