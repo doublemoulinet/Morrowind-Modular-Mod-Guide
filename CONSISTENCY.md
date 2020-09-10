@@ -19,10 +19,6 @@
 	
 ## Restored and Expanded Content
 1. [Abundant Adamantium Ore](https://www.nexusmods.com/morrowind/mods/45726?)
-1. [Blighted Animals](https://www.nexusmods.com/morrowind/mods/42245?)
-	- Download and install the "Blighted Animals with Vanilla Textures" main file (the HD texture versions clash with the rest of the game)
-	- Download the optional file "Nix-Hound knockout animation fix" and install as a separate mod directly after "Blighted Animals"
-1. [Blighted Animals - IT Retexture](https://mega.nz/file/7pAGhSpK#4R1x2NTQ18iTWLiRTJRTM7TAYdIZ4_QNHQj1z_pQKQ4)
 1. [Bloat Caves](https://www.nexusmods.com/morrowind/mods/43141?)
 	- ESP requires cleaning
 1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?)

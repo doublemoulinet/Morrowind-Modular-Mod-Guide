@@ -104,12 +104,12 @@ The features in this section are mostly self-explanatory. Select your display re
 Shaders requires some setup:
 1. Click the checkbox to enable shaders and enter "Shader setup..."
 1. Select the High quality preset. Ensure the following shaders are enabled:
-	- EdgeAA
 	- SSAO Fast
 	- Underwater Interior Effects
 	- Underwater Effects
 	- Sunshafts
 	- Bloom Soft
+	- EdgeAA
 	- Eye Adaptation (HDR)
 	- deband_fogaware
 	

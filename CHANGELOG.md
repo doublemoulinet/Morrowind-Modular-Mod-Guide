@@ -1,3 +1,7 @@
+2020-09-10
+- updated the MGE XE shader order in [**SETUP**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md)
+- removed: CONSISTENCY: Blighted Animals (will be replacing with a pluginless version soon)
+
 2020-09-08
 - moved the loose files backup instructions from CORE to the SETUP section
 - added: EXPANDED VANILLA: No More Friendly Fire
