@@ -35,7 +35,7 @@ All due respect to the mod author, who has done taken on an enormous task in fix
 Solstheim Tomb of the Snow Prince overhauls the entire landmass of Bloodmoon, so any mods that edit the same landmass create incompatibilities. You will need to make some edits:
 
 1. Run the **Morrowind Code Patch (MCP)** again. Under the **Interface Changes** section, enable the "Map Expansion (for Tamriel Rebuilt)" option. 
-	- This will expand the map boundaries so that Solstheim will not be cut off on your in-game map.
+	- This will expand the map boundaries so that Solstheim and the Morrowind mainland will not be cut off on your in-game map.
 1. **Ownership Overhaul** (installed in the [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md) section)
 	- NOTE: This mod overwrites some changes to Anthology Solstheim / Solstheim Tomb of the Snow Prince (which moves the island of Solstheim farther north). If you are using STOTSP, you will need to delete the exterior Solstheim cell references with TESAME (or get used to floating objects in the middle of the sea)
 	- Run TESAME and open the *"Ownership Overhaul.esp"* plugin. TESAME will generate a list of the edits created by the plugin
