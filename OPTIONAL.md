@@ -1,11 +1,9 @@
-# Optional Early Loaders
+# Landmass Expansions
 These optional mods should not be used on your first playthrough. The **Official Plugins** are a real grab bag--some are mediocre, others are trivial, most are best forgotten. The cleaned and fixed versions presented here are the best way to incorporate them into your game, but are not necessary (or even recommended) for an enjoyable Morrowind experience. In fact, let me put this another way: I strongly discourage using any of the Offical Plugins. Just don't.
 
 The landmass mods--**Tamriel Rebuilt** and its sister projects like **Skyrim: Home of the Nords**--are highly recommended on subsequent playthroughs. These are arguably the most impressive modding projects on the web. Tamriel Rebuilt is a decades-long project to recreate the Morrowind mainland in TES3. The "Old Ebonheart" release is one of the best quest mods available and I recommend a TR-centric playthrough to play the different questlines.
 
 **Solstheim Tomb of the Snow Prince** overhauls the Bloodmoon expansion to bring the world design in line with current Tamriel Rebuilt / Project Tamriel design standards. It is highly recommended. You will see why after you play Bloodmoon in vanilla: the vanilla world design is flat, empty, and boring. STOTSP is a performance-friendly overhaul that makes playing Bloodmoon significantly more fun.
-
-**Important**: if you install the Unofficial Plugins and/or Landmass mods move them to the *top of your install order* in the Wrye Mash Installers Tab. This is to ensure neither TR nor the official plugins overwrite your mesh/texture fixes in the [Core](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) section
 	
 ## Official Plugins
 All due respect to the mod author, who has done taken on an enormous task in fixing and polishing the official plugins--but you are better off without them. If you *must* play with the official plugins, this is the best way to experience them:
@@ -50,8 +48,6 @@ Solstheim Tomb of the Snow Prince overhauls the entire landmass of Bloodmoon, so
 		1. **Thirsk**
 	- Delete these *and only* these cells in TESAME. Remember to save the plugin before exiting TESAME
 	- I recommend zipping the edited ESP and installing as a new mod to avoid accidentally overwriting it
-
-Remember to drag this Optional Early Loaders section to the top of your Install order.
 
 
 **NEXT SECTION**:

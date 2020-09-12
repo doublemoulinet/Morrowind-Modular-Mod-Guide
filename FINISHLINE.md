@@ -34,8 +34,8 @@ Additional re-ordering may be required. Ensure the following load *first* (i.e. 
 1. Tribunal.esm
 1. Bloodmoon.esm
 1. Patch for Purists.esm
-1. (Whatever ESMs installed in the CONTENT or OPTIONAL EARLY LOADERS section, ex OOAB_Data.esm or Tamriel_Data.esm)
-1. (Whatever ESPs installed in the OPTIONAL EARLY LOADERS section, ex, VSW_Solstheim_TD_Item_Expansion.esp or Rather Nice Factor's Estate.esp)
+1. (Whatever ESMs installed in the CONTENT or LANDMASS EXPANSIONS section, ex OOAB_Data.esm or Tamriel_Data.esm)
+1. (Whatever ESPs installed in the LANDMASS EXPANSIONS section, ex, VSW_Solstheim_TD_Item_Expansion.esp or Rather Nice Factor's Estate.esp)
 1. Patch for Purists - Book Typos.esp
 1. Patch for Purists - Semi-Purist Fixes.esp
 1. Expansion Delay.esp
