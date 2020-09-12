@@ -34,6 +34,8 @@
 	- Enable both "00 Core" and "03 Glow Effect" options
 1. [Enhanced Stone Walls](https://www.nexusmods.com/morrowind/mods/45939?)
 	- Download the “Enhanced Stone Walls” file
+1. [Enlightened Flames](https://www.nexusmods.com/morrowind/mods/48816?)
+	- Enable both the "00 Core" and "01 enlightened flames" options
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
 	- Download both main files and the 10.3 update file
 	- OPTIONAL: the textures in Intelligent Textures are superior but will be overwritten by Facelift. Recommend downloading Facelift and splitting into a BAIN structure, so you can easily toggle the options on/off to suit your preference:
@@ -115,7 +117,7 @@
 
 ## Equipment Meshes
 1. [Complete Armor Joints](http://mw.modhistory.com/download-4-12572)
-	- Make sure you click the download button in the top-right corner and download the latest version. **Do not** download the old version at the bottom of the mod page
+	- Make sure you click the download button in the top-right corner and download the latest version
 1. [Hopesfire Glow](https://www.nexusmods.com/morrowind/mods/45855?)
 	- Enable only the "Hopesfire Torch (+brighter trueflame).esp
 1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?)
@@ -124,8 +126,6 @@
 	- Download the Main File and enable only the "00 Data Files" BAIN option
 1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?)
 	- Download only "Lore Friendly Iron Warhammer" and install
-1. [Lougians Colovian helm fix](https://www.nexusmods.com/morrowind/mods/43795?)
-	- Download "Lougians colovian helm fix"
 	- Repackage the archive and install only the "meshes" folder
 1. [No Orcish Clown Shoes](https://www.nexusmods.com/morrowind/mods/45939?)
 	- Download and install only "No Orcish Clown Shoes"

@@ -1,3 +1,10 @@
+2020-09-12
+- added: VISUALS: Enlightened Flames
+- added: CONSISTENCY: Transporter Lights
+- added: CONTENT: Passage of Prayers (re-added with a note about potential minor framerate drops)
+- added: CONTENT: Properly Cluttered Ald Velothi
+- removed: VISUALS: Lougian's Colovian Helm Fix (unneeded with vanilla textures)
+
 2020-09-10
 - updated the MGE XE shader order in [**SETUP**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md)
 - removed: CONSISTENCY: Blighted Animals (will be replacing with a pluginless version soon)

@@ -34,6 +34,7 @@
 1. [Temples with Shrines](https://www.nexusmods.com/morrowind/mods/45535?)
 1. [The Madstone](https://www.nexusmods.com/morrowind/mods/47653?)
 1. [The Publicans](https://www.nexusmods.com/morrowind/mods/45410?)
+1. [Transporter Lights](https://www.nexusmods.com/morrowind/mods/48050?)
 1. [TriangleTooth's Missing Characters](https://www.nexusmods.com/morrowind/mods/46234?)
 	- Enable only "Ttooth's Mmissing NPCs - No Nolus.esp"
 	- ESP requires cleaning

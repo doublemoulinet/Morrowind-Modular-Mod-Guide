@@ -36,6 +36,9 @@
 	- Cleaning: ESP requires cleaning
 1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?)
 1. [Open Mournhold](https://www.nexusmods.com/morrowind/mods/44981?)
+1. [Passage of Prayers](https://www.nexusmods.com/morrowind/mods/46786?)
+	- Note: I experience slight frame drops on my system (older CPU)
+1. [Properly Cluttered Ald Velothi](https://www.nexusmods.com/morrowind/mods/48811?)
 1. [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646?)
 1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?)
 	- ESP requires cleaning
@@ -83,6 +86,7 @@
 	- Don't enable the ESP
 1. [Balmora Guilds Expanded - Fixed ESP](https://www.nexusmods.com/morrowind/mods/47700?)
 1. [Caldera Mages Guild Expanded](https://www.nexusmods.com/morrowind/mods/45750?)
+	- Install both the Main File and the Update File
 1. [Vivec Mages Guild Expansion - Fixed](https://www.nexusmods.com/morrowind/mods/47700?)
 	- Download only Vivec Mages Guild Expansion - Fixed. Install normally
 1. [Wolverine Hall Interior Expansion - Fixed](https://www.nexusmods.com/morrowind/mods/47700?)
