@@ -6,11 +6,12 @@ The landmass mods--**Tamriel Rebuilt** and its sister projects like **Skyrim: Ho
 **Solstheim Tomb of the Snow Prince** overhauls the Bloodmoon expansion to bring the world design in line with current Tamriel Rebuilt / Project Tamriel design standards. It is highly recommended. You will see why after you play Bloodmoon in vanilla: the vanilla world design is flat, empty, and boring. STOTSP is a performance-friendly overhaul that makes playing Bloodmoon significantly more fun.
 	
 ## Official Plugins
-All due respect to the mod author, who has done taken on an enormous task in fixing and polishing the official plugins--but you are better off without them. If you *must* play with the official plugins, this is the best way to experience them:
+All due respect to the mod author, who has done taken on an enormous task in fixing and polishing the official plugins--but you are better off without them. Again, to be clear: I do not recommend these. If you *must* play with the official plugins, this is the best way to experience them:
 1. [Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931?)
 	- Download both main files “UMOPP” and “Merged and Compatibility Versions”
 	- Install UMOPP first and do not activate any of the ESPs
 	- Install Merged and Compatibility Versions as a separate mod and activate the “UMOPP Compatibility Merged” BAIN option
+	- **NB**: If you install the official plugins, you *must* drag this mod archive to the top of your *installation order* in your mod manager (i.e. the *Installers Tab* of Wrye Mash). Otherwise the loose files will overwrite the fixed versions provided in PfP and MOP.
 	
 ## Landmass
 1. [Tamriel Data](https://www.nexusmods.com/morrowind/mods/44537?)
