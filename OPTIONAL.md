@@ -29,6 +29,7 @@ All due respect to the mod author, who has done taken on an enormous task in fix
 	- Cleaning: Snow Prince Armor Redux.esp, and VSW_Solstheim_TD_Item_Expansion.esp require cleaning
 	- NB: STOTSP requires Tamriel_Data.esm, which you installed just above
 1. [Rather Nice Factor Estate](https://www.nexusmods.com/morrowind/mods/47933?)
+	- Enable both the "00 Core" and "01 Patch - Patch for Purists 4.0.X" options
 
 ### Landmass Mod Compatibility
 Solstheim Tomb of the Snow Prince overhauls the entire landmass of Bloodmoon, so any mods that edit the same landmass create incompatibilities. You will need to make some edits:
