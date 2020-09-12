@@ -40,6 +40,7 @@
 	- Unzip, selected Limited Leaping and install
 1. [MDMD - More Deadly Morrowind Denizens](https://www.nexusmods.com/morrowind/mods/48745)
 	- Enable the *MDMD - More Deadly Morrowind Denizens.esp* and *MDMD - Creatures Add-On.esp*
+	- NB: Makes many enemies considerably more challenging
 1. [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?)
 1. [Morrowind Anti-Cheese](https://mega.nz/file/T5REhSRR#ovyKXC-0H9Z9Sa2c9Apw3FBe-8maOYs4rZPSph5u638)	
 	- Be sure to [endorse the original mod](https://www.nexusmods.com/morrowind/mods/47305?)

@@ -196,7 +196,7 @@ Optional. A plugin load order sorter. Mlox will not be used in this guide (plugi
 You can add mlox to your list of executables in Wrye Mash by clicking the gear icon at the bottom bar. In the "Wrye Mash Settings" popup navigate to the "Paths" tab and add the Mlox.exe filepath.
 
 ### Official Construction Set
-The official Bethesda The Elder Scrolls Construction Set, patched and fixed to work with the Steam, GOG, or Bethesda.net version of Morrowind. While not technically needed for this guide, a useful resource if you want to directly edit a plugin and necessary to create your own mods.
+The official Bethesda The Elder Scrolls Construction Set, patched and fixed to work with the Steam, GOG, or Bethesda.net version of Morrowind. While not technically needed for this guide, a useful resource if you want to directly edit a plugin and necessary to create your own mods and merges.
 1. Download the [TES Construction Set](https://www.nexusmods.com/morrowind/mods/42196?tab=files)
 1. Unpack the files to the Morrowind root directory (Morrowind\Tes Constructoin Set.exe)
 
@@ -206,7 +206,7 @@ An experimental alternative to the Construction Set. You can easily use MWedit t
 1. Extract the folder to the Morrowind root directory (Morrowind\MWedit\Mwedit.exe)
 
 ## Plugin Cleaning
-As you follow the modlist, you will see that I note certain mods "require cleaning." ESPs sometimes contain dirty references and your job is to squash these bugs. You will use two tools for this: TESTool and tes3cmd's batch cleaning file.
+As you follow the modlist, certain mods are flagged to "require cleaning." ESPs sometimes contain dirty references and your job is to squash these bugs. You will use two tools for this: TESTool and Wrye Mash's integrated tes3cmd cleaning file.
 
 ### TESTool
 The first step is to use TESTool to clean your plugins.

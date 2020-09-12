@@ -66,7 +66,7 @@ Several of the mods in this guide make edits to the same creatures and NPCs, and
 You need to create two merged patches to resolve remaining plugin conflicts. Make sure all your plugins are enabled in the Mods Tab and follow these instructions to generate the patch
 
 ### Conflict Resolution Patch
-1. [Conflict Resolution - Finish Line](https://mega.nz/file/Pw4RhQKR#dViZmLPrYp3KFNir9NjICvcND1ylriIVotmmi18rssI)
+1. [Conflict Resolution - Finish Line](https://mega.nz/file/70B23IKA#SRwTb-CnFroOY-q3bUFG-ze9AJmV3_7M_kpbHWafmKM)
 	- Conflict resolution patch for MDMD - More Deadly Morrowind Denizens, Quorn Resource Integration, Some of a Kind, and Morag Tong Polished
 	- Select one of the options based on your installation order and install. Make sure the plugin is enabled and at the bottom of your load order
 
