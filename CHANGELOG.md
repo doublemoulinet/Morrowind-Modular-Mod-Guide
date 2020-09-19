@@ -1,3 +1,7 @@
+2020-09-17
+- moved several mods around to different sections (no removals or changes in individual installation instructions)
+- added: CONTENT: Fixed Gnisis Minaret - ESP Replacer
+
 2020-09-12
 - added: VISUALS: Enlightened Flames
 - added: CONSISTENCY: Transporter Lights

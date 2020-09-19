@@ -65,20 +65,41 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?)
 	- Install *only* the “04 Weapon Sheathing Patch” BAIN option
 
-## MWSE - QoL and Immersion
+## QoL and Immersion
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?)
+1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?)
+1. [Beast Race Abilities Toggleable](https://www.nexusmods.com/morrowind/mods/44948?)
+	- You can skip this if you won't be playing as a Lizard or a Cat.
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?)
 1. [Darhk’s Super-Sized Storage](https://www.nexusmods.com/morrowind/mods/45147?)
-1. [Diligent Defenders](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Diliegent Defenders and install
-	- BUG: this may or may not cause combat bark subtitles (the things NPCs yell at you when in combat) to trigger whenever you enter combat the first time in a game session, regardless if it's a creature or humanoid NPC. If this bothers you, you can safely disable the mod
+1. [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717?)
+1. [Kill Command](https://www.nexusmods.com/morrowind/mods/46723?)
+1. [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292?)
 1. [Loading Doors](https://www.nexusmods.com/morrowind/mods/46094?)
+1. [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?)
 1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)
 1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?)
+1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
+	- Download and install as a project (i.e. unpack it into your mods folder)
+	- Within the project package, open the pg_gmst_config.json. Copy-paste the following GMST changes:
+			
+			"pg_gmst_hotReloadKey": 88
+			
+			"fCombatAngleXY": 4 			;reduces angle of weapon attack
+			"i1stPersonSneakDelta": 30		;more pronounced visual cue when sneaking
+			"iGreetDistanceMultiplier": 4	;reduces distance NPCs will use voice greetings
+			
+			"fProjectileMaxSpeed": 7200
+			"fProjectileMinSpeed": 960
+			"fThrownWeaponMaxSpeed": 1200
+			"fThrownWeaponMinSpeed": 360
+			"fProjectileThrownStoreChance": 80
+			
+			"fTargetSpellMaxSpeed": 120
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?)
 1. [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735?)
+1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?)
 1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?)
 
 

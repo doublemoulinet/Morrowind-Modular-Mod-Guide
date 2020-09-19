@@ -54,6 +54,7 @@ Pro tip: use markers to create helpful visual separators in your installers tab.
 Wrye Mash has a few additional functions you should be aware of: cleaning saves and updating a plugin masters list:
 1. **Cleaning saves**: any time you change your load order (removing or updating a plugin) go to the "Saves" tab in WM. Select your save and click the right pane (which lists the plugins associated with the save). Mash will prompt you to edit/update the masters list. Click yes. Then click save at the bottom of the right pane.
 1. **Updating masters lists**: go to the "Mods" tab for your list of plugins. If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's. Select the plugin and click the right pane (which lists the masters associated with the plugin). Mash will prompt you to edit/update the masters list. Click yes. Then click save at the bottom of the right pane.
+1. **Registering BSAs**: the right pane of the Mods Tab has two tabs for "Mod Details" and "BSA Archives. Select the "BSA Archives" tabs and ensure each BSA archive has a check mark. This ensures the game will load the assets archived in these files. The three vanilla BSAs should already be registered. In this guide, two additional BSAs will need to be registered if you install the optional landmass mods in the **CONTENT** section.
 
 ### Loose Files Backups
 Now that you're familiar with Wrye Mash's Installers Tab, it's time to test it out and install your first mod:

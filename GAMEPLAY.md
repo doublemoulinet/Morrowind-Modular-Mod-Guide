@@ -39,9 +39,8 @@
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Drop Light and install
 1. [Free the Slaves](https://www.nexusmods.com/morrowind/mods/45191?)
-1. [Kill Command](https://www.nexusmods.com/morrowind/mods/46723?)
 1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
+	- Download the zip of all NullCascade’s Morrowind mods
 	- Unzip, select The Last Witness and install
 1. [The Law is Sacred](https://www.nexusmods.com/morrowind/mods/48130?)
 	- ESP is optional (it changes a dialogue line to reflect guards' new non-lethal arrest tactics); you can leave it disabled
@@ -50,7 +49,6 @@
 1. [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?)
 1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?)
-1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?)
 
 ## Optional New Mechanics
 These mods add new game mechanics. These tend to make the game more challenging or add immersive elements like illiteracy and animal taming. Optional, but strongly recommended!

@@ -46,8 +46,8 @@
 	- Disable the ESP. The meshes will be used in the following mod
 1. [Fixed Version of Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/46184?)
 	- Download and install the Optional File "Fixed Version of Gnisis Minaret"
-	- Enable only the English ESP
-	- ESP requires Cleaning
+	- Do not enable the ESPs
+1. [Fixed Version of Gnisis Minaret - Fixed ESP](https://mega.nz/file/O14DRBjQ#VoipDGkDyy319TPofTxe5z6GCysaLoOwcPwXsK2U1_E)
 1. [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614?)
 	- Cleaning: ESP requires cleaning
 
@@ -104,6 +104,7 @@
 
 ## New Items
 1. [Hunter’s Mark – A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656?)
+	- Reminder: be sure to enable the "01 Hunter's Mark" version of *Some of a Kind* installed in the [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md) section
 1. [Quorn Resource Integration](https://www.nexusmods.com/morrowind/mods/43269?)
 	- Cleaning: ESP requires cleaning
 	
