@@ -2,16 +2,15 @@
 
 ## Balance - Core
 1. [Beware the Sixth House](https://www.nexusmods.com/morrowind/mods/46036?)
-	- NB: This makes all Sixth House enemies exceptionally difficult and in-line with in-game lore/dialogue. Prepare to Die!
 1. [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714?)
 1. [MDMD - More Deadly Morrowind Denizens](https://www.nexusmods.com/morrowind/mods/48745)
 	- Enable the *MDMD - More Deadly Morrowind Denizens.esp* and *MDMD - Creatures Add-On.esp*
-	- NB: Makes many enemies considerably more challenging
+	- NB: Makes many high-level/boss enemies considerably more challenging and rewarding
 1. [Morrowind Anti-Cheese](https://mega.nz/file/T5REhSRR#ovyKXC-0H9Z9Sa2c9Apw3FBe-8maOYs4rZPSph5u638)	
 	- Be sure to [endorse the original mod](https://www.nexusmods.com/morrowind/mods/47305?)
 1. [Ownership Overhaul](https://www.nexusmods.com/morrowind/mods/48051?)
 1. [Some of a Kind - There Can Be Several](https://mega.nz/file/nghzkaTb#eTPvgPDimlIauXtrsbeK9T7qPnr8RW3Znl5dlz75aw8)
-	- A tweaked version of Mort's "One of a Kind" and Necrolesian's "Some of a Kind" daedric rarity mods, by Gilboron. 
+	- A tweaked version of Mort's "One of a Kind" and Necrolesian's "Some of a Kind" daedric rarity mods, by Gilboron.
 	- Enable the "00 Core" option. Additionally, enable the "01 Hunter's Mark Version" **only** if you intend to install the **CONTENT** section of this guide. This version replaces a quest reward with a nice Ebony Bow from the mod "Hunter's Mark."
 1. [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713?)
 
@@ -40,7 +39,7 @@
 1. [Wings of Will](https://www.nexusmods.com/morrowind/mods/46626?)
 
 ## Levelling and Skills
-Morrowind's levelling system shows its age. Because of how it handles skill-ups and attribute modifiers, Morrowind encourages micormanagement and powergaming, which is uNiMmERsiVE and BAD. There are several recent lua-based levelling overhauls that make skill increases/levelling much less intrusive.
+Morrowind's levelling system shows its age. Because of how it handles skill-ups and attribute modifiers, Morrowind encourages micromanagement and powergaming, which is uNiMmERsiVE and BAD. There are several recent lua-based levelling overhauls that make skill increases/levelling much less intrusive.
 
 Choose and **install only ONE** of the following levelling mod sections. If this is your first time with Morrowind, I recommend playing with **Improved Vanilla Levelling** first (it most closely resembles the original game's system), and trying **Class-Conscious Character Progression (CCCP)** on a subsequent playthrough:
 

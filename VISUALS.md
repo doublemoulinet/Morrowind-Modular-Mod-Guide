@@ -109,7 +109,7 @@
 1. [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339?)
 	- Install normally and enable only one ESP: "Old_dwemer_books_Better_typography.esp"
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?)
-	- Does what it says. No, this mod is not really optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla texutres from Intelligent Textures
+	- Does what it says. No, this mod is not really optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla textures from Intelligent Textures
 1. [Vivec Palace Water Replacer](https://www.nexusmods.com/morrowind/mods/48291?)
 	- Enable the following BAIN options 
 		- 00 Core 

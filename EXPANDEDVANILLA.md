@@ -1,13 +1,21 @@
 # EXPANDED VANILLA
+This module expands upon the [**Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) section with quality-of-life and convenience mods, like an improved user interface, and essential MWSE mods like *Graphic Herbalism* and *Weapon Sheathing*. This section is highly recommended for new players.
 
 ## User Interface - Expanded
 1. [Better Questlist](https://www.nexusmods.com/morrowind/mods/48272?)
 1. [Book Worm](https://www.nexusmods.com/morrowind/mods/46851?)
 1. [Character Creation Name Generator](https://www.nexusmods.com/morrowind/mods/46189?)
+1. [Cheat Menu](https://www.nexusmods.com/morrowind/mods/47143?)
+	- Optional. Extremely useful for testing purposes but otherwise unneeded
 1. [Class Description Tooltip](https://www.nexusmods.com/morrowind/mods/47527?)
+1. [Companion Health Bars MWSE Lua](https://www.nexusmods.com/morrowind/mods/46136?)
 1. [Continue](https://www.nexusmods.com/morrowind/mods/45952?)
 1. [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119?)
 	- Download and install Main File "Descriptive Shrines"
+1. [Hotkeys Extended](https://www.nexusmods.com/morrowind/mods/48055?)
+1. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/47962?)
+	- The fillbar is too narrow for my tastes. You can adjust the width in the main.lua. Find the line "chargeFillbar.height" and change the value after the equals sign to 7
+	- Install normally
 1. [MWSE Clock Block](https://www.nexusmods.com/morrowind/mods/46292?)
 1. [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693?)
 1. [Ownership Indicator](https://www.nexusmods.com/morrowind/mods/45940?)
@@ -18,21 +26,10 @@
 1. [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492?)
 1. [Smart Map](https://www.nexusmods.com/morrowind/mods/46634?)
 1. [Tooltips Complete](https://www.nexusmods.com/morrowind/mods/46842?)
+1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?)
 1. [User Interface Expansion](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select User Interface Expansion and install
-
-## User Interface - Expanded (Optional)
-1. [Cheat Menu](https://www.nexusmods.com/morrowind/mods/47143?)
-1. [Companion Health Bars MWSE Lua](https://www.nexusmods.com/morrowind/mods/46136?)
-1. [Hotkeys Extended](https://www.nexusmods.com/morrowind/mods/48055?)
-1. [HUD Hider](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select HUD Hider and install
-1. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/47962?)
-	- The fillbar is too narrow for my tastes. You can adjust the width in the main.lua. Find the line "chargeFillbar.height" and change the value after the equals sign to 7
-	- Install normally
-1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?)
 
 ## User Interface - Splash Screen / Video 
 If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replacers. High quality, seamless integration with the vanilla art style. Before installing these mods, you may want to manually backup your **Data Files\Splash folder** (to preserve the original 4:3 splash screens), and zip your **Data Files\Video\mw_logo.bik** and **Data Files\Video\mw_intro.bik**.
