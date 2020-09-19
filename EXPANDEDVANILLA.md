@@ -80,22 +80,6 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)
 1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?)
 1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
-	- Download and install as a project (i.e. unpack it into your mods folder)
-	- Within the project package, open the pg_gmst_config.json. Copy-paste the following GMST changes:
-			
-			"pg_gmst_hotReloadKey": 88
-			
-			"fCombatAngleXY": 4 			;reduces angle of weapon attack
-			"i1stPersonSneakDelta": 30		;more pronounced visual cue when sneaking
-			"iGreetDistanceMultiplier": 4	;reduces distance NPCs will use voice greetings
-			
-			"fProjectileMaxSpeed": 7200
-			"fProjectileMinSpeed": 960
-			"fThrownWeaponMaxSpeed": 1200
-			"fThrownWeaponMinSpeed": 360
-			"fProjectileThrownStoreChance": 80
-			
-			"fTargetSpellMaxSpeed": 1200
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?)
 1. [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735?)

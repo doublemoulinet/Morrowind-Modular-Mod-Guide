@@ -2,6 +2,7 @@
 - moved several mods around to different sections (no removals or changes in individual installation instructions)
 - added: CONTENT: Fixed Gnisis Minaret - ESP Replacer
 - removed: CORE: Mesh Fixes and UV Fix for Velothi Trap Doors (upcoming MOP will replace the few outstanding fixes provided by this mod)
+- fixed installation instructions for Pete's lua gmst config (bad syntax in the provided config file tweaks)
 
 2020-09-12
 - added: VISUALS: Enlightened Flames
