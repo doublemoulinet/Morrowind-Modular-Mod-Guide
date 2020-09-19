@@ -17,9 +17,6 @@ Several of these fixes (and many more mods you will install as part of this guid
 1. [Sophisticated Save System](https://github.com/NullCascade/morrowind-mods)
 
 ## Mesh Fixes
-1. [Mesh Fix](https://www.nexusmods.com/morrowind/mods/42134?)
-1. [UV Fix for Velothi Trap Doors](https://www.nexusmods.com/morrowind/mods/43528?)
-	- Download only the “UV Fix for Velothi Trap Door” file
 1. [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348?)
 1. [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104?)
 1. [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384?)

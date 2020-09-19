@@ -95,7 +95,7 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 			"fThrownWeaponMinSpeed": 360
 			"fProjectileThrownStoreChance": 80
 			
-			"fTargetSpellMaxSpeed": 120
+			"fTargetSpellMaxSpeed": 1200
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?)
 1. [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735?)
