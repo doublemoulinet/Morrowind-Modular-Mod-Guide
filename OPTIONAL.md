@@ -52,6 +52,8 @@ Solstheim Tomb of the Snow Prince overhauls the entire landmass of Bloodmoon, so
 	- I recommend zipping the edited ESP and installing as a new mod to avoid accidentally overwriting it
 1. **Morrowind Optimization Project** (installed in the [**Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) section
 	- Disable the "02 Lake Fjalding Anti-Suck" option and ensure the *Lake Fjalding Anti-Suck.esp* plugin is not loaded. This fix is already included in *Solstheim Tomb of the Snow Prince*
+1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
+	- Download the "kart_fut_TR_PT" Main File and install. Installation order doesn't matter; you may place the mod underneath *Facelift* in the **VISUALS** section for consistency.
 1. You will need to **register the BSA archives** provided by these landmass mods (TR_Data.bsa and PT_Data.bsa). You can do this via Wrye Mash. Navigate to the right pane of the Mods Tab and select the "BSA Archives" tab. Make sure each BSA has a checkmark next to its name.
 
 **NEXT SECTION**:

@@ -37,11 +37,10 @@
 1. [Enlightened Flames](https://www.nexusmods.com/morrowind/mods/48816?)
 	- Enable both the "00 Core" and "01 enlightened flames" options
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
-	- Download both main files and the 10.3 update file
-	- OPTIONAL: the textures in Intelligent Textures are superior but will be overwritten by Facelift. Recommend downloading Facelift and splitting into a BAIN structure, so you can easily toggle the options on/off to suit your preference:
+	- Download the "kart_facelift_default" Main File and the 10.3 update file
+	- OPTIONAL: the textures in *Intelligent Textures* are superior but will be overwritten by Facelift. Recommend downloading Facelift and splitting into a BAIN structure, so you can easily toggle the options on/off to suit your preference:
 		- 00 Meshes (the \meshes folder from the main file and update)
 		- 01 Textures (the \textures folder from the main file and update)
-		- 02 Tamriel Rebuilt (the \textures folder from the TR optional file)
 1. [Keg Drip](https://www.nexusmods.com/morrowind/mods/47903?)
 	- Enable the following BAIN options:
 		- 00 Core
