@@ -48,9 +48,9 @@ Solstheim Tomb of the Snow Prince overhauls the entire landmass of Bloodmoon, so
 		1. **Skaal Village**
 		1. **Skaal Village**
 		1. **Thirsk**
-	- Delete these *and only* these cells in TESAME. Remember to save the plugin before exiting TESAME
+	- Delete these *and only* these cells in TESAME by right-clicking the entries and pressing the numberpad "delete" key. Remember to save the plugin before exiting TESAME
 	- I recommend zipping the edited ESP and installing as a new mod to avoid accidentally overwriting it
-1. **Morrowind Optimization Project** (installed in the [**Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) section
+1. **Morrowind Optimization Project** (installed in the [**Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) section)
 	- Disable the "02 Lake Fjalding Anti-Suck" option and ensure the *Lake Fjalding Anti-Suck.esp* plugin is not loaded. This fix is already included in *Solstheim Tomb of the Snow Prince*
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
 	- Download the "kart_fut_TR_PT" Main File and install. Installation order doesn't matter; you may place the mod underneath *Facelift* in the **VISUALS** section for consistency.
