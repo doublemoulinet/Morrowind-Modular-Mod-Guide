@@ -50,7 +50,9 @@ Solstheim Tomb of the Snow Prince overhauls the entire landmass of Bloodmoon, so
 		1. **Thirsk**
 	- Delete these *and only* these cells in TESAME. Remember to save the plugin before exiting TESAME
 	- I recommend zipping the edited ESP and installing as a new mod to avoid accidentally overwriting it
-1. You will need to register the BSA archives provided by these landmass mods (TR_Data.bsa and PT_Data.bsa), either manually in your Morrowind.ini, or in Wrye Mash's Mods Tab. Navigate to the right pane of the Mods Tab and select the "BSA Archives" tab. Make sure each BSA has a checkmark next to its name.
+1. **Morrowind Optimization Project** (installed in the [**Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) section
+	- Disable the "02 Lake Fjalding Anti-Suck" option and ensure the *Lake Fjalding Anti-Suck.esp* plugin is not loaded. This fix is already included in *Solstheim Tomb of the Snow Prince*
+1. You will need to **register the BSA archives** provided by these landmass mods (TR_Data.bsa and PT_Data.bsa). You can do this via Wrye Mash. Navigate to the right pane of the Mods Tab and select the "BSA Archives" tab. Make sure each BSA has a checkmark next to its name.
 
 **NEXT SECTION**:
 [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md)

@@ -25,7 +25,6 @@ Several of these fixes (and many more mods you will install as part of this guid
 		- 01 Fixed Vanilla Textures
 		- 02 Lake Fjalding Anti-Suck
 		- 03 MGE XE Addon
-	- NB: “Lake Fjalding Anti Suck” is already included in HOTV Solstheim Tomb of the Snow Prince. Do not enable if using STOTSP
 	- NB: You will install the “04 Weapon Sheathing Patch” as a separate mod further down in the installation order
 1. [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399?)
 	- Enable only the following:
