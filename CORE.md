@@ -18,7 +18,7 @@ Several of these fixes (and many more mods you will install as part of this guid
 
 ## Mesh Fixes
 1. [Correct Meshes](https://www.nexusmods.com/morrowind/mods/39348?)
-1. [Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/46104?)
+1. [Correct UV Rocks](http://mw.modhistory.com/download-55-13485)
 1. [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384?)
 	- Activate the following:
 		- 00 Core
@@ -41,4 +41,4 @@ Several of these fixes (and many more mods you will install as part of this guid
 
 
 **NEXT SECTION**:
-[**Expanded Vanilla**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/EXPANDEDVANILLA.md)
+[**Expanded Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/EXPANDEDCORE.md)

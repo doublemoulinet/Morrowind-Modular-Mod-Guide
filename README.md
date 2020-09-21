@@ -8,7 +8,7 @@ See the [Changelog](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guid
 1. [Introduction](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/README.md)
 1. [Setup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md)
 1. [Core](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md)
-1. [Expanded Vanilla](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/EXPANDEDVANILLA.md)
+1. [Expanded Core](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/EXPANDEDCORE.md)
 1. [Visuals](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md)
 1. [Balance](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md)
 1. [Consistency](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md)
@@ -22,7 +22,7 @@ This is my personal mod list for Morrowind, with an emphasis on performance and 
 
 For a similar-looking guide, with better instructions, see [Sigourn's Morrowind Mended](https://github.com/Sigourn/morrowind-improved). Some of the structure of this guide (particularly the setup section) has been loosely based on Sigourn's.
 
-This guide's selling feature: on fairly modest hardware (ex., an i7-3770 and GTX 680), you will get a solid 50-60FPS in-game. Dips below 60FPS should be rare. 
+This guide's selling feature: on fairly modest desktop hardware (ex., an i7-3770 and GTX 680), you will get a solid 50-60FPS in-game. Dips below 60FPS should be rare. 
 
 ### Note on performance:
 

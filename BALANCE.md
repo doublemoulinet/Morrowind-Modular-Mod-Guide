@@ -1,4 +1,4 @@
-# BALANCE
+# Balance
 
 ## Balance - Core
 1. [Beware the Sixth House](https://www.nexusmods.com/morrowind/mods/46036?)
@@ -63,7 +63,7 @@ Install this section if you want to play with **Class-Conscious Character Progre
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Proportional Progression and install
 1. [Proportional Progression config file](COMING SOON)
-	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for CCCP. Unpack to a project and experiment with the values!
+	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for CCCP
 1. [Putting Power in Willpower](https://www.nexusmods.com/morrowind/mods/45742?)
 1. [Wings of Will](https://www.nexusmods.com/morrowind/mods/46626?)
 

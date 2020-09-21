@@ -67,7 +67,7 @@ Most of the game's files are packed in the game BSAs, but a few file types (font
 	- mw_logo.bik
 	- mw_menu.bik
 
-Drop this zip file in your mod directory (C:\...Morrowind\Mods) and install with your mod manager (in the Installers Tab) at the top of your installation order. This backup means you will automatically revert to vanilla loose files in the event you uninstall, for example, the **Better Fonts** mods at the end of this **CORE** section, or the **Intro Video** replacers in the **EXPANDED VANILLA** section.
+Drop this zip file in your mod directory (C:\...Morrowind\Mods) and install with your mod manager (in the Installers Tab) at the top of your installation order. This backup means you will automatically revert to vanilla loose files in the event you uninstall, for example, the **Better Fonts** mods at the end of this **CORE** section, or the **Intro Video** replacers in the **VISUALS** section.
 
 Note: If you're using Mod Organizer 2, this step is unnecessary (since MO2 doesn't alter files in the game folder).
 

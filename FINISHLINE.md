@@ -40,6 +40,7 @@ Additional re-ordering may be required. Ensure the following load *first* (i.e. 
 1. Patch for Purists - Semi-Purist Fixes.esp
 1. Expansion Delay.esp
 1. No More Stage Diving.esp
+1. chuzei_helm_no_neck.esp
 1. Descriptive Shrines.esp
 1. Morrowind Anti-Cheese.esp
 1. MDMD - More Deadly Morrowind Denizens.esp
@@ -48,7 +49,6 @@ Additional re-ordering may be required. Ensure the following load *first* (i.e. 
 
 If you installed the **Content** section, you will need to move "Quorn Resource Integration.esp" higher in your load order, so that Yet Another Guard Diversity Overhaul and Mamaea Awakened overwrite its changes. Move "Quorn Resource Integration.esp" and "Hunter's Mark.esp" below the unique item ESPs from the **Visuals** section:
 1. Complete Armor Joints.esp
-1. chuzei_helm_no_neck.esp
 1. [**All the unique items ESPs** or the self-created **Unique Items Merged ESP**]
 1. Quorn Resource Integration.esp
 1. Hunter's Mark.esp

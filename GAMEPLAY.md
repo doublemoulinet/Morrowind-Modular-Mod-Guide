@@ -35,9 +35,6 @@
 1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?)
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
 1. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786?)
-1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, selected Drop Light and install
 1. [Free the Slaves](https://www.nexusmods.com/morrowind/mods/45191?)
 1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
 	- Download the zip of all NullCascade’s Morrowind mods

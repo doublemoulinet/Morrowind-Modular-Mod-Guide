@@ -1,3 +1,9 @@
+2020-09-19
+- more reordering of subsections (moved splash screen/video to VISUALS section)
+- updated installation instructions for VISUALS: Switchable Scriptures
+- removed: VISUALS: Rigging Morrowind (included in the latest Morrowind Optimization Patch)
+- removed: VISUALS: unique item replacers
+
 2020-09-18
 - moved several mods around to different sections (no removals or changes in individual installation instructions)
 - added: CONTENT: Fixed Gnisis Minaret - ESP Replacer

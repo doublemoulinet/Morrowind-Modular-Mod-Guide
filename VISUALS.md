@@ -1,4 +1,4 @@
-# VISUALS
+# Visuals
 
 ## Texture Base
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?)
@@ -48,7 +48,7 @@
 		- 01 MWSE Version
 1. [Lazily Atlased Statues of Delyn and Olms](https://www.nexusmods.com/morrowind/mods/48578?)
 	- Download the Main File if using Intelligent Textures. Download the optional file if using vanilla textures.
-1. [Melchior’s Magnificent Manuscript](https://www.nexusmods.com/morrowind/mods/45626?)
+1. [Melchior’s Magnificent Manuscripts](https://www.nexusmods.com/morrowind/mods/45626?)
 	- Enable *only* the "00 Core" BAIN option
 1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?)
 	- Enable both the "00 Core" and "01 Vanilla Mist Replacer" options
@@ -56,7 +56,6 @@
 1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?)
 	- Enable the following BAIN options:
 		- 00 Core
-		- 02 Iron Repair Prongs
 1. [Parasol Particles](https://www.nexusmods.com/morrowind/mods/47755?)
 	- Enable the following BAIN options:
 		- 00 Core
@@ -74,9 +73,11 @@
 	- Enable one of the three options (I prefer "faint")
 1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?)
 1. [Switchable Scriptures](https://www.nexusmods.com/morrowind/mods/46680?)
-	- Enable the following BAIN options
-		- 00 Core
-		- 03 Melchior's Magnificent Manuscripts
+	- Requires additional installation steps:
+		- Unzip. In the "00 Core" folder, copy the 6 "Text_Scroll_[...].nif" files. 
+		- Paste these 6 files into the "03 Melchior's Magnificent Manuscripts" folder. Overwrite when prompted
+		- Repack and install, enabling both "00 Core" and "03 Melchior's Magnificent Manuscripts" options
+	- This reverts Melchior's Magnificent Manuscripts' changes to the scroll texture, which look out of place with vanilla-style textures
 1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?)
 1. [Unto Dust](https://www.nexusmods.com/morrowind/mods/48435?)
 	- Enable both "00 Core" and "01 Default Dust"
@@ -99,10 +100,8 @@
 1. [Furn_overhang_18__smoooooth](https://www.nexusmods.com/morrowind/mods/45939?)
 	- Download the main file "furn_overhang_18_smooooooth" and install normally
 1. [MWSE Blood Diversity](https://www.nexusmods.com/morrowind/mods/47913)
+	- Install both the "00 Core" option and the texture version of your choice ("01 vanilla-friendly textures" for vanilla textures; "02 R-zero's textures" for Intelligent Textures)
 	- Be sure to read the readme and update your Morrowind.ini as directed. You can comment out the default Morrowind.ini "[Blood]" entries with semicolons (;) or dashes (--) and paste the mod's ini changes underneath.
-	- The "main.lua" has a leftover debug function. Open the file and delete the following line (line 37):
-			
-			mwse.log("[Blood Diversity] Setting blood to type %d for %s", bloodOverride, object)
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?)
 	- Activate "00 Core" and "01 Vvardenfell only"
 1. [No Translation Tooltips](https://www.nexusmods.com/morrowind/mods/48540?)
@@ -118,6 +117,8 @@
 ## Equipment Meshes
 1. [Complete Armor Joints](http://mw.modhistory.com/download-4-12572)
 	- Make sure you click the download button in the top-right corner and download the latest version
+1. [Fang-like Fang of Haynekhtnamet](https://www.nexusmods.com/morrowind/mods/47505?)
+1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?)
 1. [Hopesfire Glow](https://www.nexusmods.com/morrowind/mods/45855?)
 	- Enable only the "Hopesfire Torch (+brighter trueflame).esp
 1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?)
@@ -131,8 +132,6 @@
 	- Download and install only "No Orcish Clown Shoes"
 1. [Nordic Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46792?)
 	- Install "00 Core" and "01 Weapon Sheathing Patch"
-1. [Rigging Morrowind](https://www.nexusmods.com/morrowind/mods/47754?)
-	- Cleaning: Rigging Morrowind chuzei_helm_no_neck.esp requires cleaning
 1. [Improved Pauldron Meshes](https://www.nexusmods.com/morrowind/mods/47920?)
 	- Download the main file "Improved Pauldron Meshes (Vanilla - Better Morrowind Armor) and enable the following BAIN options:
 		- 00 Data Files
@@ -147,19 +146,14 @@
 		- 03 Weapon Sheathing Patch
 		- 04 Improved Thrown Weapons Patch
 
-## Unique Item Replacers
-Many unique items are assigned generic models in the game. These mods make some of the uniques... unique. These ESPs can be safely merged after installation, though it is not necessary. 
-1. [Fang-like Fang of Haynekhtnamet](https://www.nexusmods.com/morrowind/mods/47505?)
-1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?)
-1. [Unique Dreugh Cuirass](https://www.nexusmods.com/morrowind/mods/46508?)
-1. [Unique Racerbeak](https://www.nexusmods.com/morrowind/mods/46501?)
-1. [Unique Rammekald](https://www.nexusmods.com/morrowind/mods/46763?)
-	- Enable both 00 Core and 01 Better Stats
-1. [Unique Rusty Dagger](https://www.nexusmods.com/morrowind/mods/47616?)
-1. [Unique Snowy Crown](https://www.nexusmods.com/morrowind/mods/46782?)
-1. [Unique Weapon – Mephala’s Teacher](https://www.nexusmods.com/morrowind/mods/43528?)
-	- Download Main File "Unique Weapon - Mephala's Teacher"
-
+## Splash Screen / Video 
+If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replacers. High quality, seamless integration with the vanilla art style. Before installing these mods, you may want to manually backup your **Data Files\Splash folder** (to preserve the original 4:3 splash screens), and zip your **Data Files\Video\mw_logo.bik** and **Data Files\Video\mw_intro.bik**.
+1. [The Role They Were to Play](https://www.nexusmods.com/morrowind/mods/46411?)
+1. [Widescreen Menu and Logo Replacer](https://www.nexusmods.com/morrowind/mods/47164?)
+1. [Widescreen Splash Replacer](https://www.nexusmods.com/morrowind/mods/47163?)
+1. [Additional Splash Screens](https://www.nexusmods.com/morrowind/mods/43319?)
+1. [Widescreen Splash Additions](https://www.nexusmods.com/morrowind/mods/48001?)
+	- Archive is incorrectly packed: create a "splash" folder and place the .tga files inside. Repack and install.
 
 **NEXT SECTION**:
 [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md)

@@ -1,5 +1,4 @@
-# EXPANDED VANILLA
-This module expands upon the [**Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) section with quality-of-life and convenience mods, like an improved user interface, and essential MWSE mods like *Graphic Herbalism* and *Weapon Sheathing*. This section is highly recommended for new players.
+# Expanded Core
 
 ## User Interface - Expanded
 1. [Better Questlist](https://www.nexusmods.com/morrowind/mods/48272?)
@@ -31,15 +30,6 @@ This module expands upon the [**Core**](https://github.com/doublemoulinet/Morrow
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select User Interface Expansion and install
 
-## User Interface - Splash Screen / Video 
-If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replacers. High quality, seamless integration with the vanilla art style. Before installing these mods, you may want to manually backup your **Data Files\Splash folder** (to preserve the original 4:3 splash screens), and zip your **Data Files\Video\mw_logo.bik** and **Data Files\Video\mw_intro.bik**.
-1. [The Role They Were to Play](https://www.nexusmods.com/morrowind/mods/46411?)
-1. [Widescreen Menu and Logo Replacer](https://www.nexusmods.com/morrowind/mods/47164?)
-1. [Widescreen Splash Replacer](https://www.nexusmods.com/morrowind/mods/47163?)
-1. [Additional Splash Screens](https://www.nexusmods.com/morrowind/mods/43319?)
-1. [Widescreen Splash Additions](https://www.nexusmods.com/morrowind/mods/48001?)
-	- Archive is incorrectly packed: create a "splash" folder and place the .tga files inside. Repack and install.
-
 ##  MWSE - Core
 1. [Graphic Herbalism MWSE](https://www.nexusmods.com/morrowind/mods/46599?)
 	- Download and install the Main File
@@ -62,7 +52,7 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?)
 	- Install *only* the “04 Weapon Sheathing Patch” BAIN option
 
-## QoL and Immersion
+## Gameplay Tweaks
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?)
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?)
 1. [Beast Race Abilities Toggleable](https://www.nexusmods.com/morrowind/mods/44948?)
@@ -70,6 +60,9 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?)
 1. [Darhk’s Super-Sized Storage](https://www.nexusmods.com/morrowind/mods/45147?)
 1. [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717?)
+1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
+	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
+	- Unzip, selected Drop Light and install
 1. [Kill Command](https://www.nexusmods.com/morrowind/mods/46723?)
 1. [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292?)
 1. [Loading Doors](https://www.nexusmods.com/morrowind/mods/46094?)
