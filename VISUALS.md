@@ -28,8 +28,6 @@
 	- Enable the following BAIN options:
 		- 00 Core 
 		- 03 Standalone - Lougian's Meshes Fixed
-1. [Correct UV Mudcrabs](https://www.nexusmods.com/morrowind/mods/42130?)
-	- Enable only the “00 - Regular” BAIN option
 1. [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219?)
 	- Enable both "00 Core" and "03 Glow Effect" options
 1. [Enhanced Stone Walls](https://www.nexusmods.com/morrowind/mods/45939?)
@@ -80,10 +78,6 @@
 1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?)
 1. [Unto Dust](https://www.nexusmods.com/morrowind/mods/48435?)
 	- Enable both "00 Core" and "01 Default Dust"
-1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?)
-1. [Visually Filled Soul Gems](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Visually Filled Soul Gems and install
 1. [Waterfall Tweaks](https://www.nexusmods.com/morrowind/mods/46271?)
 
 ## Meshes and Textures - Optional
@@ -131,19 +125,10 @@
 	- Download and install only "No Orcish Clown Shoes"
 1. [Nordic Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46792?)
 	- Install "00 Core" and "01 Weapon Sheathing Patch"
-1. [Improved Pauldron Meshes](https://www.nexusmods.com/morrowind/mods/47920?)
-	- Download the main file "Improved Pauldron Meshes (Vanilla - Better Morrowind Armor) and enable the following BAIN options:
-		- 00 Data Files
-		- 01 Orcish Pauldrons with Fangs
 1. [Silver Mesh Improvements](https://www.nexusmods.com/morrowind/mods/46787?)
 	- Install both "00 Core" and "01 Weapon Sheathing Patch"
 1. [Improved Thrown Weapon Projectiles](https://www.nexusmods.com/morrowind/mods/44763?)
 	- Download and install only the main file
-1. [Improved Weapon Meshes - Organic](https://www.nexusmods.com/morrowind/mods/47892?)
-	- Download the Main File and enable the following BAIN options:
-		- 00 Data Files
-		- 03 Weapon Sheathing Patch
-		- 04 Improved Thrown Weapons Patch
 
 ## Splash Screen / Video 
 If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replacers. High quality, seamless integration with the vanilla art style. Before installing these mods, you may want to manually backup your **Data Files\Splash folder** (to preserve the original 4:3 splash screens), and zip your **Data Files\Video\mw_logo.bik** and **Data Files\Video\mw_intro.bik**.

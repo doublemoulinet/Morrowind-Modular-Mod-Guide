@@ -1,3 +1,8 @@
+2020-09-22
+- removed: VISUALS: Correct UV Mudcrabs (a good fix but mostly inconsequential)
+- removed: VISUALS: Improved Pauldron Meshes (too high quality!)
+- removed: VISUALS: Improved Weapon Meshes - Organic (too high quality!)
+
 2020-09-19
 - more reordering of subsections (moved splash screen/video to VISUALS section)
 - updated installation instructions for VISUALS: Switchable Scriptures

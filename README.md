@@ -22,7 +22,7 @@ This is my personal mod list for Morrowind, with an emphasis on performance and 
 
 For a similar-looking guide, with better instructions, see [Sigourn's Morrowind Mended](https://github.com/Sigourn/morrowind-improved). Some of the structure of this guide (particularly the setup section) has been loosely based on Sigourn's.
 
-This guide's selling feature: on fairly modest desktop hardware (ex., an i7-3770 and GTX 680), you will get a solid 50-60FPS in-game. Dips below 60FPS should be rare. 
+This guide's selling feature: on fairly modest desktop hardware (ex., an i7-3770 and GTX 680), you will get a solid 50-60FPS in-game. Dips below 60FPS should be rare.
 
 ### Note on performance:
 
