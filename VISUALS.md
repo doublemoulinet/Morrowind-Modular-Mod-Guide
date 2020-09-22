@@ -78,6 +78,9 @@
 1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?)
 1. [Unto Dust](https://www.nexusmods.com/morrowind/mods/48435?)
 	- Enable both "00 Core" and "01 Default Dust"
+1. [Visually Filled Soul Gems](https://github.com/NullCascade/morrowind-mods)
+	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
+	- Unzip, select Visually Filled Soul Gems and install
 1. [Waterfall Tweaks](https://www.nexusmods.com/morrowind/mods/46271?)
 
 ## Meshes and Textures - Optional

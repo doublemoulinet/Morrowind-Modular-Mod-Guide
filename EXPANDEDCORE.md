@@ -75,9 +75,7 @@
 1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?)
 1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?)
 1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?)
-1. [Visually Filled Soul Gems](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Visually Filled Soul Gems and install
+
 
 **NEXT SECTION**:
 [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md)
