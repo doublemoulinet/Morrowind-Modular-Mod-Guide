@@ -34,7 +34,10 @@ Several of these fixes (and many more mods you will install as part of this guid
 
 ## User Interface – Core
 1. [Better Daedric Font](https://www.nexusmods.com/morrowind/mods/44540?)
-	- Download and install normally. This will enable the default "Standard style" Daedric font--identical to the vanilla game but in a higher resolution. Read the readme for instructions on installing the other variants if you prefer those.
+	- Mod is incorrectly packaged: 
+		- Create a new folder and name it *Better Daedric Fonts*. Inside this folder, create a "Fonts" folder
+		- Unpack the mod archive to this fonts folder. You can delete the JPG screenshots
+		- Your folder structure should look like this: Better Daedric Font->Fonts->[files]. Zip and install normally
 1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873?)
 1. [Fixed Journal Next Button](https://www.nexusmods.com/morrowind/mods/48097?)
 

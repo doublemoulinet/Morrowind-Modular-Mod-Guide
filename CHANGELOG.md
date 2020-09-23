@@ -1,4 +1,6 @@
 2020-09-22
+- changed version of Correct UV Rocks (older is better)
+- updated some installation instructions in the Core and Content sections
 - removed: VISUALS: Correct UV Mudcrabs (a good fix but mostly inconsequential)
 - removed: VISUALS: Improved Pauldron Meshes (too high quality!)
 - removed: VISUALS: Improved Weapon Meshes - Organic (too high quality!)
@@ -7,7 +9,7 @@
 - more reordering of subsections (moved splash screen/video to VISUALS section)
 - updated installation instructions for VISUALS: Switchable Scriptures
 - removed: VISUALS: Rigging Morrowind (included in the latest Morrowind Optimization Patch)
-- removed: VISUALS: unique item replacers
+- removed: VISUALS: unique item replacers (personal preference)
 
 2020-09-18
 - moved several mods around to different sections (no removals or changes in individual installation instructions)

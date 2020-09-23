@@ -21,7 +21,6 @@ All due respect to the mod author, who has done taken on an enormous task in fix
 	- Cleaning: TR_Preview.esp requires cleaning
 1. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921?)
 1. [HOTV Solstheim Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
-	- STOTSP incorporates Anthology Solstheim's worldspace edits. Be sure to disable "Anthology Solstheim" in the CORE section
 	- Enable the following BAIN options:
 		- 00 Core
 		- 010 Solstheim - Tomb of the Snow Prince

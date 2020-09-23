@@ -15,13 +15,13 @@
 1. [Better Redoran Architecture](https://www.nexusmods.com/morrowind/mods/43266?)
 	- Download and install Main File "RR - Better Redoran Architecture v.1.2.2"
 	- Enable only the following BAIN option:
-		- 04 - Better Aldruhn-under Skar
+		- *04 - Better Aldruhn-under Skar* **OR** *05 - Better Aldruhn-under Skar HD*
 	- Enable only the RR_Aldruhn_Under_Skar_ENG.esp
 	- Cleaning: ESP requires cleaning
 1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?)
 	- Mod archive is incorrectly packaged. Repack:
 		- Extract the "ex_velothi_big.nif" in "000 Core Files\Glow in the Dahrk\Vanilla" 
-		- Place in a new folder with the following strucure: "00 - Vanilla (GitD)\meshes\x\ex_velothi_big.nif"
+		- Place in a new folder with the following strucure: "meshes\x\ex_velothi_big.nif"
 		- Extract the ESP in "001 ESP - Bigger Velothi Temples"
 		- Place the ESP in your new folder
 		- Zip as a new mod archive and install normally
@@ -35,8 +35,10 @@
 	- Enable only the "Meteorite Ministry Temple" ESP
 	- Cleaning: ESP requires cleaning
 1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?)
+	- Enable only the "00 Core" BAIN option
 1. [Open Mournhold](https://www.nexusmods.com/morrowind/mods/44981?)
 1. [Passage of Prayers](https://www.nexusmods.com/morrowind/mods/46786?)
+	- Enable the "00 Core" and "01 no dialogue and books edit version" BAIN options
 	- Note: I experience slight frame drops on my system (older CPU)
 1. [Properly Cluttered Ald Velothi](https://www.nexusmods.com/morrowind/mods/48811?)
 1. [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646?)
@@ -48,22 +50,30 @@
 	- Download and install the Optional File "Fixed Version of Gnisis Minaret"
 	- Do not enable the ESPs
 1. [Fixed Version of Gnisis Minaret - Fixed ESP](https://mega.nz/file/O14DRBjQ#VoipDGkDyy319TPofTxe5z6GCysaLoOwcPwXsK2U1_E)
+	- ESP replacer for the Gnisis Minaret; this version fixes the script attached to the new NPC and adds ownership to the new containers and placed items
 1. [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614?)
 	- Cleaning: ESP requires cleaning
 
 ## Expanded Wilderness
 1. [The Ashen Divide](https://www.nexusmods.com/morrowind/mods/48733?)
+	- Enable the "00 Core" option. Select the "01 hires textures" option if using Intelligent Textures
 	- ESP requires cleaning
 1. [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?)
 	- Cleaning: ESP requires cleaning
 1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?)
+	- Enable the "00 Core" option. Select the "01 hires textures" option if using Intelligent Textures	
 	- Cleaning: ESP requires cleaning
 1. [The Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/46137?)
 	- Don't enable the ESP; the next mod reverts some cell name changes and will supply the ESP
 1. [The Grove of Ben'Abi - Region name reverted](https://mega.nz/file/Gl4TQBrR#YqRPilupBPUwneqR0lOs70IvXuBQ5xwbAw_bdGjpG74)
 1. [RR Mod Series - Holamayan](https://www.nexusmods.com/morrowind/mods/43524?)
+	- Select the following BAIN options:
+		- 00 - main files
+		- 01 - main esp - english
+		- 03 - main files - glow in the dahrk patch
 	- ESP requires cleaning
 1. [RR Mod Series - Holayaman - Vanilla Statue](https://mega.nz/file/z1ZyzASS#Sxg_woC1TjGImgJP-CU6WVgTvaWn9q1tBcPHxa9F4u8)
+	- replaces RR Series' custom Azura statue asset with a vanilla model (for consistency with the rest of the game)
 1. [RR Mod Series - Telvanni Lighthouse - Tel Branora](https://www.nexusmods.com/morrowind/mods/42664?)
 	- Enable the following BAIN options:
 		- 00 - Main Files
@@ -80,6 +90,7 @@
 	- Cleaning: ESP requires cleaning
 1. [Shrine of Azura](https://www.nexusmods.com/morrowind/mods/48278?)
 1. [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661?)
+	- Enable the "00 Core" and "01 for vanilla rocks" BAIN options
 
 ## Guilds
 1. [Balmora Guilds Expanded](https://www.nexusmods.com/morrowind/mods/46859?)
