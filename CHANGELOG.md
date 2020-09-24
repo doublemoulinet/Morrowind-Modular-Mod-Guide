@@ -1,3 +1,6 @@
+2020-09-24
+- removed: CORE: Correct Meshes (unnecessary, some fixes are inferior)
+
 2020-09-22
 - changed version of Correct UV Rocks (older is better)
 - updated some installation instructions in the Core and Content sections
