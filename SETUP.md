@@ -161,7 +161,7 @@ These modding tools will be used for several key steps in this guide: mod cleani
 
 ### tes3cmd
 This powerful command-line tool cleans mods and will be used to build a multipatch at the end of the mod guide.
-1. Download [tes3cmd](http://wiki.theassimilationlab.com/mmw/TES3cmd) and extract the tes3cmd.exe your **Morrowind\Data Files** folder. Do not install tes3cmd to the root directory
+1. Download the latest [tes3cmd release](https://github.com/john-moonsugar/tes3cmd/releases) and extract the tes3cmd.exe your **Morrowind\Data Files** folder. Do not install tes3cmd to the root directory
 1. Inside **Morrowind\Data Files** create a .txt file and [copy the batch file cleaning text](http://wiki.theassimilationlab.com/mmw/TES3cmd#Using_a_batch_file_to_clean_plugins)
 1. Rename the .txt file to tes3cmd_clean.bat. Make sure to change the filetype extension from .txt to .bat
 1. Inside **Morrowind\Data Files** create another .txt file and [copy the batch file multipatch text](http://wiki.theassimilationlab.com/mmw/TES3cmd#Using_a_batch_file_to_create_a_multipatch_plugin)
