@@ -82,6 +82,9 @@ The multipatch erroneously edits four levelled lists affected by the Daedric rar
 1. **random_Golden_saint_weapon**
 1. **random_Golden_saint_shield**
 
+If you installed the quest mod "Scrolls of the Nine Barriers" you will additionally need to delete this "Lev Item" entry: 
+1. **random_scroll_all**
+
 Save the edited plugin by choosing "save as" and overwriting the original plugin. In Wrye Mash's Mods Tab, ensure the **multipatch.esp plugin** is at the bottom of your load order (i.e. last). **NOTE:** You will have to do this each time you regenerate your multipatch.
 
 ### Merged Objects

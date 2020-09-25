@@ -1,3 +1,6 @@
+2020-09-04
+- updated instructions in FINISH LINE to address an additional levelled list item to delete from the multipatch
+
 2020-09-24
 - removed: CORE: Correct Meshes (unnecessary, some fixes are inferior)
 
