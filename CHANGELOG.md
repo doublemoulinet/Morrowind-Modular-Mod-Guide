@@ -1,6 +1,6 @@
 2020-09-25
-- updated instructions in FINISH LINE to address an additional levelled list item to delete from the multipatch
 - updated installation instructions for tes3cmd (now link directs to latest beta release)
+- updated FINISH LINE: removed instructions to delete levelled items from the multipatch (no longer necessary with current tes3cmd version)
 
 2020-09-24
 - removed: CORE: Correct Meshes (unnecessary, some fixes are inferior)

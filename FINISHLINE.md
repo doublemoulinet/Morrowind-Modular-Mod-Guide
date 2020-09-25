@@ -76,17 +76,6 @@ First, you need to create the **tes3cmd multipatch**:
 1. Follow the prompts in the command-line window and wait for it to generate the patch
 1. Once complete, tes3cmd will create multipatch.esp in your Data Files
 
-The multipatch erroneously edits four levelled lists affected by the Daedric rarity mod "Some of a Kind" (installed in the [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md) section. Open TESAME and open the multipatch.esp. Filter by type and select the following four "Lev Item" entries and delete them (right click the entries and hit the delete key on your keyboard):
-1. **l_m_enchantitem_temple_rank8_2**
-1. **random excellent melee weapon**
-1. **random_Golden_saint_weapon**
-1. **random_Golden_saint_shield**
-
-If you installed the quest mod "Scrolls of the Nine Barriers" you will additionally need to delete this "Lev Item" entry: 
-1. **random_scroll_all**
-
-Save the edited plugin by choosing "save as" and overwriting the original plugin. In Wrye Mash's Mods Tab, ensure the **multipatch.esp plugin** is at the bottom of your load order (i.e. last). **NOTE:** You will have to do this each time you regenerate your multipatch.
-
 ### Merged Objects
 Next, create the **Merged Objects patch** with **TES3Merge**:
 1. Launch TES3Merge.exe and wait for it to generate the plugin
