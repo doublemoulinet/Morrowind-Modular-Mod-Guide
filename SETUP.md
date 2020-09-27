@@ -129,7 +129,7 @@ For **Customize setup** I recommend the following settings:
 - Land Meshes: set **world mesh detail** to high
 - Statics: set **minimum static size** to 150, **Mesh detail level** to Full, **Distant texture reduction** to 1/2, and tick all the right-hand options EXCEPT "include reflective water in interiors"
 
-After MGE XE has generated distant land, in the "Distant Land" tab in MGE XE, set the **Draw Distance** to 3.0 cells. I recommend between 2-4 cell draw distance to maintain the vanilla atmosphere and keep performance cost to a minimum.
+After MGE XE has generated distant land, in the "Distant Land" tab in MGE XE, set the **Draw Distance** to 3.0 cells. I recommend between 3-5 cell draw distance to maintain the vanilla atmosphere and keep performance cost to a minimum.
 
 Other Distant Land settings:
 - **Water**:
