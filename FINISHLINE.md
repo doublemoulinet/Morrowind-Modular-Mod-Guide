@@ -34,8 +34,8 @@ Additional re-ordering may be required. Ensure the following load *first* (i.e. 
 1. Tribunal.esm
 1. Bloodmoon.esm
 1. Patch for Purists.esm
+1. Ownership Overhaul.esm
 1. (Whatever ESMs installed in the CONTENT or LANDMASS EXPANSIONS section, ex OOAB_Data.esm or Tamriel_Data.esm)
-1. (Whatever ESPs installed in the LANDMASS EXPANSIONS section, ex, VSW_Solstheim_TD_Item_Expansion.esp or Rather Nice Factor's Estate.esp)
 1. Patch for Purists - Book Typos.esp
 1. Patch for Purists - Semi-Purist Fixes.esp
 1. Expansion Delay.esp
@@ -45,7 +45,6 @@ Additional re-ordering may be required. Ensure the following load *first* (i.e. 
 1. Morrowind Anti-Cheese.esp
 1. MDMD - More Deadly Morrowind Denizens.esp
 1. MDMD - Creatures Add-on.esp
-1. Ownership Overhaul.esp
 
 If you installed the **Content** section, you will need to move "Quorn Resource Integration.esp" higher in your load order, so that Yet Another Guard Diversity Overhaul and Mamaea Awakened overwrite its changes. Move "Quorn Resource Integration.esp" and "Hunter's Mark.esp" below the unique item ESPs from the **Visuals** section:
 1. Complete Armor Joints.esp

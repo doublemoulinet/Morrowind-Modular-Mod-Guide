@@ -1,3 +1,9 @@
+2020-09-28
+- updated installation instructions for BALANCE: Ownership Overhaul (now recommend using the ESM version)
+- updated installation instructions for LANDMASS: revised steps for mod compatibility edits
+- added: EXPANDED VANILLA: *Chameleon Fix* and *MWSE Hide the Skooma*
+- removed: EXPANDED VANILLA: Beast Race Abilities Toggleable (felt unnecessary)
+
 2020-09-25
 - updated installation instructions for tes3cmd (now link directs to latest beta release)
 - updated FINISH LINE: removed instructions to delete levelled items from the multipatch (no longer necessary with current tes3cmd version)

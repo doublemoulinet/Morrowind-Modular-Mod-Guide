@@ -55,9 +55,8 @@
 ## Gameplay Tweaks
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?)
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?)
-1. [Beast Race Abilities Toggleable](https://www.nexusmods.com/morrowind/mods/44948?)
-	- You can skip this if you won't be playing as a Lizard or a Cat.
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?)
+1. [Chameleon Fix](https://www.nexusmods.com/morrowind/mods/47996)
 1. [Darhk’s Super-Sized Storage](https://www.nexusmods.com/morrowind/mods/45147?)
 1. [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717?)
 1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
@@ -66,6 +65,7 @@
 1. [Kill Command](https://www.nexusmods.com/morrowind/mods/46723?)
 1. [Loading Doors](https://www.nexusmods.com/morrowind/mods/46094?)
 1. [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?)
+1. [MWSE Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
 1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)
 1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?)
 1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)

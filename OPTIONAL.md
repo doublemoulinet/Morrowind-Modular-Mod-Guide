@@ -31,29 +31,19 @@ All due respect to the mod author, who has done taken on an enormous task in fix
 	- Enable both the "00 Core" and "01 Patch - Patch for Purists 4.0.X" options
 
 ### Landmass Mod Compatibility
-Solstheim Tomb of the Snow Prince overhauls the entire landmass of Bloodmoon, so any mods that edit the same landmass create incompatibilities. You will need to make some edits:
+The following steps will ensure compatibility between the new landmass mods and your load order:
 
 1. Run the **Morrowind Code Patch (MCP)** again. Under the **Interface Changes** section, enable the "Map Expansion (for Tamriel Rebuilt)" option. 
 	- This will expand the map boundaries so that Solstheim and the Morrowind mainland will not be cut off on your in-game map.
-1. **Ownership Overhaul** (installed in the [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md) section)
-	- NOTE: This mod overwrites some changes to Anthology Solstheim / Solstheim Tomb of the Snow Prince (which moves the island of Solstheim farther north). If you are using STOTSP, you will need to delete the exterior Solstheim cell references with TESAME (or get used to floating objects in the middle of the sea)
-	- Run TESAME and open the *"Ownership Overhaul.esp"* plugin. TESAME will generate a list of the edits created by the plugin
-	- The Cell edits you need to delete in TESAME are:
-		1. **Felsaad Coast Region** (This Cell is unnamed; it will be the penultimate unnamed entry if listed alphabetically--you can check by clicking the entry and looking at the information in the bottom tab of the GUI)
-		1. **Isinfer Plains Region** (This Cell is unnamed; it will be the last unnamed entry if listed alphabetically--you can check by clicking the entry and looking at the information in the bottom tab of the GUI)
-		1. **Fort Frostmoth**
-		1. **Fort Frostmoth**
-		1. **Raven Rock**
-		1. **Skaal Village**
-		1. **Skaal Village**
-		1. **Thirsk**
-	- Delete these *and only* these cells in TESAME by right-clicking the entries and pressing the numberpad "delete" key. Remember to save the plugin before exiting TESAME
-	- I recommend zipping the edited ESP and installing as a new mod to avoid accidentally overwriting it
 1. **Morrowind Optimization Project** (installed in the [**Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) section)
 	- Disable the "02 Lake Fjalding Anti-Suck" option and ensure the *Lake Fjalding Anti-Suck.esp* plugin is not loaded. This fix is already included in *Solstheim Tomb of the Snow Prince*
+1. Lastly, you will need to **register the BSA archives** provided by these landmass mods (TR_Data.bsa and PT_Data.bsa). You can do this via Wrye Mash. Navigate to the right pane of the Mods Tab and select the "BSA Archives" tab. Make sure each BSA has a checkmark next to its name.
+
+Optionally, you may update the following mods to enable compatibility/integration with Tamriel Rebuilt and STOTSP:
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
-	- Download the "kart_fut_TR_PT" Main File and install. Installation order doesn't matter; you may place the mod underneath *Facelift* in the **VISUALS** section for consistency.
-1. You will need to **register the BSA archives** provided by these landmass mods (TR_Data.bsa and PT_Data.bsa). You can do this via Wrye Mash. Navigate to the right pane of the Mods Tab and select the "BSA Archives" tab. Make sure each BSA has a checkmark next to its name.
+	- Download the "kart_fut_TR_PT" Main File and install. Installation order doesn't matter; you may place the mod underneath *Facelift* in the **VISUALS** section for consistency. Adds high quality textures for TR faces to better fit in with HD texture replacers like IT.
+1. **Near Vanilla Road Sign Replacer** (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) seciton)
+	- enable the "00 Core" and "02 Vvardenfell, Morrowind, and Cyrodiil" BAIN options. This replaces the generic TR road signs with vanilla-friendly readable signs.
 
 **NEXT SECTION**:
 [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md)

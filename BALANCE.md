@@ -9,6 +9,7 @@
 1. [Morrowind Anti-Cheese](https://mega.nz/file/T5REhSRR#ovyKXC-0H9Z9Sa2c9Apw3FBe-8maOYs4rZPSph5u638)	
 	- Be sure to [endorse the original mod](https://www.nexusmods.com/morrowind/mods/47305?)
 1. [Ownership Overhaul](https://www.nexusmods.com/morrowind/mods/48051?)
+	- Enable only the ESM plugin. In the **Mods Tab (your load order)**, move the *Ownership Overhaul.esm* below *Patch For Purists.esm*, near the top of your load order.
 1. [Some of a Kind - There Can Be Several](https://mega.nz/file/nghzkaTb#eTPvgPDimlIauXtrsbeK9T7qPnr8RW3Znl5dlz75aw8)
 	- A tweaked version of Mort's "One of a Kind" and Necrolesian's "Some of a Kind" daedric rarity mods, by Gilboron.
 	- Enable the "00 Core" option. Additionally, enable the "01 Hunter's Mark Version" **only** if you intend to install the **CONTENT** section of this guide. This version replaces a quest reward with a nice Ebony Bow from the mod "Hunter's Mark."
