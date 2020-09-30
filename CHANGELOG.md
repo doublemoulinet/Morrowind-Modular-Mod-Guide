@@ -1,3 +1,6 @@
+2020-09-30
+- updated installation instructions for VISUALS: Assetless No Glow (updated nexus to github version)
+
 2020-09-28
 - updated installation instructions for BALANCE: Ownership Overhaul (now recommend using the ESM version)
 - updated installation instructions for LANDMASS: revised steps for mod compatibility edits

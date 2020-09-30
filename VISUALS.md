@@ -22,7 +22,9 @@
 1. [Weather Adjuster preset](https://mega.nz/file/CkgnBR7C#sYAUBouPwf5uPUhi_4rlpgdqYqTWGbVAdi5O84vuwZo)
 
 ## Meshes and Textures - Core
-1. [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925?)
+1. [Assetless No Glow](https://github.com/NullCascade/morrowind-mods)
+	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
+	- Unzip, select No Glow and install
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?)
 1. [Bitter Coast Scum Replacer](https://www.nexusmods.com/morrowind/mods/48291?)
 	- Enable the following BAIN options:
