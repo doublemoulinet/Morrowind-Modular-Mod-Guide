@@ -20,6 +20,7 @@
 1. [Enhanced Detection Lite](https://www.nexusmods.com/morrowind/mods/48471?)
 	- Optional: an add-on for Enhanced Detection that strips down to just the visual effect for vanilla detection spells
 	- Requires Enhanced Detection to be installed (this mod overwrites the existing files)
+	- Installation instructions: enable only the "Enhanced Detection Less Lite" option
 1. [Enhanced Invisibility](https://www.nexusmods.com/morrowind/mods/47565?)
 1. [Enhanced Light](https://www.nexusmods.com/morrowind/mods/47672?)
 	- Enable the following BAIN options:
