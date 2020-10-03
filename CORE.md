@@ -17,7 +17,6 @@ Several of these fixes (and many more mods you will install as part of this guid
 1. [Sophisticated Save System](https://github.com/NullCascade/morrowind-mods)
 
 ## Mesh Fixes
-1. [Correct UV Rocks](http://mw.modhistory.com/download-55-13485)
 1. [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384?)
 	- Activate the following:
 		- 00 Core

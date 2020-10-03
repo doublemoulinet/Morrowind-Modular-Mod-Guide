@@ -1,3 +1,7 @@
+2020-10-01
+- updated installation instructions for GAMEPLAY: Enhanced Detection Lite
+- removed: CORE: Correct UV Rocks (UV changes are less necessary with vanilla-style textures; changes some meshes' shapes unnecessarily)
+
 2020-09-30
 - updated installation instructions for VISUALS: Assetless No Glow (updated nexus to github version)
 
