@@ -27,9 +27,9 @@ Morrowind's plugin limits is 255 active plugins. If you have followed this guide
 As a rule, don't merge ESPs with dialogue. Scripts, if they are few and short, may be safe to merge.
 
 ## Load Order
-Generally, ESPs should remain in the order that they were installed in this guide. 
+Generally, ESPs should remain in the order that they were installed in this guide. However, in some cases  re-ordering is required.
 
-Additional re-ordering may be required. Ensure the following load *first* (i.e. at the very top) in your load order:
+Ensure the following plugins load *first* (i.e. at the very top) in your load order, in this order:
 1. Morrowind.esm
 1. Tribunal.esm
 1. Bloodmoon.esm
@@ -46,11 +46,12 @@ Additional re-ordering may be required. Ensure the following load *first* (i.e. 
 1. MDMD - More Deadly Morrowind Denizens.esp
 1. MDMD - Creatures Add-on.esp
 
-If you installed the **Content** section, you will need to move "Quorn Resource Integration.esp" higher in your load order, so that Yet Another Guard Diversity Overhaul and Mamaea Awakened overwrite its changes. Move "Quorn Resource Integration.esp" and "Hunter's Mark.esp" below the unique item ESPs from the **Visuals** section:
+If you installed the **Content** section, you will need to move "Quorn Resource Integration.esp" higher in your load order, so that Yet Another Guard Diversity Overhaul and Mamaea Awakened overwrite its changes. Move "Quorn Resource Integration.esp" the other "New Items" plugins below the equipment ESPs from the **Visuals** section:
 1. Complete Armor Joints.esp
-1. [**All the unique items ESPs** or the self-created **Unique Items Merged ESP**]
-1. Quorn Resource Integration.esp
+1. Hopesfire Torch (+ brighter trueflame).esp
+1. Hircine's Artifacts.esp
 1. Hunter's Mark.esp
+1. Quorn Resource Integration.esp
 
 Ensure that the following mods always load *last* (i.e. at the very bottom) in your load order:
 1. Some of a Kind.esp
