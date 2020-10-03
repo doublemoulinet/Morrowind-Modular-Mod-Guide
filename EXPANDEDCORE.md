@@ -63,6 +63,7 @@
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Drop Light and install
 1. [Kill Command](https://www.nexusmods.com/morrowind/mods/46723?)
+1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
 1. [Loading Doors](https://www.nexusmods.com/morrowind/mods/46094?)
 1. [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?)
 1. [MWSE Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)

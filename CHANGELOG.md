@@ -1,3 +1,9 @@
+20200-10-03
+- slight reordering of VISUALS section (no changes in load order or mod list; just cosmetic/for clarity)
+- slight reordering of GAMEPLAY section for clarity
+- moved Hircine's Artifacts from VISUALS to CONTENT
+- moved Light Decay from GAMEPLAY to EXPANDED VANILLA
+
 2020-10-01
 - updated installation instructions for GAMEPLAY: Enhanced Detection Lite
 - removed: CORE: Correct UV Rocks (UV changes are less necessary with vanilla-style textures; changes some meshes' shapes unnecessarily)

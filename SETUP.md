@@ -92,7 +92,7 @@ The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its oth
 1. Extract the contents to your Morrowind root directory (not "Data Files"). If you have unpacked correctly, the MGEXEGui.exe should be in the same folder as the Morrowind.exe
 1. Right-click the MWSE-Update.exe and select **Run as Administrator**. (You may want to add this executable to your anti-virus whitelilst.) Allow the update process to take place. The command-line window will automatically close when this process is done. 
 
-Next, download the following MGE XE shaders. You can install these manually or using Wrye Mash's Installers Tab, as in the previous step. If installing manually, extract them to your Morrowind *Data Files* folder:
+Next, download the following MGE XE shaders. You can install these manually or using Wrye Mash's Installers Tab, as in the preceding "loose files backups" steps. If installing manually (not recommended), extract them to your Morrowind *Data Files* folder:
 1. [MGE XE Land Bias Fix](https://mega.nz/file/ft5hUJ5L#-5Y533Rtwy2uX5moycm4pQjEDXClyFGl78XMDvfVzME) small tweak to the distant land height bias to reduce clipping/seams
 1. [MGE XE Shader - deband_fogaware](https://mega.nz/file/W8x3RTCK#w94LPJSeym5h82KUOg8SbkIoS8M7E-9Xm2Lar0gjqXw) an improved fog shader
 1. [MGE XE Shader - EdgeAA](https://mega.nz/file/HwxVXbQY#eSxnVWTbC165OC1EyC-P9IahvH05We88pyba-fy2ePI) improved anti-aliasing, to be used with MGE XE's AA settings
