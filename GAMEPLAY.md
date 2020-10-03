@@ -4,13 +4,14 @@
 1. [Illiterate](https://www.nexusmods.com/morrowind/mods/46600?)
 	- Needs repacking. Create the following folder structure: "MWSE\mods\illiterate\[main.lua file goes here]"
 	- Zip and install normally
+1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
+	- Become a guar tamer. Rule the wastes. This might just be the greatest Morrowind mod of all time. For real.
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
 	- Cleaning: ESP requires cleaning
 1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?)
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
 1. [Realistic Repair – Add-on - Fixed](https://mega.nz/file/HlRyzQQL#54F5B_laHzQSCuekUmDDm0145E4wuodPA-XLoCbNG8A)
 1. [Skills Module](https://www.nexusmods.com/morrowind/mods/46034?)
-
 
 ## Expanded Magic
 1. [Magicka Expanded](https://www.nexusmods.com/morrowind/mods/47111?)
@@ -44,6 +45,9 @@
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
 1. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786?)
 1. [Free the Slaves](https://www.nexusmods.com/morrowind/mods/45191?)
+1. [Give a Gift](https://github.com/NullCascade/morrowind-mods)
+	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
+	- Unzip, selected Give a Gift and install
 1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
 	- Download the zip of all NullCascade’s Morrowind mods
 	- Unzip, select The Last Witness and install
@@ -57,20 +61,12 @@
 
 ## Optional New Mechanics
 These mods add new game mechanics. These tend to make the game more challenging or add immersive elements like illiteracy and animal taming. Optional, but strongly recommended!
-1. [Give a Gift](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, selected Give a Gift and install
-1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
-	- This might just be the greatest Morrowind mod of all time. For real.
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178?)
 	- Cleaning: ESP requires cleaning
-
-1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
 1. [Merlord’s Character Background](https://www.nexusmods.com/morrowind/mods/46795?)
 1. [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?)
 	- Enable only Personal Effects_MWSE.esp version
 	- Cleaning: the ESP requires cleaning
-
 1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?)
 	- Cleaning: ESP requires cleaning
 
