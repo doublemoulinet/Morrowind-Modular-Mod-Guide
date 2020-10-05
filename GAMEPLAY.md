@@ -2,7 +2,7 @@
 
 ## Skills and Crafting
 1. [Illiterate](https://www.nexusmods.com/morrowind/mods/46600?)
-	- Needs repacking. Create the following folder structure: "MWSE\mods\illiterate\[main.lua file goes here]"
+	- Needs repacking. Create the following folder structure: "MWSE\mods\illiterate\main.lua"
 	- Zip and install normally
 1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
 	- Become a guar tamer. Rule the wastes. This might just be the greatest Morrowind mod of all time. For real.
