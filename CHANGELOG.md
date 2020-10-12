@@ -1,4 +1,7 @@
-20200-10-03
+2020-10-11
+- updated installation instructions for LANDMASS: Solstheim Tomb of the Snow Prince (updated plugin filenames)
+
+2020-10-03
 - slight reordering of VISUALS section (no changes in load order or mod list; just cosmetic/for clarity)
 - slight reordering of GAMEPLAY section for clarity
 - moved Hircine's Artifacts from VISUALS to CONTENT

@@ -26,8 +26,8 @@ All due respect to the mod author, who has done taken on an enormous task in fix
 		- 010 Solstheim - Tomb of the Snow Prince
 		- 011 TOTSP Patches (we only want the Patch for Purists patch)
 		- 012 Armor of the Snow Prince
-	- Enable only the following three plugins: *VSW_Tomb_of_the_Snow_Prince.esm*, *VSW_Solstheim_TD_Item_Expansion.esp*, *VSW_TOTSP_Patch_for_Purists_3.2.0.esp*
-	- Cleaning: Snow Prince Armor Redux.esp, and VSW_Solstheim_TD_Item_Expansion.esp require cleaning
+	- Enable only the following three plugins: *Solstheim Tomb of the Snow Prince.esm*, *TOTSP TD Content Integration.esp*, *TOTSP_Patch_for-Purists_4.0.2.esp*
+	- Cleaning: Snow Prince Armor Redux.esp, and TOTSP TD Content Integration.esp require cleaning
 	- NB: STOTSP requires Tamriel_Data.esm, which you installed just above
 1. [Rather Nice Factor Estate](https://www.nexusmods.com/morrowind/mods/47933?)
 	- Enable both the "00 Core" and "01 Patch - Patch for Purists 4.0.X" options
