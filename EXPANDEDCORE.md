@@ -73,21 +73,21 @@
 1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
 	- Optional: open pg_gmst_config.json and replace the text with the following for faster projectiles, and higher recovery chance on thrown weapons:
 	
-		{
-			"pg_gmst_hotReloadKey": 88,
-			
-			"fCombatAngleXY": 4,
-			"i1stPersonSneakDelta": 30,
-			"iGreetDistanceMultiplier": 4,
-		  
-			"fProjectileMaxSpeed": 3200,
-			"fProjectileMinSpeed": 460,
-			"fThrownWeaponMaxSpeed": 1200,
-			"fThrownWeaponMinSpeed": 360,
-			"fProjectileThrownStoreChance": 80,
-		  
-			"fTargetSpellMaxSpeed": 1200
-		}
+>		{
+>			"pg_gmst_hotReloadKey": 88,
+>			
+>			"fCombatAngleXY": 4,
+>			"i1stPersonSneakDelta": 30,
+>			"iGreetDistanceMultiplier": 4,
+>		  
+>			"fProjectileMaxSpeed": 3200,
+>			"fProjectileMinSpeed": 460,
+>			"fThrownWeaponMaxSpeed": 1200,
+>			"fThrownWeaponMinSpeed": 360,
+>			"fProjectileThrownStoreChance": 80,
+>		  
+>			"fTargetSpellMaxSpeed": 1200
+>		}
 		
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
 1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
