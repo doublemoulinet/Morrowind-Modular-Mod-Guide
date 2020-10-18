@@ -19,7 +19,8 @@
 1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?)
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?)
 	- Wrye Mash will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder
-1. [Weather Adjuster preset](https://mega.nz/file/CkgnBR7C#sYAUBouPwf5uPUhi_4rlpgdqYqTWGbVAdi5O84vuwZo)
+1. [MGG Weather Darker Nights](https://www.nexusmods.com/morrowind/mods/47141?)
+	- Weather Adjuster preset 
 
 ## VFX
 1. [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925?)
@@ -47,6 +48,7 @@
 1. [Visually Filled Soul Gems](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, select Visually Filled Soul Gems and install
+1. [Visually Trapped Objects](https://www.nexusmods.com/morrowind/mods/48936)
 1. [Waterfall Tweaks](https://www.nexusmods.com/morrowind/mods/46271?)
 	
 ## Meshes and Textures

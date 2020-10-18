@@ -37,6 +37,7 @@
 1. [Enhanced Light](https://www.nexusmods.com/morrowind/mods/47672?)
 	- Enable the following BAIN options:
 		- 00 - Core
+1. [Enhanced Reflection](https://www.nexusmods.com/morrowind/mods/48956)
 1. [Enhanced Telekinesis](https://www.nexusmods.com/morrowind/mods/47534?)
 	- Enable the following BAIN options:
 		- 00 - Core
@@ -57,11 +58,10 @@
 	- Unzip, select The Last Witness and install
 1. [The Law is Sacred](https://www.nexusmods.com/morrowind/mods/48130?)
 	- ESP is optional (it changes a dialogue line to reflect guards' new non-lethal arrest tactics); you can leave it disabled
-1. [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528?)
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
 1. [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?)
-1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?)
+1. [Simple Combat Mechanics](https://www.nexusmods.com/morrowind/mods/48921)
 
 ## Environmental / Ambient Changes
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178?)

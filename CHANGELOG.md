@@ -1,3 +1,16 @@
+2020-10-18
+- added: EXPANDED VANILLA: Better Buoyancy
+- added: VISUALS: MGG Weathers Darker preset (darker nights, better maintained)
+- added: VISUALS: Visually Trapped Objects
+- added: GAMEPLAY: Enhanced Reflection
+- added: GAMEPLAY: Simple Combat Mechanics
+- removed: VISUALS: Weather Adjuster Preset (replaced with the above)
+- removed: EXPANDED CORE: Chameleon Fix (pending fix of NPC invisibility effect bug)
+- moved: Locks and Traps Detection from GAMEPLAY to EXPANDED VANILLA (under the rubric "gameplay tweaks")
+- moved: Pickpocket from GAMEPLAY to EXPANDED VANILLA (synergy with Quickloot)
+- updated: EXPANDED VANILLA: optional instructions for Pete's GMST Config
+- updated: FINISHLINE: MCM settings for BALANCE: Magicka Regen (default values are overpowered)
+
 2020-10-11
 - updated installation instructions for LANDMASS: Solstheim Tomb of the Snow Prince (updated plugin filenames)
 

@@ -55,8 +55,8 @@
 ## Gameplay Tweaks
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?)
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?)
+1. [Better Buoyancy](https://www.nexusmods.com/morrowind/mods/48929?)
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?)
-1. [Chameleon Fix](https://www.nexusmods.com/morrowind/mods/47996)
 1. [Darhk’s Super-Sized Storage](https://www.nexusmods.com/morrowind/mods/45147?)
 1. [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717?)
 1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
@@ -65,12 +65,31 @@
 1. [Kill Command](https://www.nexusmods.com/morrowind/mods/46723?)
 1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
 1. [Loading Doors](https://www.nexusmods.com/morrowind/mods/46094?)
+1. [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528?)
 1. [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?)
 1. [MWSE Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
 1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)
 1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?)
 1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
+	- Optional: open pg_gmst_config.json and replace the text with the following for faster projectiles, higher recovery chance on thrown weapons, and faster targetted spells:
+	
+		{
+			"pg_gmst_hotReloadKey": 88,
+			
+			"fCombatAngleXY": 4,
+			"i1stPersonSneakDelta": 30,
+			"iGreetDistanceMultiplier": 4,
+		  
+			"fProjectileMaxSpeed": 3200,
+			"fProjectileMinSpeed": 460,
+			"fThrownWeaponMaxSpeed": 1200,
+			"fThrownWeaponMinSpeed": 360,
+			"fProjectileThrownStoreChance": 80,
+		  
+			"fTargetSpellMaxSpeed": 1200
+		}
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
+1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?)
 1. [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735?)
 1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?)

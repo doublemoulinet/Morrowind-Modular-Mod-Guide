@@ -140,6 +140,7 @@
 	- Cleaning: ESP requires cleaning
 1. [Plunder the Dungeon](https://www.nexusmods.com/morrowind/mods/46977?)
 1. [Scrolls of the Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831?)
+	- Enable the "00 Core" option
 1. [The Sanguine Rose](https://www.nexusmods.com/morrowind/mods/46214?)
 	- Enable the following BAIN options: 00 Core, 02 MWSE ME Patch
 1. [Umbra Blademaster](https://www.nexusmods.com/morrowind/mods/43275?)
