@@ -19,12 +19,10 @@
 
 ## Expanded Magic
 1. [Magicka Expanded](https://www.nexusmods.com/morrowind/mods/47111?)
-	- Enable the "00 - Framework," "01 - Resource Pack," and whichever spell packs you like. I prefer the following BAIN options:
+	- Enable the "00 - Framework," "01 - Resource Pack," and whichever spell packs you like. I prefer just the "lore friendly pack" but the other packs (particularly weather and cortex magic) are very fun to play with:
 		- 00 - Framework
 		- 01 - Resource Pack
 		- 02 - Lore Friendly Package
-		- 06 - Weather Magic Package
-		- 07 - Cortex Pack
 1. [Enhanced Detection](https://www.nexusmods.com/morrowind/mods/47480?)
 	- Enable the following BAIN options
 		- 00 - Core

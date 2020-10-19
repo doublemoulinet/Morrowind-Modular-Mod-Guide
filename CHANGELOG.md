@@ -9,6 +9,7 @@
 - moved: Locks and Traps Detection from GAMEPLAY to EXPANDED VANILLA (under the rubric "gameplay tweaks")
 - moved: Pickpocket from GAMEPLAY to EXPANDED VANILLA (synergy with Quickloot)
 - updated: EXPANDED VANILLA: optional instructions for Pete's GMST Config
+- updated: GAMEPLAY: Magicka Expanded recommended modules (removed weather and cortex magic; just personal preference)
 - updated: FINISHLINE: MCM settings for BALANCE: Magicka Regen (default values are overpowered)
 
 2020-10-11

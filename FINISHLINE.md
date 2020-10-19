@@ -153,12 +153,42 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - **Less Aggressive Creatures**
 	- Peaceful Chance: I recommend a value between 50-80% 
 	- Peaceful Creatures Whitelist: 
-		alit, alit_diseased, bm_horker, guar, guar_feral, h11_kwama_forager_dis, h11_kwama_warrior_dis, h11_netch_betty_dis, h11_netch_bull_dis, h11_rat_rust, h11_slaughterfish_dis, kagouti, kagouti_diseased, kwama forager, kwama worker, kwama worker diseased, mudcrab, mudcrab-diseased, netch_betty, netch_bull, nix-hound, rat, rat_diseased, scrib, scrib_diseased, shalk, shalk_diseased, slaughterfish, slaughterfish_small
+		```
+		alit, 
+		alit_diseased, 
+		bm_horker, guar, 
+		guar_feral, 
+		h11_kwama_forager_dis, 
+		h11_kwama_warrior_dis, 
+		h11_netch_betty_dis, 
+		h11_netch_bull_dis, 
+		h11_rat_rust, 
+		h11_slaughterfish_dis, 
+		kagouti, 
+		kagouti_diseased, 
+		kwama forager, 
+		kwama worker, 
+		kwama worker diseased, 
+		mudcrab, 
+		mudcrab-diseased, 
+		netch_betty, 
+		netch_bull, 
+		nix-hound, 
+		rat, 
+		rat_diseased, 
+		scrib, 
+		scrib_diseased, 
+		shalk, 
+		shalk_diseased, 
+		slaughterfish, 
+		slaughterfish_small
+		```
+- **Locks and Traps Detection**
+- 	- Set Visually Trapped Objects integration to "Yes"
 - **Magicka Based Skill Progression**
 	- Leave the Skill Experience per Magicka at default, or adjust as desired if magic skills are advancing too quickly.
 - **Magicka Regen**
 	- Enable Magicka Decay: On
-	- Adjust player and NPC magicka regen rates to preference (I set the values to 80-90%) 
 - **Miscast Enhanced**
 	- Ensure "Debug Mode" is disabled
 - **Multi Mark & Harder Recall**
