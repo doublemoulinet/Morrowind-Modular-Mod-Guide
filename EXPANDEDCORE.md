@@ -71,9 +71,7 @@
 1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)
 1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?)
 1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
-	
 	- Optional: open pg_gmst_config.json and replace the text with the following for faster projectiles, and higher recovery chance on thrown weapons:
-	
 	```
 		{
 			"pg_gmst_hotReloadKey": 88,
@@ -91,7 +89,6 @@
 			"fTargetSpellMaxSpeed": 1200
 		}
 	```
-	
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
 1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?)
