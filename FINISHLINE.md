@@ -184,7 +184,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 		slaughterfish_small
 		```
 - **Locks and Traps Detection**
-- 	- Set Visually Trapped Objects integration to "Yes"
+ 	- Set Visually Trapped Objects integration to "Yes"
 - **Magicka Based Skill Progression**
 	- Leave the Skill Experience per Magicka at default, or adjust as desired if magic skills are advancing too quickly.
 - **Magicka Regen**

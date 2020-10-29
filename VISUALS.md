@@ -41,7 +41,7 @@
 	- Enable the following BAIN options:
 		- 00 Core
 1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?)
-	- Enable one of the three options (I prefer "faint")
+	- Enable one of the three options (I prefer "fade")
 1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?)
 1. [Unto Dust](https://www.nexusmods.com/morrowind/mods/48435?)
 	- Enable both "00 Core" and "01 Default Dust"
@@ -83,6 +83,7 @@
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?)
 	- Activate "00 Core" and "01 Vvardenfell only"
 1. [No Translation Tooltips](https://www.nexusmods.com/morrowind/mods/48540?)
+	- Removes redundant tooltips on roadsigns when using Near Vanilla Road Sign Replacer
 1. [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339?)
 	- Install normally and enable only one ESP: "Old_dwemer_books_Better_typography.esp"
 1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?)
@@ -142,6 +143,7 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 1. [Additional Splash Screens](https://www.nexusmods.com/morrowind/mods/43319?)
 1. [Widescreen Splash Additions](https://www.nexusmods.com/morrowind/mods/48001?)
 	- Archive is incorrectly packed: create a "splash" folder and place the .tga files inside. Repack and install.
+
 
 **NEXT SECTION**:
 [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md)

@@ -1,3 +1,6 @@
+2020-10-20
+- updated: VISUALS: Subtle Magic Glow ("faint" to "fade" for better visibility when using visually trapped objects)
+
 2020-10-18
 - added: EXPANDED VANILLA: Better Buoyancy
 - added: VISUALS: MGG Weathers Darker preset (darker nights, better maintained)
