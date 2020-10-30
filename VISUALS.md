@@ -27,6 +27,7 @@
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?)
 1. [Enlightened Flames](https://www.nexusmods.com/morrowind/mods/48816?)
 	- Enable both the "00 Core" and "01 enlightened flames" options
+1. [Heat Haze](https://www.nexusmods.com/morrowind/mods/48973)
 1. [Keg Drip](https://www.nexusmods.com/morrowind/mods/47903?)
 	- Enable the following BAIN options:
 		- 00 Core
@@ -91,6 +92,8 @@
 		- 00 Core
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?)
 	- Does what it says. No, this mod is not really optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla textures from Intelligent Textures
+1. [Silt Strider](https://www.nexusmods.com/morrowind/mods/48664)
+	- Install the "Silt Strider with vanilla textures" Main File
 1. [Skeletons Atlased](https://www.nexusmods.com/morrowind/mods/46012?)
 	- Download only the optional file “Skeletons Atlased”
 	- Enable the following BAIN options:

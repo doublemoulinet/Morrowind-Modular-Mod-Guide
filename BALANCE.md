@@ -48,6 +48,7 @@ Choose and **install only ONE** of the following levelling mod sections. If this
 ### Improved Vanilla 
 Install this section if you want to play with **Improved Vanilla**, which does as the name suggests: it cuts out the micromanagement and irons out kinks in the game's levelling system.
 1. [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065?)
+1. [Borrowed Time](https://www.nexusmods.com/morrowind/mods/48971)
 1. [Magicka Based Skill Progression](https://www.nexusmods.com/morrowind/mods/48330?)
 1. [MWSE Magicka Regen](https://www.nexusmods.com/morrowind/mods/48129?)
 1. [Proportional Progression](https://github.com/NullCascade/morrowind-mods)

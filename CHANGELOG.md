@@ -1,3 +1,10 @@
+2020-10-30
+- added: VISUALS: Heat Haze
+- added: VISUALS: Silt Strider (vanilla textures)
+- added: BALANCE: Borrowed Time (for Vanilla Improved Levelling subsection)
+- updated FINISHLINE: MCM Settings for GAMEPLAY: Combat Mechanics (disabled disarmament feature to prevent NPCs from potentially stealing your bound weapons)
+- updated FINSIHLINE: MCM Settings for BALANCE: Magicka Regen (reverted to default values; 100% regen is balanced for magicka characters)
+
 2020-10-20
 - updated: VISUALS: Subtle Magic Glow ("faint" to "fade" for better visibility when using visually trapped objects)
 

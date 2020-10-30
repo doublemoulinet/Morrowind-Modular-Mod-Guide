@@ -207,6 +207,8 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Strafing Movement Percentage Multiplier = 100
 - **Security Enhanced**
 	- Change the equip/cycle lockpick hotkey to "O" ("L" is used by Let There Be Darkness)
+- **Simple Combat Mechancis**
+	- Disarmament: Disable (prevents NPCs from stealing bound weapons)
 - **Smart Merchants**
 	- Enable **Harder Barter like merchants buying prices reduction**: 2. Medium
 - **Sophisticated Save System**
