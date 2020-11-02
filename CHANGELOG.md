@@ -1,3 +1,7 @@
+2020-11-02
+- updated installation instructions for CONSISTENCY: AURA
+- updated FINISH LINE: MCM Settings for CONSISTENCY: AURA (disabled some extra modules)
+
 2020-10-30
 - added: VISUALS: Heat Haze
 - added: VISUALS: Silt Strider (vanilla textures)

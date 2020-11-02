@@ -61,7 +61,7 @@
 
 ## Audio
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?)
-	- Download the main file and the update file. Install separately, which allows the update to overwrite and make its changes.
+	- Download the main file and install normally
 1. [FMBP - Michael, Michael, Michael](https://www.nexusmods.com/morrowind/mods/48598?)
 1. [Haunted Barrows](https://www.nexusmods.com/morrowind/mods/46826?)
 	- Enable the following BAIN options:
