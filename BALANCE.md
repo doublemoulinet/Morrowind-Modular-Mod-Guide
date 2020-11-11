@@ -6,7 +6,8 @@
 1. [MDMD - More Deadly Morrowind Denizens](https://www.nexusmods.com/morrowind/mods/48745)
 	- Enable the *MDMD - More Deadly Morrowind Denizens.esp* and *MDMD - Creatures Add-On.esp*
 	- NB: Makes many high-level/boss enemies considerably more challenging and rewarding
-1. [Morrowind Anti-Cheese](https://mega.nz/file/T5REhSRR#ovyKXC-0H9Z9Sa2c9Apw3FBe-8maOYs4rZPSph5u638)	
+1. [Morrowind Anti-Cheese](https://mega.nz/file/T5REhSRR#ovyKXC-0H9Z9Sa2c9Apw3FBe-8maOYs4rZPSph5u638)
+	- Edited version that incorporates updated versions of the merged mods and removes the ownership changes for compatibility with Ownership Overhaul	
 	- Be sure to [endorse the original mod](https://www.nexusmods.com/morrowind/mods/47305?)
 1. [Ownership Overhaul](https://www.nexusmods.com/morrowind/mods/48051?)
 	- Enable only the ESM plugin. In the **Mods Tab (your load order)**, move the *Ownership Overhaul.esm* below *Patch For Purists.esm*, near the top of your load order.
@@ -25,7 +26,8 @@
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Dynamic Difficulty and install
 1. [Enchant Capacity Rebalance](https://www.nexusmods.com/morrowind/mods/48742?)
-	- Enable the MWSE version	
+	- Enable the MWSE version
+1. [Hold Your Breath](https://www.nexusmods.com/morrowind/mods/48872)	
 1. [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292?)
 1. [Limited Intervention](https://www.nexusmods.com/morrowind/mods/46687?)	
 1. [Limited Leaping](https://github.com/NullCascade/morrowind-mods)

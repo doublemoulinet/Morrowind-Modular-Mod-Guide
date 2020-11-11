@@ -1,6 +1,6 @@
 # Content 
 
-## Expanded Cities/Towns
+## Settlements
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/44020?)
 	- Enable the following BAIN options:
 		- 00 Core
@@ -51,6 +51,7 @@
 	- Do not enable the ESPs
 1. [Fixed Version of Gnisis Minaret - Fixed ESP](https://mega.nz/file/O14DRBjQ#VoipDGkDyy319TPofTxe5z6GCysaLoOwcPwXsK2U1_E)
 	- ESP replacer for the Gnisis Minaret; this version fixes the script attached to the new NPC and adds ownership to the new containers and placed items
+1. [Tower of Vos](https://www.nexusmods.com/morrowind/mods/43527)
 1. [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614?)
 	- Cleaning: ESP requires cleaning
 

@@ -14,9 +14,12 @@
 	- If you want to be a real nerd about it, you can repackage the mod with the grass plugins in a separate folder within "Data Files" (ex., \Data Files\Grass Plugins). You can then specify this as an additional directory in the MGE XE distant land generator
 	- Otherwise, the plugins should not be enabled in your load order, and after distant land generation can be disabled in the Installers Tab. Again, the **ESPs should be disabled except when regenerating distant land**
 	
-## Lighting
+## Lighting and Weather
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?)
 1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?)
+1. [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636)
+	- Enable only the following BAIN options: "00 Lua core"
+	- This enables the dynamic weather transitions, weather changes inside, and randomised particles/cloud speed
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?)
 	- Wrye Mash will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder
 1. [MGG Weather Darker Nights](https://www.nexusmods.com/morrowind/mods/47141?)
@@ -124,8 +127,6 @@
 	- Enable only the "Hopesfire Torch (+brighter trueflame).esp
 1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?)
 	- Download and install the Optional File "Improved Nordic Iron Helm 1.0-alternate"
-1. [Improved Shields](https://www.nexusmods.com/morrowind/mods/47931?)
-	- Download the Main File and enable only the "00 Data Files" BAIN option
 1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?)
 	- Download only "Lore Friendly Iron Warhammer" and install
 	- Repackage the archive and install only the "meshes" folder

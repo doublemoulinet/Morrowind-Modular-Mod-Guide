@@ -99,6 +99,7 @@ Remember to set up the mod-added shaders and enable them in the MGE XE shader to
 - invisibility (from **Enhanced Invisibility** in **GAMEPLAY**)
 - r0_qk_shader (from **Shattered Stones - an Earthquake Mod** in **GAMEPLAY**)
 - warp (from **Expedition to Mzelthuand** in **CONTENT**)
+- heathaze (from **Heat Haze** in **VISUALS**)
 
 Add them to the bottom of the list of active shaders in MGE XE.
 

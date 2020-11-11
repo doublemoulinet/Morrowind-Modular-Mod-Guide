@@ -1,3 +1,10 @@
+2020-11-11
+- added: VISUALS: Watch the Skies
+- added: BALANCE: Hold Your Breath
+- added: CONTENT: Tower Vos (re-added)
+- removed: VISUALS: Improved Shields (really good, but maybe too high poly for this guide)
+- updated installation instructions for CORE: Fixed Journal Next Button
+
 2020-11-02
 - updated installation instructions for CONSISTENCY: AURA
 - updated FINISH LINE: MCM Settings for CONSISTENCY: AURA (disabled some extra modules)

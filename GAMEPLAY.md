@@ -60,6 +60,7 @@
 1. [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?)
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?)
 1. [Simple Combat Mechanics](https://www.nexusmods.com/morrowind/mods/48921)
+1. [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
 
 ## Environmental / Ambient Changes
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178?)

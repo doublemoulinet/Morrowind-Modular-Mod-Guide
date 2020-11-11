@@ -38,6 +38,7 @@ Several of these fixes (and many more mods you will install as part of this guid
 		- Your folder structure should look like this: Better Daedric Font->Fonts->[files]. Zip and install normally
 1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873?)
 1. [Fixed Journal Next Button](https://www.nexusmods.com/morrowind/mods/48097?)
+	- Install both the Main File and Optional File
 
 
 **NEXT SECTION**:
