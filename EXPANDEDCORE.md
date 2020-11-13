@@ -54,6 +54,7 @@
 
 ## Gameplay Tweaks
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?)
+1. [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?)
 1. [Better Buoyancy](https://www.nexusmods.com/morrowind/mods/48929?)
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?)

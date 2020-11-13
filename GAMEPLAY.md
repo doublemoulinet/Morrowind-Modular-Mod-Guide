@@ -14,7 +14,7 @@
 	- Cleaning: ESP requires cleaning
 1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?)
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
-1. [Realistic Repair – Add-on - Fixed](https://mega.nz/file/HlRyzQQL#54F5B_laHzQSCuekUmDDm0145E4wuodPA-XLoCbNG8A)
+1. [Realistic Repair – Add-on - Fixed](https://mega.nz/file/KlJFTIbD#lRK6t8tOmyhjVYRS6FP95CIu2-GCyKtqf0E7gNrkuO4)
 1. [Skills Module](https://www.nexusmods.com/morrowind/mods/46034?)
 
 ## Expanded Magic

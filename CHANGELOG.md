@@ -1,3 +1,7 @@
+2020-11-13
+- added: EXPANDED CORE: Alchemical Knowledge
+- updated GAMEPLAY: Realistic Repair Add-on Fixed (cleaned plugin)
+
 2020-11-11
 - added: VISUALS: Watch the Skies
 - added: BALANCE: Hold Your Breath
