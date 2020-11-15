@@ -1,3 +1,7 @@
+2020-11-15
+- added: VISUALS: Hater8's Silt Strider Redone
+- removed: VISUALS: Silt Strider (replaced with atlased version above)
+
 2020-11-13
 - added: EXPANDED CORE: Alchemical Knowledge
 - updated GAMEPLAY: Realistic Repair Add-on Fixed (cleaned plugin)

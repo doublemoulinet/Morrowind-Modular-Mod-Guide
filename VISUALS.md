@@ -95,8 +95,9 @@
 		- 00 Core
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?)
 	- Does what it says. No, this mod is not really optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla textures from Intelligent Textures
-1. [Silt Strider](https://www.nexusmods.com/morrowind/mods/48664)
-	- Install the "Silt Strider with vanilla textures" Main File
+1. [Silt Strider - Redone](https://www.nexusmods.com/morrowind/mods/49023)
+	- Install the "Hater8's Silt Strider Redone" Main File
+	- Enable  the "H8 Vanilla - High res textures" if using Intelligent Textures or another HD texture pack; otherwise enable the "H8 vanilla - vanilla textures" option
 1. [Skeletons Atlased](https://www.nexusmods.com/morrowind/mods/46012?)
 	- Download only the optional file “Skeletons Atlased”
 	- Enable the following BAIN options:
