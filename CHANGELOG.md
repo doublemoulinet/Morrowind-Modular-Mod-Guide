@@ -1,3 +1,6 @@
+2020-11-16
+- updated: installation instructions for CONTENT: OOAB_Data
+
 2020-11-15
 - added: VISUALS: Hater8's Silt Strider Redone
 - removed: VISUALS: Silt Strider (replaced with atlased version above)

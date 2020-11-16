@@ -1,10 +1,8 @@
 # Content 
 
 ## Settlements
-1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/44020?)
-	- Enable the following BAIN options:
-		- 00 Core
-		- 01 ex_t_rootball collision fix
+1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
+	- Download both the Main File and hotfix file
 1. [Atmospheric Delights](https://www.nexusmods.com/morrowind/mods/47472?)
 	- ESP requires cleaning
 1. [Better Gnisis Arch](https://www.nexusmods.com/morrowind/mods/46224?)
