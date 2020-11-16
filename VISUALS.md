@@ -3,7 +3,6 @@
 ## Texture Base
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?)
 	- The definitive texture replacer for Morrowind. Highly recommended.
-	- Install both the Main File and the "Wood Fix 2.1b" Update File
 	- Enable both "00 Core" and "01 Atlas Textures"
 
 ## Grass
@@ -41,9 +40,6 @@
 1. [MWSE Blood Diversity](https://www.nexusmods.com/morrowind/mods/47913)
 	- Install both the "00 Core" option and the texture version of your choice ("01 vanilla-friendly textures" for vanilla textures; "02 R-zero's textures" for Intelligent Textures)
 	- Be sure to read the readme and update your Morrowind.ini as directed. You can comment out the default Morrowind.ini "[Blood]" entries with semicolons (;) or dashes (--) and paste the mod's ini changes underneath
-1. [Parasol Particles](https://www.nexusmods.com/morrowind/mods/47755?)
-	- Enable the following BAIN options:
-		- 00 Core
 1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?)
 	- Enable one of the three options (I prefer "fade")
 1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?)
@@ -74,8 +70,8 @@
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
 	- Download the "kart_facelift_default" Main File and the 10.3 update file
 	- OPTIONAL: the textures in *Intelligent Textures* are superior but will be overwritten by Facelift. Recommend downloading Facelift and splitting into a BAIN structure, so you can easily toggle the options on/off to suit your preference:
-		- 00 Meshes (the \meshes folder from the main file and update)
-		- 01 Textures (the \textures folder from the main file and update)
+		- 00 Meshes (the \meshes folder from the main file and update, allowing the update to overwrite any files)
+		- 01 Textures (the \textures folder from the main file and update, allowing the update to overwrite any files)
 1. [FMI - Caius' Big Package](https://www.nexusmods.com/morrowind/mods/47580?)
 	- ESP requires cleaning
 1. [Furn_overhang_18__smoooooth](https://www.nexusmods.com/morrowind/mods/45939?)
@@ -91,6 +87,9 @@
 1. [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339?)
 	- Install normally and enable only one ESP: "Old_dwemer_books_Better_typography.esp"
 1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?)
+	- Enable the following BAIN options:
+		- 00 Core
+1. [Parasol Particles](https://www.nexusmods.com/morrowind/mods/47755?)
 	- Enable the following BAIN options:
 		- 00 Core
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?)

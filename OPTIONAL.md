@@ -41,9 +41,11 @@ The following steps will ensure compatibility between the new landmass mods and 
 1. Lastly, you will need to **register the BSA archives** provided by these landmass mods (TR_Data.bsa and PT_Data.bsa). You can do this via Wrye Mash. Navigate to the right pane of the Mods Tab and select the "BSA Archives" tab. Make sure each BSA has a checkmark next to its name.
 
 Optionally, you may update the following mods to enable compatibility/integration with Tamriel Rebuilt:
+1. **Glow in the Dahrk** (installed in the [**Expanded Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/EXPANDEDCORE.md) section)
+	- Additionally enable BAIN option "06 - TR Interior Sunrays" if you have not already done so.
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
-	- Download the "kart_fut_TR_PT" Main File and install. Installation order doesn't matter; you may place the mod underneath *Facelift* in the **VISUALS** section for consistency. Adds high quality textures for TR faces to better fit in with HD texture replacers like IT.
-1. **Near Vanilla Road Sign Replacer** (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) seciton)
+	- Download the "kart_fut_TR_PT" Main File and install. Installation order doesn't matter; you may merge, or place the mod underneath, *Facelift* in the **VISUALS** section. Adds high quality textures for TR faces to better fit in with HD texture replacers like IT.
+1. **Near Vanilla Road Sign Replacer** (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) section)
 	- enable the "00 Core" and "02 Vvardenfell, Morrowind, and Cyrodiil" BAIN options. This replaces the generic TR road signs with vanilla-friendly readable signs.
 
 **NEXT SECTION**:

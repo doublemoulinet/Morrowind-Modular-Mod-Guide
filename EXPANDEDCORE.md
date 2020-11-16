@@ -42,7 +42,7 @@
 		- 02 Interior Sunrays
 		- 04 Telvanni Dormers on Vvardenfell
 		- 05 Raven Rock Glass Windows Interior Sunrays
-		- 06 Tamriel Rebuilt Patch Interior Sunrays (if using TR, installed in the Optional Early Loaders)
+		- 06 Tamriel Rebuilt Patch Interior Sunrays (if using TR, installed in the Optional Early Loaders section at the end of this guide)
 	- In the “ESP/m filter” enable ONLY the GITD_Telavnni_Dormers.esp and GITD_WL_RR_Interiors.esp
 1. [Project Atlas - Glow in the Dahrk Patch](https://www.nexusmods.com/morrowind/mods/45399?)
 	- Download the main file install *only* the following BAIN option:

@@ -1,5 +1,7 @@
 2020-11-16
+- updated: installation instructions for VISUALS: Intelligent Textures
 - updated: installation instructions for CONTENT: OOAB_Data
+- updated installation instructions for LANDMASS: mod compatibility
 
 2020-11-15
 - added: VISUALS: Hater8's Silt Strider Redone
