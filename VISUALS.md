@@ -4,6 +4,7 @@
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?)
 	- The definitive texture replacer for Morrowind. Highly recommended.
 	- Enable both "00 Core" and "01 Atlas Textures"
+	- Optional: due to how the game loads textures at the start of animations (like magic casting), the upscaled magic VFX textures may occasionally cause stutter. If you notice this, you can disable all textures with the prefix "vfx_*"
 
 ## Grass
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?)
@@ -40,7 +41,6 @@
 1. [MWSE Blood Diversity](https://www.nexusmods.com/morrowind/mods/47913)
 	- Install both the "00 Core" option and the texture version of your choice ("01 vanilla-friendly textures" for vanilla textures; "02 R-zero's textures" for Intelligent Textures)
 	- Be sure to read the readme and update your Morrowind.ini as directed. You can comment out the default Morrowind.ini "[Blood]" entries with semicolons (;) or dashes (--) and paste the mod's ini changes underneath
-1. [Subtle Magic Glow](https://www.nexusmods.com/morrowind/mods/4468?)
 	- Enable one of the three options (I prefer "fade")
 1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?)
 1. [Unto Dust](https://www.nexusmods.com/morrowind/mods/48435?)
@@ -86,9 +86,6 @@
 	- Removes redundant tooltips on roadsigns when using Near Vanilla Road Sign Replacer
 1. [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339?)
 	- Install normally and enable only one ESP: "Old_dwemer_books_Better_typography.esp"
-1. [Overlooked Meshes Replacer](https://www.nexusmods.com/morrowind/mods/46855?)
-	- Enable the following BAIN options:
-		- 00 Core
 1. [Parasol Particles](https://www.nexusmods.com/morrowind/mods/47755?)
 	- Enable the following BAIN options:
 		- 00 Core

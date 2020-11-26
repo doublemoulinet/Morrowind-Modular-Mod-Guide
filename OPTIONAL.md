@@ -17,9 +17,10 @@ All due respect to the mod author, who has done taken on an enormous task in fix
 1. [Tamriel Data](https://www.nexusmods.com/morrowind/mods/44537?)
 	- Download “Tamriel_Data (vanilla)” or "Tamriel_Data (HD)" based on prefence. The latter fits well with Intelligent Textures
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145?)
-	- Download both “Tamriel Rebuilt” and the optional “TR Music” files; install as separate mods
+	- Download the Main File and Hotfix file. Enable "00 Core" and the hotfix ESP. Optionally enable "02 Preview Content" for the unfinished regions
 	- Cleaning: TR_Preview.esp requires cleaning
 1. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921?)
+	- add the grass ESP to your "Grass Plugins" folder if you created one when installing Remiros' Grass
 1. [HOTV Solstheim Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
 	- Enable the following BAIN options:
 		- 00 Core
@@ -29,7 +30,7 @@ All due respect to the mod author, who has done taken on an enormous task in fix
 	- Enable only the following three plugins: *Solstheim Tomb of the Snow Prince.esm*, *TOTSP TD Content Integration.esp*, *TOTSP_Patch_for-Purists_4.0.2.esp*
 	- Cleaning: Snow Prince Armor Redux.esp, and TOTSP TD Content Integration.esp require cleaning
 	- NB: STOTSP requires Tamriel_Data.esm, which you installed just above
-1. [Rather Nice Factor Estate](https://www.nexusmods.com/morrowind/mods/47933?)
+1. [Rather Nice Factor's Estate](https://www.nexusmods.com/morrowind/mods/47933?)
 	- Enable both the "00 Core" and "01 Patch - Patch for Purists 4.0.X" options
 
 ### Landmass Mod Compatibility
@@ -43,6 +44,8 @@ The following steps will ensure compatibility between the new landmass mods and 
 Optionally, you may update the following mods to enable compatibility/integration with Tamriel Rebuilt:
 1. **Glow in the Dahrk** (installed in the [**Expanded Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/EXPANDEDCORE.md) section)
 	- Additionally enable BAIN option "06 - TR Interior Sunrays" if you have not already done so.
+1. **Remiros' Groundcover** (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) section)
+	- Additionally enable the "01 TR Plugins" and "02 TR Preview Plugins"
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
 	- Download the "kart_fut_TR_PT" Main File and install. Installation order doesn't matter; you may merge, or place the mod underneath, *Facelift* in the **VISUALS** section. Adds high quality textures for TR faces to better fit in with HD texture replacers like IT.
 1. **Near Vanilla Road Sign Replacer** (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) section)

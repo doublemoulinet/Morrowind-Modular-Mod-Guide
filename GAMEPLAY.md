@@ -11,7 +11,9 @@
 	- Enable only Personal Effects_MWSE.esp version
 	- Cleaning: the ESP requires cleaning
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
+	- Disable the "MWSE" folder
 	- Cleaning: ESP requires cleaning
+1. [Poison Redux-ion](https://www.nexusmods.com/morrowind/mods/48948)
 1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?)
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
 1. [Realistic Repair – Add-on - Fixed](https://mega.nz/file/KlJFTIbD#lRK6t8tOmyhjVYRS6FP95CIu2-GCyKtqf0E7gNrkuO4)

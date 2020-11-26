@@ -58,6 +58,7 @@
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?)
 1. [Better Buoyancy](https://www.nexusmods.com/morrowind/mods/48929?)
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?)
+1. [Cover Yourself](https://www.nexusmods.com/morrowind/mods/48016?)
 1. [Darhk’s Super-Sized Storage](https://www.nexusmods.com/morrowind/mods/45147?)
 1. [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717?)
 1. [Drop Light](https://github.com/NullCascade/morrowind-mods)

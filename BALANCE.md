@@ -27,7 +27,6 @@
 	- Unzip, selected Dynamic Difficulty and install
 1. [Enchant Capacity Rebalance](https://www.nexusmods.com/morrowind/mods/48742?)
 	- Enable the MWSE version
-1. [Hold Your Breath](https://www.nexusmods.com/morrowind/mods/48872)	
 1. [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292?)
 1. [Limited Intervention](https://www.nexusmods.com/morrowind/mods/46687?)	
 1. [Limited Leaping](https://github.com/NullCascade/morrowind-mods)

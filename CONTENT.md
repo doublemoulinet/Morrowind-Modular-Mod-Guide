@@ -1,8 +1,18 @@
-# Content 
+# Content
+
+## Resources and Integration
+1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
+	- Enable both "00 Core" and "01 GiTD patch sunrays"
+1. [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045)
+	- Install the following as separate mods: 
+		- OAAB Dark Temptations
+		- OAAB Golden Reeds
+		- OAAB Leveled Creatures
+		- OAAB Leveled Lists
+		- OAAB Misc Potions
+		- (Optional) OAAB Scroll Qualities
 
 ## Settlements
-1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
-	- Download both the Main File and hotfix file
 1. [Atmospheric Delights](https://www.nexusmods.com/morrowind/mods/47472?)
 	- ESP requires cleaning
 1. [Better Gnisis Arch](https://www.nexusmods.com/morrowind/mods/46224?)
@@ -32,6 +42,8 @@
 	- Download and install normally
 	- Enable only the "Meteorite Ministry Temple" ESP
 	- Cleaning: ESP requires cleaning
+1. [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
+	- Enable the "00 Core" option, and the "01 remiros groudncover gl patch" if using Remiros' Grass (remember to create a "Grass Plugins" folder within the data structure if you followed this step when installing Remiros' Grass)
 1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?)
 	- Enable only the "00 Core" BAIN option
 1. [Open Mournhold](https://www.nexusmods.com/morrowind/mods/44981?)
@@ -49,13 +61,11 @@
 	- Do not enable the ESPs
 1. [Fixed Version of Gnisis Minaret - Fixed ESP](https://mega.nz/file/O14DRBjQ#VoipDGkDyy319TPofTxe5z6GCysaLoOwcPwXsK2U1_E)
 	- ESP replacer for the Gnisis Minaret; this version fixes the script attached to the new NPC and adds ownership to the new containers and placed items
-1. [Tower of Vos](https://www.nexusmods.com/morrowind/mods/43527)
 1. [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614?)
 	- Cleaning: ESP requires cleaning
 
 ## Expanded Wilderness
-1. [The Ashen Divide](https://www.nexusmods.com/morrowind/mods/48733?)
-	- Enable the "00 Core" option. Select the "01 hires textures" option if using Intelligent Textures
+1. [OAAB - The Ashen Divide](https://www.nexusmods.com/morrowind/mods/49047)
 	- ESP requires cleaning
 1. [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?)
 	- Cleaning: ESP requires cleaning

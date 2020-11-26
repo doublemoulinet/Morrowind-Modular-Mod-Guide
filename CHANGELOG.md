@@ -1,4 +1,16 @@
+2020-11-26
+- added: GAMEPLAY: **Poison Redux-ion** (an expanded implementation that complements Poison Crafting)
+- added: CONTENT: **OAAB Grazelands**
+- added: CONTENT: **OAAB Integrations**
+- removed: VISUALS: **Subtle Magic Glow** (not needed except for edge-cases with Assetless No Glow, and makes it harder to see trapped containers with Visually Trapped Containers, Visually Trapped Soulgems)
+- removed: VISUALS: **Overlooked Meshes Replacer** (excellent mod, but needs a couple fixes)
+- removed: BALANCE: **Hold Your Breath** (seems unnecessary)
+- removed: CONTENT: **Tower of Vos** (replaced with OAAB Grazelands)
+- moved: **Cover Yourself** from CONSISTENCY to EXPANDED CORE (gameplay tweak, not a dialogue mod)
+
 2020-11-16
+- added: CONTENT: OAAB - The Ashen Divide (replaces standalone version)
+- removed: CONTENT: The Ashen Divide
 - updated: installation instructions for VISUALS: Intelligent Textures
 - updated: installation instructions for CONTENT: OOAB_Data
 - updated installation instructions for LANDMASS: mod compatibility

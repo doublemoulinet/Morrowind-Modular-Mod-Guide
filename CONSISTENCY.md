@@ -47,7 +47,6 @@
 	- YAGD overwrites a fix to a single cell; this ESP replacer corrects that (this is temporary until the mod gets updated)
 
 ## Dialogue
-1. [Cover Yourself](https://www.nexusmods.com/morrowind/mods/48016?)
 1. [FMI - Nice to Meet You](https://www.nexusmods.com/morrowind/mods/47329?)
 	- Cleaning: ESP requires cleaning
 1. [FMI - NotAllDunmer](https://www.nexusmods.com/morrowind/mods/47569?)
