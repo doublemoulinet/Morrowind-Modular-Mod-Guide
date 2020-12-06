@@ -154,6 +154,13 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - **Continue**
 	- Hide Credits Button = Yes
 	- Hide New Game Button (In Game) = Yes
+- **Graphic Herbalism**
+	- Whitelist: 
+		- ab_r_kwamaeggblighted
+		- abtv_o_kweggblightedmm
+	- Blacklist:
+		- _in_lib_scrolls*
+		- ab_r_kwamstorager
 - **Illegal Summoning**
 	- NPC Crime Trigger Distance = 2000
 - **Let There Be Darkness**

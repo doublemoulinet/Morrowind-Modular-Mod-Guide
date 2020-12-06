@@ -46,19 +46,11 @@
 1. [Customizable MWSE Multi Mark and Limited Recall](https://www.nexusmods.com/morrowind/mods/47065?)
 
 ## Combat / Crime Gameplay Changes
-1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?)
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
 1. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786?)
 1. [Free the Slaves](https://www.nexusmods.com/morrowind/mods/45191?)
-1. [Give a Gift](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, selected Give a Gift and install
-1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
-	- Download the zip of all NullCascade’s Morrowind mods
-	- Unzip, select The Last Witness and install
 1. [The Law is Sacred](https://www.nexusmods.com/morrowind/mods/48130?)
 	- ESP is optional (it changes a dialogue line to reflect guards' new non-lethal arrest tactics); you can leave it disabled
-1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
 1. [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?)
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?)
 1. [Simple Combat Mechanics](https://www.nexusmods.com/morrowind/mods/48921)

@@ -54,6 +54,7 @@
 
 ## Gameplay Tweaks
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?)
+1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?)
 1. [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?)
 1. [Better Buoyancy](https://www.nexusmods.com/morrowind/mods/48929?)
@@ -64,10 +65,17 @@
 1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Drop Light and install
+1. [Give a Gift](https://github.com/NullCascade/morrowind-mods)
+	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
+	- Unzip, selected Give a Gift and install
 1. [Kill Command](https://www.nexusmods.com/morrowind/mods/46723?)
+1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
+	- Download the zip of all NullCascade’s Morrowind mods
+	- Unzip, select The Last Witness and install
 1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
 1. [Loading Doors](https://www.nexusmods.com/morrowind/mods/46094?)
 1. [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528?)
+1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
 1. [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?)
 1. [MWSE Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
 1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)

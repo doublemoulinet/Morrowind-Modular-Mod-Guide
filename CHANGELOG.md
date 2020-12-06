@@ -1,3 +1,8 @@
+2020-12-05
+- added: VISUALS: **Perfectly Proficient Parasol Particles Performance Patch**
+- removed: VISUALS: **Parasol Particles**
+- updated: FINISH LINE: Graphic Herbalism whitelist/blacklist MCM settings
+
 2020-11-26
 - added: GAMEPLAY: **Poison Redux-ion** (an expanded implementation that complements Poison Crafting)
 - added: CONTENT: **OAAB Grazelands**
@@ -6,7 +11,8 @@
 - removed: VISUALS: **Overlooked Meshes Replacer** (excellent mod, but needs a couple fixes)
 - removed: BALANCE: **Hold Your Breath** (seems unnecessary)
 - removed: CONTENT: **Tower of Vos** (replaced with OAAB Grazelands)
-- moved: **Cover Yourself** from CONSISTENCY to EXPANDED CORE (gameplay tweak, not a dialogue mod)
+- moved: **Cover Yourself**, **Actually Unlimited Skeleton Key**, **Give a Gift**, **The Last Witness** and **Lua Lockbashing** from CONSISTENCY to EXPANDED CORE (gameplay tweak/convenience mods)
+- updated Morrowind Code Patch game mechanics settings in SETUP (now recommend using **Healthy Appetite**)
 
 2020-11-16
 - added: CONTENT: OAAB - The Ashen Divide (replaces standalone version)

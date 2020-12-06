@@ -16,7 +16,7 @@
 	- Enable the "00 Core" option. Additionally, enable the "01 Hunter's Mark Version" **only** if you intend to install the **CONTENT** section at the end of this guide. This version replaces a quest reward with a nice Ebony Bow from the mod "Hunter's Mark."
 1. [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713?)
 
-## Balance - More
+## Balance - Extended
 1. [Better Balanced Booze](https://www.nexusmods.com/morrowind/mods/45844?)
 	- Download and install "Better Balanced Booze" main file
 1. [Controlled Consumption](https://github.com/NullCascade/morrowind-mods)

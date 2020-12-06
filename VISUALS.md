@@ -86,9 +86,9 @@
 	- Removes redundant tooltips on roadsigns when using Near Vanilla Road Sign Replacer
 1. [Old Dwemer Books](https://www.nexusmods.com/morrowind/mods/43339?)
 	- Install normally and enable only one ESP: "Old_dwemer_books_Better_typography.esp"
-1. [Parasol Particles](https://www.nexusmods.com/morrowind/mods/47755?)
+1. [Perfectly Proficient Parasol Particles Performance Patch](https://www.nexusmods.com/morrowind/mods/48923)
 	- Enable the following BAIN options:
-		- 00 Core
+		- 00 Project Atlas
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?)
 	- Does what it says. No, this mod is not really optional. You have to install it. Adds more body horror to the Sixth House. Fits seamlessly when playing with high-res vanilla textures from Intelligent Textures
 1. [Silt Strider - Redone](https://www.nexusmods.com/morrowind/mods/49023)

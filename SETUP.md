@@ -79,7 +79,7 @@ The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It 
 1. Extract the contents to your Morrowind root diectory, and overwrite when prompted
 1. Run Morrowind Code Patch.exe and enable the following options:
 	- **Beta**: every option EXCEPT *"Doppler audio fix"*
-	- **Game Mechanics**: every option EXCEPT *"Healthy Appetite"* and *"Allow Gloves with Bracers"*
+	- **Game Mechanics**: every option EXCEPT *"Allow Gloves with Bracers"*
 	- **Visuals**: every option EXCEPT *"Over-the-shoulder third person camera,"* and *"Vanity camera lock"*
 	- **Interface changes**: enable every option EXCEPT *"Map Expansion (for TR),"* *"Disable map smoothing,"* *"Spell select by name,"* and *"see all standard potion effects"*
 	- **International**: none (if using the English language Morrowind)

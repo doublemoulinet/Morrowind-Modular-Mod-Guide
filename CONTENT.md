@@ -43,7 +43,7 @@
 	- Enable only the "Meteorite Ministry Temple" ESP
 	- Cleaning: ESP requires cleaning
 1. [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
-	- Enable the "00 Core" option, and the "01 remiros groudncover gl patch" if using Remiros' Grass (remember to create a "Grass Plugins" folder within the data structure if you followed this step when installing Remiros' Grass)
+	- Enable the "00 Core" option, and the "01 remiros groudncover gl patch" if using Remiros' Grass (if you created a "Grass Plugins" folder when installing Remiros' Grass, be sure to repeat that step for these plugins)
 1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?)
 	- Enable only the "00 Core" BAIN option
 1. [Open Mournhold](https://www.nexusmods.com/morrowind/mods/44981?)
