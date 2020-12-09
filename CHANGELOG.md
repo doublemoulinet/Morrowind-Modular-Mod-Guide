@@ -23,7 +23,7 @@ UPDATED
 REMOVED
 - removed: CORE: **No More Stage Diving** (will be merged into upcoming Patch for Purists update)
 - removed: EXPANDED CORE: **Give a Gift**
-- removed: VISUALS: **Complete Armor Joints**, **Detailed Brooms**, **furn_overhang_18_smooth**, **FMI - Caius' Big Package** (great replacers, but trivial), **Lazily Atlased Statues of Delyn and Olms**, **Melchior's Magnificent Manuscript** (installation for vanilla-textured scrolls too complicated), **Old Dwemer Books**, **SmoOgrim**, **The Role They Were to Play**
+- removed: VISUALS: **Complete Armor Joints**, **Detailed Brooms**, **furn_overhang_18_smooth**, **FMI - Caius' Big Package** (great replacers, but trivial), **Melchior's Magnificent Manuscript** (installation for vanilla-textured scrolls too complicated), **Old Dwemer Books**, **SmoOgrim**, **The Role They Were to Play**
 - removed: VISUALS: **Nordic Mesh Improvements**, **Silver Mesh Improvements** (excellent mesh replacers, removed to streamline the installation of the visuals section)
 - removed: BALANCE: **Limited Intervention**, **Limited Leaping**
 - removed: CONSISTENCY: **Corprus Fix** (incorporated in upcoming PFP update), **TriangleTooth's Missing Characters**, **True Scourge**, **YAGD - ESP replacer** (trivial fix, not worth the installation time)
