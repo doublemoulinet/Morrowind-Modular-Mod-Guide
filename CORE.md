@@ -4,10 +4,9 @@ The following are all you need to play the game on modern systems. This section 
 ## Patches
 1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096?)
 1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?)
-1. [No More Stage Diving](https://www.nexusmods.com/morrowind/mods/47738?)
 
 ## MWSE Fixes
-Several of these fixes (and many more mods you will install as part of this guide) are available on GitHub in a single archive, courtesy of MWSE guru and engine-dehardcoding wizard NullCascade. Download [NullCascade's Morrowind Mods](https://github.com/NullCascade/morrowind-mods) here and install the following:
+
 1. [Easy Escort](https://github.com/NullCascade/morrowind-mods)
 1. [Expeditious Exit](https://github.com/NullCascade/morrowind-mods)
 1. [Immersive Run Fix](https://www.nexusmods.com/morrowind/mods/45947?)
@@ -35,11 +34,11 @@ Several of these fixes (and many more mods you will install as part of this guid
 	- Mod is incorrectly packaged: 
 		- Create a new folder and name it *Better Daedric Fonts*. Inside this folder, create a "Fonts" folder
 		- Unpack the mod archive to this fonts folder. You can delete the JPG screenshots
-		- Your folder structure should look like this: Better Daedric Font->Fonts->[files]. Zip and install normally
+		- Your folder structure should look like this: Better Daedric Font\Fonts\ (files). Zip and install normally
 1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873?)
 1. [Fixed Journal Next Button](https://www.nexusmods.com/morrowind/mods/48097?)
 	- Install both the Main File and Optional File
 
 
 **NEXT SECTION**:
-[**Expanded Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/EXPANDEDCORE.md)
+[**Core - Expanded**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/EXPANDEDCORE.md)

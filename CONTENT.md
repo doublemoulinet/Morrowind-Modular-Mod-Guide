@@ -4,12 +4,12 @@
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
 	- Enable both "00 Core" and "01 GiTD patch sunrays"
 1. [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045)
-	- Install the following as separate mods: 
+	- Install the following as separate mods:
+		- OAAB Creature Loot 
 		- OAAB Dark Temptations
 		- OAAB Golden Reeds
 		- OAAB Leveled Creatures
 		- OAAB Leveled Lists
-		- OAAB Misc Potions
 		- (Optional) OAAB Scroll Qualities
 
 ## Settlements
@@ -52,7 +52,6 @@
 	- Note: I experience slight frame drops on my system (older CPU)
 1. [Properly Cluttered Ald Velothi](https://www.nexusmods.com/morrowind/mods/48811?)
 1. [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646?)
-1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?)
 	- ESP requires cleaning
 1. [Stav's Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/43237?)
 	- Disable the ESP. The meshes will be used in the following mod
@@ -126,8 +125,13 @@
 1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?)
 1. [Hunter’s Mark – A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656?)
 	- Reminder: be sure to enable the "01 Hunter's Mark" version of *Some of a Kind* installed in the [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md) section
+1. [The Madstone](https://www.nexusmods.com/morrowind/mods/47653?)
 1. [Quorn Resource Integration](https://www.nexusmods.com/morrowind/mods/43269?)
 	- Cleaning: ESP requires cleaning
+
+## Player Homes and Companions
+1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
+1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?)
 	
 ## Quests
 1. [ABCs for Outlanders](https://www.nexusmods.com/morrowind/mods/46692?)

@@ -1,4 +1,4 @@
-A modular, vanilla-friendly installation guide for Morrowind in 2020.
+A modular, (mostly) vanilla-friendly installation guide for Morrowind in 2020.
 
 See the [Changelog](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CHANGELOG.md) for a full list of changes.
 
@@ -8,13 +8,13 @@ See the [Changelog](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guid
 1. [Introduction](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/README.md)
 1. [Setup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md)
 1. [Core](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md)
-1. [Expanded Core](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/EXPANDEDCORE.md)
+1. [Core - Expanded](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/EXPANDEDCORE.md)
 1. [Visuals](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md)
-1. [Balance](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md)
-1. [Consistency](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md)
-1. [Gameplay](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/GAMEPLAY.md)
+1. [Gameplay - Balance](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md)
+1. [Gameplay - Consistency](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md)
+1. [Gameplay - Expanded](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/GAMEPLAY.md)
 1. [Content](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONTENT.md)
-1. [Landmass Expansions](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md)
+1. [Content - Landmass Expansions](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md)
 1. [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md)
 
 ## Introduction

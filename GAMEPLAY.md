@@ -1,15 +1,39 @@
-# Gameplay 
+# Gameplay - Expanded
 
-## Skills and Crafting
-1. [Illiterate](https://www.nexusmods.com/morrowind/mods/46600?)
-	- Needs repacking. Create the following folder structure: "MWSE\mods\illiterate\main.lua"
-	- Zip and install normally
-1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
-	- Become a guar tamer. Rule the wastes. This might just be the greatest Morrowind mod of all time. For real.
-1. [Merlord’s Character Background](https://www.nexusmods.com/morrowind/mods/46795?)
-1. [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?)
-	- Enable only Personal Effects_MWSE.esp version
-	- Cleaning: the ESP requires cleaning
+## Player Levelling
+Morrowind's levelling system shows its age. Because of how it handles skill-ups and attribute modifiers, Morrowind encourages micromanagement and powergaming, which is uNiMmERsiVE and BAD. There are several recent lua-based levelling overhauls that make skill increases/levelling much less intrusive.
+
+Choose and **install only ONE** of the following levelling mod sections. If this is your first time with Morrowind, I recommend playing with **Improved Vanilla Levelling** (it most closely resembles the original game's system), and trying **Class-Conscious Character Progression (CCCP)** on a subsequent playthrough:
+
+### Improved Vanilla
+Install this section if you want to play with **Improved Vanilla**, which does as the name suggests: it cuts out the micromanagement and irons out kinks in the game's levelling system.
+1. [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065?)
+1. [Borrowed Time](https://www.nexusmods.com/morrowind/mods/48971)
+1. [Magicka Based Skill Progression](https://www.nexusmods.com/morrowind/mods/48330?)
+1. [MWSE Magicka Regen](https://www.nexusmods.com/morrowind/mods/48129?)
+1. [Proportional Progression](https://github.com/NullCascade/morrowind-mods)
+	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
+	- Unzip, selected Proportional Progression and install
+1. [Proportional Progression config file](https://mega.nz/file/q54mAICL#l5Y8IPRciZ8vk4ieuF5If6MIlKv-nUkIEXz0v04mwag)
+	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for Vanilla/Improved Vanilla levelling.
+	- This config adjusts skill gain speed per skill (slower magic, extremely slow athletics and acrobatics, slightly faster armorer and security skill gain); level specific (at low levels characters level skills faster, and then gradually slower as they level up); and skill-level specific (low-level skills level up faster, but rates slow down until capped at level 200).
+
+### Class-Conscious Character Progression
+Install this section if you want to play with **Class-Conscious Character Progression (CCCP)**. **CCCP** makes major changes to the game's levelling system, which I won't summarize here. Basically it is very, very good:
+1. [Class-Conscious Character Progression](https://www.nexusmods.com/morrowind/mods/48110?)
+1. [Magicka Based Skill Progression](https://www.nexusmods.com/morrowind/mods/48330?)
+1. [Proportional Progression](https://github.com/NullCascade/morrowind-mods)
+	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
+	- Unzip, selected Proportional Progression and install
+1. [Proportional Progression config file](In progress!)
+	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for CCCP.
+
+## Skill Tweaks
+1. [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
+1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
+1. [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528?)
+1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
+1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
 	- Disable the "MWSE" folder
 	- Cleaning: ESP requires cleaning
@@ -17,7 +41,9 @@
 1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?)
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
 1. [Realistic Repair – Add-on - Fixed](https://mega.nz/file/KlJFTIbD#lRK6t8tOmyhjVYRS6FP95CIu2-GCyKtqf0E7gNrkuO4)
-1. [Skills Module](https://www.nexusmods.com/morrowind/mods/46034?)
+1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?)
+1. [Silver Tongue](pending bugfix)
+1. [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
 
 ## Expanded Magic
 1. [Magicka Expanded](https://www.nexusmods.com/morrowind/mods/47111?)
@@ -30,8 +56,6 @@
 		- 00 - Core
 		- 01 - Cast VFX
 1. [Enhanced Detection Lite](https://www.nexusmods.com/morrowind/mods/48471?)
-	- Optional: an add-on for Enhanced Detection that strips down to just the visual effect for vanilla detection spells
-	- Requires Enhanced Detection to be installed (this mod overwrites the existing files)
 	- Installation instructions: enable only the "Enhanced Detection Less Lite" option
 1. [Enhanced Invisibility](https://www.nexusmods.com/morrowind/mods/47565?)
 1. [Enhanced Light](https://www.nexusmods.com/morrowind/mods/47672?)
@@ -45,22 +69,28 @@
 1. [Miscast Enhanced](https://www.nexusmods.com/morrowind/mods/47948?)
 1. [Customizable MWSE Multi Mark and Limited Recall](https://www.nexusmods.com/morrowind/mods/47065?)
 
-## Combat / Crime Gameplay Changes
-1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
+## Crime, Combat, and Character Tweaks
 1. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786?)
 1. [Free the Slaves](https://www.nexusmods.com/morrowind/mods/45191?)
 1. [The Law is Sacred](https://www.nexusmods.com/morrowind/mods/48130?)
 	- ESP is optional (it changes a dialogue line to reflect guards' new non-lethal arrest tactics); you can leave it disabled
-1. [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?)
+1. [Merlord’s Character Background](https://www.nexusmods.com/morrowind/mods/46795?)
+1. [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?)
+	- Enable only Personal Effects_MWSE.esp version
+	- Cleaning: the ESP requires cleaning
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?)
 1. [Simple Combat Mechanics](https://www.nexusmods.com/morrowind/mods/48921)
-1. [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
 
-## Environmental / Ambient Changes
+## Ambient Environment
+1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?)
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178?)
 	- Cleaning: ESP requires cleaning
+1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?)
 1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?)
 	- Cleaning: ESP requires cleaning
+1. [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636)
+	- Enable only the following BAIN options: "00 Lua core"
+	- This enables the dynamic weather transitions, weather changes inside, and randomised particles/cloud speed	
 
 
 **NEXT SECTION**:

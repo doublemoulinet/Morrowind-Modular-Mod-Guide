@@ -19,13 +19,6 @@ If you followed the cleaning advice as you installed each mod then you have alre
 
 Please note that this may take some time. However, cleaning your plugins is absolutely worth it.
 
-## Merging Plugins
-If you have installed new weapon/item mods and would like to reduce your plugin count, you can use MWedit to open all these plugins simultaneously and merge them into a new plugin (I usually call mine "Unique Items Merged.esp"). This is an optional, and unnecessary, step, and I won't provide instructions for basic use of MWEdit. If you're familiar with the tool, have at it. Remember to clean any created plugins with TESTool and tes3cmd.
-
-Morrowind's plugin limits is 255 active plugins. If you have followed this guide you will likely wind up with 125-140 plugins, well below the limit.
-
-As a rule, don't merge ESPs with dialogue. Scripts, if they are few and short, may be safe to merge.
-
 ## Load Order
 Generally, ESPs should remain in the order that they were installed in this guide. However, in some cases  re-ordering is required.
 
@@ -47,7 +40,6 @@ Ensure the following plugins load *first* (i.e. at the very top) in your load or
 1. MDMD - Creatures Add-on.esp
 
 If you installed the **Content** section, you will need to move "Quorn Resource Integration.esp" higher in your load order, so that Yet Another Guard Diversity Overhaul and Mamaea Awakened overwrite its changes. Move "Quorn Resource Integration.esp" the other "New Items" plugins below the equipment ESPs from the **Visuals** section:
-1. Complete Armor Joints.esp
 1. Hopesfire Torch (+ brighter trueflame).esp
 1. Hircine's Artifacts.esp
 1. Hunter's Mark.esp
@@ -90,9 +82,9 @@ Remember to re-run distant land generation according to the steps in [**Setup**]
 If you have installed **Remiros' Groundcover**, there are additional settings to check in MGE XE's distant land generation tab:
 1. Depending on the method you followed during installation, ensure that the ESPs are enabled and appear in your load order. They should be at the very bottom (i.e. last)
 1. If you installed the plugins to a separate folder (ex, \Data Files\Grass Plugins), you will need to specify this directory in the distant land generator wizard. Again, ensure the plugins are enabled and have a tick box in the wizard
-1. On the "Create Distant Statics" tab, set **Grassy Density** to 100% and click generate statics
+1. On the "Create Distant Statics" tab, set **Grass Density** to 100% and click generate statics
 	- Note: you can tweak this setting and re-generate distant land if the grass density affects performance. On my setup, 100% had no impact on framerate
-1. After distant land generation completes, remember to disable the Remiros' Groundcover grass ESPs in Wrye Mash. Anneal/refresh your Installers Tab
+1. After distant land generation completes, remember to disable the Remiros' Groundcover grass ESPs in your load order (if you did not create a "Grass Plugins" folder)
 
 ## Shaders
 Remember to set up the mod-added shaders and enable them in the MGE XE shader tool. (If the following shaders don't appear in your shader list, that just means you didn't install the respective mods, and these instructions can be ignored):
@@ -122,6 +114,9 @@ In the in-game menu Options set the following:
 - Ready magic=f
 - Jump=spacebar
 
+**Video**
+- Set **Real-time shadows** to the middle of the slider (this is less for performance reasons than to reduce the incidence of buggy shadows through walls, etc.)
+
 ### MCM Settings
 The final step. Launch the game and enter the **Mod Configuration Menu** in the main menu. Some settings may require you to re-launch the game to take effect.
 
@@ -136,6 +131,8 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Add source mod name to quest hint = No
 	- Add source mod author… = No
 	- Open first URL… = No
+- **Abot's Smart Merchants**
+	- Enable **Harder Barter like merchants buying prices reduction**: 2. Medium
 - **Accidental Theft Protection**
 	- Blacklist: select the "Books" filter and click "filter all" in the right pane (this will allow you to read owned books without toggling sneak first).
 		- You may also want to blacklist "Doors" if you haven't installed Ownership Overhaul
@@ -202,7 +199,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - **Locks and Traps Detection**
  	- Set Visually Trapped Objects integration to "Yes"
 - **Magicka Based Skill Progression**
-	- Leave the Skill Experience per Magicka at default, or adjust as desired if magic skills are advancing too quickly.
+	- Skill Experience per Magicka: **0.05** (the default value is too high)
 - **Magicka Regen**
 	- Enable Magicka Decay: On
 - **Miscast Enhanced**
@@ -216,6 +213,11 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Disable banner tooltips: no
 - **Ownership Indicator**
 	- Hide Crosshair = Yes (you may need to toggle the crosshair on/off in the game options menu to get this to work)
+- **Poison Redux-ion**
+	- NO: Enable poison creation/application messages (toggle this on/off to use the poison crafting function)
+	- NO: Allow enemies to resist your poisons
+	- YES: Use Poison Crafting's additional icons and models
+	- NO: Use base stats for alchemy instead of fortified ones
 - **Quick Loot**
 	- Hide lock status? = Yes
 	- Show quickloot menu on plant/organic containers? = No
@@ -225,8 +227,6 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Change the equip/cycle lockpick hotkey to "O" ("L" is used by Let There Be Darkness)
 - **Simple Combat Mechancis**
 	- Disarmament: Disable (prevents NPCs from stealing bound weapons)
-- **Smart Merchants**
-	- Enable **Harder Barter like merchants buying prices reduction**: 2. Medium
 - **Sophisticated Save System**
 	- set up autosaves as you prefer, but recommend disabling “Create autosaves after changing cells”
 - **The Midnight Oil**

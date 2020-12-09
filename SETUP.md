@@ -188,7 +188,7 @@ TESAME is a useful mod editing program that we will use to delete bad and unwant
 1. [Download TESAME](http://mw.modhistory.com/download-95-5289) and extract the contents to your Morrowind root folder in a new folder called "TESAME"
 
 ## Optional Tools
-Tools that are not used in this guide, or are part of optional steps. While not strictly needed, if you plan to experiment with your installation and try mods not included in the guide, you will probably need these tools.
+Tools that are not used in this guide. While not strictly needed, if you plan to experiment with your installation and try mods not included in the guide, you may find need of these tools.
 
 ### Mlox
 Optional. A plugin load order sorter. Mlox will not be used in this guide (plugin order will be adjusted manually in the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section of the guide. If you add your own mods, you may want to check your load order with Mlox.
@@ -202,7 +202,7 @@ The official Bethesda The Elder Scrolls Construction Set, patched and fixed to w
 1. Unpack the files to the Morrowind root directory (Morrowind\Tes Constructoin Set.exe)
 
 ### MWedit
-An experimental alternative to the Construction Set. You can easily use MWedit to create merged plugins of certain mods (item/weapon replacers, for example) in order to reduce plugin count. This is optional.
+An experimental alternative to the Construction Set. You can easily use MWedit to create merged plugins of certain mods (item/weapon replacers, for example) in order to reduce plugin count.
 1. Download [MWedit](http://wiki.theassimilationlab.com/mmw/MWEdit)
 1. Extract the folder to the Morrowind root directory (Morrowind\MWedit\Mwedit.exe)
 

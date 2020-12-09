@@ -1,3 +1,33 @@
+2020-12-09
+
+Restructuring of the **Balance**, **Consistency**, and **Gameplay** sections (now renamed as gameplay modules). Lots of stuff moved around, mostly for ease-of-installation and logic. Fixed typos and duplicate mods, updated lots of installation instructions.
+
+In a forthcoming update I will switch the installation and setup instructions to use MO2 instead of Wrye Mash. I will also update/streamline the **Content** section.
+
+ADDED
+- added: EXPANDED: **Smarter Soultrap**
+- added: CONSISTENCY: **Idle Talk**
+
+MOVED
+- moved: **The Midnight Oil** from VISUALS to GAMEPLAY - EXPANDED
+- moved: **MWSEAbotLib** from BALANCE to CORE - EXPANDED
+- moved: **The Dream is the Door** from CONSISTENCY to VISUALS
+- moved: **Illegal Summoning**, **MAB0's Foundations**, **MAB0's Manipulated** from CONSISTENCY to BALANCE
+- moved: **Brutal Backstabbing**, **Poison Crafting**, **Poison Redux-ion**, **Sneaky Strike** from GAMEPLAY to 
+- moved: **Marksman Rebalanced** from GAMEPLAY to BALANCE
+- moved: **The Guar Whisperer** from GAMEPLAY to CONTENT
+
+UPDATED
+- updated: BALANCE: **Proportional Progression config file (improved vanilla)** (will actually work as intended now)
+
+REMOVED
+- removed: CORE: **No More Stage Diving** (will be merged into upcoming Patch for Purists update)
+- removed: EXPANDED CORE: **Give a Gift**
+- removed: VISUALS: **Complete Armor Joints**, **Detailed Brooms**, **furn_overhang_18_smooth**, **FMI - Caius' Big Package** (great replacers, but trivial), **Lazily Atlased Statues of Delyn and Olms**, **Melchior's Magnificent Manuscript** (installation for vanilla-textured scrolls too complicated), **Old Dwemer Books**, **SmoOgrim**, **The Role They Were to Play**
+- removed: VISUALS: **Nordic Mesh Improvements**, **Silver Mesh Improvements** (excellent mesh replacers, removed to streamline the installation of the visuals section)
+- removed: BALANCE: **Limited Intervention**, **Limited Leaping**
+- removed: CONSISTENCY: **Corprus Fix** (incorporated in upcoming PFP update), **TriangleTooth's Missing Characters**, **True Scourge**, **YAGD - ESP replacer** (trivial fix, not worth the installation time)
+
 2020-12-05
 - added: VISUALS: **Perfectly Proficient Parasol Particles Performance Patch**
 - removed: VISUALS: **Parasol Particles**

@@ -1,4 +1,4 @@
-# Expanded Core
+# Core - Expanded
 
 ## User Interface - Expanded
 1. [Better Questlist](https://www.nexusmods.com/morrowind/mods/48272?)
@@ -7,6 +7,7 @@
 1. [Cheat Menu](https://www.nexusmods.com/morrowind/mods/47143?)
 	- Optional. Extremely useful for testing purposes but otherwise unneeded
 1. [Class Description Tooltip](https://www.nexusmods.com/morrowind/mods/47527?)
+1. [Clock Block](https://www.nexusmods.com/morrowind/mods/46292?)
 1. [Companion Health Bars MWSE Lua](https://www.nexusmods.com/morrowind/mods/46136?)
 1. [Continue](https://www.nexusmods.com/morrowind/mods/45952?)
 1. [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119?)
@@ -14,8 +15,6 @@
 1. [Hotkeys Extended](https://www.nexusmods.com/morrowind/mods/48055?)
 1. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/47962?)
 	- The fillbar is too narrow for my tastes. You can adjust the width in the main.lua. Find the line "chargeFillbar.height" and change the value after the equals sign to 7
-	- Install normally
-1. [MWSE Clock Block](https://www.nexusmods.com/morrowind/mods/46292?)
 1. [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693?)
 1. [Ownership Indicator](https://www.nexusmods.com/morrowind/mods/45940?)
 1. [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)
@@ -31,11 +30,6 @@
 	- Unzip, select User Interface Expansion and install
 
 ##  MWSE - Core
-1. [Graphic Herbalism MWSE](https://www.nexusmods.com/morrowind/mods/46599?)
-	- Download and install the Main File
-	- Enable the following BAIN options:
-		- 00 Core + Vanilla Patches
-1. [Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864?)
 1. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?)
 	- Enable the following BAIN options:
 		- 00 Core
@@ -47,6 +41,11 @@
 1. [Project Atlas - Glow in the Dahrk Patch](https://www.nexusmods.com/morrowind/mods/45399?)
 	- Download the main file install *only* the following BAIN option:
 		- 10 Glow in the Dahrk Patch - Interior Sunrays
+1. [Graphic Herbalism MWSE](https://www.nexusmods.com/morrowind/mods/46599?)
+	- Download and install the Main File
+	- Enable the following BAIN options:
+		- 00 Core + Vanilla Patches
+1. [Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864?)
 1. [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069?)
 	- Download and install the “MWSE” Main File
 1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?)
@@ -54,8 +53,6 @@
 
 ## Gameplay Tweaks
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?)
-1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?)
-1. [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?)
 1. [Better Buoyancy](https://www.nexusmods.com/morrowind/mods/48929?)
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?)
@@ -65,19 +62,14 @@
 1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- Unzip, selected Drop Light and install
-1. [Give a Gift](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, selected Give a Gift and install
+1. [Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
 1. [Kill Command](https://www.nexusmods.com/morrowind/mods/46723?)
 1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
 	- Download the zip of all NullCascade’s Morrowind mods
 	- Unzip, select The Last Witness and install
 1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
-1. [Loading Doors](https://www.nexusmods.com/morrowind/mods/46094?)
-1. [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528?)
-1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
+1. [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094?)
 1. [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?)
-1. [MWSE Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
 1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)
 1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?)
 1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
@@ -100,12 +92,16 @@
 		}
 	```
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
-1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?)
 1. [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735?)
-1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?)
 1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?)
+1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)
+	- Download the zip of all NullCascade’s Morrowind mods
+	- Unzip, select Smarter Soultrap and install
+1. [Switchable Scriptures](https://www.nexusmods.com/morrowind/mods/46680?)
+	- Install  the "00 Core" and "01 Icons" options
 1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?)
+1. [MWSE AbotLib](https://www.nexusmods.com/morrowind/mods/47717?)
 
 
 **NEXT SECTION**:
