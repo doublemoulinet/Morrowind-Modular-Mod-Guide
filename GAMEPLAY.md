@@ -42,7 +42,7 @@ Install this section if you want to play with **Class-Conscious Character Progre
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
 1. [Realistic Repair – Add-on - Fixed](https://mega.nz/file/KlJFTIbD#lRK6t8tOmyhjVYRS6FP95CIu2-GCyKtqf0E7gNrkuO4)
 1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?)
-1. [Silver Tongue](pending bugfix)
+1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
 1. [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
 
 ## Expanded Magic
