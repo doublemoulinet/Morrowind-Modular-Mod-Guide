@@ -71,7 +71,6 @@ Install this section if you want to play with **Class-Conscious Character Progre
 
 ## Crime, Combat, and Character Tweaks
 1. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786?)
-1. [Free the Slaves](https://www.nexusmods.com/morrowind/mods/45191?)
 1. [The Law is Sacred](https://www.nexusmods.com/morrowind/mods/48130?)
 	- ESP is optional (it changes a dialogue line to reflect guards' new non-lethal arrest tactics); you can leave it disabled
 1. [Merlord’s Character Background](https://www.nexusmods.com/morrowind/mods/46795?)

@@ -27,6 +27,7 @@ REMOVED
 - removed: VISUALS: **Nordic Mesh Improvements**, **Silver Mesh Improvements** (excellent mesh replacers, removed to streamline the installation of the visuals section)
 - removed: BALANCE: **Limited Intervention**, **Limited Leaping**
 - removed: CONSISTENCY: **Corprus Fix** (incorporated in upcoming PFP update), **TriangleTooth's Missing Characters**, **True Scourge**, **YAGD - ESP replacer** (trivial fix, not worth the installation time)
+- removed: GAMEPLAY: **Free the Slaves**
 
 2020-12-05
 - added: VISUALS: **Perfectly Proficient Parasol Particles Performance Patch**
