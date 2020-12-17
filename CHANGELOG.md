@@ -1,4 +1,8 @@
-2020-12-09
+### **2020-12-17**
+- added: CONTENT: [OAAB - Tombs and Towers](https://www.nexusmods.com/morrowind/mods/49131)
+- removed: CONTENT: [Mawia Overhaul](https://www.nexusmods.com/morrowind/mods/46884?); [Urshilaku Burial Caverns Overhaul](https://www.nexusmods.com/morrowind/mods/48705?); [Remiros' Tombs Expansion](https://www.nexusmods.com/morrowind/mods/45616?) (replaced with OAAB Tombs and Towers)
+
+### **2020-12-09**
 
 Restructuring of the **Balance**, **Consistency**, and **Gameplay** sections (now renamed as gameplay modules). Lots of stuff moved around, mostly for ease-of-installation and logic. Fixed typos and duplicate mods, updated lots of installation instructions.
 
@@ -23,18 +27,17 @@ UPDATED
 REMOVED
 - removed: CORE: **No More Stage Diving** (will be merged into upcoming Patch for Purists update)
 - removed: EXPANDED CORE: **Give a Gift**
-- removed: VISUALS: **Complete Armor Joints**, **Detailed Brooms**, **furn_overhang_18_smooth**, **FMI - Caius' Big Package** (great replacers, but trivial), **Melchior's Magnificent Manuscript** (installation for vanilla-textured scrolls too complicated), **Old Dwemer Books**, **SmoOgrim**, **The Role They Were to Play**
-- removed: VISUALS: **Nordic Mesh Improvements**, **Silver Mesh Improvements** (excellent mesh replacers, removed to streamline the installation of the visuals section)
+- removed: VISUALS: **Complete Armor Joints**, **Detailed Brooms**, **furn_overhang_18_smooth**, **FMI - Caius' Big Package** (great replacers, but trivial), **Melchior's Magnificent Manuscript** (installation for vanilla-textured scrolls too complicated), **Old Dwemer Books**, **SmoOgrim**, **The Role They Were to Play**, **Nordic Mesh Improvements**, **Silver Mesh Improvements** (excellent mesh replacers, removed to streamline the installation of the visuals section)
 - removed: BALANCE: **Limited Intervention**, **Limited Leaping**
-- removed: CONSISTENCY: **Corprus Fix** (incorporated in upcoming PFP update), **TriangleTooth's Missing Characters**, **True Scourge**, **YAGD - ESP replacer** (trivial fix, not worth the installation time)
+- removed: CONSISTENCY: **Corprus Fix** (incorporated in upcoming PFP update), **TriangleTooth's Missing Characters**, **True Scourge**, **YAGD - ESP replacer**
 - removed: GAMEPLAY: **Free the Slaves**
 
-2020-12-05
+### **2020-12-05**
 - added: VISUALS: **Perfectly Proficient Parasol Particles Performance Patch**
 - removed: VISUALS: **Parasol Particles**
 - updated: FINISH LINE: Graphic Herbalism whitelist/blacklist MCM settings
 
-2020-11-26
+### **2020-11-26**
 - added: GAMEPLAY: **Poison Redux-ion** (an expanded implementation that complements Poison Crafting)
 - added: CONTENT: **OAAB Grazelands**
 - added: CONTENT: **OAAB Integrations**
@@ -45,43 +48,43 @@ REMOVED
 - moved: **Cover Yourself**, **Actually Unlimited Skeleton Key**, **Give a Gift**, **The Last Witness** and **Lua Lockbashing** from CONSISTENCY to EXPANDED CORE (gameplay tweak/convenience mods)
 - updated Morrowind Code Patch game mechanics settings in SETUP (now recommend using **Healthy Appetite**)
 
-2020-11-16
+### 2020-11-16
 - added: CONTENT: OAAB - The Ashen Divide (replaces standalone version)
 - removed: CONTENT: The Ashen Divide
 - updated: installation instructions for VISUALS: Intelligent Textures
 - updated: installation instructions for CONTENT: OOAB_Data
 - updated installation instructions for LANDMASS: mod compatibility
 
-2020-11-15
+### 2020-11-15
 - added: VISUALS: Hater8's Silt Strider Redone
 - removed: VISUALS: Silt Strider (replaced with atlased version above)
 
-2020-11-13
+### 2020-11-13
 - added: EXPANDED CORE: Alchemical Knowledge
 - updated GAMEPLAY: Realistic Repair Add-on Fixed (cleaned plugin)
 
-2020-11-11
+### 2020-11-11
 - added: VISUALS: Watch the Skies
 - added: BALANCE: Hold Your Breath
 - added: CONTENT: Tower Vos (re-added)
 - removed: VISUALS: Improved Shields (really good, but maybe too high poly for this guide)
 - updated installation instructions for CORE: Fixed Journal Next Button
 
-2020-11-02
+### 2020-11-02
 - updated installation instructions for CONSISTENCY: AURA
 - updated FINISH LINE: MCM Settings for CONSISTENCY: AURA (disabled some extra modules)
 
-2020-10-30
+### 2020-10-30
 - added: VISUALS: Heat Haze
 - added: VISUALS: Silt Strider (vanilla textures)
 - added: BALANCE: Borrowed Time (for Vanilla Improved Levelling subsection)
 - updated FINISHLINE: MCM Settings for GAMEPLAY: Combat Mechanics (disabled disarmament feature to prevent NPCs from potentially stealing your bound weapons)
 - updated FINSIHLINE: MCM Settings for BALANCE: Magicka Regen (reverted to default values; 100% regen is balanced for magicka characters)
 
-2020-10-20
+### 2020-10-20
 - updated: VISUALS: Subtle Magic Glow ("faint" to "fade" for better visibility when using visually trapped objects)
 
-2020-10-18
+### 2020-10-18
 - added: EXPANDED VANILLA: Better Buoyancy
 - added: VISUALS: MGG Weathers Darker preset (darker nights, better maintained)
 - added: VISUALS: Visually Trapped Objects

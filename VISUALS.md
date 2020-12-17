@@ -54,7 +54,7 @@
 1. [Enhanced Stone Walls](https://www.nexusmods.com/morrowind/mods/45939?)
 	- Download the “Enhanced Stone Walls” file
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
-	- Download the "kart_facelift_default" Main File and the 10.3 update file
+	- Download the "kart_facelift_meshes" and "kart_facelift_textures" Main Files
 1. [Lazily Atlased Statues of Delyn and Olms](https://www.nexusmods.com/morrowind/mods/48578?)
 	- Download the Main File if using Intelligent Textures. Download the optional file if using vanilla textures
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?)

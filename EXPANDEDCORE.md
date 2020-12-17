@@ -31,7 +31,7 @@
 
 ##  MWSE - Core
 1. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?)
-	- Enable the following BAIN options:
+	- Enable the following options:
 		- 00 Core
 		- 02 Interior Sunrays
 		- 04 Telvanni Dormers on Vvardenfell
