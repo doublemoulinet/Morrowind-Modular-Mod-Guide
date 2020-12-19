@@ -1,3 +1,7 @@
+### **2020-12-19**
+- added: CONTENT: [OAAB - Astral Pocket](https://www.nexusmods.com/morrowind/mods/49077)
+- removed: EXPANDED: [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?) (needs bug fix)
+
 ### **2020-12-17**
 - added: CONTENT: [OAAB - Tombs and Towers](https://www.nexusmods.com/morrowind/mods/49131)
 - removed: CONTENT: [Mawia Overhaul](https://www.nexusmods.com/morrowind/mods/46884?); [Urshilaku Burial Caverns Overhaul](https://www.nexusmods.com/morrowind/mods/48705?); [Remiros' Tombs Expansion](https://www.nexusmods.com/morrowind/mods/45616?) (replaced with OAAB Tombs and Towers)

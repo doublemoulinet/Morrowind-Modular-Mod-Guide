@@ -117,7 +117,6 @@
 1. [OAAB - Tombs and Towers](https://www.nexusmods.com/morrowind/mods/49131)
 1. [Samarys Ancestral Tomb Expanded](https://www.nexusmods.com/morrowind/mods/45612?)
 
-
 ## New Items
 1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?)
 1. [Hunter’s Mark – A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656?)
@@ -126,10 +125,13 @@
 1. [Quorn Resource Integration](https://www.nexusmods.com/morrowind/mods/43269?)
 	- Cleaning: ESP requires cleaning
 
-## Player Homes and Companions
-1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
+## Player Homes
+1. [OAAB - Astral Pocket](https://www.nexusmods.com/morrowind/mods/49077)
 1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?)
-	
+
+## Companions
+1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
+
 ## Quests
 1. [ABCs for Outlanders](https://www.nexusmods.com/morrowind/mods/46692?)
 1. [Ajira's Alchemy Reports Randomized](https://www.nexusmods.com/morrowind/mods/47550?)

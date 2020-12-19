@@ -69,7 +69,6 @@
 	- Unzip, select The Last Witness and install
 1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
 1. [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094?)
-1. [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?)
 1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)
 1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?)
 1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
