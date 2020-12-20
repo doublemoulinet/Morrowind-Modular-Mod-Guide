@@ -1,35 +1,35 @@
 # Landmass Expansions
-These optional mods should not be used on your first playthrough. While Bethesda released its own expansions--known as **Official Plugins**--they are a real grab bag: some are mediocre, others are trivial, most are best forgotten. The cleaned and fixed versions presented here are the best way to incorporate them into your game, but are not necessary (or even recommended) for an enjoyable Morrowind experience. In fact, let me put this another way: I strongly discourage using any of the Offical Plugins. Just don't.
 
 The landmass mods--**Tamriel Rebuilt** and its sister projects like **Skyrim: Home of the Nords**--are highly recommended on subsequent playthroughs. These are arguably the most impressive modding projects on the web. Tamriel Rebuilt is a decades-long project to recreate the Morrowind mainland in TES3. The "Old Ebonheart" release is one of the best quest mods available and I recommend a TR-centric playthrough to play the different questlines.
 
-**Solstheim Tomb of the Snow Prince** overhauls the Bloodmoon expansion to bring the world design in line with current Tamriel Rebuilt / Project Tamriel design standards. It is highly recommended. You will see why after you play Bloodmoon in vanilla: the vanilla world design is flat, empty, and boring. STOTSP is a performance-friendly overhaul that makes playing Bloodmoon significantly more fun.
-	
-## Official Plugins
-All due respect to the mod author, who has done taken on an enormous task in fixing and polishing the official plugins--but you are better off without them. Again, to be clear: I do not recommend these. If you *must* play with the official plugins, this is the best way to experience them:
-1. [Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931?)
-	- Download both main files “UMOPP” and “Merged and Compatibility Versions”
-	- Install UMOPP first and do not activate any of the ESPs
-	- Install Merged and Compatibility Versions as a separate mod and activate the “UMOPP Compatibility Merged” BAIN option
-	- **NB**: If you install the official plugins, you *must* drag this mod archive to the top of your *installation order* in your mod manager (i.e. the *Installers Tab* of Wrye Mash or the left-pane of MO2). Otherwise the meshes and textures will overwrite the fixed versions provided in PfP and MOP.
+**Solstheim Tomb of the Snow Prince** overhauls the Bloodmoon expansion to bring the world design in line with current Tamriel Rebuilt / Project Tamriel design standards. It is highly recommended. You will see why after you play Bloodmoon in vanilla: the vanilla world design is flat, empty, and boring. STOTSP is a performance-friendly overhaul that makes playing Bloodmoon significantly more fun. I recommend it for all subsequent playthroughs!
+
 	
 ## Landmass
 1. [Tamriel Data](https://www.nexusmods.com/morrowind/mods/44537?)
 	- Download “Tamriel_Data (vanilla)” or "Tamriel_Data (HD)" based on prefence. The latter fits well with Intelligent Textures
+	- Required for 
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145?)
 	- Download the Main File and Hotfix file. Enable "00 Core" and the hotfix ESP. Optionally enable "02 Preview Content" for the unfinished regions
 	- Cleaning: TR_Preview.esp requires cleaning
 1. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921?)
-	- add the grass ESP to your "Grass Plugins" folder if you created one when installing Remiros' Grass
-1. [HOTV Solstheim Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
-	- Enable the following BAIN options:
+	- **Grass Plugins**: add the grass ESP to your "Grass Plugins" folder if you created one when installing Remiros' Grass
+1. [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
+	- Download both Main Files
+	- For "Solstheim Tomb of the Snow Prince" enable the following BAIN options:
 		- 00 Core
 		- 010 Solstheim - Tomb of the Snow Prince
 		- 011 TOTSP Patches (we only want the Patch for Purists patch)
 		- 012 Armor of the Snow Prince
-	- Enable only the following three plugins: *Solstheim Tomb of the Snow Prince.esm*, *TOTSP TD Content Integration.esp*, *TOTSP_Patch_for-Purists_4.0.2.esp*
-	- Cleaning: Snow Prince Armor Redux.esp, and TOTSP TD Content Integration.esp require cleaning
-	- NB: STOTSP requires Tamriel_Data.esm, which you installed just above
+	- For "Solstheim Graphical Replacer" enable only the following option:
+		- 012 Remiros Groundcover for TOTSP
+	- Ensure only the following four plugins are enabled: 
+		- *Solstheim Tomb of the Snow Prince.esm*, 
+		- *TOTSP TD Content Integration.esp*
+		- *TOTSP_Patch_for-Purists_4.0.2.esp*, 
+		- *VSW-Rem-Anthology Solstheim.esp*
+	- **Grass Plugins**: add the *VSW-Rem-Anthology Solstheim.esp* grass plugin to your "Grass Plugins" folder if you created one earlier
+	- **Cleaning**: Snow Prince Armor Redux.esp, and TOTSP TD Content Integration.esp require cleaning
 1. [Rather Nice Factor's Estate](https://www.nexusmods.com/morrowind/mods/47933?)
 	- Enable both the "00 Core" and "01 Patch - Patch for Purists 4.0.X" options
 
@@ -45,7 +45,7 @@ Optionally, you may update the following mods to enable compatibility/integratio
 1. **Glow in the Dahrk** (installed in the [**Expanded Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/EXPANDEDCORE.md) section)
 	- Additionally enable BAIN option "06 - TR Interior Sunrays" if you have not already done so.
 1. **Remiros' Groundcover** (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) section)
-	- Additionally enable the "01 TR Plugins" and "02 TR Preview Plugins"
+	- **Grass Plugins**: Additionally enable the "01 TR Plugins" and "02 TR Preview Plugins"
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
 	- Download the "kart_fut_TR_PT" Main File and install. Installation order doesn't matter; you may merge, or place the mod underneath, *Facelift* in the **VISUALS** section. Adds high quality textures for TR faces to better fit in with HD texture replacers like IT.
 1. **Near Vanilla Road Sign Replacer** (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) section)

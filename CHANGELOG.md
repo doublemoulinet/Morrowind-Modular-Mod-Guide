@@ -1,6 +1,8 @@
-### **2020-12-19**
+### **2020-12-20**
 - added: CONTENT: [OAAB - Astral Pocket](https://www.nexusmods.com/morrowind/mods/49077)
 - removed: EXPANDED: [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?) (needs bug fix)
+- removed: LANDMASS: [Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931?) instructions (unnecessary, because you shouldn't play with the Bethesda plugins; the guide will incorporate improved standalone reimaginings of some of the quests/items in a future update)
+- updated: OPTIONAL: **Solstheim Tomb of the Snow Prince** (added instructions to install groundcover plugin)
 
 ### **2020-12-17**
 - added: CONTENT: [OAAB - Tombs and Towers](https://www.nexusmods.com/morrowind/mods/49131)
