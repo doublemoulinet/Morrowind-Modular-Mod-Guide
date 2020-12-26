@@ -22,9 +22,9 @@ This is my personal mod list for Morrowind, with an emphasis on performance and 
 For a similar-looking guide, with better instructions, see [Sigourn's Morrowind Mended](https://github.com/Sigourn/morrowind-improved). Some of the structure of this guide (particularly the setup section) has been adapted from Sigourn's.
 
 This guide's selling features:
-- Step-by-step instructions in a fully modular format--including essential, visual, balance, and quality-of-life mods
-- A curated selection of vanilla-friendly content mods, including settlement and dungeon expansions, new items, and quests.
-- On fairly modest desktop hardware (ex., an i7-3770 and GTX 680), you will get a solid 50-60FPS in-game. Dips below 60FPS should be rare.
+- Step-by-step instructions in a **fully modular format**--including essential, visual, balance, and quality-of-life mods.
+- A curated selection of **vanilla-friendly content mods**, including settlement and dungeon expansions, new items, and quests.
+- On moderate desktop hardware (ex., an i7-3770 and GTX 680), you will get a solid **50-60FPS in-game**. Dips below 60FPS should be rare.
 
 ## Note on performance:
 Morrowind is a single-core application, meaning CPU load is the major performance bottleneck. A CPU with fast single-core processing speed will have a much higher overhead for the most costly CPU work: draw calls, NPCs and animations, collision calculations. This guide tries to keep the CPU overhead low, so that a range of moderate systems will get stable framerates. Mods that add lots of objects to exteriors, or add lots of NPCs, should be installed sparingly.

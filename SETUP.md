@@ -8,7 +8,7 @@
 1. [Mod Organizer 2](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#mod-organizer-2)
 	- [Configuration](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#configuration)
 	- [Tools Setup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#tools-setup)
-	- [Installing Mods](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#installing-mods)
+	- [Mod Installation](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#mod-installation)
 	- [Creating Separators](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#creating-separators)
 1. [MGE XE](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#MGE-XE)
 	- [Graphics Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#graphics-tab)
@@ -53,7 +53,7 @@ After this step, you should have only:
 After you have installed the game, run the Morrowind Launcher and boot to the main menu. This ensures the proper files are generated.
 
 # Morrowind Code Patch
-The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It is an essential utility. The MCP must be installed manually. Do not place this in your Wrye Mash "Mods" directory. 
+The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It is an essential utility. The MCP must be installed manually.
 1. Download the Morrowind Code Patch main file from [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510?)
 1. Extract to your Morrowind root directory (C:\...\Morrowind). Do not extract it to Morrowind\Data Files.
 1. Download the MCP Beta from [MCP Skunk Works](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
@@ -96,7 +96,7 @@ TESAME is a useful mod editing program that we will use to delete bad and unwant
 
 ### [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?)
 This powerful tool will be used primarily to clean and repair plugins, clean and repair game saves, enable mod-added BSA archives, and update plugin masters.
-1. Download and install the latest x64 manual installation archive, under Main Files
+1. Download the latest x64 manual installation archive, under Main Files, and any x64 manual installation Update file (if applicable)
 1. Extract the contents to your Morrowind root foler (C:\...\Morrowind). Overwrite/merge if prompted
 1. Run mash64.exe
 	- The application will prompt you to select the Morrowind root directory. It will also prompt you to select an Installers path: select the C:\...\Morrowind\Mods directory you created earlier
