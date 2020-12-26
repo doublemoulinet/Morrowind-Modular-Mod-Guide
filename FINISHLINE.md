@@ -2,7 +2,7 @@
 
 Congraulations! You're nearly there. This last section details a few quick steps to ensure a bug-free playthrough.
 
-## Index
+# Index
 1. [Cleaning](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#cleaning)
 1. [Merging Plugins](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#merging-plugins)
 1. [Load Order](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#load-order)
@@ -14,12 +14,12 @@ Congraulations! You're nearly there. This last section details a few quick steps
 1. [Shaders](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#shaders)
 1. [In-game Settings](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#in-game-settings)
 
-## Cleaning
+# Cleaning
 If you followed the cleaning advice as you installed each mod then you have already completed this section. Otherwise, run TESTool according to the instructions in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md), and then the "clean with tes3cmd" utility in Wrye Mash for individual plugins. 
 
-Please note that this may take some time. However, cleaning your plugins is absolutely worth it.
+Please note that this may take some time. However, cleaning your plugins is absolutely necessary.
 
-## Load Order
+# Load Order
 Generally, ESPs should remain in the order that they were installed in this guide. However, in some cases  re-ordering is required.
 
 Ensure the following plugins load *first* (i.e. at the very top) in your load order, in this order:
@@ -52,31 +52,37 @@ Ensure that the following mods always load *last* (i.e. at the very bottom) in y
 1. multipatch.esp
 1. Merged Objects.esp
 
-## Conflict Resolution
+# Conflict Resolution
 Several of the mods in this guide make edits to the same creatures and NPCs, and in some cases these changes will not be carried over and merged by the multipatch and merged patch. The following patch will resolve those conflicts and ensure the correct changes are carried forward into your merged patches in the next step of this guide.
 
 You need to create two merged patches to resolve remaining plugin conflicts. Make sure all your plugins are enabled in the Mods Tab and follow these instructions to generate the patch
 
-### Conflict Resolution Patch
+## Conflict Resolution Patch
 1. [Conflict Resolution - Finish Line](https://mega.nz/file/70B23IKA#SRwTb-CnFroOY-q3bUFG-ze9AJmV3_7M_kpbHWafmKM)
 	- Conflict resolution patch for MDMD - More Deadly Morrowind Denizens, Quorn Resource Integration, Some of a Kind, and Morag Tong Polished
 	- Select one of the options based on your installation order and install. Make sure the plugin is enabled and at the bottom of your load order
 
-### Multipatch
+## Multipatch
 First, you need to create the **tes3cmd multipatch**:
-1. Click the tes3cmd_multipatch.bat in your Data Files (you created this in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md))
+1. Launch **tes3cmd** from your list of executables in MO2
+1. In the command promt, type: "tes3cmd_multipatch.bat" without the quotation marks
 1. Follow the prompts in the command-line window and wait for it to generate the patch
-1. Once complete, tes3cmd will create multipatch.esp in your Data Files
+1. Once complete, tes3cmd will create multipatch.esp in your Overwrite folder in MO2
 
-### Merged Objects
+## Merged Objects
 Next, create the **Merged Objects patch** with **TES3Merge**:
-1. Launch TES3Merge.exe and wait for it to generate the plugin
-1. Once complete, TES3Merge wil create Merged Objects.esp in your Data Files
+1. Launch TES3Merge.exe from your list of plugins in MO2 and wait for it to generate the plugin
+1. Once complete, TES3Merge wil create Merged Objects.esp in your overwrite folder
 1. Move the newly-created **Merged Objects.esp plugin** to the bottom of your load order (i.e. last)
+
+Now we will move the two plugins to a new mod folder in the left pane. Select the mini-wrench-and-screwdriver icon next to the **Profiles** dropdown menu:
+- Select **Create empty mod** and title it "**Merged Patches**"
+- Double click the **Overwrite** folder at the bottom of your installation order
+- Drag and drop the newly-created **multipatch.esp** and **Merged Objects.esp** to the empty mod and enable it
 
 Note that you will need to regenerate these two plugins nearly each time you adjust your load order (update, remove or add a plugin) so that the changes are carried on. For your convenience, Wrye Mash will indicate if the plugins are missing masters and require regenerating (the plugin will turn yellow or red in the Mods Tab).
 
-## Distant Land
+# Distant Land
 Remember to re-run distant land generation according to the steps in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md).
 
 If you have installed **Remiros' Groundcover**, there are additional settings to check in MGE XE's distant land generation tab:
@@ -86,7 +92,7 @@ If you have installed **Remiros' Groundcover**, there are additional settings to
 	- Note: you can tweak this setting and re-generate distant land if the grass density affects performance. On my setup, 100% had no impact on framerate
 1. After distant land generation completes, remember to disable the Remiros' Groundcover grass ESPs in your load order (if you did not create a "Grass Plugins" folder)
 
-## Shaders
+# Shaders
 Remember to set up the mod-added shaders and enable them in the MGE XE shader tool. (If the following shaders don't appear in your shader list, that just means you didn't install the respective mods, and these instructions can be ignored):
 - invisibility (from **Enhanced Invisibility** in **GAMEPLAY**)
 - r0_qk_shader (from **Shattered Stones - an Earthquake Mod** in **GAMEPLAY**)
@@ -95,9 +101,9 @@ Remember to set up the mod-added shaders and enable them in the MGE XE shader to
 
 Add them to the bottom of the list of active shaders in MGE XE.
 
-## In-game Settings
+# In-game Settings
 
-### Menu Options
+## Menu Options
 In the in-game menu Options set the following:
 
 **Prefs**
@@ -117,7 +123,7 @@ In the in-game menu Options set the following:
 **Video**
 - Set **Real-time shadows** to the middle of the slider (this is less for performance reasons than to reduce the incidence of buggy shadows through walls, etc.)
 
-### MCM Settings
+# MCM Settings
 The final step. Launch the game and enter the **Mod Configuration Menu** in the main menu. Some settings may require you to re-launch the game to take effect.
 
 Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new game because settings are stored in .json config files in the MWSE folder in the root directory. You only need to make these settings changes once per installation.
@@ -201,6 +207,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - **Magicka Based Skill Progression**
 	- Skill Experience per Magicka: **0.05** (the default value is too high)
 - **Magicka Regen**
+	- Set the player value to 70%
 	- Enable Magicka Decay: On
 - **Miscast Enhanced**
 	- Ensure "Debug Mode" is disabled
@@ -236,5 +243,5 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - **Weapon Sheathing**
 	- Show unreadied shields on back = Yes!
 
-## The End
+# The End
 Hey, congratulations. You've made it to the end of the guide. Email Virgil if you have any questions or complaints. Enjoy the game!

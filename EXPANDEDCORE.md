@@ -27,7 +27,7 @@
 1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?)
 1. [User Interface Expansion](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select User Interface Expansion and install
+	- In MO2, set User Interface Expansion as your data directory and install
 
 ##  MWSE - Core
 1. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?)
@@ -61,12 +61,12 @@
 1. [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717?)
 1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, selected Drop Light and install
+	- In MO2, set Drop Light as your data directory and install
 1. [Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
 1. [Kill Command](https://www.nexusmods.com/morrowind/mods/46723?)
 1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
 	- Download the zip of all NullCascade’s Morrowind mods
-	- Unzip, select The Last Witness and install
+	- In MO2, set The Last Witness as your data directory and install
 1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
 1. [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094?)
 1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)
@@ -96,7 +96,7 @@
 1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?)
 1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)
 	- Download the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Smarter Soultrap and install
+	- In MO2, set Smarter Soultrap as your data directory and install
 1. [Switchable Scriptures](https://www.nexusmods.com/morrowind/mods/46680?)
 	- Install  the "00 Core" and "01 Icons" options
 1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?)

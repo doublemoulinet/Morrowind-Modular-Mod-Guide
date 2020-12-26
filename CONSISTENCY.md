@@ -53,7 +53,7 @@
 1. [Shut the Fuck Up Cliffracers](https://www.nexusmods.com/morrowind/mods/46588?)
 1. [Sounds of Souls](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Sounds of Souls and install
+	- In MO2, set Sounds of Souls as your data directory and install
 
 
 **NEXT SECTION**:

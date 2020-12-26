@@ -15,10 +15,10 @@
 	- Download and install "Better Balanced Booze" main file
 1. [Controlled Consumption](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Controlled Consumption and install
+	- In MO2, set Controlled Consumption as your data directory and install
 1. [Dynamic Difficulty](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, selected Dynamic Difficulty and install
+	- In MO2, set Dynamic Difficulty as your data directory and install
 1. [Enchant Capacity Rebalance](https://www.nexusmods.com/morrowind/mods/48742?)
 	- Enable the MWSE version (not the plugin version)
 1. [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292?)

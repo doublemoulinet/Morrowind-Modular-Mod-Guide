@@ -13,7 +13,7 @@ Install this section if you want to play with **Improved Vanilla**, which does a
 1. [MWSE Magicka Regen](https://www.nexusmods.com/morrowind/mods/48129?)
 1. [Proportional Progression](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, selected Proportional Progression and install
+	- In MO2, set Proportional Progression as your data directory and install
 1. [Proportional Progression config file](https://mega.nz/file/q54mAICL#l5Y8IPRciZ8vk4ieuF5If6MIlKv-nUkIEXz0v04mwag)
 	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for Vanilla/Improved Vanilla levelling.
 	- This config adjusts skill gain speed per skill (slower magic, extremely slow athletics and acrobatics, slightly faster armorer and security skill gain); level specific (at low levels characters level skills faster, and then gradually slower as they level up); and skill-level specific (low-level skills level up faster, but rates slow down until capped at level 200).
@@ -24,7 +24,7 @@ Install this section if you want to play with **Class-Conscious Character Progre
 1. [Magicka Based Skill Progression](https://www.nexusmods.com/morrowind/mods/48330?)
 1. [Proportional Progression](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, selected Proportional Progression and install
+	- In MO2, set Proportional Progression as your data directory and install
 1. [Proportional Progression config file](In progress!)
 	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for CCCP.
 

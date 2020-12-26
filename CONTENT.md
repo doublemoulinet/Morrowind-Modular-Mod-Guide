@@ -27,12 +27,9 @@
 	- Enable only the RR_Aldruhn_Under_Skar_ENG.esp
 	- Cleaning: ESP requires cleaning
 1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?)
-	- Mod archive is incorrectly packaged. Repack:
-		- Extract the "ex_velothi_big.nif" in "000 Core Files\Glow in the Dahrk\Vanilla" 
-		- Place in a new folder with the following strucure: "meshes\x\ex_velothi_big.nif"
-		- Extract the ESP in "001 ESP - Bigger Velothi Temples"
-		- Place the ESP in your new folder
-		- Zip as a new mod archive and install normally
+	- Mod archive is incorrectly packaged:
+	- In **001 ESP - Bigger Velothi Temples**, drag and drop the "Bigger Velothi Temples.esp" into the **000 Core Files\Glow in the Darhk\Vanilla\Data Files** folder
+	- Right click "Data Files" and set as data directory and install
 	- Cleaning: ESP requires cleaning
 1. [Brevur of Balmora](https://www.nexusmods.com/morrowind/mods/47557?)
 	- Cleaning: ESP requires cleaning
@@ -43,7 +40,8 @@
 	- Enable only the "Meteorite Ministry Temple" ESP
 	- Cleaning: ESP requires cleaning
 1. [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
-	- Enable the "00 Core" option, and the "01 remiros groudncover gl patch" if using Remiros' Grass (if you created a "Grass Plugins" folder when installing Remiros' Grass, be sure to repeat that step for these plugins)
+	- Enable the "00 Core" option, and the "01 remiros groudncover gl patch" if using Remiros' Grass 
+		- If you created a "Grass Plugins" folder when installing Remiros' Grass, be sure to repeat that step for these plugins
 1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?)
 	- Enable only the "00 Core" BAIN option
 1. [Open Mournhold](https://www.nexusmods.com/morrowind/mods/44981?)
@@ -64,8 +62,6 @@
 	- Cleaning: ESP requires cleaning
 
 ## Expanded Wilderness
-1. [OAAB - The Ashen Divide](https://www.nexusmods.com/morrowind/mods/49047)
-	- ESP requires cleaning
 1. [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?)
 	- Cleaning: ESP requires cleaning
 1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?)
@@ -74,6 +70,8 @@
 1. [The Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/46137?)
 	- Don't enable the ESP; the next mod reverts some cell name changes and will supply the ESP
 1. [The Grove of Ben'Abi - Region name reverted](https://mega.nz/file/Gl4TQBrR#YqRPilupBPUwneqR0lOs70IvXuBQ5xwbAw_bdGjpG74)
+1. [OAAB - The Ashen Divide](https://www.nexusmods.com/morrowind/mods/49047)
+	- ESP requires cleaning
 1. [RR Mod Series - Holamayan](https://www.nexusmods.com/morrowind/mods/43524?)
 	- Select the following BAIN options:
 		- 00 - main files
@@ -94,7 +92,7 @@
 		- 02 - Main ESP - English
 	- Cleaning: the ESP requires cleaning
 1. [Seven Graces Shrines Enhanced](https://www.nexusmods.com/morrowind/mods/46417?)
-	- Download and install both the Main File and the "No Script Edits" optional file. Install both.
+	- Download and install both the Main File and the "No Script Edits" optional file.
 	- Cleaning: ESP requires cleaning
 1. [Shrine of Azura](https://www.nexusmods.com/morrowind/mods/48278?)
 1. [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661?)
@@ -125,12 +123,12 @@
 1. [Quorn Resource Integration](https://www.nexusmods.com/morrowind/mods/43269?)
 	- Cleaning: ESP requires cleaning
 
+## Companions
+1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
+
 ## Player Homes
 1. [OAAB - Astral Pocket](https://www.nexusmods.com/morrowind/mods/49077)
 1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?)
-
-## Companions
-1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
 
 ## Quests
 1. [ABCs for Outlanders](https://www.nexusmods.com/morrowind/mods/46692?)
@@ -139,7 +137,6 @@
 	- Cleaning: ESP requires cleaning
 1. [Expedition to Mzelthuand](https://www.nexusmods.com/morrowind/mods/45229?)
 	- Download the Main File and the updated ESP
-	- Extract and drop the new ESP into the mod archive. Rezip and install as a single package
 1. [Immersive Madness](https://www.nexusmods.com/morrowind/mods/44983?)
 1. [Mage Robes](https://www.nexusmods.com/morrowind/mods/45739?)
 	- Enable the following BAIN options:
@@ -154,7 +151,9 @@
 1. [Scrolls of the Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831?)
 	- Enable the "00 Core" option
 1. [The Sanguine Rose](https://www.nexusmods.com/morrowind/mods/46214?)
-	- Enable the following BAIN options: 00 Core, 02 MWSE ME Patch
+	- Enable the following BAIN options: 
+		- 00 Core, 
+		- 02 MWSE ME Patch
 1. [Umbra Blademaster](https://www.nexusmods.com/morrowind/mods/43275?)
 
 

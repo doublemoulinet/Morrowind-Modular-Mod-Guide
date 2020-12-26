@@ -17,7 +17,8 @@
 ## Lighting
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?)
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?)
-	- Wrye Mash will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder
+	- **Wrye Mash users only**: WM will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder
+	- **MO2 users**: install normally
 1. [MGG Weather Darker Nights](https://www.nexusmods.com/morrowind/mods/47141?)
 	- Weather Adjuster preset 
 
@@ -41,7 +42,7 @@
 	- Enable both "00 Core" and "01 Default Dust"
 1. [Visually Filled Soul Gems](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- Unzip, select Visually Filled Soul Gems and install
+	- In MO2, set Visually Filled Soul Gems as your data directory and install
 1. [Visually Trapped Objects](https://www.nexusmods.com/morrowind/mods/48936)
 1. [Waterfall Tweaks](https://www.nexusmods.com/morrowind/mods/46271?)
 	
@@ -71,8 +72,10 @@
 	- Enable the following BAIN options:
 		- 02a Vanilla Textures 2x-4x Texture Size
 1. [Sotha Sil is a Dunmer](https://www.nexusmods.com/morrowind/mods/47839?)
-	- Archive is incorrectly packed: set "HD/Data Files"  as the data files directory (or "Vanilla/Data Files" if using vanilla textures)
+	- Archive is incorrectly packed: set "HD\Data Files"  as the data files directory (or "Vanilla\Data Files" if using vanilla textures)
 1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?)
+1. [Visually Diseased Creatures](https://mega.nz/file/bgI01bjb#LhkjcX4-PK8gCSJZ2OqfaX5dEkFrmvCTqkO3qFw2iHA)
+	- By Remiros and Necrolesian, adds some variety and a visual indicator for diseased creatures
 1. [Vivec Palace Water Replacer](https://www.nexusmods.com/morrowind/mods/48291?)
 	- Download "Vivec Palace Water Replacer" and enable the "00 Core" and "01 Original Color" options
 
@@ -97,7 +100,7 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 1. [Widescreen Splash Replacer](https://www.nexusmods.com/morrowind/mods/47163?)
 1. [Additional Splash Screens](https://www.nexusmods.com/morrowind/mods/43319?)
 1. [Widescreen Splash Additions](https://www.nexusmods.com/morrowind/mods/48001?)
-	- Archive is incorrectly packed: create a "splash" folder and place the .tga files inside. Repack and install.
+	- Archive is incorrectly packed: create a "splash" folder and place the .tga files inside
 
 
 **NEXT SECTION**:

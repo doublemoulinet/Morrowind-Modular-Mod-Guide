@@ -6,7 +6,6 @@ The following are all you need to play the game on modern systems. This section 
 1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?)
 
 ## MWSE Fixes
-
 1. [Easy Escort](https://github.com/NullCascade/morrowind-mods)
 1. [Expeditious Exit](https://github.com/NullCascade/morrowind-mods)
 1. [Immersive Run Fix](https://www.nexusmods.com/morrowind/mods/45947?)
@@ -32,12 +31,11 @@ The following are all you need to play the game on modern systems. This section 
 ## User Interface – Core
 1. [Better Daedric Font](https://www.nexusmods.com/morrowind/mods/44540?)
 	- Mod is incorrectly packaged: 
-		- Create a new folder and name it *Better Daedric Fonts*. Inside this folder, create a "Fonts" folder
-		- Unpack the mod archive to this fonts folder. You can delete the JPG screenshots
-		- Your folder structure should look like this: Better Daedric Font\Fonts\ (files). Zip and install normally
+		- Within MO2's installation interface, create a new folder and name it "Fonts"
+		- Place the **.fnt** and **.tex** files in this "Fonts" folder and install
 1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873?)
 1. [Fixed Journal Next Button](https://www.nexusmods.com/morrowind/mods/48097?)
-	- Install both the Main File and Optional File
+	- Install both the Main File and Optional File, and select "Merge" when prompted
 
 
 **NEXT SECTION**:

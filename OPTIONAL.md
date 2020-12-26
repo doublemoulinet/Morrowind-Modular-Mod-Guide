@@ -25,15 +25,15 @@ The landmass mods--**Tamriel Rebuilt** and its sister projects like **Skyrim: Ho
 		- 012 Remiros Groundcover for TOTSP
 	- Ensure only the following four plugins are enabled: 
 		- *Solstheim Tomb of the Snow Prince.esm*, 
-		- *TOTSP TD Content Integration.esp*
+		- *TOTSP TD Content Integration.esp* (only if you are also playing with Tamriel Rebuilt!)
 		- *TOTSP_Patch_for-Purists_4.0.2.esp*, 
 		- *VSW-Rem-Anthology Solstheim.esp*
-	- **Grass Plugins**: add the *VSW-Rem-Anthology Solstheim.esp* grass plugin to your "Grass Plugins" folder if you created one earlier
+	- **Grass Plugins**: create a "Grass Plugins" folder within the mod archive and place the *VSW-Rem-Anthology Solstheim.esp* grass plugin inside
 	- **Cleaning**: Snow Prince Armor Redux.esp, and TOTSP TD Content Integration.esp require cleaning
 1. [Rather Nice Factor's Estate](https://www.nexusmods.com/morrowind/mods/47933?)
 	- Enable both the "00 Core" and "01 Patch - Patch for Purists 4.0.X" options
 
-### Landmass Mod Compatibility
+## Landmass Mod Compatibility
 The following steps will ensure compatibility between the new landmass mods and your load order:
 1. Run the **Morrowind Code Patch (MCP)** again. Under the **Interface Changes** section, enable the "Map Expansion (for Tamriel Rebuilt)" option. 
 	- This will expand the map boundaries so that Solstheim and the Morrowind mainland will not be cut off on your in-game map.

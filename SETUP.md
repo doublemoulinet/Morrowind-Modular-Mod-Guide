@@ -1,25 +1,50 @@
 # Setup
 
 ## Index
-1. [Modding Basics](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#modding-basics)
-1. [Wrye Mash](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#wrye-mash)
-	1. [Mods Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#mods-tab)
-	1. [Installers Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#installers-tab)
-	1. [Additional Functions](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#additional-functions)
-	1. [Loose Files Backups](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#loose-files-backups)
+1. [Installation](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#installation)
 1. [Morrowind Code Patch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#morrowind-code-patch)
-1. [MGE XE](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#MGE-XE)
-	1. [Graphics Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#graphics-tab)
-	1. [Distant Land Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#distant-land-tab)
-	1. [In-game Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#in-game-tab)
-1. [Additional Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#additional-tools)
+1. [Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#tools)
 1. [Optional Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#optional-tools)
+1. [Mod Organizer 2](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#mod-organizer-2)
+	- [Configuration](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#configuration)
+	- [Tools Setup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#tools-setup)
+	- [Installing Mods](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#installing-mods)
+	- [Creating Separators](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#creating-separators)
+1. [MGE XE](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#MGE-XE)
+	- [Graphics Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#graphics-tab)
+	- [Distant Land Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#distant-land-tab)
+	- [In-game Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#in-game-tab)
 1. [Plugin Cleaning](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#plugin-cleaning)
+1. [Wrye Mash Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#wrye-mash-tools)
+	- [Cleaning Saves](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#cleaning-saves)
+	- [Updating Masters Lists](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#updating-masters-lists)
+	- [Registering BSAs](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#registering-bsas)
 
-## Modding Basics
-Install Morrowind to a root directory (ex. C:\Steam\steamapps\common\Morrowind) or (C:\Games\Morrowind). Do not install the game in Program Files. This guide assumes a fresh/clean installation (i.e. unmodified) of the English-language Morrowind.
+# Installation
+This guide assumes you will be using an English-language edition of Morrowind GOTY (either the GOG or Steam editions). This includes the base game and two main expansions, Tribunal and Bloodmoon.
 
-Some general tips:
+Install Morrowind and all modding tools to a root directory, outside the default Windows folders. For example: 
+- **For your Morrowind installation**: C:\Steam\steamapps\common\Morrowind or C:\Games\Morrowind
+- **For your Morrowind tools**: C:\Steam\steamapps\common\Morrowind Mods or C:\Games\Morrowind Mods
+
+Do not install the game in Program Files, Program Files (x86), or any other default Windows folder (ex. Desktop, Documents).
+
+## GOG Installation Cleanup
+*Note: this step applies only to users of the GOG edition of Morrowind GOTY.*
+
+The GOG edition of Morrowind GOTY bundles several unnecessary files. In addition to uncompressing the BSA archives (which contain all the game's meshes and textures), the GOG edition includes all of Bethesda's Official Plugins. These suck and you don't want to play with them. This guide assumes you will *not* be using the official plugins; play with them at your own peril!
+
+Delete the following files from your **Morrowind\Data Files** folder:
+- BookArt, Icons, Meshes, Textures folders
+- All .esp files 
+- All .txt files
+
+After this step, you should have only:
+- Folders: Fonts, Music, Sound, Splash, Video
+- BSAs: Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa
+- ESMs: Bloodmoon.esm, Morrowind.esm, Tribunal.esm
+
+## General Tips
 - Do not uninstall mods mid-playthrough. The only mods that can be safely uninstalled mid-game are esp-less texture/mesh replacers and *some* MWSE mods. Any mod with an ESP/ESM should not be removed from your mod order mid-playthrough (unless you know what you're doing)
 - Always read the mod description on the mod page
 - Remember to update MWSE! It's under active development and you should run the MWSE-Updater.exe frequently
@@ -27,56 +52,12 @@ Some general tips:
 
 After you have installed the game, run the Morrowind Launcher and boot to the main menu. This ensures the proper files are generated.
 
-## Wrye Mash
-1. Download and install the [latest x64 manual installation archive, under Main Files](https://www.nexusmods.com/morrowind/mods/45439?)
-1. Extract the contents to your Morrowind root foler (C:\...\Morrowind). Overwrite/merge if prompted
-1. In the Morrowind root folder (C:\...\Morrowind) create a new folder called "Mods" (this is where you will extract and keep all your mod packages)
-1. Run mash64.exe
-1. The application will prompt you to select the Morrowind root directory. It will also prompt you to select an Installers path: select the C:\...\Morrowind\Mods directory you created earlier
-1. You can ignore the mlox optional path for now
-
-Wrye Mash has now been successfully initialized. 
-
-### Mods Tab
-Plugins in the Morrowind\Data Files are listed in the "Mods" tab. The plugins need to be arranged in this order:
-- Morrowind.esm
-- Tribunal.esm
-- Bloodmoon.esm
-
-### Installers Tab
-To install a mod in Wrye Mash, place the mod package in the "Mods" folder you created in your Morrowind directory. Wrye Mash will detect it and upate its "Installers Tab." You can rearrange the order of your mod packages in the Installers Tab left pane. Finally, right click the package and select "install." Mash will display a plus icon to indicate that a mod has been successfully installed. 
-
-Familiarize yourself with the colour coding scheme! If you are unfamiliar with Mash, you can access the readme by clicking the question mark at the bottom of the Mash interface. Read sections 5 (Installers Tab), 6 (Mods Tabs), and 7 (Saves Tab) at a minimum.
-
-Pro tip: use markers to create helpful visual separators in your installers tab. In the menu bar: Actions->Add marker. Enter a name (Ex., "CORE" or "Patches" as per the headings and subheadings of this guide) and click OK. Drag and drop in the install order.
-
-### Additional Functions
-Wrye Mash has a few additional functions you should be aware of: cleaning saves and updating a plugin masters list:
-1. **Cleaning saves**: any time you change your load order (removing or updating a plugin) go to the "Saves" tab in WM. Select your save and click the right pane (which lists the plugins associated with the save). Mash will prompt you to edit/update the masters list. Click yes. Then click save at the bottom of the right pane.
-1. **Updating masters lists**: go to the "Mods" tab for your list of plugins. If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's. Select the plugin and click the right pane (which lists the masters associated with the plugin). Mash will prompt you to edit/update the masters list. Click yes. Then click save at the bottom of the right pane.
-1. **Registering BSAs**: the right pane of the Mods Tab has two tabs for "Mod Details" and "BSA Archives. Select the "BSA Archives" tabs and ensure each BSA archive has a check mark. This ensures the game will load the assets archived in these files. The three vanilla BSAs should already be registered. In this guide, two additional BSAs will need to be registered if you install the optional landmass mods in the **CONTENT** section.
-
-### Loose Files Backups
-Now that you're familiar with Wrye Mash's Installers Tab, it's time to test it out and install your first mod:
-
-Most of the game's files are packed in the game BSAs, but a few file types (fonts, splash screens, video) are installed loose. Since Wrye Mash doesn't use a virtual file system, installed mods that change these loose files will overwrite them, making uninstallation a pain. If you intend to tinker with your mod installations, it's recommended that you navigate to your game's */Data Files* and create a zip backup of the following folders:
-1. Fonts
-1. Splash
-1. the 3 videos from the /Videos folder:
-	- mw_intro.bik
-	- mw_logo.bik
-	- mw_menu.bik
-
-Drop this zip file in your mod directory (C:\...Morrowind\Mods) and install with your mod manager (in the Installers Tab) at the top of your installation order. This backup means you will automatically revert to vanilla loose files in the event you uninstall, for example, the **Better Fonts** mods at the end of this **CORE** section, or the **Intro Video** replacers in the **VISUALS** section.
-
-Note: If you're using Mod Organizer 2, this step is unnecessary (since MO2 doesn't alter files in the game folder).
-
-## Morrowind Code Patch
+# Morrowind Code Patch
 The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It is an essential utility. The MCP must be installed manually. Do not place this in your Wrye Mash "Mods" directory. 
 1. Download the Morrowind Code Patch main file from [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510?)
 1. Extract to your Morrowind root directory (C:\...\Morrowind). Do not extract it to Morrowind\Data Files.
 1. Download the MCP Beta from [MCP Skunk Works](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
-1. Extract the contents to your Morrowind root diectory, and overwrite when prompted
+1. Extract the contents to your Morrowind root directory, and overwrite when prompted
 1. Run Morrowind Code Patch.exe and enable the following options:
 	- **Beta**: every option EXCEPT *"Doppler audio fix"*
 	- **Game Mechanics**: every option EXCEPT *"Allow Gloves with Bracers"*
@@ -86,20 +67,170 @@ The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It 
 	- **Bug Fixes**: ensure EVERY option is enabled
 1. Click the big "Apply chosen patches" button
 
-## MGE XE
-The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its other changes, it also supports and comes packaged with the MWSE 2.1 beta, the lua-based script extender. It works out of the box. Like the Morrowind Code Patch, MGE XE must be installed manually.
-1. Download the latest version of [MGE XE](https://www.nexusmods.com/morrowind/mods/41102?)
-1. Extract the contents to your Morrowind root directory (not "Data Files"). If you have unpacked correctly, the MGEXEGui.exe should be in the same folder as the Morrowind.exe
-1. Right-click the MWSE-Update.exe and select **Run as Administrator**. (You may want to add this executable to your anti-virus whitelilst.) Allow the update process to take place. The command-line window will automatically close when this process is done. 
+# Tools
+These modding tools will be used for several key steps in this guide: mod cleaning, merged patch creation, and plugin editing/fixing. These are required.
 
-Next, download the following MGE XE shaders. You can install these manually or using Wrye Mash's Installers Tab, as in the preceding "loose files backups" steps. If installing manually (not recommended), extract them to your Morrowind *Data Files* folder:
-1. [MGE XE Land Bias Fix](https://mega.nz/file/ft5hUJ5L#-5Y533Rtwy2uX5moycm4pQjEDXClyFGl78XMDvfVzME) small tweak to the distant land height bias to reduce clipping/seams
+### [tes3cmd](https://github.com/john-moonsugar/tes3cmd/releases)
+This powerful command-line tool cleans mods and will be used to build a multipatch at the end of the mod guide.
+1. Download the latest tes3cmd release and extract the tes3cmd.exe your **Morrowind\Data Files** folder. Do not install tes3cmd to the root directory
+1. Inside **Morrowind\Data Files** create another .txt file and [copy the batch file multipatch text](http://wiki.theassimilationlab.com/mmw/TES3cmd#Using_a_batch_file_to_create_a_multipatch_plugin)
+	1. Rename the .txt file to tes3cmd_multipatch.bat. Make sure to change the filetype extension from .txt to .bat
+
+### [TES3Merge](https://www.nexusmods.com/morrowind/mods/46870?tab=files)
+This tool will automatically patch mod conflicts by generating a merged patch. This patch will be used in conjunction with tes3cmd's multipatch. 
+1. Extract the contents to **...\Morrowind Mods\Tools\TES3Merge**
+
+###  [TES3View](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
+This experimental tool is an advanced GUI conflict viewer similar to xEdit for later TES/Bethesda games. It has more limited functionality than the latter but still provides excellent GUI for plugin conflicts. 
+
+Download the xEdit 4.1.3a experimental build on MediaFire (courtesy of Sigourn). This download has already renamed the folder and .exe to TES3View in order to enable the tool to work in Morrowind
+1. Extract the folder to **...\Morrowind Mods\Tools\TES3Merge**
+
+### [TESTool](https://en.uesp.net/wiki/Tes3Mod:TESTool)
+TESTool is a mod repair and management tool. You will use it to clean your plugins.
+1. Extract the contents to **...\Morrowind Mods\Tools\TESTool**
+
+### [TESAME](http://mw.modhistory.com/download-95-5289)
+TESAME is a useful mod editing program that we will use to delete bad and unwanted references within a plugin.
+1. Extract the folder to **...\Morrowind Mods\Tools\TESAME**
+
+### [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?)
+This powerful tool will be used primarily to clean and repair plugins, clean and repair game saves, enable mod-added BSA archives, and update plugin masters.
+1. Download and install the latest x64 manual installation archive, under Main Files
+1. Extract the contents to your Morrowind root foler (C:\...\Morrowind). Overwrite/merge if prompted
+1. Run mash64.exe
+	- The application will prompt you to select the Morrowind root directory. It will also prompt you to select an Installers path: select the C:\...\Morrowind\Mods directory you created earlier
+	- **Morrowind directory**: select your Morrowind root folder (**C:\...\Morrowind**)
+	- **Mods Installers directory**: you can direct the filepath to (**C:\...\Morrowind\Mopy\Mods**) or anywhere else; this guide will not use Wrye Mash's Mods Installers functionality
+	- **Mlox directory**: You can ignore the mlox optional path for now
+1. Continue through the prompts and conclude the initialization process when prompted
+
+# Optional Tools
+Tools that are not used in this guide. While not strictly needed, if you plan to experiment with your installation and try mods not included in the guide, you may find need of these tools. Otherwise, you may skip this section!
+
+### [Mlox](https://github.com/mlox/mlox/releases/)
+Optional. A plugin load order sorter. Mlox will not be used in this guide (plugin order will be adjusted manually in the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section of the guide. If you add your own mods, you may want to check your load order with Mlox.
+1. Extract the mlox.exe to your Morrowind root directory (...\Morrowind\mlox.exe).
+
+### [Official Construction Set](https://www.nexusmods.com/morrowind/mods/42196?tab=files)
+The official Bethesda The Elder Scrolls Construction Set, patched and fixed to work with the Steam and GOG version of Morrowind. While not technically needed for this guide, a useful resource if you want to directly edit a plugin and necessary to create your own mods and merges.
+1. Unpack the files to the Morrowind root directory (...\Morrowind\Tes Construction Set.exe)
+
+# Mod Organizer 2
+As described earlier, this powerful tool will manage your mod installation, mod downloads, and modding tools. Here, you will download and configure the mod organizer as a portable instance to manage your Morrowind installation.
+
+### [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
+1. Download the Main File: **Mod Organizer 2 (Archive)**
+1. Extract to **...\Morrowind Mods\Tools\MO2**
+1. Run ModOrganizer.exe
+	- You will be prompted to **Choose Instance**. Select **Portable**
+	- You will be prompted to **select the game to manage**. Select **Morrowind**.
+1. Mod Organizer 2 will launch, and prompt you to follow a brief tutorial. You can skip this if you are familiar with the interface
+1. You will be prompted to associate MO2 with nxm links. Select **Yes**
+
+## Configuration
+Installed mods are listed on the left pane; this is your **installation order**. Morrowind loads assets in descending order, meaning mods closer to the bottom of the list will overwrite those at the top in the event of a conflict. On the left pane, ensure the list is as follows:
+1. DLC: Tribunal
+1. DLC: Bloodmoon
+
+Plugins are listed on the right pane; this is your **load order**. Morrowind loads plugins in descending order, meaning plugins closer to the bottom of the list will overwrite those at the top in the event of a conflict. On the right pane, ensure the list is as follows:
+1. Morrowind.esm
+1. Tribunal.esm
+1. Bloodmoon.esm
+
+Now that MO2 has been successfully installed, follow these steps to configure your MO2 profile:
+
+- Click on the ID card icon along the top menubar to open the **Profiles** menu
+- Tick **Use profile-specific Save Game files** and **Use profile-specific INI files**. Ensure that Automatic Archive Invalidation is **NOT** enabled
+- Select the **Default** profile, and select **Rename**. In the text box, rename this profile to **Vanilla** and click OK
+- With the **Vanilla** profile highlighted, select **Copy** and when prompted, title this new profile **Modular** or whichever profile name you like. Click **OK** and close the profile window.
+
+On the **Profile** drop-down menu below the top menubar, be sure to select **Modular** or whatever you've named your modded installation profile. This is the profile you will be modding, and ensures you can easily revert to the Vanilla profile to deactivate all your mods.
+
+## Tools Setup
+Tools require additional setup to work with Mod Organizer's virtual file system. After this initial setup, the executables must be run from within Mod Organizer 2 in order to hook into MO2's VFS.
+
+Follow and repeat these steps for **TES3Merge**, **TES3View**, **TESTool**, and **TESAME**:
+1. Open the **Executables** menu (the gear icon)
+1. In the **Modify Executables** menu, click **Add an executable** (blue plus icon) and choose **Add from file...**
+1. Navigate to the location of the relevant tool (see the [Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#tools) section just above) and select its executable file (.exe)
+1. In the **Start In** field, search for and choose the location of your Morrowind root folder (ex., C:\Games\Morrowind)
+1. Click **Apply** and then **OK**
+
+Follow these steps for **Tes3cmd**:
+1. Open the **Executables** menu (the gear icon)
+1. In the **Modify Executables** menu, click **Add an executable** (the blue plus iccon) and choose **Add from file...**
+1. Navigate to the location of your command line executable (ex., C:\Windows\System32\cmd.exe) and choose it
+1. In **Start In**, search for and choose the location of your Morrowind **Data Files** folder (ex., C:\Morrowind\Data Files)
+
+Follow these steps for **Wrye Mash**:
+1. Open the **Executables** menu (the gear icon)
+1. In the **Modify Executables** menu, click **Add an executable** (the blue plus iccon) and choose **Add from file...**
+1. Navigate to the location of your mash64.exe (ex., C:\Games\Morrowind\Mopy\mash64.exe) and choose it
+1. Click **Apply** and then **OK**
+
+## Mod Installation
+MO2 will not only organize our installation and plugin order but will also handle downloading and installing mods as well.
+
+In the initial setup for MO2 you should have clicked "yes" when prompted to associate MO2 with NXM (nexusmods) download links. If not, or for whatever reason this setting is reverted, navigate to **Settings** (the wrench and screwdriver icon) and click the **Nexus** tab. Click the **Associate with "download with mangager" links**.
+
+Mods can be downloaded and installed one of two ways:
+- **Mod Manager Download**: the preferred option when downloading mods from Nexusmods; click the button of the same name when downloading from the website.
+	- On the right pane of MO2, select the **downloads** pane
+	- Double click on your downloaded archive
+	- The "quick install" popup will prompt you to enter the mod name (you can use your scrollwheel to choose from the autogenerated file names)
+	- Click **OK**
+- **Manual Download**: for mods not from the nexus, or which do not offer a manager download link. 
+	- Click on the **Install Mod** menubar icon (to the left of the **Visit Nexus** globe icon)
+	- Select the downloaded mod archive you want to install
+	- MO2 will prompt you to enter a name for the mod (you can use your scrollwheel to choose from the autogenerated file names)
+	- Click **OK**
+
+Sometimes, mods are incorrectly packaged, and "quick install" will not work. Where indicated in the guide, you will be required to manually set the data files directory within MO2's installation popup.
+
+## Creating Separators
+Separators are a convenient visual tool to organize your installation order in the left pane. It is strongly recommended that you create separators for each module of the guide, as well as for the subsections in each.
+
+We will create our first separator for the upcoming **MGE XE** section:
+- Click the mini-wrench-and-screwdriver icon to the right of the **Profile** dropdown menu
+- In the dropdown menu, click **Create separator**
+- Name it **MGE XE** and click OK
+
+MO2 will automatically place your new separator at the very bottom of your load order. You can then drag and drop this separator in the left pane as you see fit. In this case, ensure that the separator comes after the two expansions, like so:
+1. DLC: Tribunal
+1. DLC: Boodmoon
+1. **MGE XE**
+
+It is recommended that you create separators for each module of the guide (for example, **CORE**, **VISUALS**, **CONTENT** and so on) as well as for each subsection within a module (for example, **Patches**, **Fixes**, **User Interface** and so on). Right-clicking on a separator and choosing "Select Color" from the dropdown menu allows you to choose a colour for your headings. I recommend coloured module separators and default separators for the subsections.
+
+# MGE XE
+The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its other changes, it also supports and comes packaged with the MWSE 2.1 beta, the lua-based script extender. It works out of the box. Like the Morrowind Code Patch, MGE XE must be installed manually.
+
+### [MGE XE](https://www.nexusmods.com/morrowind/mods/41102?)
+1. Download the **MGE XE Manual Install** Main File
+1. Extract all the contents **except "Data Files"** to your Morrowind root directory
+	- If you have unpacked correctly, the MGEXEGui.exe should be in the same folder as the Morrowind.exe
+1. Within your root directory, right-click the **MWSE-Update.exe** and select **Run as Administrator**
+	- (You may need to add this executable to your anti-virus whitelist) 
+	- Allow the update process to take place. The command-line window will automatically close when this process is done
+1. In the MGE XE mod archive, zip the remaining folders in **Data Files** (**meshes**, **shaders** and **textures**) and name this archive **MGE XE - Data Files**
+1. Install this file in MO2
+
+## Shaders
+Next, download the following MGE XE shaders. Install these with MO2:
+1. [MGE XE Land Bias Fix](https://mega.nz/file/ft5hUJ5L#-5Y533Rtwy2uX5moycm4pQjEDXClyFGl78XMDvfVzME) a small tweak to the distant land height bias to reduce clipping/seams
 1. [MGE XE Shader - deband_fogaware](https://mega.nz/file/W8x3RTCK#w94LPJSeym5h82KUOg8SbkIoS8M7E-9Xm2Lar0gjqXw) an improved fog shader
 1. [MGE XE Shader - EdgeAA](https://mega.nz/file/HwxVXbQY#eSxnVWTbC165OC1EyC-P9IahvH05We88pyba-fy2ePI) improved anti-aliasing, to be used with MGE XE's AA settings
 
+## Launching MGE XE
+Once the shaders have been installed, launch MGE XE through Mod Organizer:
+1. Launch Mod Organizer 2
+1. From the dropdown menu on the right pane (to the left of the big "Run" button) select **MGE XE**
+1. Click **Run** to run the executable
+
 MGE XE consists of five tabs with configurable options: Graphics, Distant Land, In-Game, Config, and Instructions. There are a number of MGE XE options to enable now:
 
-### Graphics Tab
+## Graphics Tab
 The features in this section are mostly self-explanatory. Select your display resoultion, set AA and AF (check the Config tab to report the max AA/AF your hardware supports). Enable borderless fullscreen windowed mode. Enable Vsync only if not already enabled through your GPU hardware options (if using an Nvidia card, this is enabled through the Nvidia Control Panel). 
 
 Shaders requires some setup:
@@ -116,7 +247,7 @@ Shaders requires some setup:
 	
 You will need to run MGE XE at the end of your mod installation to regenerate distant land and enable mod-specific shaders.
 
-### Distant Land Tab
+## Distant Land Tab
 Distant Land does what it says. My personal settings ensure a low performance impact and cleave to the original foggy aesthetic. 
 
 The **Distant land generator wizard** lets you select which plugins MGE XE will use when generating distant land. I recommend selecting **Use current load order**. When you click **Continue** a prompt will offer you three options to generate distant land:
@@ -144,7 +275,7 @@ Other Distant Land settings:
 
 You will need to run MGE XE at the end of your mod installation to regenerate distant land and enable mod-specific shaders.
 
-### In-game Tab
+## In-game Tab
 Enable the following options:
 - Skip opening movie
 - Crosshair autohide
@@ -156,62 +287,12 @@ Under Morrowind engine settings, enable the following:
 - Thread loading
 - Hit fader
 
-## Additional Tools
-These modding tools will be used for several key steps in this guide: mod cleaning, merged patch creation, and plugin editing/fixing. These are required.
-
-### tes3cmd
-This powerful command-line tool cleans mods and will be used to build a multipatch at the end of the mod guide.
-1. Download the latest [tes3cmd release](https://github.com/john-moonsugar/tes3cmd/releases) and extract the tes3cmd.exe your **Morrowind\Data Files** folder. Do not install tes3cmd to the root directory
-1. Inside **Morrowind\Data Files** create a .txt file and [copy the batch file cleaning text](http://wiki.theassimilationlab.com/mmw/TES3cmd#Using_a_batch_file_to_clean_plugins)
-1. Rename the .txt file to tes3cmd_clean.bat. Make sure to change the filetype extension from .txt to .bat
-1. Inside **Morrowind\Data Files** create another .txt file and [copy the batch file multipatch text](http://wiki.theassimilationlab.com/mmw/TES3cmd#Using_a_batch_file_to_create_a_multipatch_plugin)
-1. Rename the .txt file to tes3cmd_multipatch.bat. Make sure to change the filetype extension from .txt to .bat
-
-### TES3Merge
-This tool will automatically patch mod conflicts by generating a merged patch. This patch will be used in conjunction with tes3cmd's multipatch. 
-1. Download [TES3Merge](https://www.nexusmods.com/morrowind/mods/46870?tab=files)
-1. Extract the contents to your Morrowind root directory in a new folder called "TES3Merge"
-
-###  TES3View
-This experimental tool is an advanced GUI conflict viewer similar to xEdit for later TES/Bethesda games. It has more limited functionality than the latter but still provides excellent GUI for plugin conflicts.
-1. Download the [xEdit 4.1.3a experimental build](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file) on MediaFire (courtesy of Sigourn). This download has already renamed the folder and .exe to TES3View in order to enable the tool to work in Morrowind
-1. Extract the folder to the Morrowind root directory (...Morrowind\TES3View\TES3View.exe)
-
-Familiarize yourself with TES3View. Like other xEdit iterations, it is a powerful tool to track conflicts in your plugin order. 
-
-### TESTool
-TESTool is a mod repair and management tool. You will use it to clean your plugins.
-1. [Download TESTool](https://en.uesp.net/wiki/Tes3Mod:TESTool) and extract the executable and files to your root directory (Morrowind\TESTool.exe).
-
-### TESAME
-TESAME is a useful mod editing program that we will use to delete bad and unwanted references within a plugin.
-1. [Download TESAME](http://mw.modhistory.com/download-95-5289) and extract the contents to your Morrowind root folder in a new folder called "TESAME"
-
-## Optional Tools
-Tools that are not used in this guide. While not strictly needed, if you plan to experiment with your installation and try mods not included in the guide, you may find need of these tools.
-
-### Mlox
-Optional. A plugin load order sorter. Mlox will not be used in this guide (plugin order will be adjusted manually in the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section of the guide. If you add your own mods, you may want to check your load order with Mlox.
-1. Download the latest version of [mlox from github](https://github.com/mlox/mlox/releases/). Review the [github page](https://github.com/mlox/mlox) for more information on its use
-1. Extract the mlox.exe to your Morrowind root directory (Morrowind\mlox.exe).
-You can add mlox to your list of executables in Wrye Mash by clicking the gear icon at the bottom bar. In the "Wrye Mash Settings" popup navigate to the "Paths" tab and add the Mlox.exe filepath.
-
-### Official Construction Set
-The official Bethesda The Elder Scrolls Construction Set, patched and fixed to work with the Steam, GOG, or Bethesda.net version of Morrowind. While not technically needed for this guide, a useful resource if you want to directly edit a plugin and necessary to create your own mods and merges.
-1. Download the [TES Construction Set](https://www.nexusmods.com/morrowind/mods/42196?tab=files)
-1. Unpack the files to the Morrowind root directory (Morrowind\Tes Constructoin Set.exe)
-
-### MWedit
-An experimental alternative to the Construction Set. You can easily use MWedit to create merged plugins of certain mods (item/weapon replacers, for example) in order to reduce plugin count.
-1. Download [MWedit](http://wiki.theassimilationlab.com/mmw/MWEdit)
-1. Extract the folder to the Morrowind root directory (Morrowind\MWedit\Mwedit.exe)
-
-## Plugin Cleaning
+# Plugin Cleaning
 As you follow the modlist, certain mods are flagged to "require cleaning." ESPs sometimes contain dirty references and your job is to squash these bugs. You will use two tools for this: TESTool and Wrye Mash's integrated tes3cmd cleaning file.
 
-### TESTool
+## TESTool
 The first step is to use TESTool to clean your plugins.
-1. Launch Testool
+1. Launch Testool through MO2 (select the executable from the dropdown list in the right pane)
 1. A window will prompt you if you want to use your Morrowind root foler instead of registry settings. Click **Yes**
 1. Select **Options** and enable: 
 	- Don't change plugin filenames
@@ -220,19 +301,34 @@ The first step is to use TESTool to clean your plugins.
 1. Select **Clean ESP/ESM Files** and click **Execute**
 1. Select the relevant plugin that requires cleaning (or, alternately select ALL .esm/.esp files and check the log after for a list of cleaned plugins)
 
-### tes3cmd cleaning
-Tes3cmd catches errors that TESTool misses, and vice versa. 
-
-**Easy method**: Tes3cmd can be accessed through Wrye Mash's **Mods Tabs** by right-clicking the plugin and selecting: *clean with tes3cmd*. It's as easy as that. Move on to the next step: **Installing cleaned plugins**
-
-**Manual method**: If for some reason Wrye Mash's integrated tes3cmd isn't working, or you are a masochist, you can use the tes3cmd_clean.bat you created earlier. To use the tes3cmd_clean.bat you need to drag and drop the .esp file onto the .bat and allow tes3cmd processes to run. To expedite this process, I recommend creating a desktop shortcut of the tes3cmd_clean.bat and drag/drop ESP/ESM files this way.
-
-Each time you drop a plugin on the .bat file, a -cleaned.log file will generate. These can safely be deleted after you are done cleaning all your plugins.
+## tes3cmd cleaning
+Tes3cmd catches errors that TESTool misses, and vice versa. This is a necessary step--do not skip tes3cmd cleaning!
+1. Run **Wrye Mash** through MO2 (select the mash executable from the dropdown menu in the right pane)
+1. Within Wrye Mash, navigate to the **Mods** Tab
+1. Right-click on the relevant plugin in the lsit and choose **clean with tes3cmd**
+1. The popup window will display a progress bar and print whether the mod was cleaned, or unaltered
+1. Click **OK**
 	
-### Installing cleaned plugins
-Once you have cleaned your plugin, create a new folder "[Mod name] - Cleaned ESP" and drop the cleaned plugin into this folder. Repeat for all cleaned plugins. This is so that you don't overwrite the cleaned plugin with the dirty one if you accidentally reinstall the mod.
+Mod Organizer 2 automatically updates your installed mod archives with your cleaned plugins. That's all!
 
-Drop the new "[Mod name] - Cleaned ESP" folders into your Mods directory. In Wrye Mash drag these new projects below the original mod packages in your Installers tab. You can then disable the plugin file in the original mod package by deselecting it in the "Esp/m filter" right pane, and then **refreshing** or **annealling** your Installers Tab to ensure these changes are registered.
+# Wrye Mash Tools
+Wrye Mash has a few additional functions you should be aware of: cleaning saves and updating a plugin masters list.
+
+## Cleaning Saves
+Any time you change your load order (removing or updating a plugin) go to the **Saves** tab in Wrye Mash:
+- Select your save and click the right pane (which lists the plugins associated with the save).
+- Mash will prompt you to edit/update the masters list. Click **yes**. 
+- Then click **save** at the bottom of the right pane.
+
+## Updating Masters Lists 
+Go to the **Mods** tab for your list of plugins. If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's. Follow these steps:
+- Select the plugin and click the right pane (which lists the masters associated with the plugin). 
+- Mash will prompt you to edit/update the masters list. Click **yes**. 
+- Then click **save** at the bottom of the right pane.
+
+## Registering BSAs 
+The right pane of the Mods Tab has two tabs for "Mod Details" and "BSA Archives. Select the "BSA Archives" tabs and ensure each BSA archive has a check mark. This ensures the game will load the assets archived in these files. The three vanilla BSAs should already be registered. In this guide, two additional BSAs will need to be registered if you install the optional landmass mods in the **CONTENT** section.
+
 
 **NEXT SECTION**:
 [**Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md)
