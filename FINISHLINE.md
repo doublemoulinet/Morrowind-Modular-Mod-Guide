@@ -13,6 +13,10 @@ Congraulations! You're nearly there. This last section details a few quick steps
 1. [Distant Land](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#distant-land)
 1. [Shaders](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#shaders)
 1. [In-game Settings](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#in-game-settings)
+	1. [MCM Settings](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#mcm-settings)
+	1. [Menu Options](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#menu-options)
+	1. [Mod Keybinds](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#mod-keybinds)
+
 
 # Cleaning
 If you followed the cleaning advice as you installed each mod then you have already completed this section. Otherwise, run TESTool according to the instructions in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md), and then the "clean with tes3cmd" utility in Wrye Mash for individual plugins. 
@@ -102,31 +106,11 @@ Remember to set up the mod-added shaders and enable them in the MGE XE shader to
 Add them to the bottom of the list of active shaders in MGE XE.
 
 # In-game Settings
-
-## Menu Options
-In the in-game menu Options set the following:
-
-**Prefs**
-- Set difficulty to 0 (Dynamic Difficulty will handle scaling to keep things interesting--unless you want to punish yourself and play at 100 difficulty)
-- Set **AI Distance** to the furthest left on the slider (decreasing the value improves performance but may break AI commands. I play with the AI slider set to the furthest left--this saves about 5-10 FPS in areas with lots of NPCs)
-- Autosave when rest=OFF
-- Always Use Best Attack=OFF (controversial opinion, but the direction-based attack types can be a pain--experiment and make up your own mind)
-- Subtitles=ON
-
-**Controls**
-- Use = mouse1
-- activate=e
-- Ready weapon=r
-- Ready magic=f
-- Jump=spacebar
-
-**Video**
-- Set **Real-time shadows** to the middle of the slider (this is less for performance reasons than to reduce the incidence of buggy shadows through walls, etc.)
-
-# MCM Settings
 The final step. Launch the game and enter the **Mod Configuration Menu** in the main menu. Some settings may require you to re-launch the game to take effect.
 
 Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new game because settings are stored in .json config files in the MWSE folder in the root directory. You only need to make these settings changes once per installation.
+
+## MCM Settings
 
 - **Abot's Loading Door**
 	- Lock door with shift + activate = yes
@@ -207,7 +191,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - **Magicka Based Skill Progression**
 	- Skill Experience per Magicka: **0.05** (the default value is too high)
 - **Magicka Regen**
-	- Set the player value to 70%
+	- Set the player value to 50%
 	- Enable Magicka Decay: On
 - **Miscast Enhanced**
 	- Ensure "Debug Mode" is disabled
@@ -242,6 +226,37 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 	- Use verbose buttons instead of icons for inventory filtering? = No
 - **Weapon Sheathing**
 	- Show unreadied shields on back = Yes!
+
+## Menu Options
+In the in-game menu Options set the following:
+
+**Prefs**
+- Set difficulty to 0 (Dynamic Difficulty will handle scaling to keep things interesting--unless you want to punish yourself and play at 100 difficulty)
+- Set **AI Distance** to the furthest left on the slider (decreasing the value improves performance but may break AI commands. I play with the AI slider set to the furthest left--this saves about 5-10 FPS in areas with lots of NPCs)
+- Autosave when rest=OFF
+- Always Use Best Attack=OFF (controversial opinion, but the direction-based attack types can be a pain--experiment and make up your own mind)
+- Subtitles=ON
+
+**Controls**
+- Use = mouse1
+- activate=e
+- Ready weapon=r
+- Ready magic=f
+- Jump=spacebar
+
+**Video**
+- Set **Real-time shadows** to the middle of the slider (this is less for performance reasons than to reduce the incidence of buggy shadows through walls, etc.)
+
+## Mod Keybinds
+The following lists the keybinds set by the mods used in this guide:
+- **C** - toggle equippable light source (from Torch Hotkey)
+- **K** - order companions to attack the target (from Kill Command)
+- **L** - modders' tool, you won't need this (from Let There Be Darkness)
+- **O** and **P** - toggle equip lockpicks, probes (from Security Enhanced)
+- **Spacebar** and **left-ctrl** - z-axis movement when levitating or swimming (from Better Buoyancy)
+
+Within the journal quest menu:
+- **Shift** - hold and click quest names to highlight, hide, or unhide from the journal (from Better Questlist)
 
 # The End
 Hey, congratulations. You've made it to the end of the guide. Email Virgil if you have any questions or complaints. Enjoy the game!
