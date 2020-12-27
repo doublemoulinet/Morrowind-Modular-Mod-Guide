@@ -250,6 +250,7 @@ In the in-game menu Options set the following:
 ## Mod Keybinds
 The following lists the keybinds set by the mods used in this guide:
 - **C** - toggle equippable light source (from Torch Hotkey)
+- **G** - precision object placement (from Perfect Placement)
 - **K** - order companions to attack the target (from Kill Command)
 - **L** - modders' tool, you won't need this (from Let There Be Darkness)
 - **O** and **P** - toggle equip lockpicks, probes (from Security Enhanced)

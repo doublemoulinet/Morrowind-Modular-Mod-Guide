@@ -21,8 +21,10 @@
 1. [Randomised Chargen](https://www.nexusmods.com/morrowind/mods/46915?)
 1. [Right Click Menu Exit](https://www.nexusmods.com/morrowind/mods/48458?)
 1. [Shrine Tooltips](https://www.nexusmods.com/morrowind/mods/48275?)
+1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?)
 1. [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492?)
 1. [Smart Map](https://www.nexusmods.com/morrowind/mods/46634?)
+1. [MWSE AbotLib](https://www.nexusmods.com/morrowind/mods/47717?)
 1. [Tooltips Complete](https://www.nexusmods.com/morrowind/mods/46842?)
 1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?)
 1. [User Interface Expansion](https://github.com/NullCascade/morrowind-mods)
@@ -50,6 +52,13 @@
 	- Download and install the “MWSE” Main File
 1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?)
 	- Install *only* the “04 Weapon Sheathing Patch” BAIN option
+
+## Skill Tweaks
+1. [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
+1. [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528?)
+1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
+1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?)
+1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
 
 ## Gameplay Tweaks
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?)
@@ -93,14 +102,12 @@
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?)
 1. [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735?)
-1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?)
 1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)
 	- Download the zip of all NullCascade’s Morrowind mods
 	- In MO2, set Smarter Soultrap as your data directory and install
 1. [Switchable Scriptures](https://www.nexusmods.com/morrowind/mods/46680?)
 	- Install  the "00 Core" and "01 Icons" options
 1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?)
-1. [MWSE AbotLib](https://www.nexusmods.com/morrowind/mods/47717?)
 
 
 **NEXT SECTION**:

@@ -6,6 +6,7 @@ Updated the mod management and installation instructions to use Mod Organizer 2,
 
 **Updated**
 - updated SETUP: switched installation/mod management instructions from Wrye Mash (Polemos Fork) to Mod Organizer 2
+- moved **Skill Tweaks** subsection from **GAMEPLAY** to **CORE - EXPANDED**
 
 # 2020-12-20
 - added: CONTENT: [OAAB - Astral Pocket](https://www.nexusmods.com/morrowind/mods/49077)
