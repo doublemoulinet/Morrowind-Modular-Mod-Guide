@@ -43,6 +43,7 @@
 1. [Project Atlas - Glow in the Dahrk Patch](https://www.nexusmods.com/morrowind/mods/45399?)
 	- Download the main file install *only* the following BAIN option:
 		- 10 Glow in the Dahrk Patch - Interior Sunrays
+	- Rename the mod to "Project Atlas - GitD Patch". Click OK.
 1. [Graphic Herbalism MWSE](https://www.nexusmods.com/morrowind/mods/46599?)
 	- Download and install the Main File
 	- Enable the following BAIN options:
@@ -52,6 +53,7 @@
 	- Download and install the “MWSE” Main File
 1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?)
 	- Install *only* the “04 Weapon Sheathing Patch” BAIN option
+	- Rename the mod to "MOP - Weapon Sheathing Patch". Click OK.
 
 ## Skill Tweaks
 1. [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
