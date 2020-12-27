@@ -106,148 +106,149 @@ Remember to set up the mod-added shaders and enable them in the MGE XE shader to
 Add them to the bottom of the list of active shaders in MGE XE.
 
 # In-game Settings
-The final step. Launch the game and enter the **Mod Configuration Menu** in the main menu. Some settings may require you to re-launch the game to take effect.
+The final step. Nearly there...
+
+## MCM Settings
+Launch the game and enter the **Mod Configuration Menu** in the main menu. Some settings may require you to re-launch the game to take effect.
 
 Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new game because settings are stored in .json config files in the MWSE folder in the root directory. You only need to make these settings changes once per installation.
 
-## MCM Settings
-
-- **Abot's Loading Door**
-	- Lock door with shift + activate = yes
-- **Abot’s Smart Journal**
-	- Add a prefix in order to group quest name? = 0
-	- Sort quest list by name? = No
-	- Add quest id to quest hint? = No
-	- Add source mod name to quest hint = No
-	- Add source mod author… = No
-	- Open first URL… = No
-- **Abot's Smart Merchants**
-	- Enable **Harder Barter like merchants buying prices reduction**: 2. Medium
-- **Accidental Theft Protection**
-	- Blacklist: select the "Books" filter and click "filter all" in the right pane (this will allow you to read owned books without toggling sneak first).
-		- You may also want to blacklist "Doors" if you haven't installed Ownership Overhaul
-- **AURA**
-	- General Tab
-		- No: Enable UI Module
-		- No: Enable Containers Module
-		- No: Enable PC Module
-	- Service Voices Tab
-		- No: Enable voice comments on spells vendor service
-- **Book Pickup**
-	- On by default? = No (use shift + e to pickup books without reading them)
-- **Clock Block**
-	- Clock position=Bottom
-	- Clock type = Game time
-- **Continue**
-	- Hide Credits Button = Yes
-	- Hide New Game Button (In Game) = Yes
+### **Abot's Loading Door**
+- Lock door with shift + activate = yes
+### **Abot’s Smart Journal**
+- Add a prefix in order to group quest name? = 0
+- Sort quest list by name? = No
+- Add quest id to quest hint? = No
+- Add source mod name to quest hint = No
+- Add source mod author… = No
+- Open first URL… = No
+### **Abot's Smart Merchants**
+- Enable **Harder Barter like merchants buying prices reduction**: 2. Medium
+### **Accidental Theft Protection**
+- Blacklist: select the "Books" filter and click "filter all" in the right pane (this will allow you to read owned books without toggling sneak first).
+	- You may also want to blacklist "Doors" if you haven't installed Ownership Overhaul
+### **AURA**
+- General Tab
+	- No: Enable UI Module
+	- No: Enable Containers Module
+	- No: Enable PC Module
+- Service Voices Tab
+	- No: Enable voice comments on spells vendor service
+### **Book Pickup**
+- On by default? = No (use shift + e to pickup books without reading them)
+### **Clock Block**
+- Clock position=Bottom
+- Clock type = Game time
+### **Continue**
+- Hide Credits Button = Yes
+- Hide New Game Button (In Game) = Yes
 - **Graphic Herbalism**
-	- Whitelist: 
-		- ab_r_kwamaeggblighted
-		- abtv_o_kweggblightedmm
-	- Blacklist:
-		- _in_lib_scrolls*
-		- ab_r_kwamstorager
-- **Illegal Summoning**
-	- NPC Crime Trigger Distance = 2000
-- **Let There Be Darkness**
-	- In the General and Cell Settings tab, set Cell Lighting Value Overrides to TLAD
-	- Leave the remaining settings at their defaults
-- **Less Aggressive Creatures**
-	- Peaceful Chance: I recommend a value between 50-80% 
-	- Peaceful Creatures Whitelist: 
-		```
-		alit, 
-		alit_diseased, 
-		bm_horker, guar, 
-		guar_feral, 
-		h11_kwama_forager_dis, 
-		h11_kwama_warrior_dis, 
-		h11_netch_betty_dis, 
-		h11_netch_bull_dis, 
-		h11_rat_rust, 
-		h11_slaughterfish_dis, 
-		kagouti, 
-		kagouti_diseased, 
-		kwama forager, 
-		kwama worker, 
-		kwama worker diseased, 
-		mudcrab, 
-		mudcrab-diseased, 
-		netch_betty, 
-		netch_bull, 
-		nix-hound, 
-		rat, 
-		rat_diseased, 
-		scrib, 
-		scrib_diseased, 
-		shalk, 
-		shalk_diseased, 
-		slaughterfish, 
-		slaughterfish_small
-		```
-- **Locks and Traps Detection**
- 	- Set Visually Trapped Objects integration to "Yes"
-- **Magicka Based Skill Progression**
-	- Skill Experience per Magicka: **0.05** (the default value is too high)
-- **Magicka Regen**
-	- Set the player value to 50%
-	- Enable Magicka Decay: On
-- **Miscast Enhanced**
-	- Ensure "Debug Mode" is disabled
-- **Multi Mark & Harder Recall**
-	- Customize Limited Recall values
-		- Recalls per day: 4
-	- *optional* Enable Miscast Enhanced integration!
-- **No Translation Tooltips**
-	- Disable road sign tooltips: yes
-	- Disable banner tooltips: no
-- **Ownership Indicator**
-	- Hide Crosshair = Yes (you may need to toggle the crosshair on/off in the game options menu to get this to work)
-- **Poison Redux-ion**
-	- NO: Enable poison creation/application messages (toggle this on/off to use the poison crafting function)
-	- NO: Allow enemies to resist your poisons
-	- YES: Use Poison Crafting's additional icons and models
-	- NO: Use base stats for alchemy instead of fortified ones
-- **Quick Loot**
-	- Hide lock status? = Yes
-	- Show quickloot menu on plant/organic containers? = No
-- **Realistic Movement Speeds**
-	- Strafing Movement Percentage Multiplier = 100
-- **Security Enhanced**
-	- Change the equip/cycle lockpick hotkey to "O" ("L" is used by Let There Be Darkness)
-- **Simple Combat Mechancis**
-	- Disarmament: Disable (prevents NPCs from stealing bound weapons)
-- **Sophisticated Save System**
-	- set up autosaves as you prefer, but recommend disabling “Create autosaves after changing cells”
-- **The Midnight Oil**
-	- Toggle Static Lights only = No (this enables imperial lanterns to toggle in towns)
-- **UI Expansion**
-	- Use verbose buttons instead of icons for inventory filtering? = No
-- **Weapon Sheathing**
-	- Show unreadied shields on back = Yes!
+- Whitelist: 
+	- ab_r_kwamaeggblighted
+	- abtv_o_kweggblightedmm
+- Blacklist:
+	- _in_lib_scrolls*
+	- ab_r_kwamstorager
+### **Illegal Summoning**
+- NPC Crime Trigger Distance = 2000
+### **Let There Be Darkness**
+- In the General and Cell Settings tab, set Cell Lighting Value Overrides to TLAD
+- Leave the remaining settings at their defaults
+### **Less Aggressive Creatures**
+- Peaceful Chance: I recommend a value between 50-80% 
+- Peaceful Creatures Whitelist: 
+	```
+	alit, 
+	alit_diseased, 
+	bm_horker, guar, 
+	guar_feral, 
+	h11_kwama_forager_dis, 
+	h11_kwama_warrior_dis, 
+	h11_netch_betty_dis, 
+	h11_netch_bull_dis, 
+	h11_rat_rust, 
+	h11_slaughterfish_dis, 
+	kagouti, 
+	kagouti_diseased, 
+	kwama forager, 
+	kwama worker, 
+	kwama worker diseased, 
+	mudcrab, 
+	mudcrab-diseased, 
+	netch_betty, 
+	netch_bull, 
+	nix-hound, 
+	rat, 
+	rat_diseased, 
+	scrib, 
+	scrib_diseased, 
+	shalk, 
+	shalk_diseased, 
+	slaughterfish, 
+	slaughterfish_small
+	```
+### **Locks and Traps Detection**
+- Set Visually Trapped Objects integration to "Yes"
+### **Magicka Based Skill Progression**
+- Skill Experience per Magicka: **0.05** (the default value is too high)
+### **Magicka Regen**
+- Set the player value to 50%
+- Enable Magicka Decay: On
+### **Miscast Enhanced**
+- Ensure "Debug Mode" is disabled
+### **Multi Mark & Harder Recall**
+- Customize Limited Recall values
+	- Recalls per day: 4
+- *optional* Enable Miscast Enhanced integration!
+### **No Translation Tooltips**
+- Disable road sign tooltips: yes
+- Disable banner tooltips: no
+### **Ownership Indicator**
+- Hide Crosshair = Yes (you may need to toggle the crosshair on/off in the game options menu to get this to work)
+### **Poison Redux-ion**
+- NO: Enable poison creation/application messages (toggle this on/off to use the poison crafting function)
+- NO: Allow enemies to resist your poisons
+- YES: Use Poison Crafting's additional icons and models
+- NO: Use base stats for alchemy instead of fortified ones
+### **Quick Loot**
+- Hide lock status? = Yes
+- Show quickloot menu on plant/organic containers? = No
+### **Realistic Movement Speeds**
+- Strafing Movement Percentage Multiplier = 100
+### **Security Enhanced**
+- Change the equip/cycle lockpick hotkey to "O" ("L" is used by Let There Be Darkness)
+### **Simple Combat Mechancis**
+- Disarmament: Disable (prevents NPCs from stealing bound weapons)
+### **Sophisticated Save System**
+- set up autosaves as you prefer, but recommend disabling “Create autosaves after changing cells”
+### **The Midnight Oil**
+- Toggle Static Lights only = No (this enables imperial lanterns to toggle in towns)
+### **UI Expansion**
+- Use verbose buttons instead of icons for inventory filtering? = No
+### **Weapon Sheathing**
+- Show unreadied shields on back = Yes!
 
-## Menu Options
+# Menu Options
 In the in-game menu Options set the following:
 
-**Prefs**
+### **Prefs**
 - Set difficulty to 0 (Dynamic Difficulty will handle scaling to keep things interesting--unless you want to punish yourself and play at 100 difficulty)
 - Set **AI Distance** to the furthest left on the slider (decreasing the value improves performance but may break AI commands. I play with the AI slider set to the furthest left--this saves about 5-10 FPS in areas with lots of NPCs)
 - Autosave when rest=OFF
 - Always Use Best Attack=OFF (controversial opinion, but the direction-based attack types can be a pain--experiment and make up your own mind)
 - Subtitles=ON
 
-**Controls**
+### **Controls**
 - Use = mouse1
 - activate=e
 - Ready weapon=r
 - Ready magic=f
 - Jump=spacebar
 
-**Video**
+### **Video**
 - Set **Real-time shadows** to the middle of the slider (this is less for performance reasons than to reduce the incidence of buggy shadows through walls, etc.)
 
-## Mod Keybinds
+# Mod Keybinds
 The following lists the keybinds set by the mods used in this guide:
 - **C** - toggle equippable light source (from Torch Hotkey)
 - **G** - precision object placement (from Perfect Placement)
