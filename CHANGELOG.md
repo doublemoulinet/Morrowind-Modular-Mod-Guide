@@ -1,17 +1,28 @@
-# 2020-12-26
+# 2020-12-28
 Updated the mod management and installation instructions to use Mod Organizer 2, replacing Wrye Mash as this guide's mod management tool.
 
 **Added**
+- added: EXPANDED CORE: [Limited Leaping](https://github.com/NullCascade/morrowind-mods) (adding it back)
 - added: VISUALS: [Visually Diseased Creatures](https://mega.nz/file/bgI01bjb#LhkjcX4-PK8gCSJZ2OqfaX5dEkFrmvCTqkO3qFw2iHA)
+
+**Removed**
+- removed: VISUALS: [Fang-like Fang of Haynekhtnamet](https://www.nexusmods.com/morrowind/mods/47505?), [No Orcish Clown Shoes](https://www.nexusmods.com/morrowind/mods/45939?)
 
 **Updated**
 - updated SETUP: switched installation/mod management instructions from Wrye Mash (Polemos Fork) to Mod Organizer 2
+- fixed installation instructions in VISUALS module
 - moved **Skill Tweaks** subsection from **GAMEPLAY** to **CORE - EXPANDED**
 
 # 2020-12-20
+
+**Added**
 - added: CONTENT: [OAAB - Astral Pocket](https://www.nexusmods.com/morrowind/mods/49077)
+
+**Removed**
 - removed: EXPANDED: [Misc Mates](https://www.nexusmods.com/morrowind/mods/48122?) (needs bug fix)
 - removed: LANDMASS: [Unofficial Morrowind Official Plugins Patched](https://www.nexusmods.com/morrowind/mods/43931?) instructions (unnecessary, because you shouldn't play with the Bethesda plugins; the guide will incorporate improved standalone reimaginings of some of the quests/items in a future update)
+
+**Updated**
 - updated: OPTIONAL: **Solstheim Tomb of the Snow Prince** (added instructions to install groundcover plugin)
 
 # 2020-12-17
@@ -54,13 +65,19 @@ REMOVED
 - updated: FINISH LINE: Graphic Herbalism whitelist/blacklist MCM settings
 
 # 2020-11-26
+
+**Added**
 - added: GAMEPLAY: **Poison Redux-ion** (an expanded implementation that complements Poison Crafting)
 - added: CONTENT: **OAAB Grazelands**
 - added: CONTENT: **OAAB Integrations**
+
+**Removed**
 - removed: VISUALS: **Subtle Magic Glow** (not needed except for edge-cases with Assetless No Glow, and makes it harder to see trapped containers with Visually Trapped Containers, Visually Trapped Soulgems)
 - removed: VISUALS: **Overlooked Meshes Replacer** (excellent mod, but needs a couple fixes)
 - removed: BALANCE: **Hold Your Breath** (seems unnecessary)
 - removed: CONTENT: **Tower of Vos** (replaced with OAAB Grazelands)
+
+**Updated**
 - moved: **Cover Yourself**, **Actually Unlimited Skeleton Key**, **Give a Gift**, **The Last Witness** and **Lua Lockbashing** from CONSISTENCY to EXPANDED CORE (gameplay tweak/convenience mods)
 - updated Morrowind Code Patch game mechanics settings in SETUP (now recommend using **Healthy Appetite**)
 
@@ -101,13 +118,19 @@ REMOVED
 - updated: VISUALS: Subtle Magic Glow ("faint" to "fade" for better visibility when using visually trapped objects)
 
 # 2020-10-18
+
+**Added**
 - added: EXPANDED VANILLA: Better Buoyancy
 - added: VISUALS: MGG Weathers Darker preset (darker nights, better maintained)
 - added: VISUALS: Visually Trapped Objects
 - added: GAMEPLAY: Enhanced Reflection
 - added: GAMEPLAY: Simple Combat Mechanics
+
+**Removed**
 - removed: VISUALS: Weather Adjuster Preset (replaced with the above)
 - removed: EXPANDED CORE: Chameleon Fix (pending fix of NPC invisibility effect bug)
+
+**Updated**
 - moved: Locks and Traps Detection from GAMEPLAY to EXPANDED VANILLA (under the rubric "gameplay tweaks")
 - moved: Pickpocket from GAMEPLAY to EXPANDED VANILLA (synergy with Quickloot)
 - updated: EXPANDED VANILLA: optional instructions for Pete's GMST Config
@@ -131,10 +154,16 @@ REMOVED
 - updated installation instructions for VISUALS: Assetless No Glow (updated nexus to github version)
 
 # 2020-09-28
+
+**Added**
+- added: EXPANDED VANILLA: *Chameleon Fix* and *MWSE Hide the Skooma*
+
+**Removed**
+- removed: EXPANDED VANILLA: Beast Race Abilities Toggleable (felt unnecessary)
+
+**Updated**
 - updated installation instructions for BALANCE: Ownership Overhaul (now recommend using the ESM version)
 - updated installation instructions for LANDMASS: revised steps for mod compatibility edits
-- added: EXPANDED VANILLA: *Chameleon Fix* and *MWSE Hide the Skooma*
-- removed: EXPANDED VANILLA: Beast Race Abilities Toggleable (felt unnecessary)
 
 # 2020-09-25
 - updated installation instructions for tes3cmd (now link directs to latest beta release)
@@ -184,12 +213,19 @@ REMOVED
 - removed: CONSISTENCY: What is something that is too long for an ESP name (unnecessary with changes from MDMD)
 
 # 2020-09-03
+
+**Added**
 - added MGE XE shaders to the SETUP section
-- small cleanup of guide subsections
 - added: BALANCE: Wading in Water MW
+
+**Removed**
 - removed: VISUALS: Helseth's Robe (already in PfP)
 - removed: CONTENT: Tower of Vos (anticpating upcoming release Melchior Dahrks's Vos overhaul)
 - removed: CONTENT: Forge of Hilbongard (anticipating upcoming release of Remiros' Hanin's Wake mod)
+
+**Updated**
+- small cleanup of guide subsections
+
 
 # 2020-08-31
 - More minor changes

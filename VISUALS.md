@@ -29,6 +29,8 @@
 1. [Enlightened Flames](https://www.nexusmods.com/morrowind/mods/48816?)
 	- Enable both the "00 Core" and "01 enlightened flames" options
 1. [Heat Haze](https://www.nexusmods.com/morrowind/mods/48973)
+1. [Hopesfire Glow](https://www.nexusmods.com/morrowind/mods/45855?)
+	- Enable only the "Hopesfire Torch (+brighter trueflame).esp
 1. [Keg Drip](https://www.nexusmods.com/morrowind/mods/47903?)
 	- Enable the "00 Core" and "01 MWSE" options
 1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?)
@@ -56,8 +58,14 @@
 	- Enable both "00 Core" and "03 Glow Effect" options
 1. [Enhanced Stone Walls](https://www.nexusmods.com/morrowind/mods/45939?)
 	- Download the “Enhanced Stone Walls” file
+1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?)
+	- Download and install the Optional File "Improved Nordic Iron Helm 1.0-alternate"
+1. [Improved Thrown Weapon Projectiles](https://www.nexusmods.com/morrowind/mods/44763?)
+	- Download and install only the main file
 1. [Lazily Atlased Statues of Delyn and Olms](https://www.nexusmods.com/morrowind/mods/48578?)
 	- Download the Main File if using Intelligent Textures. Download the optional file if using vanilla textures
+1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?)
+	- Download only "Lore Friendly Iron Warhammer" and install
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?)
 	- Enable "00 Core" and "01 Vvardenfell only"
 1. [No Translation Tooltips](https://www.nexusmods.com/morrowind/mods/48540?)
@@ -75,24 +83,9 @@
 	- Archive is incorrectly packed: set "HD\Data Files"  as the data files directory (or "Vanilla\Data Files" if using vanilla textures)
 1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?)
 1. [Visually Diseased Creatures](https://mega.nz/file/bgI01bjb#LhkjcX4-PK8gCSJZ2OqfaX5dEkFrmvCTqkO3qFw2iHA)
-	- By Remiros and Necrolesian, adds some variety and a visual indicator for diseased creatures
+	- By Remiros and Necrolesian, makes diseased creatures subtly visually distinct
 1. [Vivec Palace Water Replacer](https://www.nexusmods.com/morrowind/mods/48291?)
 	- Download "Vivec Palace Water Replacer" and enable the "00 Core" and "01 Original Color" options
-
-## Equipment Meshes
-1. [Fang-like Fang of Haynekhtnamet](https://www.nexusmods.com/morrowind/mods/47505?)
-1. [Hopesfire Glow](https://www.nexusmods.com/morrowind/mods/45855?)
-	- Enable only the "Hopesfire Torch (+brighter trueflame).esp
-1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?)
-	- Download and install the Optional File "Improved Nordic Iron Helm 1.0-alternate"
-1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?)
-	- Download only "Lore Friendly Iron Warhammer" and install
-	- Repackage the archive and install only the "meshes" folder
-1. [No Orcish Clown Shoes](https://www.nexusmods.com/morrowind/mods/45939?)
-	- Download and install only "No Orcish Clown Shoes"
-	- Install both "00 Core" and "01 Weapon Sheathing Patch"
-1. [Improved Thrown Weapon Projectiles](https://www.nexusmods.com/morrowind/mods/44763?)
-	- Download and install only the main file
 
 ## Splash Screen / Video 
 If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replacers. High quality, seamless integration with the vanilla art style. Before installing these mods, you may want to manually backup your **Data Files\Splash folder** (to preserve the original 4:3 splash screens), and zip your **Data Files\Video\mw_logo.bik** and **Data Files\Video\mw_intro.bik**.

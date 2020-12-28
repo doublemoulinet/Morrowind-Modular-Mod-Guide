@@ -22,6 +22,9 @@
 1. [Enchant Capacity Rebalance](https://www.nexusmods.com/morrowind/mods/48742?)
 	- Enable the MWSE version (not the plugin version)
 1. [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292?)
+1. [Limited Leaping](https://github.com/NullCascade/morrowind-mods)
+	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
+	- In MO2, set Limited Leaping as your data directory and install
 1. [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?)
 1. [Putting Power in Willpower](https://www.nexusmods.com/morrowind/mods/45742?)
 1. [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248?)

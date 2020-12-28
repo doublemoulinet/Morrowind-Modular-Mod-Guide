@@ -228,7 +228,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 ### **Weapon Sheathing**
 - Show unreadied shields on back = Yes!
 
-# Menu Options
+## Menu Options
 In the in-game menu Options set the following:
 
 ### **Prefs**
@@ -248,7 +248,7 @@ In the in-game menu Options set the following:
 ### **Video**
 - Set **Real-time shadows** to the middle of the slider (this is less for performance reasons than to reduce the incidence of buggy shadows through walls, etc.)
 
-# Mod Keybinds
+## Mod Keybinds
 The following lists the keybinds set by the mods used in this guide:
 - **C** - toggle equippable light source (from Torch Hotkey)
 - **G** - precision object placement (from Perfect Placement)

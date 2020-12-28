@@ -28,8 +28,8 @@
 	- Cleaning: ESP requires cleaning
 1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?)
 	- Mod archive is incorrectly packaged:
-	- In **001 ESP - Bigger Velothi Temples**, drag and drop the "Bigger Velothi Temples.esp" into the **000 Core Files\Glow in the Darhk\Vanilla\Data Files** folder
-	- Right click "Data Files" and set as data directory and install
+		- In **001 ESP - Bigger Velothi Temples**, drag and drop the "Bigger Velothi Temples.esp" into the **000 Core Files\Glow in the Darhk\Vanilla\Data Files** folder
+		- Right click "Data Files" and set as data directory and install
 	- Cleaning: ESP requires cleaning
 1. [Brevur of Balmora](https://www.nexusmods.com/morrowind/mods/47557?)
 	- Cleaning: ESP requires cleaning
