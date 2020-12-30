@@ -1,4 +1,4 @@
-# 2020-12-28
+# 2020-12-30
 Updated the mod management and installation instructions to use Mod Organizer 2, replacing Wrye Mash as this guide's mod management tool.
 
 **Added**
