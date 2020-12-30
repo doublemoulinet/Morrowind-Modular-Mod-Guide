@@ -9,14 +9,16 @@ Choose and **install only ONE** of the following levelling mod sections. If this
 Install this section if you want to play with **Improved Vanilla**, which does as the name suggests: it cuts out the micromanagement and irons out kinks in the game's levelling system.
 1. [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065?)
 1. [Borrowed Time](https://www.nexusmods.com/morrowind/mods/48971)
+1. [Class Skill Limit](https://www.nexusmods.com/morrowind/mods/48989)
 1. [Magicka Based Skill Progression](https://www.nexusmods.com/morrowind/mods/48330?)
 1. [MWSE Magicka Regen](https://www.nexusmods.com/morrowind/mods/48129?)
 1. [Proportional Progression](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- In MO2, set Proportional Progression as your data directory and install
-1. [Proportional Progression config file](https://mega.nz/file/q54mAICL#l5Y8IPRciZ8vk4ieuF5If6MIlKv-nUkIEXz0v04mwag)
-	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for Vanilla/Improved Vanilla levelling.
-	- This config adjusts skill gain speed per skill (slower magic, extremely slow athletics and acrobatics, slightly faster armorer and security skill gain); level specific (at low levels characters level skills faster, and then gradually slower as they level up); and skill-level specific (low-level skills level up faster, but rates slow down until capped at level 200).
+1. [Proportional Progression config file](https://mega.nz/file/65IDlIyD#TNWRaOH9-PAilPD1NGH1hCxZzYUoL2OWGrMVstVA1Bk)
+	- Enable only "01 - Improved Vanilla"
+	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for **Improved Vanilla levelling** and **Class Skill Limit**.
+	- This config adjusts skill gain speed per skill (slower magic, extremely slow athletics and acrobatics, slightly faster armorer and security skill gain); level specific (at low levels characters level skills faster, and then gradually slower as they level up); and skill-level specific (low-level skills level up faster, but rates slow down until the variable cap from Class Skill Limit).
 
 ### Class-Conscious Character Progression
 Install this section if you want to play with **Class-Conscious Character Progression (CCCP)**. **CCCP** makes major changes to the game's levelling system, which I won't summarize here. Basically it is very, very good:
@@ -77,10 +79,9 @@ Install this section if you want to play with **Class-Conscious Character Progre
 
 ## Ambient Environment
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?)
-1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178?)
-	- Cleaning: ESP requires cleaning
-1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?)
 1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?)
+	- Earthquakes occur too frequently with default settings:
+		- When in-game, open the console (~) and type: ```set fQuakeChance to 10```
 	- Cleaning: ESP requires cleaning
 1. [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636)
 	- Enable only the following BAIN options: "00 Lua core"

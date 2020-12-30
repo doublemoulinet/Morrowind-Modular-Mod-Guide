@@ -1,7 +1,6 @@
 # Gameplay - Consistency
 
 ## Restored Content
-1. [Abundant Adamantium Ore](https://www.nexusmods.com/morrowind/mods/45726?)
 1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?)
 1. [Blighted Blight](https://www.nexusmods.com/morrowind/mods/48631?)
 1. [Blight is Coming](https://www.nexusmods.com/morrowind/mods/47649?)
@@ -34,6 +33,7 @@
 1. [FMI - Service Refusal and Contraband](https://www.nexusmods.com/morrowind/mods/47456?)
 	- ESP requires cleaning
 1. [Greetings for No Lore](https://www.nexusmods.com/morrowind/mods/46063?)
+1. [Great Service](https://www.nexusmods.com/morrowind/mods/47767)
 1. [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)
 1. [It's a Deal](https://www.nexusmods.com/morrowind/mods/47968?)
 1. [LDM - Context Matters](https://www.nexusmods.com/morrowind/mods/48273?)

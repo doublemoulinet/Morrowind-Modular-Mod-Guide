@@ -4,14 +4,19 @@ Updated the mod management and installation instructions to use Mod Organizer 2,
 **Added**
 - added: EXPANDED CORE: [Limited Leaping](https://github.com/NullCascade/morrowind-mods) (adding it back)
 - added: VISUALS: [Visually Diseased Creatures](https://mega.nz/file/bgI01bjb#LhkjcX4-PK8gCSJZ2OqfaX5dEkFrmvCTqkO3qFw2iHA)
+- added: CONSISTENCY: [Great Service](https://www.nexusmods.com/morrowind/mods/47767)
+- added: GAMEPLAY: [Class Skill Limit](https://www.nexusmods.com/morrowind/mods/48989)
 
 **Removed**
 - removed: VISUALS: [Fang-like Fang of Haynekhtnamet](https://www.nexusmods.com/morrowind/mods/47505?), [No Orcish Clown Shoes](https://www.nexusmods.com/morrowind/mods/45939?)
+- removed: CONSISTENCY: [Abundant Adamantium Ore](https://www.nexusmods.com/morrowind/mods/45726?), 
+- removed: GAMEPLAY: [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178?) (mod currently set to hidden), [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?) (pending bugfix)
 
 **Updated**
 - updated SETUP: switched installation/mod management instructions from Wrye Mash (Polemos Fork) to Mod Organizer 2
 - fixed installation instructions in VISUALS module
 - moved **Skill Tweaks** subsection from **GAMEPLAY** to **CORE - EXPANDED**
+- updated **Proportional Progression config file** (Class Skill Limit compatibility)
 
 # 2020-12-20
 
