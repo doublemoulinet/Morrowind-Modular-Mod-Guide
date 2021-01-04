@@ -45,12 +45,7 @@
 1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?)
 	- Enable only the "00 Core" BAIN option
 1. [Open Mournhold](https://www.nexusmods.com/morrowind/mods/44981?)
-1. [Passage of Prayers](https://www.nexusmods.com/morrowind/mods/46786?)
-	- Enable the "00 Core" and "01 no dialogue and books edit version" BAIN options
-	- Note: I experience slight frame drops on my system (older CPU)
-1. [Properly Cluttered Ald Velothi](https://www.nexusmods.com/morrowind/mods/48811?)
-1. [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646?)
-	- ESP requires cleaning
+1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?)
 1. [Stav's Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/43237?)
 	- Disable the ESP. The meshes will be used in the following mod
 1. [Fixed Version of Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/46184?)
@@ -58,10 +53,8 @@
 	- Do not enable the ESPs
 1. [Fixed Version of Gnisis Minaret - Fixed ESP](https://mega.nz/file/O14DRBjQ#VoipDGkDyy319TPofTxe5z6GCysaLoOwcPwXsK2U1_E)
 	- ESP replacer for the Gnisis Minaret; this version fixes the script attached to the new NPC and adds ownership to the new containers and placed items
-1. [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614?)
-	- Cleaning: ESP requires cleaning
 
-## Expanded Wilderness
+## Wilderness
 1. [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?)
 	- Cleaning: ESP requires cleaning
 1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?)
@@ -72,14 +65,6 @@
 1. [The Grove of Ben'Abi - Region name reverted](https://mega.nz/file/Gl4TQBrR#YqRPilupBPUwneqR0lOs70IvXuBQ5xwbAw_bdGjpG74)
 1. [OAAB - The Ashen Divide](https://www.nexusmods.com/morrowind/mods/49047)
 	- ESP requires cleaning
-1. [RR Mod Series - Holamayan](https://www.nexusmods.com/morrowind/mods/43524?)
-	- Select the following BAIN options:
-		- 00 - main files
-		- 01 - main esp - english
-		- 03 - main files - glow in the dahrk patch
-	- ESP requires cleaning
-1. [RR Mod Series - Holayaman - Vanilla Statue](https://mega.nz/file/z1ZyzASS#Sxg_woC1TjGImgJP-CU6WVgTvaWn9q1tBcPHxa9F4u8)
-	- replaces RR Series' custom Azura statue asset with a vanilla model (for consistency with the rest of the game)
 1. [RR Mod Series - Telvanni Lighthouse - Tel Branora](https://www.nexusmods.com/morrowind/mods/42664?)
 	- Enable the following BAIN options:
 		- 00 - Main Files
@@ -95,8 +80,6 @@
 	- Download and install both the Main File and the "No Script Edits" optional file.
 	- Cleaning: ESP requires cleaning
 1. [Shrine of Azura](https://www.nexusmods.com/morrowind/mods/48278?)
-1. [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661?)
-	- Enable the "00 Core" and "01 for vanilla rocks" BAIN options
 
 ## Guilds
 1. [Balmora Guilds Expanded](https://www.nexusmods.com/morrowind/mods/46859?)
@@ -105,9 +88,9 @@
 1. [Caldera Mages Guild Expanded](https://www.nexusmods.com/morrowind/mods/45750?)
 	- Install both the Main File and the Update File
 1. [Vivec Mages Guild Expansion - Fixed](https://www.nexusmods.com/morrowind/mods/47700?)
-	- Download only Vivec Mages Guild Expansion - Fixed. Install normally
+	- Download only "Vivec Mages Guild Expansion - Fixed"
 1. [Wolverine Hall Interior Expansion - Fixed](https://www.nexusmods.com/morrowind/mods/47700?)
-	- Download only Wolverine Hall Interior Expansion - Fixed. Install normally
+	- Download only "Wolverine Hall Interior Expansion - Fixed"
 
 ## Dungeons
 1. [Andrano Tomb Remastered](https://www.nexusmods.com/morrowind/mods/44672?)
@@ -126,10 +109,6 @@
 ## Companions
 1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
 
-## Player Homes
-1. [OAAB - Astral Pocket](https://www.nexusmods.com/morrowind/mods/49077)
-1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?)
-
 ## Quests
 1. [ABCs for Outlanders](https://www.nexusmods.com/morrowind/mods/46692?)
 1. [Ajira's Alchemy Reports Randomized](https://www.nexusmods.com/morrowind/mods/47550?)
@@ -147,6 +126,7 @@
 	- Cleaning: ESP requires cleaning
 1. [Morag Tong Polished](https://www.nexusmods.com/morrowind/mods/47041?)
 	- Cleaning: ESP requires cleaning
+1. [OAAB - Astral Pocket](https://www.nexusmods.com/morrowind/mods/49077)
 1. [Plunder the Dungeon](https://www.nexusmods.com/morrowind/mods/46977?)
 1. [Scrolls of the Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831?)
 	- Enable the "00 Core" option

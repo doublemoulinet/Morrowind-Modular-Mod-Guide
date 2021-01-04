@@ -24,8 +24,8 @@
 This guide assumes you will be using an English-language edition of Morrowind GOTY (either the GOG or Steam editions). This includes the base game and two main expansions, Tribunal and Bloodmoon.
 
 Install Morrowind and all modding tools to a root directory, outside the default Windows folders. For example: 
-- **For your Morrowind installation**: **```C:\Steam\steamapps\common\Morrowind```** or **```C:\Games\Morrowind```**
-- **For your Morrowind tools**: **```C:\Steam\steamapps\common\Morrowind Mods```** or **```C:\Games\Morrowind Mods```**
+- **For your Morrowind installation**: ```C:\Steam\steamapps\common\Morrowind``` or ```C:\Games\Morrowind```
+- **For your Morrowind tools**: ```C:\Steam\steamapps\common\Morrowind Mods``` or ```C:\Games\Morrowind Mods```
 
 Do not install the game in Program Files, Program Files (x86), or any other default Windows folder (ex. Desktop, Documents).
 
@@ -34,7 +34,7 @@ Do not install the game in Program Files, Program Files (x86), or any other defa
 
 The GOG edition of Morrowind GOTY bundles several unnecessary files. In addition to uncompressing the BSA archives (which contain all the game's meshes and textures), the GOG edition includes all of Bethesda's Official Plugins. These suck and you don't want to play with them. This guide assumes you will *not* be using the official plugins; play with them at your own peril!
 
-Delete the following files from your **```Morrowind\Data Files```** folder:
+Delete the following files from your ```Morrowind\Data Files``` folder:
 - BookArt, Icons, Meshes, Textures folders
 - All .esp files 
 - All .txt files
@@ -55,7 +55,7 @@ After you have installed the game, run the Morrowind Launcher and boot to the ma
 # Morrowind Code Patch
 The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It is an essential utility. The MCP must be installed manually.
 1. Download the Morrowind Code Patch main file from [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510?)
-1. Extract to your Morrowind root directory (C:\...\Morrowind). Do not extract it to **```Morrowind\Data Files```**.
+1. Extract to your Morrowind root directory (```C:\...\Morrowind```). Do not extract it to ```Morrowind\Data Files```.
 1. Download the MCP Beta from [MCP Skunk Works](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
 1. Extract the contents to your Morrowind root directory, and overwrite when prompted
 1. Run Morrowind Code Patch.exe and enable the following options:
@@ -72,36 +72,36 @@ These modding tools will be used for several key steps in this guide: mod cleani
 
 ### [tes3cmd](https://github.com/john-moonsugar/tes3cmd/releases)
 This powerful command-line tool cleans mods and will be used to build a multipatch at the end of the mod guide.
-1. Download the latest tes3cmd release and extract the tes3cmd.exe your **```Morrowind\Data Files```** folder. Do not install tes3cmd to the root directory
-1. Inside **```Morrowind\Data Files```** create another .txt file and [copy the batch file multipatch text](http://wiki.theassimilationlab.com/mmw/TES3cmd#Using_a_batch_file_to_create_a_multipatch_plugin)
+1. Download the latest tes3cmd release and extract the tes3cmd.exe your ```Morrowind\Data Files``` folder. Do not install tes3cmd to the root directory
+1. Inside ```Morrowind\Data Files``` create another .txt file and [copy the batch file multipatch text](http://wiki.theassimilationlab.com/mmw/TES3cmd#Using_a_batch_file_to_create_a_multipatch_plugin)
 	1. Rename the .txt file to tes3cmd_multipatch.bat. Make sure to change the filetype extension from .txt to .bat
 
 ### [TES3Merge](https://www.nexusmods.com/morrowind/mods/46870?tab=files)
 This tool will automatically patch mod conflicts by generating a merged patch. This patch will be used in conjunction with tes3cmd's multipatch. 
-1. Extract the contents to **```...\Morrowind Mods\Tools\TES3Merge```**
+1. Extract the contents to ```...\Morrowind Mods\Tools\TES3Merge```
 
 ###  [TES3View](http://www.mediafire.com/file/g10ay0bqynval8s/TES3View_%2528xEdit_4.1.3a_EXTREMELY_EXPERIMENTAL%2529.zip/file)
 This experimental tool is an advanced GUI conflict viewer similar to xEdit for later TES/Bethesda games. It has more limited functionality than the latter but still provides excellent GUI for plugin conflicts. 
 
 Download the xEdit 4.1.3a experimental build on MediaFire (courtesy of Sigourn). This download has already renamed the folder and .exe to TES3View in order to enable the tool to work in Morrowind
-1. Extract the folder to **```...\Morrowind Mods\Tools\TES3Merge```**
+1. Extract the folder to ```...\Morrowind Mods\Tools\TES3Merge```
 
 ### [TESTool](https://en.uesp.net/wiki/Tes3Mod:TESTool)
 TESTool is a mod repair and management tool. You will use it to clean your plugins.
-1. Extract the contents to **```...\Morrowind Mods\Tools\TESTool```**
+1. Extract the contents to ```...\Morrowind Mods\Tools\TESTool```
 
 ### [TESAME](http://mw.modhistory.com/download-95-5289)
 TESAME is a useful mod editing program that we will use to delete bad and unwanted references within a plugin.
-1. Extract the folder to **```...\Morrowind Mods\Tools\TESAME```**
+1. Extract the folder to ```...\Morrowind Mods\Tools\TESAME```
 
 ### [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?)
 This powerful tool will be used primarily to clean and repair plugins, clean and repair game saves, enable mod-added BSA archives, and update plugin masters.
 1. Download the latest x64 manual installation archive, under Main Files, and any x64 manual installation Update file (if applicable)
-1. Extract the contents to your Morrowind root foler (**```C:\...\Morrowind```**). Overwrite/merge if prompted
+1. Extract the contents to your Morrowind root foler (```C:\...\Morrowind```). Overwrite/merge if prompted
 1. Run mash64.exe
-	- The application will prompt you to select the Morrowind root directory. It will also prompt you to select an Installers path: select the C:\...\Morrowind\Mods directory you created earlier
-	- **Morrowind directory**: select your Morrowind root folder (**```C:\...\Morrowind```**)
-	- **Mods Installers directory**: you can direct the filepath to (**```C:\...\Morrowind\Mopy\Mods```**) or anywhere else; this guide will not use Wrye Mash's Mods Installers functionality
+	- The application will prompt you to select the Morrowind root directory. It will also prompt you to select an Installers path: select the ```C:\...\Morrowind\Mods``` directory you created earlier
+	- **Morrowind directory**: select your Morrowind root folder (```C:\...\Morrowind```)
+	- **Mods Installers directory**: you can direct the filepath to (```C:\...\Morrowind\Mopy\Mods```) or anywhere else; this guide will not use Wrye Mash's Mods Installers functionality
 	- **Mlox directory**: You can ignore the mlox optional path for now
 1. Continue through the prompts and conclude the initialization process when prompted
 
@@ -110,18 +110,18 @@ Tools that are not used in this guide. While not strictly needed, if you plan to
 
 ### [Mlox](https://github.com/mlox/mlox/releases/)
 Optional. A plugin load order sorter. Mlox will not be used in this guide (plugin order will be adjusted manually in the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section of the guide. If you add your own mods, you may want to check your load order with Mlox.
-1. Extract the mlox.exe to your Morrowind root directory (**```...\Morrowind\mlox.exe```**).
+1. Extract the mlox.exe to your Morrowind root directory (```...\Morrowind\mlox.exe```).
 
 ### [Official Construction Set](https://www.nexusmods.com/morrowind/mods/42196?tab=files)
 The official Bethesda The Elder Scrolls Construction Set, patched and fixed to work with the Steam and GOG version of Morrowind. While not technically needed for this guide, a useful resource if you want to directly edit a plugin and necessary to create your own mods and merges.
-1. Unpack the files to the Morrowind root directory (**```...\Morrowind\Tes Construction Set.exe```**)
+1. Unpack the files to the Morrowind root directory (```...\Morrowind\Tes Construction Set.exe```)
 
 # Mod Organizer 2
 As described earlier, this powerful tool will manage your mod installation, mod downloads, and modding tools. Here, you will download and configure the mod organizer as a portable instance to manage your Morrowind installation.
 
 ### [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 1. Download the Main File: **Mod Organizer 2 (Archive)**
-1. Extract to **```...\Morrowind Mods\Tools\MO2```**
+1. Extract to ```...\Morrowind Mods\Tools\MO2```
 1. Run ModOrganizer.exe
 	- You will be prompted to **Choose Instance**. Select **Portable**
 	- You will be prompted to **select the game to manage**. Select **Morrowind**.
@@ -154,19 +154,19 @@ Follow and repeat these steps for **TES3Merge**, **TES3View**, **TESTool**, and 
 1. Open the **Executables** menu (the gear icon)
 1. In the **Modify Executables** menu, click **Add an executable** (blue plus icon) and choose **Add from file...**
 1. Navigate to the location of the relevant tool (see the [Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#tools) section just above) and select its executable file (.exe)
-1. In the **Start In** field, search for and choose the location of your Morrowind root folder (ex., **```C:\Games\Morrowind```**)
+1. In the **Start In** field, search for and choose the location of your Morrowind root folder (ex., ```C:\Games\Morrowind```)
 1. Click **Apply** and then **OK**
 
 Follow these steps for **Tes3cmd**:
 1. Open the **Executables** menu (the gear icon)
 1. In the **Modify Executables** menu, click **Add an executable** (the blue plus iccon) and choose **Add from file...**
 1. Navigate to the location of your command line executable (ex., C:\Windows\System32\cmd.exe) and choose it
-1. In **Start In**, search for and choose the location of your Morrowind **Data Files** folder (ex., **```C:\Morrowind\Data Files```**)
+1. In **Start In**, search for and choose the location of your Morrowind **Data Files** folder (ex., ```C:\Morrowind\Data Files```)
 
 Follow these steps for **Wrye Mash**:
 1. Open the **Executables** menu (the gear icon)
 1. In the **Modify Executables** menu, click **Add an executable** (the blue plus iccon) and choose **Add from file...**
-1. Navigate to the location of your mash64.exe (ex., **```C:\Games\Morrowind\Mopy\mash64.exe```**) and choose it
+1. Navigate to the location of your mash64.exe (ex., ```C:\Games\Morrowind\Mopy\mash64.exe```) and choose it
 1. Click **Apply** and then **OK**
 
 ## Mod Installation

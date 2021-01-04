@@ -75,10 +75,12 @@ Install this section if you want to play with **Class-Conscious Character Progre
 	- Enable only Personal Effects_MWSE.esp version
 	- Cleaning: the ESP requires cleaning
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?)
-1. [Simple Combat Mechanics](https://www.nexusmods.com/morrowind/mods/48921)
+
 
 ## Ambient Environment
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?)
+1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178)
+	- ESP requires cleaning
 1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?)
 	- Earthquakes occur too frequently with default settings:
 		- When in-game, open the console (~) and type: ```set fQuakeChance to 10```

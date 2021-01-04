@@ -3,8 +3,7 @@
 Congraulations! You're nearly there. This last section details a few quick steps to ensure a bug-free playthrough.
 
 # Index
-1. [Cleaning](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#cleaning)
-1. [Merging Plugins](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#merging-plugins)
+1. [Cleaning and Updating Plugins](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#cleaning)
 1. [Load Order](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#load-order)
 1. [Conflict Resolution](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#conflict-resolution)
 	1. [Conflict Resolution Patch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#conflict-resolution-patch)
@@ -18,15 +17,23 @@ Congraulations! You're nearly there. This last section details a few quick steps
 	1. [Mod Keybinds](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#mod-keybinds)
 
 
-# Cleaning
+# Cleaning and Updating
+
+## Plugin Cleaning
 If you followed the cleaning advice as you installed each mod then you have already completed this section. Otherwise, run TESTool according to the instructions in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md), and then the "clean with tes3cmd" utility in Wrye Mash for individual plugins. 
 
 Please note that this may take some time. However, cleaning your plugins is absolutely necessary.
 
+## Updating Masters Lists
+Launch Wrye Mash. Go to the **Mods** tab for your list of plugins. If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's. Follow these steps:
+- Select the plugin and click the right pane (which lists the masters associated with the plugin). 
+- Mash will prompt you to edit/update the masters list. Click **yes**. 
+- Then click **save** at the bottom of the right pane.
+
 # Load Order
 Generally, ESPs should remain in the order that they were installed in this guide. However, in some cases  re-ordering is required.
 
-Ensure the following plugins load *first* (i.e. at the very top) in your load order, in this order:
+Ensure the following plugins load *first* (i.e. at the very top) in your load order (the right pane of MO2), in this order:
 1. Morrowind.esm
 1. Tribunal.esm
 1. Bloodmoon.esm

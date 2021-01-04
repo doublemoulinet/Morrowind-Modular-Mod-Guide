@@ -1,3 +1,14 @@
+# 2021-01-04
+
+**Added**
+- readded: GAMEPLAY: [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178) (unhidden from Nexus)
+
+**Removed**
+- removed: GAMEPLAY: [Simple Combat Mechanics](https://www.nexusmods.com/morrowind/mods/48921) (pending bugfix)
+- removed: CONTENT: [Passage of Prayers](https://www.nexusmods.com/morrowind/mods/46786?), [Properly Cluttered Ald Velothi](https://www.nexusmods.com/morrowind/mods/48811?), [Redaynia Restored](https://www.nexusmods.com/morrowind/mods/47646?), [RR Mod Series - Holamayan](https://www.nexusmods.com/morrowind/mods/43524?), [RR Mod Series - Holayaman - Vanilla Statue](https://mega.nz/file/z1ZyzASS#Sxg_woC1TjGImgJP-CU6WVgTvaWn9q1tBcPHxa9F4u8)
+- removed: CONTENT: [Strider Burial](https://www.nexusmods.com/morrowind/mods/47661?) (pending bugfix) 
+- removed: CONTENT: [Vvardenfell Revisited - Khuul](https://www.nexusmods.com/morrowind/mods/46614?) (removed from Nexus)
+
 # 2020-12-30
 Updated the mod management and installation instructions to use Mod Organizer 2, replacing Wrye Mash as this guide's mod management tool.
 
