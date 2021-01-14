@@ -1,3 +1,8 @@
+#2021-01-14
+
+**Added**
+- added: BALANCE: [Soulless Creatures](https://www.nexusmods.com/morrowind/mods/49215)
+
 # 2021-01-04
 
 **Added**

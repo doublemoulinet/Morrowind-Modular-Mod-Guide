@@ -29,6 +29,7 @@
 1. [Putting Power in Willpower](https://www.nexusmods.com/morrowind/mods/45742?)
 1. [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248?)
 1. [Smart Merchants](https://www.nexusmods.com/morrowind/mods/47787?)
+1. [Soulless Creatures](https://www.nexusmods.com/morrowind/mods/49215)
 1. [Urnest Loot](https://www.nexusmods.com/morrowind/mods/45616?)
 	- Download and install the Optional File "Urnest Loot"	
 1. [Wading in Water MW](https://www.nexusmods.com/morrowind/mods/48783?)

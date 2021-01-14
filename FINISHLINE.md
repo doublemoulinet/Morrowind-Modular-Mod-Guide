@@ -228,6 +228,11 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - Disarmament: Disable (prevents NPCs from stealing bound weapons)
 ### **Sophisticated Save System**
 - set up autosaves as you prefer, but recommend disabling “Create autosaves after changing cells”
+### **Soulless Creatures**
+- add the following to the blocked list:
+	- bonewalker_greater_summ, 
+	- fsheog_cr_haki3summon
+	- oj_me_summalfiqcrea
 ### **The Midnight Oil**
 - Toggle Static Lights only = No (this enables imperial lanterns to toggle in towns)
 ### **UI Expansion**
