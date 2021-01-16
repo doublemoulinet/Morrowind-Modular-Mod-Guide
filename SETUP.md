@@ -84,7 +84,7 @@ This tool will automatically patch mod conflicts by generating a merged patch. T
 This experimental tool is an advanced GUI conflict viewer similar to xEdit for later TES/Bethesda games. It has more limited functionality than the latter but still provides excellent GUI for plugin conflicts. 
 
 Download the xEdit 4.1.3a experimental build on MediaFire (courtesy of Sigourn). This download has already renamed the folder and .exe to TES3View in order to enable the tool to work in Morrowind
-1. Extract the folder to ```...\Morrowind Mods\Tools\TES3Merge```
+1. Extract the folder to ```...\Morrowind Mods\Tools\TES3View```
 
 ### [TESTool](https://en.uesp.net/wiki/Tes3Mod:TESTool)
 TESTool is a mod repair and management tool. You will use it to clean your plugins.
