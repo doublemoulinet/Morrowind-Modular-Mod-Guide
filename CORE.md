@@ -20,6 +20,7 @@ The following are all you need to play the game on modern systems. This section 
 		- 01 Fixed Vanilla Textures
 		- 02 Lake Fjalding Anti-Suck
 		- 03 MGE XE Addon
+		- 05 Chuzei Fix
 	- NB: You will install the “04 Weapon Sheathing Patch” as a separate mod further down in the installation order
 1. [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399?)
 	- Enable only the following:
