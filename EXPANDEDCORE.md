@@ -4,8 +4,6 @@
 1. [Better Questlist](https://www.nexusmods.com/morrowind/mods/48272?)
 1. [Book Worm](https://www.nexusmods.com/morrowind/mods/46851?)
 1. [Character Creation Name Generator](https://www.nexusmods.com/morrowind/mods/46189?)
-1. [Cheat Menu](https://www.nexusmods.com/morrowind/mods/47143?)
-	- Optional. Extremely useful for testing purposes but otherwise unneeded
 1. [Class Description Tooltip](https://www.nexusmods.com/morrowind/mods/47527?)
 1. [Clock Block](https://www.nexusmods.com/morrowind/mods/46292?)
 1. [Companion Health Bars MWSE Lua](https://www.nexusmods.com/morrowind/mods/46136?)

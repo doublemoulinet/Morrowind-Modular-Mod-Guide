@@ -220,8 +220,6 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 ### **Quick Loot**
 - Hide lock status? = Yes
 - Show quickloot menu on plant/organic containers? = No
-### **Realistic Movement Speeds**
-- Strafing Movement Percentage Multiplier = 100
 ### **Security Enhanced**
 - Change the equip/cycle lockpick hotkey to "O" ("L" is used by Let There Be Darkness)
 ### **Simple Combat Mechancis**

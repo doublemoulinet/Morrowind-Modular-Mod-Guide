@@ -20,7 +20,6 @@
 	- **Wrye Mash users only**: WM will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder
 	- **MO2 users**: install normally
 1. [MGG Weather Darker Nights](https://www.nexusmods.com/morrowind/mods/47141?)
-	- Weather Adjuster preset 
 
 ## VFX
 1. [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925?)
@@ -62,8 +61,6 @@
 	- Download and install the Optional File "Improved Nordic Iron Helm 1.0-alternate"
 1. [Improved Thrown Weapon Projectiles](https://www.nexusmods.com/morrowind/mods/44763?)
 	- Download and install only the main file
-1. [Lazily Atlased Statues of Delyn and Olms](https://www.nexusmods.com/morrowind/mods/48578?)
-	- Download the Main File if using Intelligent Textures. Download the optional file if using vanilla textures
 1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?)
 	- Download only "Lore Friendly Iron Warhammer" and install
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?)
@@ -88,7 +85,7 @@
 	- Download "Vivec Palace Water Replacer" and enable the "00 Core" and "01 Original Color" options
 
 ## Splash Screen / Video 
-If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replacers. High quality, seamless integration with the vanilla art style. Before installing these mods, you may want to manually backup your **Data Files\Splash folder** (to preserve the original 4:3 splash screens), and zip your **Data Files\Video\mw_logo.bik** and **Data Files\Video\mw_intro.bik**.
+If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replacers. High quality, seamless integration with the vanilla art style.
 1. [Widescreen Menu and Logo Replacer](https://www.nexusmods.com/morrowind/mods/47164?)
 1. [Widescreen Splash Replacer](https://www.nexusmods.com/morrowind/mods/47163?)
 1. [Additional Splash Screens](https://www.nexusmods.com/morrowind/mods/43319?)

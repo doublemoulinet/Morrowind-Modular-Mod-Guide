@@ -8,7 +8,6 @@ The following are all you need to play the game on modern systems. This section 
 ## MWSE Fixes
 1. [Easy Escort](https://github.com/NullCascade/morrowind-mods)
 1. [Expeditious Exit](https://github.com/NullCascade/morrowind-mods)
-1. [Immersive Run Fix](https://www.nexusmods.com/morrowind/mods/45947?)
 1. [Memory Monitor](https://github.com/NullCascade/morrowind-mods)
 1. [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269?)
 1. [Skill Increase GMST Fix](https://www.nexusmods.com/morrowind/mods/48029?)

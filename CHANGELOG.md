@@ -1,7 +1,15 @@
-#2021-01-14
+# 2021-01-16
 
 **Added**
 - added: BALANCE: [Soulless Creatures](https://www.nexusmods.com/morrowind/mods/49215)
+
+**Removed**
+- removed: CORE: [Immersive Run Fix](https://www.nexusmods.com/morrowind/mods/45947?) (per-frame script)
+- removed: EXPANDED: [Cheat Menu](https://www.nexusmods.com/morrowind/mods/47143?)
+- removed: VISUALS: [Lazily Atlased Statues of Delyn and Olms](https://www.nexusmods.com/morrowind/mods/48578?) (unnecessary, no noticeable performance improvement)
+
+**Updated**
+- updated: FINISH LINE: default MCM settings for Realistic Movement Speeds
 
 # 2021-01-04
 
