@@ -1,3 +1,11 @@
+# 2021-01-22
+
+**Added**
+- added: BALANCE: [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/49232) (replaces my identical personal edit)
+
+**Removed**
+- Removed: BALANCE: [Morrowind Anti-Cheese](https://mega.nz/file/T5REhSRR#ovyKXC-0H9Z9Sa2c9Apw3FBe-8maOYs4rZPSph5u638) (replaced with Nexus release for easier downloading/tracking)
+
 # 2021-01-16
 
 **Added**

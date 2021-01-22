@@ -13,6 +13,7 @@ The landmass mods--**Tamriel Rebuilt** and its sister projects like **Skyrim: Ho
 	- Cleaning: TR_Preview.esp requires cleaning
 1. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921?)
 	- **Grass Plugins**: add the grass ESP to your "Grass Plugins" folder if you created one when installing Remiros' Grass
+		- This step is optional, as it will likely cause a FPS hit
 1. [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
 	- Download both Main Files
 	- For "Solstheim Tomb of the Snow Prince" enable the following BAIN options:
@@ -20,8 +21,9 @@ The landmass mods--**Tamriel Rebuilt** and its sister projects like **Skyrim: Ho
 		- 010 Solstheim - Tomb of the Snow Prince
 		- 011 TOTSP Patches (we only want the Patch for Purists patch)
 		- 012 Armor of the Snow Prince
-	- For "Solstheim Graphical Replacer" enable only the following option:
+	- **Grass Plugins**: For "Solstheim Graphical Replacer" enable only the following option:
 		- 012 Remiros Groundcover for TOTSP
+			- This step is optional, as grass will likely cause a FPS hit
 	- Ensure only the following four plugins are enabled: 
 		- *Solstheim Tomb of the Snow Prince.esm*, 
 		- *TOTSP TD Content Integration.esp* (only if you are also playing with Tamriel Rebuilt!)
