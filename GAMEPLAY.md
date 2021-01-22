@@ -81,6 +81,8 @@ Install this section if you want to play with **Class-Conscious Character Progre
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?)
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178)
 	- ESP requires cleaning
+1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?)
+	- ESP requires cleaning
 1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?)
 	- Earthquakes occur too frequently with default settings:
 		- When in-game, open the console (~) and type: ```set fQuakeChance to 10```

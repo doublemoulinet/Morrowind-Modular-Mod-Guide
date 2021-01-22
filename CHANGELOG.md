@@ -2,6 +2,7 @@
 
 **Added**
 - added: BALANCE: [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/49232) (replaces my identical personal edit)
+- added: GAMEPLAY: [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?) (re-added)
 
 **Removed**
 - Removed: BALANCE: [Morrowind Anti-Cheese](https://mega.nz/file/T5REhSRR#ovyKXC-0H9Z9Sa2c9Apw3FBe-8maOYs4rZPSph5u638) (replaced with Nexus release for easier downloading/tracking)
