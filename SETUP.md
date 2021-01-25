@@ -86,18 +86,14 @@ This experimental tool is an advanced GUI conflict viewer similar to xEdit for l
 Download the xEdit 4.1.3a experimental build on MediaFire (courtesy of Sigourn). This download has already renamed the folder and .exe to TES3View in order to enable the tool to work in Morrowind
 1. Extract the folder to ```...\Morrowind Mods\Tools\TES3View```
 
-### [TESTool](https://en.uesp.net/wiki/Tes3Mod:TESTool)
+### [TESTool](https://www.nexusmods.com/morrowind/mods/47473)
 TESTool is a mod repair and management tool. You will use it to clean your plugins.
-1. Extract the contents to ```...\Morrowind Mods\Tools\TESTool```
-
-### [TESAME](http://mw.modhistory.com/download-95-5289)
-TESAME is a useful mod editing program that we will use to delete bad and unwanted references within a plugin.
-1. Extract the folder to ```...\Morrowind Mods\Tools\TESAME```
+1. Download manually and extract the contents to ```...\Morrowind Mods\Tools\TESTool```
 
 ### [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?)
 This powerful tool will be used primarily to clean and repair plugins, clean and repair game saves, enable mod-added BSA archives, and update plugin masters.
 1. Download the latest x64 manual installation archive, under Main Files, and any x64 manual installation Update file (if applicable)
-1. Extract the contents to your Morrowind root foler (```C:\...\Morrowind```). Overwrite/merge if prompted
+1. Extract the contents to your Morrowind root folder (```C:\...\Morrowind```). Overwrite/merge if prompted
 1. Run mash64.exe
 	- The application will prompt you to select the Morrowind root directory. It will also prompt you to select an Installers path: select the ```C:\...\Morrowind\Mods``` directory you created earlier
 	- **Morrowind directory**: select your Morrowind root folder (```C:\...\Morrowind```)
@@ -107,6 +103,10 @@ This powerful tool will be used primarily to clean and repair plugins, clean and
 
 # Optional Tools
 Tools that are not used in this guide. While not strictly needed, if you plan to experiment with your installation and try mods not included in the guide, you may find need of these tools. Otherwise, you may skip this section!
+
+### [TESAME](http://mw.modhistory.com/download-95-5289)
+TESAME is a useful mod editing program that can delete bad and unwanted references within a plugin.
+1. Extract the folder to ```...\Morrowind Mods\Tools\TESAME```
 
 ### [Mlox](https://github.com/mlox/mlox/releases/)
 Optional. A plugin load order sorter. Mlox will not be used in this guide (plugin order will be adjusted manually in the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section of the guide. If you add your own mods, you may want to check your load order with Mlox.
@@ -293,7 +293,7 @@ As you follow the modlist, certain mods are flagged to "require cleaning." ESPs 
 ## TESTool
 The first step is to use TESTool to clean your plugins.
 1. Launch Testool through MO2 (select the executable from the dropdown list in the right pane)
-1. A window will prompt you if you want to use your Morrowind root foler instead of registry settings. Click **Yes**
+1. A window will prompt you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**
 1. Select **Options** and enable: 
 	- Don't change plugin filenames
 	- Retain file time, when cleaning
