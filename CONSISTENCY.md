@@ -1,7 +1,20 @@
 # Gameplay - Consistency
 
+## Expansion Integrations
+1. [Area Effect Arrows Integrated](https://www.nexusmods.com/morrowind/mods/47745)
+	- Enable only the "Area Effect Arrows Integrated" plugin
+1. [Early Transport to Mournhold](https://www.nexusmods.com/morrowind/mods/47985)
+1. [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/49232)
+	- Download the "Expansions Integrated (Sigourn Edit)" Main File
+
+
 ## Restored Content
 1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?)
+1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?)
+	- Mod archive is incorrectly packaged:
+		- In **001 ESP - Bigger Velothi Temples**, drag and drop the "Bigger Velothi Temples.esp" into the **000 Core Files\Glow in the Darhk\Vanilla\Data Files** folder
+		- Right click "Data Files" and set as data directory and install
+	- Cleaning: ESP requires cleaning
 1. [Blighted Blight](https://www.nexusmods.com/morrowind/mods/48631?)
 1. [Blight is Coming](https://www.nexusmods.com/morrowind/mods/47649?)
 1. [Bloat Caves](https://www.nexusmods.com/morrowind/mods/43141?)
@@ -32,8 +45,8 @@
 1. [FMI - NotAllDunmer](https://www.nexusmods.com/morrowind/mods/47569?)
 1. [FMI - Service Refusal and Contraband](https://www.nexusmods.com/morrowind/mods/47456?)
 	- ESP requires cleaning
-1. [Greetings for No Lore](https://www.nexusmods.com/morrowind/mods/46063?)
 1. [Great Service](https://www.nexusmods.com/morrowind/mods/47767)
+1. [Greetings for No Lore](https://www.nexusmods.com/morrowind/mods/46063?)
 1. [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)
 1. [It's a Deal](https://www.nexusmods.com/morrowind/mods/47968?)
 1. [LDM - Context Matters](https://www.nexusmods.com/morrowind/mods/48273?)

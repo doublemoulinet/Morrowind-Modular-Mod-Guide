@@ -206,21 +206,27 @@ It is recommended that you create separators for each module of the guide (for e
 # MGE XE
 The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its other changes, it also supports and comes packaged with the MWSE 2.1 beta, the lua-based script extender. It works out of the box. Like the Morrowind Code Patch, MGE XE must be installed manually.
 
-### [MGE XE](https://www.nexusmods.com/morrowind/mods/41102?)
+## [MGE XE](https://www.nexusmods.com/morrowind/mods/41102?)
 1. Download the **MGE XE Manual Install** Main File
 1. Extract all the contents **except "Data Files"** to your Morrowind root directory
 	- If you have unpacked correctly, the MGEXEGui.exe should be in the same folder as the Morrowind.exe
 1. Within your root directory, right-click the **MWSE-Update.exe** and select **Run as Administrator**
 	- (You may need to add this executable to your anti-virus whitelist) 
 	- Allow the update process to take place. The command-line window will automatically close when this process is done
+
+There is one additional installation step to complete:
 1. In the MGE XE mod archive, zip the remaining folders in **Data Files** (**meshes**, **shaders** and **textures**) and name this archive **MGE XE - Data Files**
 1. Install this file in MO2
+
+Congratulations: you've just installed your first mod.
 
 ## Shaders
 Next, download the following MGE XE shaders. Install these with MO2:
 1. [MGE XE Land Bias Fix](https://mega.nz/file/ft5hUJ5L#-5Y533Rtwy2uX5moycm4pQjEDXClyFGl78XMDvfVzME) a small tweak to the distant land height bias to reduce clipping/seams
 1. [MGE XE Shader - deband_fogaware](https://mega.nz/file/W8x3RTCK#w94LPJSeym5h82KUOg8SbkIoS8M7E-9Xm2Lar0gjqXw) an improved fog shader
 1. [MGE XE Shader - EdgeAA](https://mega.nz/file/HwxVXbQY#eSxnVWTbC165OC1EyC-P9IahvH05We88pyba-fy2ePI) improved anti-aliasing, to be used with MGE XE's AA settings
+
+You should now have four mods installed and enabled (i.e tickboxed) in your MO2 left pane: the MGE XE Data Files, and the above three shaders.
 
 ## Launching MGE XE
 Once the shaders have been installed, launch MGE XE through Mod Organizer:

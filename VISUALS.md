@@ -66,6 +66,7 @@
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?)
 	- Enable "00 Core" and "01 Vvardenfell only"
 1. [No Translation Tooltips](https://www.nexusmods.com/morrowind/mods/48540?)
+	- Accompanies the above mod; removes redundant tooltips on roadsigns
 1. [Perfectly Proficient Parasol Particles Performance Patch](https://www.nexusmods.com/morrowind/mods/48923)
 	- Enable  "00 Project Atlas" only
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?)

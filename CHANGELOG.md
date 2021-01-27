@@ -1,3 +1,21 @@
+# 2021-01-27
+As with previous updates, this one requires you to start a new game. Don't update on an existing save.
+
+**Added**
+- added: BALANCE: [Sepulchral Curses](https://www.nexusmods.com/morrowind/mods/48332), [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766) (replaces Some of a Kind)
+- added: CONSISTENCY: [Area Effect Arrows Integrated](https://www.nexusmods.com/morrowind/mods/47745), [Early Transport to Mournhold](https://www.nexusmods.com/morrowind/mods/47985), [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/49232)
+- added: GAMEPLAY: [Merlord's Starting Equipment](https://www.nexusmods.com/morrowind/mods/47283) (replaces Personal Effects mod)
+- added: CONTENT: [Glass Domes of Vivec - Performance Edition](https://www.nexusmods.com/morrowind/mods/48935), [Glass Domes of Vivec - Moonrain Edition](https://www.nexusmods.com/morrowind/mods/48946), [Glass Domes of Vivec - Ownership Overhaul Patches](https://www.nexusmods.com/morrowind/mods/49232)
+
+**Removed**
+- removed: BALANCE: [Urnest Loot](https://www.nexusmods.com/morrowind/mods/45616?) (no longer supported; unnecessary with OAAB integrations), [MAB0’s Manipulate](https://www.nexusmods.com/morrowind/mods/47222?), [MAB0’s Foundations](https://www.nexusmods.com/morrowind/mods/47244?) (need bugfix), [Some of a Kind - There Can Be Several](https://mega.nz/file/nghzkaTb#eTPvgPDimlIauXtrsbeK9T7qPnr8RW3Znl5dlz75aw8) (easier to maintain this guide using the Nexus release version)
+- removed: GAMEPLAY: [Merlord’s Character Background](https://www.nexusmods.com/morrowind/mods/46795?), [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?)
+- removed: CONTENT: [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?), [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
+
+**Updated**
+- moved [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?) from CONTENT to CONSISTENCY
+- updated: FINISH LINE: [Conflict Resolution]() (now additionally patches creature inventory changes for OAAB integrations, adjusts Quorn's creature stats in line with Mort's Rebalances, and swaps "Some of a Kind" support for "There Can Be Only One")
+
 # 2021-01-22
 
 **Added**

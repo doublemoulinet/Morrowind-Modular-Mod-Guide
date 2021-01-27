@@ -26,17 +26,23 @@
 		- *04 - Better Aldruhn-under Skar* **OR** *05 - Better Aldruhn-under Skar HD*
 	- Enable only the RR_Aldruhn_Under_Skar_ENG.esp
 	- Cleaning: ESP requires cleaning
-1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?)
-	- Mod archive is incorrectly packaged:
-		- In **001 ESP - Bigger Velothi Temples**, drag and drop the "Bigger Velothi Temples.esp" into the **000 Core Files\Glow in the Darhk\Vanilla\Data Files** folder
-		- Right click "Data Files" and set as data directory and install
-	- Cleaning: ESP requires cleaning
 1. [Brevur of Balmora](https://www.nexusmods.com/morrowind/mods/47557?)
 	- Cleaning: ESP requires cleaning
 1. [Concept Art Palace](https://www.nexusmods.com/morrowind/mods/48136?)
 	- Download the Main File and select the Version 1 sub-package
+1. [Glass Domes of Vivec - Performance Edition](https://www.nexusmods.com/morrowind/mods/48935)
+	- Special installation: do not enable the ESP
+1. [Glass Domes of Vivec - Moonrain Edition](https://www.nexusmods.com/morrowind/mods/48946)
+	- Enable the following BAIN options:
+		- 00 Core Visual Assets
+		- 01 Glow in the Dahrk Patch - flickering
+		- 03 New Weather Mechanics (Requires MWSE)
+		- 04 Atmospheric Arena Addition
+	- After installing, disable all ESPs
+1. [Glass Domes of Vivec - Ownership Overhaul Patches](https://www.nexusmods.com/morrowind/mods/49232)
+	- Download the "Ownership Overhaul Patches" Main File
+	- Enable the BAIN option "01 Glass Domes of Vivec - Atmospheric Arena" and rename the mod "Glass Domes of Vivec - Ownership Overhaul Patches"
 1. [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506?)
-	- Download and install normally
 	- Enable only the "Meteorite Ministry Temple" ESP
 	- Cleaning: ESP requires cleaning
 1. [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
@@ -47,7 +53,7 @@
 1. [Open Mournhold](https://www.nexusmods.com/morrowind/mods/44981?)
 1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?)
 1. [Stav's Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/43237?)
-	- Disable the ESP. The meshes will be used in the following mod
+	- Disable the ESP. The meshes will be used for the following mod
 1. [Fixed Version of Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/46184?)
 	- Download and install the Optional File "Fixed Version of Gnisis Minaret"
 	- Do not enable the ESPs
@@ -55,8 +61,6 @@
 	- ESP replacer for the Gnisis Minaret; this version fixes the script attached to the new NPC and adds ownership to the new containers and placed items
 
 ## Wilderness
-1. [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?)
-	- Cleaning: ESP requires cleaning
 1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?)
 	- Enable the "00 Core" option. Select the "01 hires textures" option if using Intelligent Textures	
 	- Cleaning: ESP requires cleaning
@@ -101,13 +105,9 @@
 ## New Items
 1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?)
 1. [Hunter’s Mark – A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656?)
-	- Reminder: be sure to enable the "01 Hunter's Mark" version of *Some of a Kind* installed in the [**Balance**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md) section
 1. [The Madstone](https://www.nexusmods.com/morrowind/mods/47653?)
 1. [Quorn Resource Integration](https://www.nexusmods.com/morrowind/mods/43269?)
 	- Cleaning: ESP requires cleaning
-
-## Companions
-1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
 
 ## Quests
 1. [ABCs for Outlanders](https://www.nexusmods.com/morrowind/mods/46692?)

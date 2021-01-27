@@ -70,12 +70,8 @@ Install this section if you want to play with **Class-Conscious Character Progre
 1. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786?)
 1. [The Law is Sacred](https://www.nexusmods.com/morrowind/mods/48130?)
 	- ESP is optional (it changes a dialogue line to reflect guards' new non-lethal arrest tactics); you can leave it disabled
-1. [Merlord’s Character Background](https://www.nexusmods.com/morrowind/mods/46795?)
-1. [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?)
-	- Enable only Personal Effects_MWSE.esp version
-	- Cleaning: the ESP requires cleaning
+1. [Merlord's Starting Equipment](https://www.nexusmods.com/morrowind/mods/47283)
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?)
-
 
 ## Ambient Environment
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?)

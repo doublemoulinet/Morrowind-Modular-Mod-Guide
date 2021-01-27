@@ -57,7 +57,7 @@ If you installed the **Content** section, you will need to move "Quorn Resource 
 1. Quorn Resource Integration.esp
 
 Ensure that the following mods always load *last* (i.e. at the very bottom) in your load order:
-1. Some of a Kind.esp
+1. There Can Be Only One (Alt Fyr).esp
 1. Conflict Resolution - Finish Line.esp
 1. XE Sky Variations.esp
 1. multipatch.esp
@@ -69,9 +69,12 @@ Several of the mods in this guide make edits to the same creatures and NPCs, and
 You need to create two merged patches to resolve remaining plugin conflicts. Make sure all your plugins are enabled in the Mods Tab and follow these instructions to generate the patch
 
 ## Conflict Resolution Patch
-1. [Conflict Resolution - Finish Line](https://mega.nz/file/70B23IKA#SRwTb-CnFroOY-q3bUFG-ze9AJmV3_7M_kpbHWafmKM)
-	- Conflict resolution patch for MDMD - More Deadly Morrowind Denizens, Quorn Resource Integration, Some of a Kind, and Morag Tong Polished
-	- Select one of the options based on your installation order and install. Make sure the plugin is enabled and at the bottom of your load order
+1. [Conflict Resolution - Finish Line](https://mega.nz/file/K0ICRTpJ#SYcA19wrxt6I6vOYmhrIn2bU-ijrWJUpuxYgqCXe7h8)
+	- Conflict resolution patch for MDMD - More Deadly Morrowind Denizens,  There Can Be Only One, OAAB Integrations, Quorn Resource Integration, Immersive Madness, and Morag Tong Polished
+	- Select one of the options based on your installation order and install.
+		-   Users who skipped the CONTENT module: use "MDMD + There Can Be Only One"
+		- Users who installed the full CONTENT module: use "OAAB + MDMD + There Can Be Only ONe + Quorn + MT Polished + Immersive Madness"
+	- Make sure the plugin is enabled and at the bottom of your load order
 
 ## Multipatch
 First, you need to create the **tes3cmd multipatch**:
@@ -260,12 +263,14 @@ In the in-game menu Options set the following:
 
 ## Mod Keybinds
 The following lists the keybinds set by the mods used in this guide:
+- **B** - toggle closed/open book covers and scrolls (from Switchable Scriptures)
 - **C** - toggle equippable light source (from Torch Hotkey)
 - **G** - precision object placement (from Perfect Placement)
 - **K** - order companions to attack the target (from Kill Command)
 - **L** - modders' tool, you won't need this (from Let There Be Darkness)
 - **O** and **P** - toggle equip lockpicks, probes (from Security Enhanced)
 - **Spacebar** and **left-ctrl** - z-axis movement when levitating or swimming (from Better Buoyancy)
+- **Shift** plus **activate** - instant book pickup (from Book Pickup)
 
 Within the journal quest menu:
 - **Shift** - hold and click quest names to highlight, hide, or unhide from the journal (from Better Questlist)

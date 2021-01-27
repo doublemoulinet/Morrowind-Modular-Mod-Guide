@@ -13,7 +13,7 @@ The landmass mods--**Tamriel Rebuilt** and its sister projects like **Skyrim: Ho
 	- Cleaning: TR_Preview.esp requires cleaning
 1. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921?)
 	- **Grass Plugins**: add the grass ESP to your "Grass Plugins" folder if you created one when installing Remiros' Grass
-		- This step is optional, as it will likely cause a FPS hit
+		- Grass plugins are optional, as they will decrease performance
 1. [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
 	- Download both Main Files
 	- For "Solstheim Tomb of the Snow Prince" enable the following BAIN options:
@@ -23,7 +23,7 @@ The landmass mods--**Tamriel Rebuilt** and its sister projects like **Skyrim: Ho
 		- 012 Armor of the Snow Prince
 	- **Grass Plugins**: For "Solstheim Graphical Replacer" enable only the following option:
 		- 012 Remiros Groundcover for TOTSP
-			- This step is optional, as grass will likely cause a FPS hit
+			- Grass plugins are optional, as they will decrease performance
 	- Ensure only the following four plugins are enabled: 
 		- *Solstheim Tomb of the Snow Prince.esm*, 
 		- *TOTSP TD Content Integration.esp* (only if you are also playing with Tamriel Rebuilt!)
@@ -44,7 +44,7 @@ The following steps will ensure compatibility between the new landmass mods and 
 	- Disable the "02 Lake Fjalding Anti-Suck" option and ensure the *Lake Fjalding Anti-Suck.esp* plugin is not loaded. This fix is already included in *Solstheim Tomb of the Snow Prince*
 1. Lastly, you will need to **register the BSA archives** provided by these landmass mods (TR_Data.bsa and PT_Data.bsa). You can do this via Wrye Mash. Navigate to the right pane of the Mods Tab and select the "BSA Archives" tab. Make sure each BSA has a checkmark next to its name.
 
-## Tamriel Rebuilt Compatibility
+## Additional Compatibility
 Optionally, you may update the following mods to enable compatibility/integration with Tamriel Rebuilt:
 1. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?) (installed in the [**Expanded Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/EXPANDEDCORE.md) section)
 	- Additionally enable BAIN option "06 - TR Interior Sunrays" if you have not already done so.
