@@ -3,12 +3,13 @@
 Congraulations! You're nearly there. This last section details a few quick steps to ensure a bug-free playthrough.
 
 # Index
-1. [Cleaning and Updating Plugins](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#cleaning)
+1. [Cleaning Plugins](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#cleaning-plugins)
 1. [Load Order](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#load-order)
 1. [Conflict Resolution](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#conflict-resolution)
 	1. [Conflict Resolution Patch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#conflict-resolution-patch)
 	1. [Multipatch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#multipatch)
 	1. [Merged Objects](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#merged-objects)
+	1. [Updating Masters](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#updating-masters)
 1. [Distant Land](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#distant-land)
 1. [Shaders](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#shaders)
 1. [In-game Settings](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#in-game-settings)
@@ -17,31 +18,27 @@ Congraulations! You're nearly there. This last section details a few quick steps
 	1. [Mod Keybinds](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#mod-keybinds)
 
 
-# Cleaning and Updating
+# Cleaning Plugins
 
-## Plugin Cleaning
 If you followed the cleaning advice as you installed each mod then you have already completed this section. Otherwise, run TESTool according to the instructions in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md), and then the "clean with tes3cmd" utility in Wrye Mash for individual plugins. 
 
 Please note that this may take some time. However, cleaning your plugins is absolutely necessary.
 
-## Updating Masters Lists
-Launch Wrye Mash. Go to the **Mods** tab for your list of plugins. If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's. Follow these steps:
-- Select the plugin and click the right pane (which lists the masters associated with the plugin). 
-- Mash will prompt you to edit/update the masters list. Click **yes**. 
-- Then click **save** at the bottom of the right pane.
-
 # Load Order
-Generally, ESPs should remain in the order that they were installed in this guide. However, in some cases  re-ordering is required.
+Generally, ESPs should remain in the order that they were installed in this guide. However, in some cases re-ordering is required.
 
 Ensure the following plugins load *first* (i.e. at the very top) in your load order (the right pane of MO2), in this order:
 1. Morrowind.esm
 1. Tribunal.esm
 1. Bloodmoon.esm
+1. *Tamriel_Data.esm ```(installed in LANDMASS)```
+1. *OAAB_Data.esm  ```(installed in CONTENT)```
 1. Patch for Purists.esm
 1. Ownership Overhaul.esm
-1. (Whatever ESMs installed in the CONTENT or LANDMASS EXPANSIONS section, ex OOAB_Data.esm or Tamriel_Data.esm)
+1. *Solstheim Tomb of the Snow Prince.esm ```(installed in LANDMASS)```
 1. Patch for Purists - Book Typos.esp
 1. Patch for Purists - Semi-Purist Fixes.esp
+1. *TOTSP_Patch_for_Purists_4.0.2.esp ```(installed in LANDMASS)```
 1. Expansion Delay.esp
 1. No More Stage Diving.esp
 1. chuzei_helm_no_neck.esp
@@ -50,15 +47,15 @@ Ensure the following plugins load *first* (i.e. at the very top) in your load or
 1. MDMD - More Deadly Morrowind Denizens.esp
 1. MDMD - Creatures Add-on.esp
 
-If you installed the **Content** section, you will need to move "Quorn Resource Integration.esp" higher in your load order, so that Yet Another Guard Diversity Overhaul and Mamaea Awakened overwrite its changes. Move "Quorn Resource Integration.esp" the other "New Items" plugins below the equipment ESPs from the **Visuals** section:
-1. Hopesfire Torch (+ brighter trueflame).esp
+If you installed the **Content** section, you will need to move "Quorn Resource Integration.esp" higher in your load order, so that Yet Another Guard Diversity Overhaul and Mamaea Awakened overwrite its changes. Move "Quorn Resource Integration.esp" and the other "New Items" plugins below the "Expansions Integrated" plugin installed in the **CONSISTENCY** section:
+1. Expansions Integrated.esp
 1. Hircine's Artifacts.esp
 1. Hunter's Mark.esp
 1. Quorn Resource Integration.esp
 
 Ensure that the following mods always load *last* (i.e. at the very bottom) in your load order:
 1. There Can Be Only One (Alt Fyr).esp
-1. Conflict Resolution - Finish Line.esp
+1. Conflict Resolution.esp
 1. XE Sky Variations.esp
 1. multipatch.esp
 1. Merged Objects.esp
@@ -69,7 +66,7 @@ Several of the mods in this guide make edits to the same creatures and NPCs, and
 You need to create two merged patches to resolve remaining plugin conflicts. Make sure all your plugins are enabled in the Mods Tab and follow these instructions to generate the patch
 
 ## Conflict Resolution Patch
-1. [Conflict Resolution - Finish Line](https://mega.nz/file/K0ICRTpJ#SYcA19wrxt6I6vOYmhrIn2bU-ijrWJUpuxYgqCXe7h8)
+1. [Conflict Resolution - Finish Line](https://mega.nz/file/nxw2jCKb#4Bmon9XoNNM4xDHLRchumq6F6yuA_fwAqlMvjxnBAqQ)
 	- Conflict resolution patch for MDMD - More Deadly Morrowind Denizens,  There Can Be Only One, OAAB Integrations, Quorn Resource Integration, Immersive Madness, and Morag Tong Polished
 	- Select one of the options based on your installation order and install.
 		-   Users who skipped the CONTENT module: use "MDMD + There Can Be Only One"
@@ -95,6 +92,16 @@ Now we will move the two plugins to a new mod folder in the left pane. Select th
 - Drag and drop the newly-created **multipatch.esp** and **Merged Objects.esp** to the empty mod and enable it
 
 Note that you will need to regenerate these two plugins nearly each time you adjust your load order (update, remove or add a plugin) so that the changes are carried on. For your convenience, Wrye Mash will indicate if the plugins are missing masters and require regenerating (the plugin will turn yellow or red in the Mods Tab).
+
+## Updating Masters
+Wrye Mash can synchronize the master dependencies of your plugins, correcting for when they are out of the expected order or file size. This prevents error messages on startup.
+
+Launch Wrye Mash. Go to the **Mods** tab for your list of plugins. If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's. Follow these steps:
+- Select the plugin and click the right pane (which lists the masters associated with the plugin). 
+- Mash will prompt you to edit/update the masters list. Click **yes**. 
+- Then click **save** at the bottom of the right pane.
+
+You should repeat this process anytime you update your master plugins like Patch for Purists, Tamriel Data, or OAAB Data.
 
 # Distant Land
 Remember to re-run distant land generation according to the steps in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md).

@@ -13,6 +13,7 @@ As with previous updates, this one requires you to start a new game. Don't updat
 - removed: CONTENT: [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?), [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
 
 **Updated**
+- fixed download instructions for [tes3cmd multipatch](https://mega.nz/file/D1pmHQBJ#9YMB2pyRLAFHqBczqQhqXvzNtaDW7yqwIH4Mt9MuEpA) in CORE
 - moved [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?) from CONTENT to CONSISTENCY
 - updated: FINISH LINE: [Conflict Resolution]() (now additionally patches creature inventory changes for OAAB integrations, adjusts Quorn's creature stats in line with Mort's Rebalances, and swaps "Some of a Kind" support for "There Can Be Only One")
 

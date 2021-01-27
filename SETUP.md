@@ -72,9 +72,8 @@ These modding tools will be used for several key steps in this guide: mod cleani
 
 ### [tes3cmd](https://github.com/john-moonsugar/tes3cmd/releases)
 This powerful command-line tool cleans mods and will be used to build a multipatch at the end of the mod guide.
-1. Download the latest tes3cmd release and extract the tes3cmd.exe your ```Morrowind\Data Files``` folder. Do not install tes3cmd to the root directory
-1. Inside ```Morrowind\Data Files``` create another .txt file and [copy the batch file multipatch text](http://wiki.theassimilationlab.com/mmw/TES3cmd#Using_a_batch_file_to_create_a_multipatch_plugin)
-	1. Rename the .txt file to tes3cmd_multipatch.bat. Make sure to change the filetype extension from .txt to .bat
+1. Download the latest [tes3cmd](https://github.com/john-moonsugar/tes3cmd/releases) release and extract the tes3cmd.exe to your ```Morrowind\Data Files``` folder. Do not install tes3cmd to the root directory
+1. Download the [tes3cmd multipatch](https://mega.nz/file/D1pmHQBJ#9YMB2pyRLAFHqBczqQhqXvzNtaDW7yqwIH4Mt9MuEpA) and extract the tes3cmd_multipatch.bat to your ```Morrowind\Data Files``` folder. Do not install  to the root directory
 
 ### [TES3Merge](https://www.nexusmods.com/morrowind/mods/46870?tab=files)
 This tool will automatically patch mod conflicts by generating a merged patch. This patch will be used in conjunction with tes3cmd's multipatch. 
