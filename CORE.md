@@ -21,11 +21,9 @@ The following are all you need to play the game on modern systems. This section 
 		- 02 Lake Fjalding Anti-Suck
 		- 03 MGE XE Addon
 		- 05 Chuzei Fix
-	- NB: You will install the “04 Weapon Sheathing Patch” as a separate mod further down in the installation order
 1. [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399?)
 	- Enable only the following:
 		- 00 Core
-	- NB: you will enable the “10 Glow in the Darhk Patch” options later in the installation as a separate mod
 1. [Creature VFX Restoration](https://www.nexusmods.com/morrowind/mods/46194?)	
 
 ## User Interface – Core

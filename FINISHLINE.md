@@ -36,6 +36,7 @@ Ensure the following plugins load *first* (i.e. at the very top) in your load or
 1. Patch for Purists.esm
 1. Ownership Overhaul.esm
 1. *Solstheim Tomb of the Snow Prince.esm ```(installed in LANDMASS)```
+1. *Sky_Main.esm ```(installed in LANDMASS)```
 1. Patch for Purists - Book Typos.esp
 1. Patch for Purists - Semi-Purist Fixes.esp
 1. *TOTSP_Patch_for_Purists_4.0.2.esp ```(installed in LANDMASS)```
@@ -159,12 +160,12 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 ### **Continue**
 - Hide Credits Button = Yes
 - Hide New Game Button (In Game) = Yes
-- **Graphic Herbalism**
+### **Graphic Herbalism**
 - Whitelist: 
 	- ab_r_kwamaeggblighted
 	- abtv_o_kweggblightedmm
 - Blacklist:
-	- _in_lib_scrolls*
+	- _in_lib_scrolls* (all objects with this ID prefix)
 	- ab_r_kwamstorager
 ### **Illegal Summoning**
 - NPC Crime Trigger Distance = 2000
@@ -207,7 +208,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 ### **Locks and Traps Detection**
 - Set Visually Trapped Objects integration to "Yes"
 ### **Magicka Based Skill Progression**
-- Skill Experience per Magicka: **0.05** (the default value is too high)
+- Skill Experience per Magicka: **0.1** (the default value is too high)
 ### **Magicka Regen**
 - Set the player value to 50%
 - Enable Magicka Decay: On
