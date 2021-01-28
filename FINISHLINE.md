@@ -35,11 +35,12 @@ Ensure the following plugins load *first* (i.e. at the very top) in your load or
 1. *OAAB_Data.esm  ```(installed in CONTENT)```
 1. Patch for Purists.esm
 1. Ownership Overhaul.esm
-1. *Solstheim Tomb of the Snow Prince.esm ```(installed in LANDMASS)```
+1. *TR_Mainland.esm ```(installed in LANDMASS)```
 1. *Sky_Main.esm ```(installed in LANDMASS)```
+1. *Solstheim Tomb of the Snow Prince.esm ```(installed in LANDMASS)```
+1. [**Any other ESMs** in your load order]
 1. Patch for Purists - Book Typos.esp
 1. Patch for Purists - Semi-Purist Fixes.esp
-1. *TOTSP_Patch_for_Purists_4.0.2.esp ```(installed in LANDMASS)```
 1. Expansion Delay.esp
 1. No More Stage Diving.esp
 1. chuzei_helm_no_neck.esp
@@ -266,6 +267,9 @@ In the in-game menu Options set the following:
 
 ### **Video**
 - Set **Real-time shadows** to the middle of the slider (this is less for performance reasons than to reduce the incidence of buggy shadows through walls, etc.)
+
+## In-game Settings
+The last step is to open the in-game console and adjust the formula for earthquake chances in "Shattered Stones." Open the console (~) and type: ```set fQuakeChance to 10```
 
 ## Mod Keybinds
 The following lists the keybinds set by the mods used in this guide:
