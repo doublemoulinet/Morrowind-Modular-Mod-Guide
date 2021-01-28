@@ -79,30 +79,30 @@ First, you need to create the **tes3cmd multipatch**:
 1. Launch **tes3cmd** from your list of executables in MO2
 1. In the command promt, type: "tes3cmd_multipatch.bat" without the quotation marks
 1. Follow the prompts in the command-line window and wait for it to generate the patch
-1. Once complete, tes3cmd will create multipatch.esp in your Overwrite folder in MO2
+1. Once complete, close tes3cmd. Tes3cmd will create multipatch.esp in your Overwrite folder in MO2
 
 ## Merged Objects
 Next, create the **Merged Objects patch** with **TES3Merge**:
 1. Launch TES3Merge.exe from your list of plugins in MO2 and wait for it to generate the plugin
-1. Once complete, TES3Merge wil create Merged Objects.esp in your overwrite folder
-1. Move the newly-created **Merged Objects.esp plugin** to the bottom of your load order (i.e. last)
+1. Once complete, TES3Merge will auto-close and create Merged Objects.esp in your overwrite folder
 
 Now we will move the two plugins to a new mod folder in the left pane. Select the mini-wrench-and-screwdriver icon next to the **Profiles** dropdown menu:
 - Select **Create empty mod** and title it "**Merged Patches**"
 - Double click the **Overwrite** folder at the bottom of your installation order
 - Drag and drop the newly-created **multipatch.esp** and **Merged Objects.esp** to the empty mod and enable it
+- Move the two plugins to the bottom of your load order, with **Merged Objects.esp** loading last
 
 Note that you will need to regenerate these two plugins nearly each time you adjust your load order (update, remove or add a plugin) so that the changes are carried on. For your convenience, Wrye Mash will indicate if the plugins are missing masters and require regenerating (the plugin will turn yellow or red in the Mods Tab).
 
 ## Updating Masters
-Wrye Mash can synchronize the master dependencies of your plugins, correcting for when they are out of the expected order or file size. This prevents error messages on startup.
+Wrye Mash can synchronize the master dependencies of your plugins, correcting for when masters are out of the expected order or file size. This prevents error messages on startup.
 
 Launch Wrye Mash. Go to the **Mods** tab for your list of plugins. If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's. Follow these steps:
 - Select the plugin and click the right pane (which lists the masters associated with the plugin). 
 - Mash will prompt you to edit/update the masters list. Click **yes**. 
 - Then click **save** at the bottom of the right pane.
 
-You should repeat this process anytime you update your master plugins like Patch for Purists, Tamriel Data, or OAAB Data.
+You should repeat this process anytime you update common master plugins like Patch for Purists, Tamriel Data, or OAAB Data.
 
 # Distant Land
 Remember to re-run distant land generation according to the steps in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md).
@@ -144,7 +144,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - Enable **Harder Barter like merchants buying prices reduction**: 2. Medium
 ### **Accidental Theft Protection**
 - Blacklist: select the "Books" filter and click "filter all" in the right pane (this will allow you to read owned books without toggling sneak first).
-	- You may also want to blacklist "Doors" if you haven't installed Ownership Overhaul
+- Select the "Doors" filter and click "filter all" in the right pane (this is largely a preecaution, since Ownership Overhaul should fix all vanilla game door ownership)
 ### **AURA**
 - General Tab
 	- No: Enable UI Module
@@ -208,7 +208,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 ### **Locks and Traps Detection**
 - Set Visually Trapped Objects integration to "Yes"
 ### **Magicka Based Skill Progression**
-- Skill Experience per Magicka: **0.1** (the default value is too high)
+- Skill Experience per Magicka: **0.2** (the default value is too high)
 ### **Magicka Regen**
 - Set the player value to 50%
 - Enable Magicka Decay: On
@@ -233,8 +233,6 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - Show quickloot menu on plant/organic containers? = No
 ### **Security Enhanced**
 - Change the equip/cycle lockpick hotkey to "O" ("L" is used by Let There Be Darkness)
-### **Simple Combat Mechancis**
-- Disarmament: Disable (prevents NPCs from stealing bound weapons)
 ### **Sophisticated Save System**
 - set up autosaves as you prefer, but recommend disabling “Create autosaves after changing cells”
 ### **Soulless Creatures**
@@ -279,6 +277,7 @@ The following lists the keybinds set by the mods used in this guide:
 - **O** and **P** - toggle equip lockpicks, probes (from Security Enhanced)
 - **Spacebar** and **left-ctrl** - z-axis movement when levitating or swimming (from Better Buoyancy)
 - **Shift** plus **activate** - instant book pickup (from Book Pickup)
+- **Ctrl** plus **activate** - alchemy apparatus worldspace activation (from Poison Redux-ion)
 
 Within the journal quest menu:
 - **Shift** - hold and click quest names to highlight, hide, or unhide from the journal (from Better Questlist)
