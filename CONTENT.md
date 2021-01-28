@@ -28,8 +28,6 @@
 	- Cleaning: ESP requires cleaning
 1. [Brevur of Balmora](https://www.nexusmods.com/morrowind/mods/47557?)
 	- Cleaning: ESP requires cleaning
-1. [Concept Art Palace](https://www.nexusmods.com/morrowind/mods/48136?)
-	- Download the Main File and select the Version 1 sub-package
 1. [Glass Domes of Vivec - Performance Edition](https://www.nexusmods.com/morrowind/mods/48935)
 	- Special installation: do not enable the ESP
 1. [Glass Domes of Vivec - Moonrain Edition](https://www.nexusmods.com/morrowind/mods/48946)
@@ -59,6 +57,8 @@
 	- Do not enable the ESPs
 1. [Fixed Version of Gnisis Minaret - Fixed ESP](https://mega.nz/file/O14DRBjQ#VoipDGkDyy319TPofTxe5z6GCysaLoOwcPwXsK2U1_E)
 	- ESP replacer for the Gnisis Minaret; this version fixes the script attached to the new NPC and adds ownership to the new containers and placed items
+1. [Vivec Palace](https://www.nexusmods.com/morrowind/mods/49103)
+	- Download the "Vivec Palace" Main File
 
 ## Wilderness
 1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?)
