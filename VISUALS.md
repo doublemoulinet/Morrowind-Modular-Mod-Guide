@@ -34,10 +34,49 @@
 	- Enable the "00 Core" and "01 MWSE" options
 1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?)
 	- Enable both the "00 Core" and "01 Vanilla Mist Replacer" options
-1. [Mist Retexture](https://www.nexusmods.com/morrowind/mods/44322?)
+	- Note: may cause FPS drop at night in the Bitter Coast regions depending on your CPU. Untick the ESP or uninstall if the performance decrease annoys you
 1. [MWSE Blood Diversity](https://www.nexusmods.com/morrowind/mods/47913)
 	- Install both the "00 Core" option and the texture version of your choice ("01 vanilla-friendly textures" for vanilla textures; "02 R-zero's textures" for Intelligent Textures)
-	- Be sure to read the readme and update your Morrowind.ini as directed. You can comment out the default Morrowind.ini "[Blood]" entries with semicolons (;) or dashes (--) and paste the mod's ini changes underneath, which will allow you to revert to vanilla .ini settings easily
+	- Open your MO2 profile's .ini in ```Mod Organizer 2\Profiles\[profile name]\Morrowind.ini```
+	- Replace the [Blood] section with the following:
+		```
+		[Blood]
+		;Model 0=BloodSplat.nif
+		;Model 1=BloodSplat2.nif
+		;Model 2=BloodSplat3.nif
+
+		;Texture 0=Tx_Blood.tga
+		;Texture 1=Tx_Blood_White.tga
+		;Texture 2=Tx_Blood_Gold.tga
+
+		;Texture Name 0=Default (Red)
+		;Texture Name 1=Skeleton (White)
+		;Texture Name 2=Metal Sparks (Gold)
+		
+		Model 0=BloodSplat.nif
+		Model 1=BloodSplat2.nif
+		Model 2=BloodSplat3.nif
+
+		Texture 0=Anu\Blood\Tx_Blood.dds
+		Texture 1=Anu\Blood\Tx_Blood_Dust.dds
+		Texture 2=Anu\Blood\Tx_Blood_Sparks.dds
+		Texture 3=Anu\Blood\Tx_Blood_Ichor.dds
+		Texture 4=Anu\Blood\Tx_Blood_Ecto.dds
+		Texture 5=Anu\Blood\Tx_Blood_Blue.dds
+		Texture 6=Anu\Blood\Tx_Blood_Insect.dds
+		Texture 7=Anu\Blood\Tx_Blood_Energy.dds
+
+		Texture Name 0=Red Blood
+		Texture Name 1=Dust
+		Texture Name 2=Metal Sparks
+		Texture Name 3=Ichor
+		Texture Name 4=Ectoplasm
+		Texture Name 5=Blue Blood
+		Texture Name 6=Orange Blood
+		Texture Name 7=Energy
+		```
+1. [Perfectly Proficient Parasol Particles Performance Patch](https://www.nexusmods.com/morrowind/mods/48923)
+	- Enable  "00 Project Atlas" only
 1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?)
 1. [Unto Dust](https://www.nexusmods.com/morrowind/mods/48435?)
 	- Enable both "00 Core" and "01 Default Dust"
@@ -52,7 +91,6 @@
 	- Download "Ashmire Replacer" and enable ONLY the "01 - Still Mire" BAIN option
 1. [Bitter Coast Scum Replacer](https://www.nexusmods.com/morrowind/mods/48291?)
 	- Download "Bitter Coast Scum Replacer" and enable the "00 Core" and "03 Standalone - Lougian's Meshes Fixed" options
-	- Download only the "Detailed Brooms" main file
 1. [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219?)
 	- Enable both "00 Core" and "03 Glow Effect" options
 1. [Enhanced Stone Walls](https://www.nexusmods.com/morrowind/mods/45939?)
@@ -65,14 +103,8 @@
 	- Download only "Lore Friendly Iron Warhammer" and install
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?)
 	- Enable "00 Core" and "01 Vvardenfell only"
-1. [No Translation Tooltips](https://www.nexusmods.com/morrowind/mods/48540?)
-	- Accompanies the above mod; removes redundant tooltips on roadsigns
-1. [Perfectly Proficient Parasol Particles Performance Patch](https://www.nexusmods.com/morrowind/mods/48923)
-	- Enable  "00 Project Atlas" only
+	- Optional: install [No Translation Tooltips](https://www.nexusmods.com/morrowind/mods/48540?) to remove now-redundant road sign tooltips
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?)
-1. [Silt Strider - Redone](https://www.nexusmods.com/morrowind/mods/49023)
-	- Install the "Hater8's Silt Strider Redone" Main File
-	- Enable  the "H8 Vanilla - High res textures" if using Intelligent Textures; otherwise enable the "H8 vanilla - vanilla textures" option
 1. [Skeletons Atlased](https://www.nexusmods.com/morrowind/mods/46012?)
 	- Download only the optional file “Skeletons Atlased”
 	- Enable the following BAIN options:
@@ -91,7 +123,7 @@ If you prefer a more HD and 16:9 splash screen ExPerIeNCe, install these replace
 1. [Widescreen Splash Replacer](https://www.nexusmods.com/morrowind/mods/47163?)
 1. [Additional Splash Screens](https://www.nexusmods.com/morrowind/mods/43319?)
 1. [Widescreen Splash Additions](https://www.nexusmods.com/morrowind/mods/48001?)
-	- Archive is incorrectly packed: create a "splash" folder and place the .tga files inside
+	- Archive is incorrectly packed: in MO2's "manual" install interface, create a "splash" folder and place the .tga files inside
 
 
 **NEXT SECTION**:

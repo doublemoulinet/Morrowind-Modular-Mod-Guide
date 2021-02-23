@@ -1,3 +1,18 @@
+# 2021-02-23
+
+**Removed**
+- removed: EXPANDED: [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735?) (nice but really trivial)
+- removed: VISUALS: [Mist Retexture](https://www.nexusmods.com/morrowind/mods/44322?), [Silt Strider - Redone](https://www.nexusmods.com/morrowind/mods/49023)
+- removed: BALANCE: [Better Balanced Booze](https://www.nexusmods.com/morrowind/mods/45844?), [Limited Leaping](https://github.com/NullCascade/morrowind-mods), [Sepulchral Curses](https://www.nexusmods.com/morrowind/mods/48332)
+- removed: GAMEPLAY: [Enhanced Reflection](https://www.nexusmods.com/morrowind/mods/48956) (temporarily removed pending bugfix)
+- removed: CONTENT: [Open Mournhold](https://www.nexusmods.com/morrowind/mods/44981?), [The Madstone](https://www.nexusmods.com/morrowind/mods/47653?), [Quorn Resource Integration](https://www.nexusmods.com/morrowind/mods/43269?) (the variety is good but some assets are subpar. Hopefully OAAB will replace it someday)
+
+**Updated**
+- updated Wrye Mash installation instructions (latest beta users *must* enable the 1024 plugins support)
+- removed optional installation for [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
+- moved [The Last Witness](https://github.com/NullCascade/morrowind-mods), Skill Tweaks from EXPANDED CORE to GAMEPLAY
+- moved [Illegal Summoning](https://www.nexusmods.com/morrowind/mods/47105?) from BALANCE to CONSISTENCY
+
 # 2021-01-28
 As with previous updates, this one requires you to start a new game. Don't update on an existing save.
 
@@ -10,7 +25,7 @@ As with previous updates, this one requires you to start a new game. Don't updat
 **Removed**
 - removed: BALANCE: [Urnest Loot](https://www.nexusmods.com/morrowind/mods/45616?) (no longer supported; unnecessary with OAAB integrations), [MAB0’s Manipulate](https://www.nexusmods.com/morrowind/mods/47222?), [MAB0’s Foundations](https://www.nexusmods.com/morrowind/mods/47244?) (need bugfix), [Some of a Kind - There Can Be Several](https://mega.nz/file/nghzkaTb#eTPvgPDimlIauXtrsbeK9T7qPnr8RW3Znl5dlz75aw8) (easier to maintain this guide using the Nexus release version)
 - removed: GAMEPLAY: [Merlord’s Character Background](https://www.nexusmods.com/morrowind/mods/46795?), [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?)
-- removed: CONTENT: [Concept Art Palace](https://www.nexusmods.com/morrowind/mods/48136?) (replaced with Vivec Palace) [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?), [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
+- removed: CONTENT: [Concept Art Palace](https://www.nexusmods.com/morrowind/mods/48136?) (replaced with Vivec Palace), [Faces of Vel - Ash Mire](https://www.nexusmods.com/morrowind/mods/44200?), [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247?)
 
 **Updated**
 - fixed a potentially game-breaking issue in the CORE section: added instructions to enable **ALL** Mod Specific MCP options

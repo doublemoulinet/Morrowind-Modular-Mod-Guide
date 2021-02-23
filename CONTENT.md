@@ -48,7 +48,6 @@
 		- If you created a "Grass Plugins" folder when installing Remiros' Grass, be sure to repeat that step for these plugins
 1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?)
 	- Enable only the "00 Core" BAIN option
-1. [Open Mournhold](https://www.nexusmods.com/morrowind/mods/44981?)
 1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?)
 1. [Stav's Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/43237?)
 	- Disable the ESP. The meshes will be used for the following mod
@@ -105,9 +104,6 @@
 ## New Items
 1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?)
 1. [Hunter’s Mark – A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656?)
-1. [The Madstone](https://www.nexusmods.com/morrowind/mods/47653?)
-1. [Quorn Resource Integration](https://www.nexusmods.com/morrowind/mods/43269?)
-	- Cleaning: ESP requires cleaning
 
 ## Quests
 1. [ABCs for Outlanders](https://www.nexusmods.com/morrowind/mods/46692?)

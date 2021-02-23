@@ -99,7 +99,10 @@ This powerful tool will be used primarily to clean and repair plugins, clean and
 	- **Morrowind directory**: select your Morrowind root folder (```C:\...\Morrowind```)
 	- **Mods Installers directory**: you can direct the filepath to (```C:\...\Morrowind\Mopy\Mods```) or anywhere else; this guide will not use Wrye Mash's Mods Installers functionality
 	- **Mlox directory**: You can ignore the mlox optional path for now
+1. When prompted to enable support for 1024 plugins, choose Yes
 1. Continue through the prompts and conclude the initialization process when prompted
+
+Important: you *must* enable support for 1024 plugins. Currently, with this option disabled the save-cleaning tools are not working
 
 # Optional Tools
 Tools that are not used in this guide. While not strictly needed, if you plan to experiment with your installation and try mods not included in the guide, you may find need of these tools. Otherwise, you may skip this section!
@@ -122,6 +125,7 @@ As described earlier, this powerful tool will manage your mod installation, mod 
 ### [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 1. Download the Main File: **Mod Organizer 2 (Archive)**
 1. Extract to ```...\Morrowind Mods\Tools\MO2```
+1. Right-click on the executable, select "Properties"; under "Compatibility" tick "Run this program as an administrator"
 1. Run ModOrganizer.exe
 	- You will be prompted to **Choose Instance**. Select **Portable**
 	- You will be prompted to **select the game to manage**. Select **Morrowind**.

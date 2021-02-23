@@ -57,10 +57,15 @@ If you installed the **Content** section, you will need to move "Quorn Resource 
 
 Ensure that the following mods always load *last* (i.e. at the very bottom) in your load order:
 1. There Can Be Only One (Alt Fyr).esp
-1. Conflict Resolution.esp
+1. Conflict Resolution.esp ```(installed in the next step)```
 1. XE Sky Variations.esp
-1. multipatch.esp
-1. Merged Objects.esp
+1. multipatch.esp ```(created in the next step)```
+1. Merged Objects.esp ```(created in the next step)```
+
+### Load Order Backup
+Finally, make a backup of both your installation order and your load order (this is in the event that MO2 crashes and purges your load order):
+1. In the right pane of MO2, click the harddisk icon. A text popup "Backup of load order created" should appear at the bottom of the MO2 interface
+1. In the left pane of MO2, click the harddisk icon. A text popup "Backup of mod list created"
 
 # Conflict Resolution
 Several of the mods in this guide make edits to the same creatures and NPCs, and in some cases these changes will not be carried over and merged by the multipatch and merged patch. The following patch will resolve those conflicts and ensure the correct changes are carried forward into your merged patches in the next step of this guide.
@@ -231,9 +236,12 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - NO: Use base stats for alchemy instead of fortified ones
 ### **Quick Loot**
 - Hide lock status? = Yes
-- Show quickloot menu on plant/organic containers? = No
+- Show quickloot menu on plant/organic containers? = No (Graphic Herbalism's tooltip is superior)
+- Show vanilla container tooltip = yes 
+	- (will cause redundant tooltips but resolves an edge-case issue when the quickloot menu is disabled for organic containers)
 ### **Security Enhanced**
 - Change the equip/cycle lockpick hotkey to "O" ("L" is used by Let There Be Darkness)
+- Set auto-equip options to OFF
 ### **Sophisticated Save System**
 - set up autosaves as you prefer, but recommend disabling “Create autosaves after changing cells”
 ### **Soulless Creatures**
@@ -279,6 +287,7 @@ The following lists the keybinds set by the mods used in this guide:
 - **K** - order companions to attack the target (from Kill Command)
 - **L** - modders' tool, you won't need this (from Let There Be Darkness)
 - **O** and **P** - toggle equip lockpicks, probes (from Security Enhanced)
+- **X** and **Z** - Take-all, and open container/alternate activate key (from Quickloot)
 - **Spacebar** and **left-ctrl** - z-axis movement when levitating or swimming (from Better Buoyancy)
 - **Shift** plus **activate** - instant book pickup (from Book Pickup)
 - **Ctrl** plus **activate** - alchemy apparatus worldspace activation (from Poison Redux-ion)

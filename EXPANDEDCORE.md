@@ -26,7 +26,7 @@
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- In MO2, set User Interface Expansion as your data directory and install
 
-## User Interface - Hotkeys
+## Hotkeys
 1. [Better Buoyancy](https://www.nexusmods.com/morrowind/mods/48929?)
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?)
 1. [Hotkeys Extended](https://www.nexusmods.com/morrowind/mods/48055?)
@@ -37,12 +37,6 @@
 	- Install  the "00 Core" and "01 Icons" options
 1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?)
 
-## Skill Tweaks
-1. [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
-1. [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528?)
-1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
-1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
-
 ## Gameplay Tweaks
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?)
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?)
@@ -52,6 +46,16 @@
 1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- In MO2, set Drop Light as your data directory and install
+1. [Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
+1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
+1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)
+1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?)
+1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
+1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)
+	- Download the zip of all NullCascade’s Morrowind mods
+	- In MO2, set Smarter Soultrap as your data directory and install
+
+## Immersion Tweaks
 1. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?)
 	- Enable the following options:
 		- 00 Core
@@ -69,46 +73,15 @@
 	- Enable the following BAIN options:
 		- 00 Core + Vanilla Patches
 1. [Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864?)
-1. [Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
-1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
-	- Download the zip of all NullCascade’s Morrowind mods
-	- In MO2, set The Last Witness as your data directory and install
-1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
 1. [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094?)
-1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)
-1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?)
-1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
-	- Optional: open pg_gmst_config.json and replace the text with the following for faster projectiles, and higher recovery chance on thrown weapons:
-		```
-			{
-				"pg_gmst_hotReloadKey": 88,
-				
-				"fCombatAngleXY": 4,
-				"i1stPersonSneakDelta": 30,
-				"iGreetDistanceMultiplier": 5,
-			
-				"fProjectileMaxSpeed": 3200,
-				"fProjectileMinSpeed": 460,
-				"fThrownWeaponMaxSpeed": 1200,
-				"fThrownWeaponMinSpeed": 360,
-				"fProjectileThrownStoreChance": 80,
-			
-				"fTargetSpellMaxSpeed": 1200
-			}
-		```
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?)
-1. [Plain Paper Fix](https://www.nexusmods.com/morrowind/mods/47735?)
-1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)
-	- Download the zip of all NullCascade’s Morrowind mods
-	- In MO2, set Smarter Soultrap as your data directory and install
 1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?)
 1. [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069?)
 	- Download and install the “MWSE” Main File
 1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?)
 	- Install *only* the “04 Weapon Sheathing Patch” BAIN option
 	- Rename the mod to "MOP - Weapon Sheathing Patch". Click OK.
-
 
 **NEXT SECTION**:
 [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md)

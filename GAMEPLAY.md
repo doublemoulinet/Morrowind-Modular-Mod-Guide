@@ -30,7 +30,14 @@ Install this section if you want to play with **Class-Conscious Character Progre
 1. [Proportional Progression config file](In progress!)
 	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for CCCP.
 
-## Expanded Skill Tweaks
+## Skill Tweaks
+1. [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
+1. [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528?)
+1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
+	- Complements, and is intended for use alongside, [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)
+1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
+
+## Expanded Skills
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
@@ -58,7 +65,6 @@ Install this section if you want to play with **Class-Conscious Character Progre
 1. [Enhanced Light](https://www.nexusmods.com/morrowind/mods/47672?)
 	- Enable the following BAIN options:
 		- 00 - Core
-1. [Enhanced Reflection](https://www.nexusmods.com/morrowind/mods/48956)
 1. [Enhanced Telekinesis](https://www.nexusmods.com/morrowind/mods/47534?)
 	- Enable the following BAIN options:
 		- 00 - Core
@@ -68,6 +74,9 @@ Install this section if you want to play with **Class-Conscious Character Progre
 
 ## Crime, Combat, and Character Tweaks
 1. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786?)
+1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
+	- Download the zip of all NullCascade’s Morrowind mods
+	- In MO2, set The Last Witness as your data directory and install
 1. [The Law is Sacred](https://www.nexusmods.com/morrowind/mods/48130?)
 	- ESP is optional (it changes a dialogue line to reflect guards' new non-lethal arrest tactics); you can leave it disabled
 1. [Merlord's Starting Equipment](https://www.nexusmods.com/morrowind/mods/47283)
@@ -86,7 +95,7 @@ Install this section if you want to play with **Class-Conscious Character Progre
 1. [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636)
 	- Enable only the following BAIN options: "00 Lua core"
 	- This enables the dynamic weather transitions, weather changes inside, and randomised particles/cloud speed	
-
+	
 
 **NEXT SECTION**:
 [**Content**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONTENT.md)

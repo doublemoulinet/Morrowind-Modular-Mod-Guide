@@ -7,7 +7,6 @@
 1. [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/49232)
 	- Download the "Expansions Integrated (Sigourn Edit)" Main File
 
-
 ## Restored Content
 1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?)
 1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?)
@@ -25,6 +24,7 @@
 	- ESP requires cleaning
 1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?)
 	- ESP requires cleaning
+1. [Illegal Summoning](https://www.nexusmods.com/morrowind/mods/47105?)
 1. [Religions Elaborated](https://www.nexusmods.com/morrowind/mods/47843?)
 	- Download and install the optional "No Quest Changes" version in the Optional Files
 	- Cleaning: ESP requires cleaning	
