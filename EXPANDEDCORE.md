@@ -1,6 +1,8 @@
 # Core - Expanded
+This section expands on the [**Core module**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) with lightweight MWSE mods that improve existing vanilla features: expanded menu and UI, basic convenience tweaks, and core immersion mods that conform to a "vanilla-enhanced" design scheme. This module is strongly recommended for first-time and returning players.
 
 ## User Interface - Expanded
+Improved main menu, character creation, HUD, and in-game menus. Essential to any modded playthrough.
 1. [Better Questlist](https://www.nexusmods.com/morrowind/mods/48272?)
 1. [Book Worm](https://www.nexusmods.com/morrowind/mods/46851?)
 1. [Character Creation Name Generator](https://www.nexusmods.com/morrowind/mods/46189?)
@@ -11,10 +13,11 @@
 1. [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119?)
 	- Download and install Main File "Descriptive Shrines"
 1. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/47962?)
-	- The fillbar is too narrow for my tastes. You can adjust the width in the main.lua. Find the line "chargeFillbar.height" and change the value after the equals sign to 7
+	- The fillbar is too narrow for my tastes. You can adjust the width in the main.lua. Find "chargeFillbar.height = 6" [line 18] and change the value after the equals sign to 7
 1. [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693?)
 1. [Ownership Indicator](https://www.nexusmods.com/morrowind/mods/45940?)
 1. [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)
+	- Optional. Adds Fallout 4-style quick loot system. Recommended, but note that there are some minor issues with some container types.
 1. [Randomised Chargen](https://www.nexusmods.com/morrowind/mods/46915?)
 1. [Shrine Tooltips](https://www.nexusmods.com/morrowind/mods/48275?)
 1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?)
@@ -22,11 +25,13 @@
 1. [Smart Map](https://www.nexusmods.com/morrowind/mods/46634?)
 1. [MWSE AbotLib](https://www.nexusmods.com/morrowind/mods/47717?)
 1. [Tooltips Complete](https://www.nexusmods.com/morrowind/mods/46842?)
+	- Optional. Adds new flavour text tooltips to all the vanilla items and most of the mod-added items used in this guide. 
 1. [User Interface Expansion](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- In MO2, set User Interface Expansion as your data directory and install
+	- In the MO2 installation interface, set "User Interface Expansion" as the data directory
+	- Name the mod "User Interface Expansion" and install
 
 ## Hotkeys
+Improved menu navigation and controls.
 1. [Better Buoyancy](https://www.nexusmods.com/morrowind/mods/48929?)
 1. [Book Pickup](https://www.nexusmods.com/morrowind/mods/46625?)
 1. [Hotkeys Extended](https://www.nexusmods.com/morrowind/mods/48055?)
@@ -38,24 +43,26 @@
 1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?)
 
 ## Gameplay Tweaks
+Core convenience mods using MWSE that address gameplay oversights and inconsistencies, or add lightweight features that conform to the stricter vanilla-plus approach of this module.
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?)
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?)
 1. [Cover Yourself](https://www.nexusmods.com/morrowind/mods/48016?)
 1. [Darhk’s Super-Sized Storage](https://www.nexusmods.com/morrowind/mods/45147?)
 1. [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717?)
 1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- In MO2, set Drop Light as your data directory and install
+	- In the MO2 installation interface, set "Drop Light" as the data directory
+	- Name the mod "Drop Light" and install
 1. [Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
 1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
 1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)
 1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?)
 1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
 1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)
-	- Download the zip of all NullCascade’s Morrowind mods
-	- In MO2, set Smarter Soultrap as your data directory and install
+	- In the MO2 installation interface, set "Smarter Soultrap" as the data directory
+	- Name the mod "Smarter Soultrap" and install
 
 ## Immersion Tweaks
+These core MWSE mods are a major enhancement to the base game, and should be considered essential to any modern modded playthrough. 
 1. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?)
 	- Enable the following options:
 		- 00 Core

@@ -224,6 +224,8 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - Customize Limited Recall values
 	- Recalls per day: 4
 - *optional* Enable Miscast Enhanced integration!
+### **No More Friendly Fire**
+- Blacklist: add "Hlormar Wine-Sot" (corrects an interaction between this mod and a vanilla quest)
 ### **No Translation Tooltips**
 - Disable road sign tooltips: yes
 - Disable banner tooltips: no

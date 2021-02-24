@@ -1,3 +1,11 @@
+# 2021-02-24
+
+**Added**
+- re-added: GAMEPLAY: [Enhanced Reflection](https://www.nexusmods.com/morrowind/mods/48956) (bugfix release)
+
+**Updated**
+- moved [Area Effect Arrows Integrated](https://www.nexusmods.com/morrowind/mods/47745) from CONSISTENCY to CONTENT (Official Plugins content belongs in the... content section)
+
 # 2021-02-23
 
 **Removed**

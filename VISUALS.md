@@ -1,12 +1,15 @@
 # Visuals
+This module improves the visual fidelity of the game while preserving the original visual design. 
 
 ## Visuals Base
+AI-upscaled and hand-painted high-definition textures for a vanilla-plus installation. 
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?)
 	- Enable both "00 Core" and "01 Atlas Textures"
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
 	- Download the "kart_facelift_meshes" and "kart_facelift_textures" Main Files
-
+	- Note: users who prefer the vanilla-resolution textures should still enable the meshes from this section, as they correct many issues with the character faces, and the mod can be considered as an addendum to MOP.
 ## Grass
+Performance-friendly groundcover that dramatically improves the look of the environments. Sensible, lightweight, atmospheric change that must be considered an essential visual mod.
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?)
 	- Installation: enable the "00 Core" option
 	- Post-installation: within the mod archive, create a folder named "Grass Plugins"
@@ -15,6 +18,7 @@
 	- Note: the plugins will only be enabled during MGE XE's distant land generation, which you will run at the end of the guide in the [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section.
 
 ## Lighting
+No more absurdly overlit interiors: these two mods do all the visual heavy-lifting and dramatically improve the look of the game by tweaking lighting values. Universal compatibility (it works with evertying) and lightweight scripting.
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?)
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?)
 	- **Wrye Mash users only**: WM will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder
@@ -22,7 +26,10 @@
 1. [MGG Weather Darker Nights](https://www.nexusmods.com/morrowind/mods/47141?)
 
 ## VFX
-1. [Assetless No Glow](https://www.nexusmods.com/morrowind/mods/47925?)
+New or enhanced visual effects, including improved flame and particle effects, and other subtle improvements. "Assetless No Glow" and "Enhanced Flames" actually improve performance.
+1. [Assetless No Glow](https://github.com/NullCascade/morrowind-mods)
+	- In the MO2 installation interface, set "No Glow" as the data directory
+	- Name the mod "Assetless No Glow" and install
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?)
 1. [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423?)
 1. [Enlightened Flames](https://www.nexusmods.com/morrowind/mods/48816?)
@@ -81,12 +88,13 @@
 1. [Unto Dust](https://www.nexusmods.com/morrowind/mods/48435?)
 	- Enable both "00 Core" and "01 Default Dust"
 1. [Visually Filled Soul Gems](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- In MO2, set Visually Filled Soul Gems as your data directory and install
+	- In the MO2 installation interface, set "Visually Filled Soul Gems" as the data directory
+	- Name the mod "Visually Filled Soul Gems" and install
 1. [Visually Trapped Objects](https://www.nexusmods.com/morrowind/mods/48936)
 1. [Waterfall Tweaks](https://www.nexusmods.com/morrowind/mods/46271?)
 	
 ## Meshes and Textures
+Additional fixes to vanilla meshes and textures.
 1. [Ashmire Replacer](https://www.nexusmods.com/morrowind/mods/48291?)
 	- Download "Ashmire Replacer" and enable ONLY the "01 - Still Mire" BAIN option
 1. [Bitter Coast Scum Replacer](https://www.nexusmods.com/morrowind/mods/48291?)

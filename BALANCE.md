@@ -1,21 +1,22 @@
 # Gameplay - Balance
+This Balance module addresess many of the most glaring balance issues and exploits in the game. It does not recommend dramatic overhauls of the economy or systems to make the game more difficult; it focuses on improving the existing game design and making the game more fun.
 
 ## Balance - Core
+Core balancing mods for the base game, expansion and endgame content. Don't play without them.
 1. [Beware the Sixth House](https://www.nexusmods.com/morrowind/mods/46036?)
 1. [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714?)
 1. [Ownership Overhaul](https://www.nexusmods.com/morrowind/mods/48051?)
 	- Enable only the ESM plugin. In the right pane (your load order), move the *Ownership Overhaul.esm* below *Patch For Purists.esm*, near the top of your load order
-1. [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766)
-	- Enable only the "There Can Be Only One (Alt Fyr).esp" plugin
 1. [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713?)
 
 ## Balance - Extended
+Light-weight MWSE mods that address many of the remaining balance issues with the game.
 1. [Controlled Consumption](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- In MO2, set Controlled Consumption as your data directory and install
+	- In the MO2 installation interface, set "Controlled Consumption" as the data directory
+	- Name the mod "Controlled Consumption" and install
 1. [Dynamic Difficulty](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- In MO2, set Dynamic Difficulty as your data directory and install
+	- In the MO2 installation interface, set "Dynamic Difficulty" as the data directory
+	- Name the mod "Dynamic Difficulty" and install
 1. [Enchant Capacity Rebalance](https://www.nexusmods.com/morrowind/mods/48742?)
 	- Enable the MWSE version (not the plugin version)
 1. [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292?)
@@ -28,6 +29,7 @@
 1. [Wings of Will](https://www.nexusmods.com/morrowind/mods/46626?)
 
 ## Balance - Hardcore
+This section addresses some common exploits and makes enemy encounters more difficult and engaging. "There Can Be Only One" corrects the most glaring balance issue in the game: the endless supply of extremely valuable and (supposedly) very rare item drops. Strongly recommended even for first-time players.
 1. [MDMD - More Deadly Morrowind Denizens](https://www.nexusmods.com/morrowind/mods/48745)
 	- Enable the *MDMD - More Deadly Morrowind Denizens.esp* and *MDMD - Creatures Add-On.esp*
 1. [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/49232)
@@ -36,7 +38,8 @@
 	- Be sure to [endorse the original mod](https://www.nexusmods.com/morrowind/mods/47305?)
 1. [No Disease Labels](https://www.nexusmods.com/morrowind/mods/48295?)
 1. [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897?)
-
+1. [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766)
+	- Enable only the "There Can Be Only One (Alt Fyr).esp" plugin
 
 **NEXT SECTION**:
 [**Gameplay - Consistency**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md)

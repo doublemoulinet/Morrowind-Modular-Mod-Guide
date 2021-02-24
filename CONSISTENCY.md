@@ -1,8 +1,7 @@
 # Gameplay - Consistency
+This module addresses the various lore and logic inconsistencies with the game.
 
 ## Expansion Integrations
-1. [Area Effect Arrows Integrated](https://www.nexusmods.com/morrowind/mods/47745)
-	- Enable only the "Area Effect Arrows Integrated" plugin
 1. [Early Transport to Mournhold](https://www.nexusmods.com/morrowind/mods/47985)
 1. [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/49232)
 	- Download the "Expansions Integrated (Sigourn Edit)" Main File

@@ -1,11 +1,10 @@
 # Landmass Expansions
-
 The landmass mods--**Tamriel Rebuilt** and its sister projects like **Skyrim: Home of the Nords**--are highly recommended on subsequent playthroughs. These are arguably the most impressive modding projects on the web. Tamriel Rebuilt is a decades-long project to recreate the Morrowind mainland in TES3. The "Old Ebonheart" release is one of the best quest mods available and I recommend a TR-centric playthrough to play the different questlines.
 
 **Solstheim Tomb of the Snow Prince** overhauls the Bloodmoon expansion to bring the world design in line with current Tamriel Rebuilt / Project Tamriel design standards. It is highly recommended. You will see why after you play Bloodmoon in vanilla: the vanilla world design is flat, empty, and boring. STOTSP is a performance-friendly overhaul that makes playing Bloodmoon significantly more fun. I recommend it for all subsequent playthroughs!
 
 ## Tamriel Data
-Tamriel Data is required for all Project Tamriel (PT) and Tamriel Rebuilt (TR) projects, including Solstheim - Tomb of the Snow Prince.
+Tamriel Data is a required dependency for all Project Tamriel (PT) and Tamriel Rebuilt (TR) projects, including Solstheim - Tomb of the Snow Prince.
 1. [Tamriel Data](https://www.nexusmods.com/morrowind/mods/44537?)
 	- Download “Tamriel_Data (vanilla)” or "Tamriel_Data (HD)" based on prefence. The latter fits well with Intelligent Textures
 

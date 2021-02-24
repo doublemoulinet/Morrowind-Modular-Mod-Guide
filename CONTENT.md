@@ -1,6 +1,8 @@
 # Content
+High quality vanilla- and lore-friendly content additions, with an additional emphasis on performance. This module showcases some of the very best that Morrowind modding has to offer. First-time players should consider skipping this section and proceeding to the [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md).
 
 ## Resources and Integration
+The OOAB team's modders' resource is a required dependency for several of the mods in this section; its integrations plugins incorporate its high-quality vanilla- and lore-friendly work into the game. Recommended, and even better, required.
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
 	- Enable both "00 Core" and "01 GiTD patch sunrays"
 1. [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045)
@@ -102,10 +104,13 @@
 1. [Samarys Ancestral Tomb Expanded](https://www.nexusmods.com/morrowind/mods/45612?)
 
 ## New Items
+1. [Area Effect Arrows Integrated](https://www.nexusmods.com/morrowind/mods/47745)
+	- Enable only the "Area Effect Arrows Integrated" plugin
 1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?)
 1. [Hunter’s Mark – A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656?)
 
 ## Quests
+High-quality, lore-friendly quests designed to fit seamlessly within the vanilla game.
 1. [ABCs for Outlanders](https://www.nexusmods.com/morrowind/mods/46692?)
 1. [Ajira's Alchemy Reports Randomized](https://www.nexusmods.com/morrowind/mods/47550?)
 1. [Dura gra-Bol's House Reclaimed](https://www.nexusmods.com/morrowind/mods/46772?)

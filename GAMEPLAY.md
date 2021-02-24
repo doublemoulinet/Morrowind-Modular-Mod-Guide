@@ -1,4 +1,5 @@
 # Gameplay - Expanded
+The good stuff. This module introduces the majority of the gameplay mechanics and new features that cannot strictly be considered fixes or balance changes. As ever, this module remains faithful to the vanilla game's look and feel.
 
 ## Player Levelling
 Morrowind's levelling system shows its age. Because of how it handles skill-ups and attribute modifiers, Morrowind encourages micromanagement and powergaming, which is uNiMmERsiVE and BAD. There are several recent lua-based levelling overhauls that make skill increases/levelling much less intrusive.
@@ -31,6 +32,7 @@ Install this section if you want to play with **Class-Conscious Character Progre
 	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for CCCP.
 
 ## Skill Tweaks
+Lightweight, vanilla-like MWSE enhancements of existing skills, correcting oversights and making the Alchemy, Security, and Speech skills more sensible and functional.
 1. [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
 1. [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528?)
 1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
@@ -38,6 +40,7 @@ Install this section if you want to play with **Class-Conscious Character Progre
 1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
 
 ## Expanded Skills
+Restores several skills from previous Elder Scrolls titles, and introduces new mechanics like poison crafting. Realistic Repair significantly expands the existing Armorer skill and makes it more enjoyable.
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
@@ -50,6 +53,7 @@ Install this section if you want to play with **Class-Conscious Character Progre
 1. [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
 
 ## Expanded Magic
+The Magicka Expanded framework significantly enhances magic use via MWSE, mostly through visual improvements and corrections to mechanical limitations with the vanilla game engine.
 1. [Magicka Expanded](https://www.nexusmods.com/morrowind/mods/47111?)
 	- Enable the "00 - Framework," "01 - Resource Pack," and whichever spell packs you like. I prefer just the "lore friendly pack" but the other packs (particularly weather and cortex magic) are very fun to play with:
 		- 00 - Framework
@@ -65,6 +69,7 @@ Install this section if you want to play with **Class-Conscious Character Progre
 1. [Enhanced Light](https://www.nexusmods.com/morrowind/mods/47672?)
 	- Enable the following BAIN options:
 		- 00 - Core
+1. [Enhanced Reflection](https://www.nexusmods.com/morrowind/mods/48956)
 1. [Enhanced Telekinesis](https://www.nexusmods.com/morrowind/mods/47534?)
 	- Enable the following BAIN options:
 		- 00 - Core
@@ -73,6 +78,7 @@ Install this section if you want to play with **Class-Conscious Character Progre
 1. [Customizable MWSE Multi Mark and Limited Recall](https://www.nexusmods.com/morrowind/mods/47065?)
 
 ## Crime, Combat, and Character Tweaks
+Further tweaks to the character creation and crime systems that improve the existing game design.
 1. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786?)
 1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
 	- Download the zip of all NullCascade’s Morrowind mods
@@ -83,6 +89,7 @@ Install this section if you want to play with **Class-Conscious Character Progre
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?)
 
 ## Ambient Environment
+These mods complement the lighting and weather changes from the Visuals section, adding more extensive environmental features to the gameworld: dynamic ambient sound, more dynamic weather, and region-specific environmental events.
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?)
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178)
 	- ESP requires cleaning
