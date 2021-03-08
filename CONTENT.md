@@ -1,8 +1,8 @@
 # Content
-High quality vanilla- and lore-friendly content additions, with an additional emphasis on performance. This module showcases some of the very best that Morrowind modding has to offer. First-time players should consider skipping this section and proceeding to the [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md).
+High quality lore-friendly content additions, with an additional emphasis on performance. This module showcases some of the very best that Morrowind modding has to offer. First-time players should consider skipping this section and proceeding to the [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md).
 
-## Resources and Integration
-The OOAB team's modders' resource is a required dependency for several of the mods in this section; its integrations plugins incorporate its high-quality vanilla- and lore-friendly work into the game. Recommended, and even better, required.
+## Resources and Integrations
+The OOAB team's modders' resource, OAAB_Data, is a required dependency for several of the mods in this section; its optional integrations plugins incorporate its high-quality vanilla- and lore-friendly work into the game. Recommended, and even better, required.
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
 	- Enable both "00 Core" and "01 GiTD patch sunrays"
 1. [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045)
@@ -38,10 +38,10 @@ The OOAB team's modders' resource is a required dependency for several of the mo
 		- 01 Glow in the Dahrk Patch - flickering
 		- 03 New Weather Mechanics (Requires MWSE)
 		- 04 Atmospheric Arena Addition
-	- After installing, disable all ESPs
+	- Enable only the Glass Domes of Vivec_atmospheric arena.esp plugin
 1. [Glass Domes of Vivec - Ownership Overhaul Patches](https://www.nexusmods.com/morrowind/mods/49232)
 	- Download the "Ownership Overhaul Patches" Main File
-	- Enable the BAIN option "01 Glass Domes of Vivec - Atmospheric Arena" and rename the mod "Glass Domes of Vivec - Ownership Overhaul Patches"
+	- Enable only the BAIN option "01 Glass Domes of Vivec - Atmospheric Arena" and rename the mod "Glass Domes of Vivec - Ownership Overhaul Patches"
 1. [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506?)
 	- Enable only the "Meteorite Ministry Temple" ESP
 	- Cleaning: ESP requires cleaning
@@ -105,9 +105,14 @@ The OOAB team's modders' resource is a required dependency for several of the mo
 
 ## New Items
 1. [Area Effect Arrows Integrated](https://www.nexusmods.com/morrowind/mods/47745)
-	- Enable only the "Area Effect Arrows Integrated" plugin
+	- Enable only the "Area Effect Projectiles Integrated" plugin
 1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?)
-1. [Hunter’s Mark – A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656?)
+1. [Hunter’s Mark - A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656?)
+1. [Hunter's Mark - Tribunal Rebalance Patch](https://mw.moddinghall.com/file/51-projectiles-reintegrated/)
+	- Download "Tribunal Rebalance + Hunter's Mark Patch.zip"
+1. [Projectiles Reintegrated](https://mw.moddinghall.com/file/51-projectiles-reintegrated/)
+	- Download "Projectiles Reintegrated v1.0.zip"
+	- Enable both "Projectiles Reintegrated.esp" and "Projectiles AEPI Patch.esp", in this order
 
 ## Quests
 High-quality, lore-friendly quests designed to fit seamlessly within the vanilla game.
@@ -129,12 +134,12 @@ High-quality, lore-friendly quests designed to fit seamlessly within the vanilla
 	- Cleaning: ESP requires cleaning
 1. [OAAB - Astral Pocket](https://www.nexusmods.com/morrowind/mods/49077)
 1. [Plunder the Dungeon](https://www.nexusmods.com/morrowind/mods/46977?)
-1. [Scrolls of the Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831?)
-	- Enable the "00 Core" option
 1. [The Sanguine Rose](https://www.nexusmods.com/morrowind/mods/46214?)
 	- Enable the following BAIN options: 
 		- 00 Core, 
 		- 02 MWSE ME Patch
+1. [Scrolls of the Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831?)
+	- Enable the "00 Core" option
 1. [Umbra Blademaster](https://www.nexusmods.com/morrowind/mods/43275?)
 
 

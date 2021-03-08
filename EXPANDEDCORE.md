@@ -1,8 +1,8 @@
 # Core - Expanded
-This section expands on the [**Core module**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) with lightweight MWSE mods that improve existing vanilla features: expanded menu and UI, basic convenience tweaks, and core immersion mods that conform to a "vanilla-enhanced" design scheme. This module is strongly recommended for first-time and returning players.
+This section expands on the [**Core module**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) with several must-have MWSE mods that improve existing features: expanded menu and UI, basic convenience tweaks, and core immersion mods that conform to a "vanilla-plus" scheme.
 
 ## User Interface - Expanded
-Improved main menu, character creation, HUD, and in-game menus. Essential to any modded playthrough.
+Improved main menu, character creation, HUD, and in-game menus. "User Interface Expansion" is essential to any modded playthrough.
 1. [Better Questlist](https://www.nexusmods.com/morrowind/mods/48272?)
 1. [Book Worm](https://www.nexusmods.com/morrowind/mods/46851?)
 1. [Character Creation Name Generator](https://www.nexusmods.com/morrowind/mods/46189?)
@@ -17,7 +17,7 @@ Improved main menu, character creation, HUD, and in-game menus. Essential to any
 1. [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693?)
 1. [Ownership Indicator](https://www.nexusmods.com/morrowind/mods/45940?)
 1. [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)
-	- Optional. Adds Fallout 4-style quick loot system. Recommended, but note that there are some minor issues with some container types.
+	- Optional. Adds Fallout 4-style quick loot system. Recommended, but note that there are some minor issues with some container types. Can be toggled on/off in-game.
 1. [Randomised Chargen](https://www.nexusmods.com/morrowind/mods/46915?)
 1. [Shrine Tooltips](https://www.nexusmods.com/morrowind/mods/48275?)
 1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?)
@@ -25,7 +25,7 @@ Improved main menu, character creation, HUD, and in-game menus. Essential to any
 1. [Smart Map](https://www.nexusmods.com/morrowind/mods/46634?)
 1. [MWSE AbotLib](https://www.nexusmods.com/morrowind/mods/47717?)
 1. [Tooltips Complete](https://www.nexusmods.com/morrowind/mods/46842?)
-	- Optional. Adds new flavour text tooltips to all the vanilla items and most of the mod-added items used in this guide. 
+	- Optional. Adds new flavour text tooltips to all the vanilla items and most of the mod-added items used in this guide. Can be toggled on/off in-game.
 1. [User Interface Expansion](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "User Interface Expansion" as the data directory
 	- Name the mod "User Interface Expansion" and install
@@ -54,8 +54,6 @@ Core convenience mods using MWSE that address gameplay oversights and inconsiste
 	- Name the mod "Drop Light" and install
 1. [Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
 1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
-1. [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?)
-1. [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?)
 1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
 1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Smarter Soultrap" as the data directory
@@ -64,13 +62,12 @@ Core convenience mods using MWSE that address gameplay oversights and inconsiste
 ## Immersion Tweaks
 These core MWSE mods are a major enhancement to the base game, and should be considered essential to any modern modded playthrough. 
 1. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?)
-	- Enable the following options:
-		- 00 Core
-		- 02 Interior Sunrays
-		- 04 Telvanni Dormers on Vvardenfell
-		- 05 Raven Rock Glass Windows Interior Sunrays
-		- 06 Tamriel Rebuilt Patch Interior Sunrays (if using TR, installed in the Optional Early Loaders section at the end of this guide)
-	- In the “ESP/m filter” enable ONLY the GITD_Telavnni_Dormers.esp and GITD_WL_RR_Interiors.esp
+	- Follow the install wizard prompts and select these options:
+		- Interior Sunrays: Yes
+		- Nord Glass Windows: (leave unticked)
+		- Raven Rock Glass Windows: Yes
+		- Dark Molag Mar: (leave unticked)
+		- Optional files: tick only "include Tel Uvirith"
 1. [Project Atlas - Glow in the Dahrk Patch](https://www.nexusmods.com/morrowind/mods/45399?)
 	- Download the main file install *only* the following BAIN option:
 		- 10 Glow in the Dahrk Patch - Interior Sunrays

@@ -9,8 +9,8 @@ Core balancing mods for the base game, expansion and endgame content. Don't play
 	- Enable only the ESM plugin. In the right pane (your load order), move the *Ownership Overhaul.esm* below *Patch For Purists.esm*, near the top of your load order
 1. [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713?)
 
-## Balance - Extended
-Light-weight MWSE mods that address many of the remaining balance issues with the game.
+## Balance - Misc.
+Light-weight MWSE mods that address some of the remaining balance issues with the game.
 1. [Controlled Consumption](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Controlled Consumption" as the data directory
 	- Name the mod "Controlled Consumption" and install
@@ -20,7 +20,6 @@ Light-weight MWSE mods that address many of the remaining balance issues with th
 1. [Enchant Capacity Rebalance](https://www.nexusmods.com/morrowind/mods/48742?)
 	- Enable the MWSE version (not the plugin version)
 1. [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292?)
-1. [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?)
 1. [Putting Power in Willpower](https://www.nexusmods.com/morrowind/mods/45742?)
 1. [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248?)
 1. [Smart Merchants](https://www.nexusmods.com/morrowind/mods/47787?)

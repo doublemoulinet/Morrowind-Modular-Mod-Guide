@@ -125,7 +125,6 @@ As described earlier, this powerful tool will manage your mod installation, mod 
 ### [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194)
 1. Download the Main File: **Mod Organizer 2 (Archive)**
 1. Extract to ```...\Morrowind Mods\Tools\MO2```
-1. Right-click on the executable, select "Properties"; under "Compatibility" tick "Run this program as an administrator"
 1. Run ModOrganizer.exe
 	- You will be prompted to **Choose Instance**. Select **Portable**
 	- You will be prompted to **select the game to manage**. Select **Morrowind**.
@@ -230,7 +229,7 @@ Next, download the following MGE XE shaders. Install these with MO2:
 1. [MGE XE Shader - deband_fogaware](https://mega.nz/file/W8x3RTCK#w94LPJSeym5h82KUOg8SbkIoS8M7E-9Xm2Lar0gjqXw) an improved fog shader
 1. [MGE XE Shader - EdgeAA](https://mega.nz/file/HwxVXbQY#eSxnVWTbC165OC1EyC-P9IahvH05We88pyba-fy2ePI) improved anti-aliasing, to be used with MGE XE's AA settings
 
-You should now have four mods installed and enabled (i.e tickboxed) in your MO2 left pane: the MGE XE Data Files, and the above three shaders.
+You should now have four mods installed and enabled (i.e ticked) in your MO2 left pane: the MGE XE Data Files, and the above three shaders.
 
 ## Launching MGE XE
 Once the shaders have been installed, launch MGE XE through Mod Organizer:
@@ -241,11 +240,16 @@ Once the shaders have been installed, launch MGE XE through Mod Organizer:
 MGE XE consists of five tabs with configurable options: Graphics, Distant Land, In-Game, Config, and Instructions. There are a number of MGE XE options to enable now:
 
 ## Graphics Tab
-The features in this section are mostly self-explanatory. Select your display resoultion, set AA and AF (check the Config tab to report the max AA/AF your hardware supports). Enable borderless fullscreen windowed mode. Enable Vsync only if not already enabled through your GPU hardware options (if using an Nvidia card, this is enabled through the Nvidia Control Panel). 
+The features in this section are mostly self-explanatory. 
 
-Shaders requires some setup:
-1. Click the checkbox to enable shaders and enter "Shader setup..."
-1. Select the High quality preset. Ensure the following shaders are enabled:
+Under the "Display" section: Select your display resolution, set Anti-Aliasing (AA) and Anistropic Filtering (AF) (check the Config tab to report the max AA/AF your hardware supports). Enable borderless fullscreen windowed mode. Enable Vsync only if not already enabled through your GPU hardware options (if using an Nvidia card, this is enabled through the Nvidia Control Panel).
+
+In the "Renderer" section: tick "Auto FOV" and set the FPS limiter to your preferred cap (although 60 FPS is realistically the upper limit). For "Fog Mode" ensure that "Range vertex (Best)" is selected. "Mipmap LOD Bias" should be 0.
+
+"Shaders" requires some setup:
+1. Tick the "Enable shaders" checkbox and then click "Shader setup..."
+1. Select the High quality preset. 
+1. Click the "Modding >>>" button and ensure the following shaders are listed under the "active shaders" tab in this order:
 	- SSAO Fast
 	- Underwater Interior Effects
 	- Underwater Effects
@@ -265,17 +269,19 @@ The **Distant land generator wizard** lets you select which plugins MGE XE will 
 - **Customize setup** will let you modify the distant land generation options. I recommend this setting when generating distant land for the first time
 - **Update existing distant land** will regenerate distant land according to the last used settings. If you've generated distant land previously, this is the option to use.
 
-For **Customize setup** I recommend the following settings:
+Click **Customize setup**. I recommend the following settings:
 - Land Textures: **world texture resolution**: 2048, **world normalmap resolution**: 1024
 - Land Meshes: set **world mesh detail** to high
 - Statics: set **minimum static size** to 150, **Mesh detail level** to Full, **Distant texture reduction** to 1/2, and tick all the right-hand options EXCEPT "include reflective water in interiors"
 
-After MGE XE has generated distant land, in the "Distant Land" tab in MGE XE, set the **Draw Distance** to 3.0 cells. I recommend between 3-5 cell draw distance to maintain the vanilla atmosphere and keep performance cost to a minimum.
+Follow the prompts and allow MGE XE to complete the distant land generation. Exit the wizard when prompted. 
+
+After MGE XE has generated distant land, in the "Distant Land" tab in MGE XE, set the **Draw Distance** to 3.0 cells. You can adjust this to your preference, but I recommend between 3-5 cell draw distance to maintain the vanilla atmosphere and keep performance cost to a minimum.
 
 Other Distant Land settings:
 - **Water**:
 	- Reflections: ALL except "Blur Reflections"
-	- Dynamic ripples: 12 height of waves
+	- Dynamic ripples: 10 height of waves
 	- Caustics: 50%
 - **XE**: enable Dynamic solar shadows
 - **Auto set other distances**: By draw distance

@@ -18,7 +18,7 @@ Performance-friendly groundcover that dramatically improves the look of the envi
 	- Note: the plugins will only be enabled during MGE XE's distant land generation, which you will run at the end of the guide in the [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section.
 
 ## Lighting
-No more absurdly overlit interiors: these two mods do all the visual heavy-lifting and dramatically improve the look of the game by tweaking lighting values. Universal compatibility (it works with evertying) and lightweight scripting.
+No more flat, overlit interiors: these two mods do all the visual heavy-lifting and dramatically improve the look of the game by tweaking lighting values. Universal compatibility (they work with everything).
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?)
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?)
 	- **Wrye Mash users only**: WM will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder

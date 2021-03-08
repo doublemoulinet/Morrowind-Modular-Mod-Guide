@@ -49,12 +49,6 @@ Ensure the following plugins load *first* (i.e. at the very top) in your load or
 1. MDMD - More Deadly Morrowind Denizens.esp
 1. MDMD - Creatures Add-on.esp
 
-If you installed the **Content** section, you will need to move "Quorn Resource Integration.esp" higher in your load order, so that Yet Another Guard Diversity Overhaul and Mamaea Awakened overwrite its changes. Move "Quorn Resource Integration.esp" and the other "New Items" plugins below the "Expansions Integrated" plugin installed in the **CONSISTENCY** section:
-1. Expansions Integrated.esp
-1. Hircine's Artifacts.esp
-1. Hunter's Mark.esp
-1. Quorn Resource Integration.esp
-
 Ensure that the following mods always load *last* (i.e. at the very bottom) in your load order:
 1. There Can Be Only One (Alt Fyr).esp
 1. Conflict Resolution.esp ```(installed in the next step)```
@@ -65,7 +59,7 @@ Ensure that the following mods always load *last* (i.e. at the very bottom) in y
 ### Load Order Backup
 Finally, make a backup of both your installation order and your load order (this is in the event that MO2 crashes and purges your load order):
 1. In the right pane of MO2, click the harddisk icon. A text popup "Backup of load order created" should appear at the bottom of the MO2 interface
-1. In the left pane of MO2, click the harddisk icon. A text popup "Backup of mod list created"
+1. In the left pane of MO2, click the harddisk icon. A text popup "Backup of mod list created" should appear at the bottom of the MO2 interface.
 
 # Conflict Resolution
 Several of the mods in this guide make edits to the same creatures and NPCs, and in some cases these changes will not be carried over and merged by the multipatch and merged patch. The following patch will resolve those conflicts and ensure the correct changes are carried forward into your merged patches in the next step of this guide.
@@ -76,8 +70,8 @@ You need to create two merged patches to resolve remaining plugin conflicts. Mak
 1. [Conflict Resolution - Finish Line](https://mega.nz/file/nxw2jCKb#4Bmon9XoNNM4xDHLRchumq6F6yuA_fwAqlMvjxnBAqQ)
 	- Conflict resolution patch for MDMD - More Deadly Morrowind Denizens,  There Can Be Only One, OAAB Integrations, Quorn Resource Integration, Immersive Madness, and Morag Tong Polished
 	- Select one of the options based on your installation order and install.
-		-   Users who skipped the CONTENT module: use "MDMD + There Can Be Only One"
-		- Users who installed the full CONTENT module: use "OAAB + MDMD + There Can Be Only ONe + Quorn + MT Polished + Immersive Madness"
+		- Users who skipped the CONTENT module: use "MDMD + There Can Be Only One"
+		- Users who installed the full CONTENT module: use "OAAB + MDMD + There Can Be Only One + MT Polished + Immersive Madness"
 	- Make sure the plugin is enabled and at the bottom of your load order
 
 ## Multipatch
@@ -179,7 +173,7 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - In the General and Cell Settings tab, set Cell Lighting Value Overrides to TLAD
 - Leave the remaining settings at their defaults
 ### **Less Aggressive Creatures**
-- Peaceful Chance: I recommend a value between 50-80% 
+- Peaceful Chance: I recommend a value between 50-70% 
 - Peaceful Creatures Whitelist: 
 	```
 	alit, 

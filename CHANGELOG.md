@@ -1,3 +1,20 @@
+# 2021-03-08
+Tiny maintenance release.
+
+**Added**
+- added: CONSISTENCY: [Supply Chests](https://www.nexusmods.com/morrowind/mods/49232)
+- added: GAMEPLAY: [Hunter's Mark - Tribunal Rebalance Patch](https://mw.moddinghall.com/file/51-projectiles-reintegrated/) and [Projectiles Reintegrated](https://mw.moddinghall.com/file/51-projectiles-reintegrated/)
+
+**Removed**
+- removed: EXPANDED: [No More Friendly Fire](https://www.nexusmods.com/morrowind/mods/48801?), [Peaceful Pets](https://www.nexusmods.com/morrowind/mods/47956?) (still good, just less needed than I thought)
+- removed: BALANCE: [Marksman Rebalanced](https://www.nexusmods.com/morrowind/mods/46715?) (a good mod and still recommended!)
+
+**Updated**
+- updated installation instructions for MO2 (removed "run as administrator" step)
+- updated installation instructions for EXPANDED: [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?)
+- removed instructions for Glow in the Dahrk mod compatibility in the OPTIONAL section (GitD now natively supported by Tamriel Rebuilt)
+- updated installation instructions for CONTENT: Area Effect Arrows Integrated (recommend the balanced Projectiles version)
+
 # 2021-02-24
 
 **Added**
@@ -5,6 +22,7 @@
 
 **Updated**
 - moved [Area Effect Arrows Integrated](https://www.nexusmods.com/morrowind/mods/47745) from CONSISTENCY to CONTENT (Official Plugins content belongs in the... content section)
+- updated installation instructions for CONTENT: [Glass Domes of Vivec - Moonrain Edition](https://www.nexusmods.com/morrowind/mods/48946) and [Glass Domes of Vivec - Ownership Overhaul Patches](https://www.nexusmods.com/morrowind/mods/49232)
 
 # 2021-02-23
 

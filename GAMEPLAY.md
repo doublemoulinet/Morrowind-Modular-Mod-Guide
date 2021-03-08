@@ -32,28 +32,28 @@ Install this section if you want to play with **Class-Conscious Character Progre
 	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for CCCP.
 
 ## Skill Tweaks
-Lightweight, vanilla-like MWSE enhancements of existing skills, correcting oversights and making the Alchemy, Security, and Speech skills more sensible and functional.
+Lightweight enhancements of existing skills, correcting oversights and making the Alchemy, Armorer, Security, and Speech skills more sensible and functional.
 1. [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
 1. [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528?)
 1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
 	- Complements, and is intended for use alongside, [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)
+1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?)
+	- Do not enable the ESP file; the next mod integrates repair activators into the world
+1. [Realistic Repair – Add-on - Fixed](https://mega.nz/file/KlJFTIbD#lRK6t8tOmyhjVYRS6FP95CIu2-GCyKtqf0E7gNrkuO4)
 1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
 
-## Expanded Skills
-Restores several skills from previous Elder Scrolls titles, and introduces new mechanics like poison crafting. Realistic Repair significantly expands the existing Armorer skill and makes it more enjoyable.
+## New Skills
+Restores several skills from previous Elder Scrolls titles, and introduces new mechanics like poison crafting.
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
 	- Disable the "MWSE" folder
 	- Cleaning: ESP requires cleaning
 1. [Poison Redux-ion](https://www.nexusmods.com/morrowind/mods/48948)
-1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?)
-	- Do not enable the ESP file; the next mod integrates repair activators into the world
-1. [Realistic Repair – Add-on - Fixed](https://mega.nz/file/KlJFTIbD#lRK6t8tOmyhjVYRS6FP95CIu2-GCyKtqf0E7gNrkuO4)
 1. [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
 
 ## Expanded Magic
-The Magicka Expanded framework significantly enhances magic use via MWSE, mostly through visual improvements and corrections to mechanical limitations with the vanilla game engine.
+The Magicka Expanded framework significantly enhances magic use via MWSE. New spells, new effects, all seamlessly integrated into the game.
 1. [Magicka Expanded](https://www.nexusmods.com/morrowind/mods/47111?)
 	- Enable the "00 - Framework," "01 - Resource Pack," and whichever spell packs you like. I prefer just the "lore friendly pack" but the other packs (particularly weather and cortex magic) are very fun to play with:
 		- 00 - Framework
@@ -88,8 +88,8 @@ Further tweaks to the character creation and crime systems that improve the exis
 1. [Merlord's Starting Equipment](https://www.nexusmods.com/morrowind/mods/47283)
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?)
 
-## Ambient Environment
-These mods complement the lighting and weather changes from the Visuals section, adding more extensive environmental features to the gameworld: dynamic ambient sound, more dynamic weather, and region-specific environmental events.
+## Dynamic Environmental FX
+These mods complement the lighting and weather changes from the Visuals section:  light scheduling, dynamic ambient sound, more dynamic weather, and region-specific environmental events.
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?)
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178)
 	- ESP requires cleaning
@@ -101,7 +101,6 @@ These mods complement the lighting and weather changes from the Visuals section,
 	- Cleaning: ESP requires cleaning
 1. [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636)
 	- Enable only the following BAIN options: "00 Lua core"
-	- This enables the dynamic weather transitions, weather changes inside, and randomised particles/cloud speed	
 	
 
 **NEXT SECTION**:

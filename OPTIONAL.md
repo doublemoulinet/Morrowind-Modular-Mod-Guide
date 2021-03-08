@@ -48,8 +48,6 @@ The following steps will ensure compatibility between the new landmass mods and 
 
 ## Additional Compatibility
 Optionally, you may update the following mods to enable compatibility/integration with Tamriel Rebuilt:
-1. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?) (installed in the [**Expanded Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/EXPANDEDCORE.md) section)
-	- Additionally enable BAIN option "06 - TR Interior Sunrays" if you have not already done so.
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?) (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) section)
 	- **Grass Plugins**: Additionally enable the "01 TR Plugins"
 		- Grass plugins are optional, as they will decrease performance
