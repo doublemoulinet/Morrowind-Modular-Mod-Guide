@@ -27,7 +27,7 @@ This guide's selling features:
 - On moderate desktop hardware (ex., an i7-3770 and GTX 680), you will get a solid **50-60FPS in-game**. Dips below 60FPS should be rare.
 
 ## Note on performance:
-Morrowind is a single-core application, meaning CPU load is the major performance bottleneck. A CPU with fast single-core processing speed is the key to good performance in Morrowind. This guide tries to keep the CPU load low, so that a range of moderate systems will get stable framerates. Mods that add lots of references to exteriors, or add lots of NPCs, should be installed sparingly.
+Morrowind is a single-core application, meaning CPU load is the major performance bottleneck. A CPU with fast single-core processing speed is the key to good performance. This guide tries to keep the CPU load low, so that a range of moderate systems will get stable framerates. Mods that add lots of references to exteriors, or add lots of NPCs, should be installed sparingly.
 
 ## Using this Guide and Installing Mods
 The guide is modular, meaning you can install most sections incrementally. Many of the mods in this guide can be skipped without causing mod compatibility/dependency problems. A first-time player need only follow the instructions in the first sections to have a stable, playable game. However, all sections are designed with a vanilla-friendly experience in mind. I recommend first-time players skip the "**CONTENT**"  section.
@@ -39,7 +39,7 @@ My preferred mod manager is Mod Organizer 2. This is a powerful tool that allows
 
 If you are more familiar with Mod Organizer 2, it now has native Morrowind support. MO2's advantage is its Virtual File System (VFS), meaning you can create multiple game profiles with different mod orders on a whim. Previously, boot time was very slow as paging the VFS is not very optimized for Morrowind. However, with recent MWSE updates, MO2's slow boot times have been circumvented and I now recommend MO2 over the alternative, Wrye Mash. The initial set up for Morrowind's mod tools with MO2 is more complicated, but the rewards are worth the extra setup time.
 
-The alternative to MO2 is Wrye Mash. While it does not have the advantage of VFS profiles, Mash has the advantage of being an older and more established tool. WM also presents more information to the user in the main interface, has better integration with Morrowind, and is a necessary tool whether you use it to manage your installation or not--you need WM to clean your saves, fix master dependencies, and more.
+The alternative to MO2 is Wrye Mash. While it does not have the advantage of VFS profiles, Mash has the advantage of being an older and more established tool. WM also presents more information to the user in the main interface, and is a necessary tool whether you use it to manage your installation or not--you need Wrye Mash to clean your saves, fix master dependencies, and more.
 
 A note on terms: know the difference!
 - "Installation order" refers to the order of the mod archives themselves (the packages, usually .zip or .rar but sometimes unpacked folders) in the "Installers Tab" in Wrye Mash or the left pane of MO2

@@ -1,3 +1,20 @@
+# 2021-03-15
+Ashfall, baby. It's back.
+
+**Added**
+- added: EXPANDED: [fixed text_octavo_02 mesh](https://mega.nz/file/38h30CxB#1d7ReDDSuJLhpvUjujpQFrtOCojMqVqFQoKIzFFyi_k) and [Graphic Herbalism - Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154?tab=description)
+- added: GAMEPLAY: [Ashfall](https://www.nexusmods.com/morrowind/mods/49057?tab=description), [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247), [Skills Module](https://www.nexusmods.com/morrowind/mods/46034)
+
+**Removed**
+- removed: GAMEPLAY: [Borrowed Time](https://www.nexusmods.com/morrowind/mods/48971) (good mod, but of limited application)
+- removed: CONTENT: [Hunter’s Mark - A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656?), [Hunter's Mark - Tribunal Rebalance Patch](https://mw.moddinghall.com/file/51-projectiles-reintegrated/), [Projectiles Reintegrated](https://mw.moddinghall.com/file/51-projectiles-reintegrated/) (didn't realize Hunter's Mark has been superseded by OAAB_Data and integrations!)
+
+
+**Updated**
+- updated installation instructions for EXPANDED: [Switchable Scriptures](https://www.nexusmods.com/morrowind/mods/46680?)
+- updated installation instructions for VISUALS: [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?)
+- updated installation instructions for GAMEPLAY: [Realistic Repair – Add-on](https://www.nexusmods.com/morrowind/mods/47461)
+
 # 2021-03-08
 Tiny maintenance release.
 

@@ -219,7 +219,8 @@ The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its oth
 
 There is one additional installation step to complete:
 1. In the MGE XE mod archive, zip the remaining folders in **Data Files** (**meshes**, **shaders** and **textures**) and name this archive **MGE XE - Data Files**
-1. Install this file in MO2
+1. In MO2, click the "Install Mod" button on the menubar 
+1. Select your zip file and in the subsequent "Install Mods" window click "OK"
 
 Congratulations: you've just installed your first mod.
 
@@ -290,6 +291,15 @@ Other Distant Land settings:
 	- High quality atomosphere and distance colouring: enable
 
 You will need to run MGE XE at the end of your mod installation to regenerate distant land and enable mod-specific shaders.
+
+Before moving on to the next tab in MGE XE, you may optionally move your newly-generated Distant Land files from their default location in the "Overwrite" folder:
+1. Exit MGE XE and return to the MO2 interface
+1. Located to the right of the Profile drop-down menu, click the small hammer-and-wrench icon and select "Create Empty Mod"
+1. Name this mod "Distant Land - Vanilla" and make sure it is at the bottom of your load order
+1. At the bottom of your load order, double click on the "Overwrite" folder
+1. Drag and drop the "distantland" folder into the empty mod
+
+The advantage of this step is that you will always have vanilla distant land that you can easily revert to (either for testing purposes, or for inclusion in a "vanilla" modding profile). With this complete, you may now relaunch MGE XE and continue the setup.
 
 ## In-game Tab
 Enable the following options:

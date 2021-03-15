@@ -40,6 +40,8 @@ Improved menu navigation and controls.
 1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?)
 1. [Switchable Scriptures](https://www.nexusmods.com/morrowind/mods/46680?)
 	- Install  the "00 Core" and "01 Icons" options
+	- Bug fix: download [fixed text_octavo_02 mesh](https://mega.nz/file/38h30CxB#1d7ReDDSuJLhpvUjujpQFrtOCojMqVqFQoKIzFFyi_k)
+		- Rename the mod "Switchable Scriptures" and select "Merge" when prompted
 1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?)
 
 ## Gameplay Tweaks
@@ -62,7 +64,7 @@ Core convenience mods using MWSE that address gameplay oversights and inconsiste
 ## Immersion Tweaks
 These core MWSE mods are a major enhancement to the base game, and should be considered essential to any modern modded playthrough. 
 1. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?)
-	- Follow the install wizard prompts and select these options:
+	- Follow the install prompts and select these options:
 		- Interior Sunrays: Yes
 		- Nord Glass Windows: (leave unticked)
 		- Raven Rock Glass Windows: Yes
@@ -71,11 +73,13 @@ These core MWSE mods are a major enhancement to the base game, and should be con
 1. [Project Atlas - Glow in the Dahrk Patch](https://www.nexusmods.com/morrowind/mods/45399?)
 	- Download the main file install *only* the following BAIN option:
 		- 10 Glow in the Dahrk Patch - Interior Sunrays
-	- Rename the mod to "Project Atlas - GitD Patch". Click OK.
+	- Rename the mod to "Project Atlas - Glow in the Dahrk Patch". Click OK.
 1. [Graphic Herbalism MWSE](https://www.nexusmods.com/morrowind/mods/46599?)
 	- Download and install the Main File
 	- Enable the following BAIN options:
 		- 00 Core + Vanilla Patches
+	- Bug fix: download [Graphic Herbalism - Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154?tab=description)
+		- Rename the mod "Graphic Herbalism MWSE" and select "Merge" when prompted
 1. [Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864?)
 1. [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094?)
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)

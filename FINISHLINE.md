@@ -13,8 +13,8 @@ Congraulations! You're nearly there. This last section details a few quick steps
 1. [Distant Land](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#distant-land)
 1. [Shaders](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#shaders)
 1. [In-game Settings](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#in-game-settings)
-	1. [MCM Settings](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#mcm-settings)
 	1. [Menu Options](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#menu-options)
+	1. [MCM Settings](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#mcm-settings)
 	1. [Mod Keybinds](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#mod-keybinds)
 
 
@@ -105,14 +105,32 @@ Launch Wrye Mash. Go to the **Mods** tab for your list of plugins. If a plugin's
 You should repeat this process anytime you update common master plugins like Patch for Purists, Tamriel Data, or OAAB Data.
 
 # Distant Land
-Remember to re-run distant land generation according to the steps in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md).
+You will need to regenerate your distant land. If you followed the steps in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md) this will be considerably easier:
+
+1. **Untick** the "Distant Land - Vanilla" mod you created in the Setup section
+1. Launch MGE XE in MO2
+1. In the "Distant Land" tab launch the "Distant land generator"
+1. On the "Plugins" tab, click "Select All"
 
 If you have installed **Remiros' Groundcover**, there are additional settings to check in MGE XE's distant land generation tab:
 1. Depending on the method you followed during installation, ensure that the ESPs are enabled and appear in your load order. They should be at the very bottom (i.e. last)
-1. If you installed the plugins to a separate folder (ex, \Data Files\Grass Plugins), you will need to specify this directory in the distant land generator wizard. Again, ensure the plugins are enabled and have a tick box in the wizard
-1. On the "Create Distant Statics" tab, set **Grass Density** to 100% and click generate statics
-	- Note: you can tweak this setting and re-generate distant land if the grass density affects performance. On my setup, 100% had no impact on framerate
-1. After distant land generation completes, remember to disable the Remiros' Groundcover grass ESPs in your load order (if you did not create a "Grass Plugins" folder)
+1. *If you installed the plugins to a separate folder (ex, \Data Files\Grass Plugins)*: 
+	- select "plugin directories..." to add this folder to the plugin list
+	- Click "Add" and select your "Grass Plugins" folder
+	- Be sure to click "Save" and then confirm that the plugins are all ticked in the plugin list (you may have to click "Select All" again)
+1. With all your plugins loaded, click *Run above steps using saved/default settings* and wait for the process to complete
+	- Note: you can tweak the settings and re-generate distant land if the grass density affects performance. On my setup, the default 100% density had no impact on framerate
+1. *If you did not create a "Grass Plugins" folder*: after distant land generation completes, remember to disable the Remiros' Groundcover grass ESPs in the right-pane (your load order)
+
+Finally, you will create a new mod for your modded game's distant land:
+1. Exit MGE XE and return to the MO2 interface
+1. Located to the right of the Profile drop-down menu, click the small hammer-and-wrench icon and select "Create Empty Mod"
+1. Name this mod "Distant Land - Modular" or something distinct, and make sure it is at the bottom of your load order
+1. At the bottom of your load order, double click on the "Overwrite" folder
+1. Drag and drop the "distantland" folder into the empty mod
+1. Tick the mod to enable it
+
+Note: any time you regenerate your distant land it will automatically overwrite and replace the files in the "Distant Land - Modular" mod, assuming you leave it enabled in the left-pane. This means you will only have to perform the above steps *once*. 
 
 # Shaders
 Remember to set up the mod-added shaders and enable them in the MGE XE shader tool. (If the following shaders don't appear in your shader list, that just means you didn't install the respective mods, and these instructions can be ignored):
@@ -126,10 +144,33 @@ Add them to the bottom of the list of active shaders in MGE XE.
 # In-game Settings
 The final step. Nearly there...
 
-## MCM Settings
-Launch the game and enter the **Mod Configuration Menu** in the main menu. Some settings may require you to re-launch the game to take effect.
+## Menu Options
+Launch the game and enter the in-game Options menu. Adjust the following:
 
-Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new game because settings are stored in .json config files in the MWSE folder in the root directory. You only need to make these settings changes once per installation.
+### **Prefs**
+- Set difficulty to 0 (Dynamic Difficulty will handle scaling to keep things interesting--unless you want to punish yourself and play at 100 difficulty from the start)
+- Set **AI Distance** to the furthest right on the slider (decreasing the value improves performance but may break AI commands. I play with the AI slider set to the furthest left--this saves about 5-10 FPS in areas with lots of NPCs, but will break some follower quests)
+- Autosave when rest=OFF
+- Always Use Best Attack=OFF
+- Subtitles=ON
+
+## Audio
+- Turn the Music slider all the way down and let this AURA's ambient soundscapes transport you... Strongly recommended.
+
+### **Controls**
+- Use = mouse1
+- activate=e
+- Ready weapon=r
+- Ready magic=f
+- Jump=spacebar
+
+### **Video**
+- Set **Real-time shadows** to OFF, i.e. the slider all the way to the left (this is  for performance reasons as well as to reduce the incidence of buggy shadows through walls, etc.).
+
+## MCM Settings
+From the in-game menu, select the **Mod Configuration Menu**. Note: some settings may require you to re-launch the game to take effect.
+
+Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game because settings are stored in .json config files in the MWSE folder in the root directory. You only need to make these settings changes once per installation.
 
 ### **Abot's Loading Door**
 - Lock door with shift + activate = yes
@@ -215,9 +256,8 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 ### **Miscast Enhanced**
 - Ensure "Debug Mode" is disabled
 ### **Multi Mark & Harder Recall**
-- Customize Limited Recall values
-	- Recalls per day: 4
-- *optional* Enable Miscast Enhanced integration!
+- Enable Limited Recall: No
+- Enable Miscast Enhanced integration: Yes
 ### **No More Friendly Fire**
 - Blacklist: add "Hlormar Wine-Sot" (corrects an interaction between this mod and a vanilla quest)
 ### **No Translation Tooltips**
@@ -251,26 +291,6 @@ Note: unlike the Skyrim MCM, Morrowind MCM options will persist across every new
 - Use verbose buttons instead of icons for inventory filtering? = No
 ### **Weapon Sheathing**
 - Show unreadied shields on back = Yes!
-
-## Menu Options
-In the in-game menu Options set the following:
-
-### **Prefs**
-- Set difficulty to 0 (Dynamic Difficulty will handle scaling to keep things interesting--unless you want to punish yourself and play at 100 difficulty)
-- Set **AI Distance** to the furthest left on the slider (decreasing the value improves performance but may break AI commands. I play with the AI slider set to the furthest left--this saves about 5-10 FPS in areas with lots of NPCs)
-- Autosave when rest=OFF
-- Always Use Best Attack=OFF (controversial opinion, but the direction-based attack types can be a pain--experiment and make up your own mind)
-- Subtitles=ON
-
-### **Controls**
-- Use = mouse1
-- activate=e
-- Ready weapon=r
-- Ready magic=f
-- Jump=spacebar
-
-### **Video**
-- Set **Real-time shadows** to the middle of the slider (this is less for performance reasons than to reduce the incidence of buggy shadows through walls, etc.)
 
 ## In-game Settings
 The last step is to open the in-game console and adjust the formula for earthquake chances in "Shattered Stones." Open the console (~) and type: ```set fQuakeChance to 10```

@@ -9,7 +9,6 @@ Choose and **install only ONE** of the following levelling mod sections. If this
 ### Improved Vanilla
 Install this section if you want to play with **Improved Vanilla**, which does as the name suggests: it cuts out the micromanagement and irons out kinks in the game's levelling system.
 1. [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065?)
-1. [Borrowed Time](https://www.nexusmods.com/morrowind/mods/48971)
 1. [Class Skill Limit](https://www.nexusmods.com/morrowind/mods/48989)
 1. [Magicka Based Skill Progression](https://www.nexusmods.com/morrowind/mods/48330?)
 1. [MWSE Magicka Regen](https://www.nexusmods.com/morrowind/mods/48129?)
@@ -21,7 +20,7 @@ Install this section if you want to play with **Improved Vanilla**, which does a
 	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for **Improved Vanilla levelling** and **Class Skill Limit**.
 	- This config adjusts skill gain speed per skill (slower magic, extremely slow athletics and acrobatics, slightly faster armorer and security skill gain); level specific (at low levels characters level skills faster, and then gradually slower as they level up); and skill-level specific (low-level skills level up faster, but rates slow down until the variable cap from Class Skill Limit).
 
-### Class-Conscious Character Progression
+### Class-Conscious Character Progression (WIP)
 Install this section if you want to play with **Class-Conscious Character Progression (CCCP)**. **CCCP** makes major changes to the game's levelling system, which I won't summarize here. Basically it is very, very good:
 1. [Class-Conscious Character Progression](https://www.nexusmods.com/morrowind/mods/48110?)
 1. [Magicka Based Skill Progression](https://www.nexusmods.com/morrowind/mods/48330?)
@@ -39,11 +38,13 @@ Lightweight enhancements of existing skills, correcting oversights and making th
 	- Complements, and is intended for use alongside, [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)
 1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?)
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
-1. [Realistic Repair – Add-on - Fixed](https://mega.nz/file/KlJFTIbD#lRK6t8tOmyhjVYRS6FP95CIu2-GCyKtqf0E7gNrkuO4)
+1. [Realistic Repair – Add-on](https://www.nexusmods.com/morrowind/mods/47461)
+	- Download and install the Main File
+	- *Compatibility patch*: download [Realistic Repair - Add-on PFP Patch](https://mega.nz/file/ihwS0JSI#SDLiVSm0uOIljumedY_hflTqjTl4eJOG1sEnQBCvfkk), loading the plugin after "Realistic_Repair_Add-on.esp"
 1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
 
 ## New Skills
-Restores several skills from previous Elder Scrolls titles, and introduces new mechanics like poison crafting.
+Restores several skills from previous and later Elder Scrolls titles. Poison Crafting introduces weapon poisoning (plus an essential convenience feature: world-space activation of alchemy apparatus).
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
@@ -53,7 +54,7 @@ Restores several skills from previous Elder Scrolls titles, and introduces new m
 1. [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
 
 ## Expanded Magic
-The Magicka Expanded framework significantly enhances magic use via MWSE. New spells, new effects, all seamlessly integrated into the game.
+The Magicka Expanded framework significantly enhances magic use via MWSE. New and better spells, new and better effects, all seamlessly integrated into the game.
 1. [Magicka Expanded](https://www.nexusmods.com/morrowind/mods/47111?)
 	- Enable the "00 - Framework," "01 - Resource Pack," and whichever spell packs you like. I prefer just the "lore friendly pack" but the other packs (particularly weather and cortex magic) are very fun to play with:
 		- 00 - Framework
@@ -87,6 +88,16 @@ Further tweaks to the character creation and crime systems that improve the exis
 	- ESP is optional (it changes a dialogue line to reflect guards' new non-lethal arrest tactics); you can leave it disabled
 1. [Merlord's Starting Equipment](https://www.nexusmods.com/morrowind/mods/47283)
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?)
+
+## Survival Mechanics
+Optional module for Merlord's survival and camping mod, *Ashfall*, and a complementary suite of mods. This is easily the most impressive gameplay mod around. It's sleek, easy to use, and really, really fun. 
+
+Where many survival mechanics opt for tedium and punish players (and sometimes I enjoy that!), *Ashfall* integrates smoothly with Morrowind's core gameplay. It is also highly customizable through its MCM, allowing you to tweak and disable all its features on the fly. Strongly recommended for returning players.
+
+Note: There is a very small performance hit. Depending on your overall performance, you may not notice.
+1. [Skills Module](https://www.nexusmods.com/morrowind/mods/46034)
+1. [Ashfall](https://www.nexusmods.com/morrowind/mods/49057?tab=description)
+1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247)
 
 ## Dynamic Environmental FX
 These mods complement the lighting and weather changes from the Visuals section:  light scheduling, dynamic ambient sound, more dynamic weather, and region-specific environmental events.

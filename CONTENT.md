@@ -31,7 +31,7 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 1. [Brevur of Balmora](https://www.nexusmods.com/morrowind/mods/47557?)
 	- Cleaning: ESP requires cleaning
 1. [Glass Domes of Vivec - Performance Edition](https://www.nexusmods.com/morrowind/mods/48935)
-	- Special installation: do not enable the ESP
+	- Special installation instructions: do not enable the ESP
 1. [Glass Domes of Vivec - Moonrain Edition](https://www.nexusmods.com/morrowind/mods/48946)
 	- Enable the following BAIN options:
 		- 00 Core Visual Assets
@@ -107,12 +107,6 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 1. [Area Effect Arrows Integrated](https://www.nexusmods.com/morrowind/mods/47745)
 	- Enable only the "Area Effect Projectiles Integrated" plugin
 1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?)
-1. [Hunter’s Mark - A Marksman Mod](https://www.nexusmods.com/morrowind/mods/46656?)
-1. [Hunter's Mark - Tribunal Rebalance Patch](https://mw.moddinghall.com/file/51-projectiles-reintegrated/)
-	- Download "Tribunal Rebalance + Hunter's Mark Patch.zip"
-1. [Projectiles Reintegrated](https://mw.moddinghall.com/file/51-projectiles-reintegrated/)
-	- Download "Projectiles Reintegrated v1.0.zip"
-	- Enable both "Projectiles Reintegrated.esp" and "Projectiles AEPI Patch.esp", in this order
 
 ## Quests
 High-quality, lore-friendly quests designed to fit seamlessly within the vanilla game.

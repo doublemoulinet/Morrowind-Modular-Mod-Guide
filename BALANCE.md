@@ -28,7 +28,7 @@ Light-weight MWSE mods that address some of the remaining balance issues with th
 1. [Wings of Will](https://www.nexusmods.com/morrowind/mods/46626?)
 
 ## Balance - Hardcore
-This section addresses some common exploits and makes enemy encounters more difficult and engaging. "There Can Be Only One" corrects the most glaring balance issue in the game: the endless supply of extremely valuable and (supposedly) very rare item drops. Strongly recommended even for first-time players.
+Addresses some common exploits and makes enemy encounters more difficult and engaging. "There Can Be Only One" corrects the most glaring balance issue in the game: the endless supply of extremely valuable and (supposedly) very rare item drops. Strongly recommended even for first-time players.
 1. [MDMD - More Deadly Morrowind Denizens](https://www.nexusmods.com/morrowind/mods/48745)
 	- Enable the *MDMD - More Deadly Morrowind Denizens.esp* and *MDMD - Creatures Add-On.esp*
 1. [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/49232)

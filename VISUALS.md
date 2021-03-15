@@ -21,8 +21,8 @@ Performance-friendly groundcover that dramatically improves the look of the envi
 No more flat, overlit interiors: these two mods do all the visual heavy-lifting and dramatically improve the look of the game by tweaking lighting values. Universal compatibility (they work with everything).
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?)
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?)
-	- **Wrye Mash users only**: WM will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder
 	- **MO2 users**: install normally
+	- **Wrye Mash users only**: WM will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder
 1. [MGG Weather Darker Nights](https://www.nexusmods.com/morrowind/mods/47141?)
 
 ## VFX
@@ -31,6 +31,7 @@ New or enhanced visual effects, including improved flame and particle effects, a
 	- In the MO2 installation interface, set "No Glow" as the data directory
 	- Name the mod "Assetless No Glow" and install
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?)
+	- Enable the "00 Core" option
 1. [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423?)
 1. [Enlightened Flames](https://www.nexusmods.com/morrowind/mods/48816?)
 	- Enable both the "00 Core" and "01 enlightened flames" options
@@ -41,9 +42,9 @@ New or enhanced visual effects, including improved flame and particle effects, a
 	- Enable the "00 Core" and "01 MWSE" options
 1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?)
 	- Enable both the "00 Core" and "01 Vanilla Mist Replacer" options
-	- Note: may cause FPS drop at night in the Bitter Coast regions depending on your CPU. Untick the ESP or uninstall if the performance decrease annoys you
+	- Note: may cause FPS drop at night in the Bitter Coast regions depending on your CPU. Disable the ESP if the performance decrease annoys you (but keep the mod active for the improved mist meshes)
 1. [MWSE Blood Diversity](https://www.nexusmods.com/morrowind/mods/47913)
-	- Install both the "00 Core" option and the texture version of your choice ("01 vanilla-friendly textures" for vanilla textures; "02 R-zero's textures" for Intelligent Textures)
+	- Install both the "00 Core" option and the texture version of your choice ("01 vanilla-friendly textures" for vanilla textures; "02 R-zero's textures" for better-looking, bloodier blood)
 	- Open your MO2 profile's .ini in ```Mod Organizer 2\Profiles\[profile name]\Morrowind.ini```
 	- Replace the [Blood] section with the following:
 		```
@@ -121,7 +122,7 @@ Additional fixes to vanilla meshes and textures.
 	- Archive is incorrectly packed: set "HD\Data Files"  as the data files directory (or "Vanilla\Data Files" if using vanilla textures)
 1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?)
 1. [Visually Diseased Creatures](https://mega.nz/file/bgI01bjb#LhkjcX4-PK8gCSJZ2OqfaX5dEkFrmvCTqkO3qFw2iHA)
-	- By Remiros and Necrolesian, makes diseased creatures subtly visually distinct
+	- By Remiros and Necrolesian, this unofficially released mod makes diseased creatures subtly visually distinct
 1. [Vivec Palace Water Replacer](https://www.nexusmods.com/morrowind/mods/48291?)
 	- Download "Vivec Palace Water Replacer" and enable the "00 Core" and "01 Original Color" options
 

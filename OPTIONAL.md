@@ -10,10 +10,11 @@ Tamriel Data is a required dependency for all Project Tamriel (PT) and Tamriel R
 
 ## Province Mods
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145?)
-	- Download the Main File and Hotfix file. Enable "00 Core" and the hotfix ESP
+	- Download the Main File and enable the "00 Core" option
+    - Optional: enable "03 Travel Network for Core and Vvardenfell" and ensure  "TR_Travels.esp" is enabled in your load order
 1. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921?)
 	- **Grass Plugins**: add the grass ESP to your "Grass Plugins" folder if you created one when installing Remiros' Grass
-		- Grass plugins are optional, as they will decrease performance
+		- Grass plugins are optional, as they will incur a significant performance penalty
 
 ## Solstheim Overhaul
 1. [Solstheim - Tomb of the Snow Prince](https://www.nexusmods.com/morrowind/mods/46810)
@@ -25,7 +26,7 @@ Tamriel Data is a required dependency for all Project Tamriel (PT) and Tamriel R
 		- 012 Armor of the Snow Prince
 	- **Grass Plugins**: For "Solstheim Graphical Replacer" enable only the following option:
 		- 012 Remiros Groundcover for TOTSP
-			- Grass plugins are optional, as they will decrease performance
+			- Grass plugins are optional, as they will incur a significant performance penalty
 	- Ensure only the following four plugins are enabled: 
 		- *Solstheim Tomb of the Snow Prince.esm*, 
 		- *TOTSP TD Content Integration.esp* (only if you are also playing with Tamriel Rebuilt!)
@@ -55,6 +56,8 @@ Optionally, you may update the following mods to enable compatibility/integratio
 	- Download the "kart_fut_TR_PT" Main File and install. Installation order doesn't matter; you may merge, or place the mod underneath, *Facelift* in the **VISUALS** section. Adds high quality textures for TR faces to better fit in with HD texture replacers like IT.
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?) (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) section)
 	- Enable the "00 Core" and "02 Vvardenfell, Morrowind, and Cyrodiil" BAIN options. This replaces the generic TR road signs with vanilla-friendly readable signs.
+1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?) (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) section)
+	- Enable the "00 Core" as well as the "02 Tamriel Rebuilt Water" option
 
 **NEXT SECTION**:
 [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md)
