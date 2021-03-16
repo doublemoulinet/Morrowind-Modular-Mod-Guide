@@ -111,7 +111,7 @@ These mods complement the lighting and weather changes from the Visuals section:
 		- When in-game, open the console (~) and type: ```set fQuakeChance to 10```
 	- Cleaning: ESP requires cleaning
 1. [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636)
-	- Enable only the following BAIN options: "00 Lua core"
+	- Enable: "00 Lua core" and "02 Weather Adjuster Replacer"
 	
 
 **NEXT SECTION**:

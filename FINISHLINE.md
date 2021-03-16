@@ -187,12 +187,12 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 - Blacklist: select the "Books" filter and click "filter all" in the right pane (this will allow you to read owned books without toggling sneak first).
 - Select the "Doors" filter and click "filter all" in the right pane (this is largely a preecaution, since Ownership Overhaul should fix all vanilla game door ownership)
 ### **AURA**
-- General Tab
+- Main Settings
+	- No: Interior Ambient
+	- No: Populated Ambient
 	- No: Enable UI Module
 	- No: Enable Containers Module
 	- No: Enable PC Module
-- Service Voices Tab
-	- No: Enable voice comments on spells vendor service
 ### **Book Pickup**
 - On by default? = No (use shift + e to pickup books without reading them)
 ### **Clock Block**
