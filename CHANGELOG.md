@@ -1,4 +1,4 @@
-[<< Return to HOME](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/readme.md)
+[<< Return to HOME](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
 
 # 2021-03-15
 Ashfall, baby. It's back.

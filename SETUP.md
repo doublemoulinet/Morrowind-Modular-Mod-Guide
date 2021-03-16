@@ -1,6 +1,6 @@
 # Setup
 
-[<< Return to HOME](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/readme.md)
+[<< Return to HOME](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
 
 ## Index
 1. [Installation](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#installation)
