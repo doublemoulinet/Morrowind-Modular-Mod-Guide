@@ -1,5 +1,5 @@
 # Gameplay - Balance
-This Balance module addresess many of the most glaring balance issues and exploits in the game. It does not recommend dramatic overhauls of the economy or systems to make the game more difficult; it focuses on improving the existing game design and making the game more fun.
+Addresess many of the most glaring balance issues and exploits in the game,focusing on improving the existing game design and making the game more fun.
 
 ## Balance - Core
 Core balancing mods for the base game, expansion and endgame content. Don't play without them.

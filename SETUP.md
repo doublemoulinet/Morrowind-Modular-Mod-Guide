@@ -294,6 +294,7 @@ Other Distant Land settings:
 
 You will need to run MGE XE at the end of your mod installation to regenerate distant land and enable mod-specific shaders.
 
+### **Optional step: creating a distantland mod folder**
 Before moving on to the next tab in MGE XE, you may optionally move your newly-generated Distant Land files from their default location in the "Overwrite" folder:
 1. Exit MGE XE and return to the MO2 interface
 1. Located to the right of the Profile drop-down menu, click the small hammer-and-wrench icon and select "Create Empty Mod"
@@ -301,7 +302,7 @@ Before moving on to the next tab in MGE XE, you may optionally move your newly-g
 1. At the bottom of your load order, double click on the "Overwrite" folder
 1. Drag and drop the "distantland" folder into the empty mod
 
-The advantage of this step is that you will always have vanilla distant land that you can easily revert to (either for testing purposes, or for inclusion in a "vanilla" modding profile). With this complete, you may now relaunch MGE XE and continue the setup.
+The advantage of this step is that you will always have vanilla distant land that you can easily revert to. This is useful both for testing purposes, or if you want to keep multiple install profiles and prserve a ready-to-go "vanilla" setup. With this complete, you may now relaunch MGE XE and continue the setup.
 
 ## In-game Tab
 Enable the following options:

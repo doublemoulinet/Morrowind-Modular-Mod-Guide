@@ -1,5 +1,5 @@
 # Visuals
-This module improves the visual fidelity of the game while preserving the original visual design. 
+Improves the visual fidelity of the game while preserving the original visual design.
 
 ## Visuals Base
 AI-upscaled and hand-painted high-definition textures for a vanilla-plus installation. 

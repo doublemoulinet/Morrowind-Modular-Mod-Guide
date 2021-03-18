@@ -1,5 +1,5 @@
 # Gameplay - Consistency
-This module addresses the various lore and logic inconsistencies with the game, and can be considered the "vanilla-plus" content section of the guide.
+Addresses the various lore and logic inconsistencies with the game, and can be considered the "vanilla-plus" content section of the guide.
 
 ## Expansion Integrations
 Better integrates the expansion content into the base game. Early Transport to Mournhold complements Expansion Delay's changes to the Tribunal quest hook.

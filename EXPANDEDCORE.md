@@ -1,5 +1,5 @@
 # Core - Expanded
-This section expands on the [**Core module**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) with several must-have MWSE mods that improve existing features: expanded menu and UI, basic convenience tweaks, and core immersion mods that conform to a "vanilla-plus" scheme.
+This section expands on the [**Core module**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) with must-have MWSE mods: expanded menu and UI, basic convenience tweaks, and core immersion mods.
 
 ## User Interface - Expanded
 Improved main menu, character creation, HUD, and in-game menus. "User Interface Expansion" is essential to any modded playthrough.
@@ -13,7 +13,7 @@ Improved main menu, character creation, HUD, and in-game menus. "User Interface 
 1. [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119?)
 	- Download and install Main File "Descriptive Shrines"
 1. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/47962?)
-	- The fillbar is too narrow for my tastes. You can adjust the width in the main.lua. Find "chargeFillbar.height = 6" [line 18] and change the value after the equals sign to 7
+	- The fillbar is too narrow for my tastes. You can adjust the width in the main.lua. Find ```chargeFillbar.height = 6``` [line 18] and change the value after the equals sign to 7
 1. [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693?)
 1. [Ownership Indicator](https://www.nexusmods.com/morrowind/mods/45940?)
 1. [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)

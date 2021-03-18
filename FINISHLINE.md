@@ -122,7 +122,8 @@ If you have installed **Remiros' Groundcover**, there are additional settings to
 	- Note: you can tweak the settings and re-generate distant land if the grass density affects performance. On my setup, the default 100% density had no impact on framerate
 1. *If you did not create a "Grass Plugins" folder*: after distant land generation completes, remember to disable the Remiros' Groundcover grass ESPs in the right-pane (your load order)
 
-Finally, you will create a new mod for your modded game's distant land:
+### **Optional step: create a distant land mod folder**
+Optionally, you may create a new mod for your modded game's distant land:
 1. Exit MGE XE and return to the MO2 interface
 1. Located to the right of the Profile drop-down menu, click the small hammer-and-wrench icon and select "Create Empty Mod"
 1. Name this mod "Distant Land - Modular" or something distinct, and make sure it is at the bottom of your load order
@@ -130,7 +131,9 @@ Finally, you will create a new mod for your modded game's distant land:
 1. Drag and drop the "distantland" folder into the empty mod
 1. Tick the mod to enable it
 
-Note: any time you regenerate your distant land it will automatically overwrite and replace the files in the "Distant Land - Modular" mod, assuming you leave it enabled in the left-pane. This means you will only have to perform the above steps *once*. 
+If you also followed this optional step during the [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md) section, you can untick "Distant Land - Vanilla" (or whatever you named the mod) in MO2's left pane.
+
+Note: any time you regenerate your distant land it will automatically update and replace the files in the "Distant Land - Modular" mod, assuming you leave it enabled in the left-pane. This means you will only have to perform the above steps *once*! 
 
 # Shaders
 Remember to set up the mod-added shaders and enable them in the MGE XE shader tool. (If the following shaders don't appear in your shader list, that just means you didn't install the respective mods, and these instructions can be ignored):
@@ -201,13 +204,6 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 ### **Continue**
 - Hide Credits Button = Yes
 - Hide New Game Button (In Game) = Yes
-### **Graphic Herbalism**
-- Whitelist: 
-	- ab_r_kwamaeggblighted
-	- abtv_o_kweggblightedmm
-- Blacklist:
-	- _in_lib_scrolls* (all objects with this ID prefix)
-	- ab_r_kwamstorager
 ### **Illegal Summoning**
 - NPC Crime Trigger Distance = 2000
 ### **Let There Be Darkness**
@@ -274,7 +270,7 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 - Hide lock status? = Yes
 - Show quickloot menu on plant/organic containers? = No (Graphic Herbalism's tooltip is superior)
 - Show vanilla container tooltip = yes 
-	- (will cause redundant tooltips but resolves an edge-case issue when the quickloot menu is disabled for organic containers)
+	- (will cause redundant tooltips but resolves an edge-case issue when the quickloot menu is disabled for improperly flagged-as-organic containers)
 ### **Security Enhanced**
 - Change the equip/cycle lockpick hotkey to "O" ("L" is used by Let There Be Darkness)
 - Set auto-equip options to OFF
