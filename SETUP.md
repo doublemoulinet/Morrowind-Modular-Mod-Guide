@@ -220,7 +220,7 @@ The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its oth
 	- Allow the update process to take place. The command-line window will automatically close when this process is done
 
 There is one additional installation step to complete:
-1. In the MGE XE mod archive, zip the remaining folders in **Data Files** (**meshes**, **shaders** and **textures**) and name this archive **MGE XE - Data Files**
+1. In the MGE XE mod archive, zip the remaining files/folders in **Data Files** (**XE Sky Diversity.esp**, **meshes**, **shaders** and **textures**) and name this archive **MGE XE - Data Files**
 1. In MO2, click the "Install Mod" button on the menubar 
 1. Select your zip file and in the subsequent "Install Mods" window click "OK"
 

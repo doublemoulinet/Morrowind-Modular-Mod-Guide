@@ -52,7 +52,7 @@ Ensure the following plugins load *first* (i.e. at the very top) in your load or
 Ensure that the following mods always load *last* (i.e. at the very bottom) in your load order:
 1. There Can Be Only One (Alt Fyr).esp
 1. Conflict Resolution.esp ```(installed in the next step)```
-1. XE Sky Variations.esp
+1. XE Sky Variations.esp ```(remember to disable if using Weather Adjuster in VISUALS)```
 1. multipatch.esp ```(created in the next step)```
 1. Merged Objects.esp ```(created in the next step)```
 

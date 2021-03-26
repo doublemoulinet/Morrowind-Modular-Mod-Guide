@@ -21,8 +21,7 @@ Performance-friendly groundcover that dramatically improves the look of the envi
 No more flat, overlit interiors: these two mods do all the visual heavy-lifting and dramatically improve the look of the game by tweaking lighting values. Universal compatibility (they work with everything).
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?)
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?)
-	- **MO2 users**: install normally
-	- **Wrye Mash users only**: WM will not install the .dll. Install normally via Wrye Mash, then navigate to the mod archive and extract the .dll directly into your Data Files\MWSE\mods\hrnchamd\weatheradjust\ folder
+	- Post-installation: disable "XE Sky Variations.esp" in your load order (Weather Adjuster supersedes it, and there are small incompatibilities)
 1. [MGG Weather Darker Nights](https://www.nexusmods.com/morrowind/mods/47141?)
 
 ## VFX
