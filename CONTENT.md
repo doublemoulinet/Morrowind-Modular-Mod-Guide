@@ -5,6 +5,7 @@ High quality lore-friendly content additions, with an additional emphasis on per
 The OOAB team's modders' resource, OAAB_Data, is a required dependency for several of the mods in this section; its optional integrations plugins incorporate its high-quality vanilla- and lore-friendly work into the game. Recommended, and even better, required.
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
 	- Enable both "00 Core" and "01 GiTD patch sunrays"
+	- Post-installation: double-click on the mod in the left pane, and in the "Optional ESPs" tab, move the "OAAB_Cells" plugin from "Available ESPs" to "Optional ESPs"
 1. [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045)
 	- Install the following as separate mods:
 		- OAAB Creature Loot 
