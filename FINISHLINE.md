@@ -109,7 +109,6 @@ OAAB Leveled Creatures.ESP
 OAAB Leveled Lists.ESP
 OAAB - Bloodmoon Rebalance Patch.ESP
 OAAB Creature Loot - PFP Patch.ESP
-OAAB - Ownership Overhaul Extension.ESP
 OAAB - There Can Be Only One Patch.ESP
 Atmospheric Delights.ESP
 RR_Gnisis_Arch_Eng.ESP
@@ -119,6 +118,7 @@ Glass Domes of Vivec_atmospheric arena Ownership Overhaul Patch.ESP
 Meteorite Ministry Temple.ESP
 OAAB_Grazelands.ESP
 OAAB_Tel Mora.ESP
+OAAB - Ownership Overhaul Extension.ESP
 SarandasHall.ESP
 Stav_gnisis_minaret_eng.esp
 VEHK Palace.esp
