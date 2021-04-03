@@ -5,6 +5,7 @@
 ## Index
 1. [Installation](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#installation)
 1. [Morrowind Code Patch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#morrowind-code-patch)
+1. [Wrye Mash](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#wrye-mash)
 1. [Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#tools)
 1. [Optional Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#optional-tools)
 1. [Mod Organizer 2](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#mod-organizer-2)
@@ -32,7 +33,7 @@ Install Morrowind and all modding tools to a root directory, outside the default
 Do not install the game in Program Files, Program Files (x86), or any other default Windows folder (ex. Desktop, Documents).
 
 ## GOG Installation Cleanup
-*Note: this step applies only to users of the GOG edition of Morrowind GOTY.*
+*Note: this step applies only to users of the GOG edition of Morrowind GOTY. If you're using the Steam version, skip to the next step.*
 
 The GOG edition of Morrowind GOTY bundles several unnecessary files. In addition to uncompressing the BSA archives (which contain all the game's meshes and textures), the GOG edition includes all of Bethesda's Official Plugins. These suck and you don't want to play with them. This guide assumes you will *not* be using the official plugins; play with them at your own peril!
 
@@ -47,7 +48,7 @@ After this step, you should have only:
 - ESMs: Bloodmoon.esm, Morrowind.esm, Tribunal.esm
 
 ## General Tips
-- Do not uninstall mods mid-playthrough. The only mods that can be safely uninstalled mid-game are esp-less texture/mesh replacers and *some* MWSE mods. Any mod with an ESP/ESM should not be removed from your mod order mid-playthrough (unless you know what you're doing)
+- Unless you know what you're doing, avoid uninstalling mods mid-playthrough. The only mods that can be safely uninstalled mid-game are esp-less texture/mesh replacers and *some* MWSE mods. Plugins should not be removed from your mod order mid-playthrough (unless you know what you're doing)
 - Always read the mod description on the mod page
 - Remember to update MWSE! It's under active development and you should run the MWSE-Updater.exe frequently
 - Likewise, check the Nexus for mod updates. MWSE mods are frequently updated and most can be safely installed and updated mid-playthrough
@@ -55,12 +56,18 @@ After this step, you should have only:
 After you have installed the game, run the Morrowind Launcher and boot to the main menu. This ensures the proper files are generated.
 
 # Morrowind Code Patch
+### [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510?)
 The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It is an essential utility. The MCP must be installed manually.
-1. Download the Morrowind Code Patch main file from [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510?)
-1. Extract to your Morrowind root directory (```C:\...\Morrowind```). Do not extract it to ```Morrowind\Data Files```.
-1. Download the MCP Beta from [MCP Skunk Works](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
+1. Download the Morrowind Code Patch main file 
+1. Extract to your Morrowind root directory (```C:\...\Morrowind```). Do not extract it to ```Morrowind\Data Files```
+
+### [MCP Skunk Works](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
+1. Download the MCP Beta Main File 
 1. Extract the contents of the MCP Beta to your Morrowind root directory (```C:\...\Morrowind```), and overwrite when prompted
-1. Run Morrowind Code Patch.exe and enable the following options:
+
+## Setup
+1. In your Root Folder, run **Morrowind Code Patch.exe** as an Administrator
+1. Enable the following options:
 	- **Beta**: every option EXCEPT *"Doppler audio fix"*
 	- **Game Mechanics**: every option EXCEPT *"Allow Gloves with Bracers"*
 	- **Visuals**: every option EXCEPT *"Over-the-shoulder third person camera,"* and *"Vanity camera lock"*
@@ -68,7 +75,24 @@ The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It 
 	- **Interface changes**: enable every option EXCEPT *"Map Expansion (for TR),"* *"Disable map smoothing,"* *"Spell select by name,"* and *"see all standard potion effects"*
 	- **International**: none (if using the English language Morrowind)
 	- **Bug Fixes**: ensure EVERY option is enabled
-1. Click the big "Apply chosen patches" button
+1. Click the big "Apply chosen patches" button and exit
+
+# Wrye Mash
+### [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?)
+This powerful tool will be used primarily to clean and repair plugins, clean and repair game saves, enable mod-added BSA archives, and update plugin masters.
+1. Download the latest x64 manual installation archive, under Main Files, **and** any x64 manual installation Update file (if applicable)
+1. Extract the contents to your Morrowind root folder (```C:\...\Morrowind```). Overwrite/merge if prompted
+
+## Setup
+1. Run mash64.exe
+	- The application will prompt you to select the Morrowind root directory. It will also prompt you to select an Installers path: select the ```C:\...\Morrowind\Mods``` directory you created earlier
+	- **Morrowind directory**: select your Morrowind root folder (```C:\...\Morrowind```)
+	- **Mods Installers directory**: you can direct the filepath to (```C:\...\Morrowind\Mopy\Mods```) or anywhere else; this guide will not use Wrye Mash's Mods Installers functionality
+	- **Mlox directory**: You can ignore the mlox optional path for now
+1. When prompted to enable support for 1024 plugins, choose "Yes"
+1. Continue through the prompts and conclude the initialization process when prompted
+
+Important: you *must* enable support for 1024 plugins. Currently, with this option disabled the save-cleaning tools are not working
 
 # Tools
 These modding tools will be used for several key steps in this guide: mod cleaning, merged patch creation, and plugin editing/fixing. These are required.
@@ -91,20 +115,6 @@ Download the xEdit 4.1.3a experimental build on MediaFire (courtesy of Sigourn).
 ### [TESTool](https://www.nexusmods.com/morrowind/mods/47473)
 TESTool is a mod repair and management tool. You will use it to clean your plugins.
 1. Download manually and extract the contents to ```...\Morrowind Mods\Tools\TESTool```
-
-### [Wrye Mash](https://www.nexusmods.com/morrowind/mods/45439?)
-This powerful tool will be used primarily to clean and repair plugins, clean and repair game saves, enable mod-added BSA archives, and update plugin masters.
-1. Download the latest x64 manual installation archive, under Main Files, and any x64 manual installation Update file (if applicable)
-1. Extract the contents to your Morrowind root folder (```C:\...\Morrowind```). Overwrite/merge if prompted
-1. Run mash64.exe
-	- The application will prompt you to select the Morrowind root directory. It will also prompt you to select an Installers path: select the ```C:\...\Morrowind\Mods``` directory you created earlier
-	- **Morrowind directory**: select your Morrowind root folder (```C:\...\Morrowind```)
-	- **Mods Installers directory**: you can direct the filepath to (```C:\...\Morrowind\Mopy\Mods```) or anywhere else; this guide will not use Wrye Mash's Mods Installers functionality
-	- **Mlox directory**: You can ignore the mlox optional path for now
-1. When prompted to enable support for 1024 plugins, choose Yes
-1. Continue through the prompts and conclude the initialization process when prompted
-
-Important: you *must* enable support for 1024 plugins. Currently, with this option disabled the save-cleaning tools are not working
 
 # Optional Tools
 Tools that are not used in this guide. While not strictly needed, if you plan to experiment with your installation and try mods not included in the guide, you may find need of these tools. Otherwise, you may skip this section!

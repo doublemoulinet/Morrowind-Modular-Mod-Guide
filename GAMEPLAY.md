@@ -20,7 +20,7 @@ Install this section if you want to play with **Improved Vanilla**, which does a
 	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for **Improved Vanilla levelling** and **Class Skill Limit**.
 	- This config adjusts skill gain speed per skill (slower magic, extremely slow athletics and acrobatics, slightly faster armorer and security skill gain); level specific (at low levels characters level skills faster, and then gradually slower as they level up); and skill-level specific (low-level skills level up faster, but rates slow down until the variable cap from Class Skill Limit).
 
-### Class-Conscious Character Progression (WIP)
+### Class-Conscious Character Progression (section is WIP)
 Install this section if you want to play with **Class-Conscious Character Progression (CCCP)**. **CCCP** makes major changes to the game's levelling system, which I won't summarize here. Basically it is very, very good:
 1. [Class-Conscious Character Progression](https://www.nexusmods.com/morrowind/mods/48110?)
 1. [Magicka Based Skill Progression](https://www.nexusmods.com/morrowind/mods/48330?)
@@ -40,13 +40,15 @@ Lightweight enhancements of existing skills, correcting oversights and making th
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
 1. [Realistic Repair – Add-on](https://www.nexusmods.com/morrowind/mods/47461)
 	- Download and install the Main File
-	- *Compatibility patch*: download [Realistic Repair - Add-on PFP Patch](https://mega.nz/file/ihwS0JSI#SDLiVSm0uOIljumedY_hflTqjTl4eJOG1sEnQBCvfkk), loading the plugin after "Realistic_Repair_Add-on.esp"
+	- *Compatibility patch*: download [Realistic Repair - Add-on PFP Patch](https://www.nexusmods.com/morrowind/mods/49471?) and install as a separate mod, loading the plugin after "Realistic_Repair_Add-on.esp"
 1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
 
 ## New Skills
-Restores several skills from previous and later Elder Scrolls titles. Poison Crafting introduces weapon poisoning (plus an essential convenience feature: world-space activation of alchemy apparatus).
+Restores several skills from previous and later Elder Scrolls titles, including backstabs, climibing, and sneak attacks. Poison Crafting introduces weapon poisoning (plus an essential convenience feature: world-space activation of alchemy apparatus).
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
+2. [Mantle of Ascension](https://github.com/vtastek/mwsemods)
+	- In the MO2 installation popup, set "Mantle of Ascension/Data Files" as the data files directory and install normally
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
 	- Disable the "MWSE" folder
 	- Cleaning: ESP requires cleaning
@@ -79,20 +81,21 @@ The Magicka Expanded framework significantly enhances magic use via MWSE. New an
 1. [Customizable MWSE Multi Mark and Limited Recall](https://www.nexusmods.com/morrowind/mods/47065?)
 
 ## Crime, Combat, and Character Tweaks
-Further tweaks to the character creation and crime systems that improve the existing game design.
+Further tweaks to the character creation and crime systems.
 1. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786?)
 1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
 	- Download the zip of all NullCascade’s Morrowind mods
 	- In MO2, set The Last Witness as your data directory and install
 1. [The Law is Sacred](https://www.nexusmods.com/morrowind/mods/48130?)
 	- ESP is optional (it changes a dialogue line to reflect guards' new non-lethal arrest tactics); you can leave it disabled
-1. [Merlord's Starting Equipment](https://www.nexusmods.com/morrowind/mods/47283)
+1. [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?)
+	- Enable only the "Personal Effects_MWSE.ESP"
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?)
 
 ## Survival Mechanics
 Optional module for Merlord's survival and camping mod, *Ashfall*, and a complementary suite of mods. This is easily the most impressive gameplay mod around. It's sleek, easy to use, and really, really fun. 
 
-Where many survival mechanics opt for tedium and punish players (and sometimes I enjoy that!), *Ashfall* integrates smoothly with Morrowind's core gameplay. It is also highly customizable through its MCM, allowing you to tweak and disable all its features on the fly. Strongly recommended for returning players.
+Where many survival mechanics opt for tedium and punish players (and sometimes I enjoy that!), *Ashfall* is really relaxed. It is also highly customizable through its MCM, allowing you to tweak and disable all its features on the fly. Strongly recommended for returning players.
 
 Note: There is a very small performance hit. Depending on your overall performance, you may not notice.
 1. [Skills Module](https://www.nexusmods.com/morrowind/mods/46034)

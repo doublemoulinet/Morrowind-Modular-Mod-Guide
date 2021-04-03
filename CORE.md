@@ -45,8 +45,6 @@ Higher-resolution fonts for modern systems. Necessary if you want to preserve yo
 		- Within MO2's installation interface, create a new folder and name it "Fonts"
 		- Place the **.fnt** and **.tex** files in this "Fonts" folder and install
 1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873?)
-1. [Fixed Journal Next Button](https://www.nexusmods.com/morrowind/mods/48097?)
-	- Install both the Main File and Optional File, and select "Merge" when prompted
 
 
 **NEXT SECTION**:

@@ -35,6 +35,7 @@ Restored or expanded vanilla content, including logic and consistency fixes for 
 1. [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150?)
 1. [Supply Chests](https://www.nexusmods.com/morrowind/mods/49232)
 	- Download and install Main File "Supply Chests"
+	- Install BAIN option: "01 Supply Chest (Religions Elaborated Compatible)"
 1. [Synthesis Series - Creatures and Diseases](https://www.nexusmods.com/morrowind/mods/48279?)
 1. [Temples with Shrines](https://www.nexusmods.com/morrowind/mods/45535?)
 1. [Transporter Lights](https://www.nexusmods.com/morrowind/mods/48050?)

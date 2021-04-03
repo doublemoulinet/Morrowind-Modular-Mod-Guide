@@ -113,12 +113,6 @@ Additional fixes to vanilla meshes and textures.
 	- Enable "00 Core" and "01 Vvardenfell only"
 	- Optional: install [No Translation Tooltips](https://www.nexusmods.com/morrowind/mods/48540?) to remove now-redundant road sign tooltips
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?)
-1. [Skeletons Atlased](https://www.nexusmods.com/morrowind/mods/46012?)
-	- Download only the optional file “Skeletons Atlased”
-	- Enable the following BAIN options:
-		- 02a Vanilla Textures 2x-4x Texture Size
-1. [Sotha Sil is a Dunmer](https://www.nexusmods.com/morrowind/mods/47839?)
-	- Archive is incorrectly packed: set "HD\Data Files"  as the data files directory (or "Vanilla\Data Files" if using vanilla textures)
 1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?)
 1. [Visually Diseased Creatures](https://mega.nz/file/bgI01bjb#LhkjcX4-PK8gCSJZ2OqfaX5dEkFrmvCTqkO3qFw2iHA)
 	- By Remiros and Necrolesian, this unofficially released mod makes diseased creatures subtly visually distinct

@@ -10,7 +10,8 @@ Tamriel Data is a required dependency for all Project Tamriel (PT) and Tamriel R
 
 ## Province Mods
 1. [Tamriel Rebuilt](https://www.nexusmods.com/morrowind/mods/42145?)
-	- Download the Main File and enable the "00 Core" option
+	- Download the "Tamriel Rebuilt" Main File and the "Tamriel Rebuilt 21.01 hotfix 1" Main File
+	- Enable the "00 Core" option, then the hotfix. "Merge" when prompted
     - Optional: enable "03 Travel Network for Core and Vvardenfell" and ensure  "TR_Travels.esp" is enabled in your load order
 1. [Skyrim Home of the Nords](https://www.nexusmods.com/morrowind/mods/44921?)
 	- **Grass Plugins**: add the grass ESP to your "Grass Plugins" folder if you created one when installing Remiros' Grass

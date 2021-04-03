@@ -23,11 +23,13 @@ For a similar-looking guide, see Sigourn's [Morrowind Improved](https://github.c
 
 This guide's selling features:
 - Step-by-step instructions in a **fully modular format**--including essential, visual, balance, and quality-of-life mods.
-- A curated selection of **vanilla-friendly content mods**, including settlement and dungeon expansions, new items, and quests.
-- On moderate desktop hardware (ex., an i7-3770 and GTX 680), you will get a solid **50-60FPS in-game**. Dips below 60FPS should be rare.
+- A curated selection of **vanilla-friendly gameplay and content mods**, including new and enhanced skills, settlement and dungeon expansions, new items, and quests.
+- Step-by-step instructions for installing the province mods, **Tamriel Rebuilt**, **Skyrim: Home of the Nords**, and **Solstheim Tomb of the Snow Prince**. 
 
 ## Note on performance:
 Morrowind is a single-core application, meaning CPU load is the major performance bottleneck. A CPU with fast single-core processing speed is the key to good performance. This guide tries to keep the CPU load low, so that a range of moderate systems will get stable framerates. Mods that add lots of references to exteriors, or add lots of NPCs, should be installed sparingly.
+
+On moderate desktop hardware (ex., an i7-3770 and GTX 680), you will get a solid **50-60FPS in-game**. Dips below 60FPS should be rare.
 
 ## Using this Guide and Installing Mods
 The guide is modular, meaning you can install most sections incrementally. Many of the mods in this guide can be skipped without causing mod compatibility/dependency problems. A first-time player need only follow the instructions in the first sections to have a stable, playable game. However, all sections are designed with a vanilla-friendly experience in mind. I recommend first-time players skip the "**CONTENT**"  section.

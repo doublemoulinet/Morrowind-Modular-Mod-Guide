@@ -21,20 +21,18 @@ Light-weight MWSE mods that address some of the remaining balance issues with th
 	- Enable the MWSE version (not the plugin version)
 1. [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292?)
 1. [Putting Power in Willpower](https://www.nexusmods.com/morrowind/mods/45742?)
+	- Archive is incorrectly packaged: in the MO2 installer interface, expand the folder, right-click "Data Files" and select "set as data files directory"
+	- Post-installation: disable the "Putting Power in Willpower - Absorbonach.esp" plugin
 1. [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248?)
 1. [Smart Merchants](https://www.nexusmods.com/morrowind/mods/47787?)
-1. [Soulless Creatures](https://www.nexusmods.com/morrowind/mods/49215)
 1. [Wading in Water MW](https://www.nexusmods.com/morrowind/mods/48783?)
 1. [Wings of Will](https://www.nexusmods.com/morrowind/mods/46626?)
 
 ## Balance - Hardcore
-Addresses some common exploits and makes enemy encounters more difficult and engaging. "There Can Be Only One" corrects the most glaring balance issue in the game: the endless supply of extremely valuable and (supposedly) very rare item drops. Strongly recommended even for first-time players.
-1. [MDMD - More Deadly Morrowind Denizens](https://www.nexusmods.com/morrowind/mods/48745)
-	- Enable the *MDMD - More Deadly Morrowind Denizens.esp* and *MDMD - Creatures Add-On.esp*
+Addresses some common exploits and makes enemy encounters more difficult and engaging. "There Can Be Only One" corrects the most glaring balance issue in the game: the endless supply of extremely valuable and (supposedly) very rare item drops.
 1. [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/49232)
 	- Download the "Ownership Overhaul Patches" Main File
-	- Enable "04 Morrowind Anti-Cheese" and rename the mod "Morrowind Anti-Cheese"
-	- Be sure to [endorse the original mod](https://www.nexusmods.com/morrowind/mods/47305?)
+	- Enable "06 Morrowind Anti-Cheese" and rename the mod "Morrowind Anti-Cheese"
 1. [No Disease Labels](https://www.nexusmods.com/morrowind/mods/48295?)
 1. [OperatorJack's Deleveler](https://www.nexusmods.com/morrowind/mods/47897?)
 1. [There Can Be Only One](https://www.nexusmods.com/morrowind/mods/47766)

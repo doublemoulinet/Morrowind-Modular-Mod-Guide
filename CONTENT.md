@@ -5,7 +5,6 @@ High quality lore-friendly content additions, with an additional emphasis on per
 The OOAB team's modders' resource, OAAB_Data, is a required dependency for several of the mods in this section; its optional integrations plugins incorporate its high-quality vanilla- and lore-friendly work into the game. Recommended, and even better, required.
 1. [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
 	- Enable both "00 Core" and "01 GiTD patch sunrays"
-	- Post-installation: double-click on the mod in the left pane, and in the "Optional ESPs" tab, move the "OAAB_Cells" plugin from "Available ESPs" to "Optional ESPs"
 1. [OAAB Integrations](https://www.nexusmods.com/morrowind/mods/49045)
 	- Install the following as separate mods:
 		- OAAB Creature Loot 
@@ -14,6 +13,12 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 		- OAAB Leveled Creatures
 		- OAAB Leveled Lists
 		- (Optional) OAAB Scroll Qualities
+1. [OAAB Patches](https://www.nexusmods.com/morrowind/mods/49471?)
+	- Download and install the following:
+		- OAAB - Bloodmoon Rebalance Patch
+		- OAAB Creature Loot - PFP Patch
+		- OAAB - Ownership Overhaul Extension
+		- OAAB - There Can Be Only One Patch
 
 ## Settlements
 1. [Atmospheric Delights](https://www.nexusmods.com/morrowind/mods/47472?)
@@ -107,7 +112,6 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 ## New Items
 1. [Area Effect Arrows Integrated](https://www.nexusmods.com/morrowind/mods/47745)
 	- Enable only the "Area Effect Projectiles Integrated" plugin
-1. [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?)
 
 ## Quests
 High-quality, lore-friendly quests designed to fit seamlessly within the vanilla game.

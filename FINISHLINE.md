@@ -25,54 +25,143 @@ If you followed the cleaning advice as you installed each mod then you have alre
 Please note that this may take some time. However, cleaning your plugins is absolutely necessary.
 
 # Load Order
-Generally, ESPs should remain in the order that they were installed in this guide. However, in some cases re-ordering is required.
+Generally, plugins should remain in the order that they were installed in this guide. However, MO2 does not automatically place ESMs at the top of your load order--you must drag and drop these manually. This will have no impact in-game (the vanilla engine always loads ESMs before ESPs regardless their order in your mod manager).
 
-Ensure the following plugins load *first* (i.e. at the very top) in your load order (the right pane of MO2), in this order:
-1. Morrowind.esm
-1. Tribunal.esm
-1. Bloodmoon.esm
-1. *Tamriel_Data.esm ```(installed in LANDMASS)```
-1. *OAAB_Data.esm  ```(installed in CONTENT)```
-1. Patch for Purists.esm
-1. Ownership Overhaul.esm
-1. *TR_Mainland.esm ```(installed in LANDMASS)```
-1. *Sky_Main.esm ```(installed in LANDMASS)```
-1. *Solstheim Tomb of the Snow Prince.esm ```(installed in LANDMASS)```
-1. [**Any other ESMs** in your load order]
-1. Patch for Purists - Book Typos.esp
-1. Patch for Purists - Semi-Purist Fixes.esp
-1. Expansion Delay.esp
-1. No More Stage Diving.esp
-1. chuzei_helm_no_neck.esp
-1. Descriptive Shrines.esp
-1. Morrowind Anti-Cheese.esp
-1. MDMD - More Deadly Morrowind Denizens.esp
-1. MDMD - Creatures Add-on.esp
+Make sure your load order looks something like this:
 
-Ensure that the following mods always load *last* (i.e. at the very bottom) in your load order:
-1. There Can Be Only One (Alt Fyr).esp
-1. Conflict Resolution.esp ```(installed in the next step)```
-1. XE Sky Variations.esp ```(remember to disable if using Weather Adjuster in VISUALS)```
-1. multipatch.esp ```(created in the next step)```
-1. Merged Objects.esp ```(created in the next step)```
+</details>
 
-### Load Order Backup
+<details>
+<summary>Plugin Load Order</summary>
+
+```
+Morrowind.esm
+Tribunal.esm
+Bloodmoon.esm
+Tamriel_Data.esm 
+OAAB_Data.esm
+Patch for Purists.esm
+Ownership Overhaul.esm
+TR_Mainland.esm
+Sky_Main.esm
+Solstheim Tomb of The Snow Prince.esm
+Patch for Purists - Book Typos.ESP
+Patch for Purists - Semi-Purist Fixes.ESP
+TOTSP_Patch_for_Purists_4.0.2.esp
+Expansion Delay.ESP
+chuzei_helm_no_neck.esp
+Descriptive Shrines.ESP
+Morrowind Anti-Cheese.ESP
+There Can Be Only One (Alt Fyr).esp
+GITD_WL_RR_Interiors.esp
+GITD_Telvanni_Dormers.ESP
+The Dream is the Door.ESP
+Hopesfire Torch (+ brighter trueflame).ESP
+Keg Drip.ESP
+mistify.ESP
+Waterfalls Tweaks.esp
+NearVanillaRoadSigns.esp
+Beware the Sixth House.ESP
+Bloodmoon Rebalance.esp
+tribunal rebalance.ESP
+Early Transport to Mournhold.esp
+Expansions Integrated (Sigourn Edit).esp
+Bigger Velothi Temples.esp
+Blight Is Coming.ESP
+Bloated Caves.esp
+Divayth Fyr Puzzle Fixed.ESP
+Dubdilla Location Fix.ESP
+Religions Elaborated.ESP
+Services Restored.ESP
+Silt Strider Animation Restored.ESP
+Supply Chests.ESP
+Synthesis Series - Creatures and Diseases.ESP
+Temples With Shrines.ESP
+The Publicans.ESP
+Yet Another Guard Diversity - Regular.ESP
+Hospitality_Papers_Expanded_v2.7.esp
+FMI_Nice_to_Meet_You.ESP
+FMI_#NotAllDunmer.ESP
+FMI_ServiceRefusal_Contraband.ESP
+Great Service.ESP
+Greetings for No Lore.esp
+Idle Talk.ESP
+Its a deal.ESP
+LDM - Context Matters.ESP
+Nasty Camonna Tong.esp
+outfit greetings tweaked.ESP
+What Thieves Guild.ESP
+Haunted Barrows.ESP
+Outdoor Banners With Sound.ESP
+Realistic_Repair_Add-on.ESP
+Realistic_Repair_Add-on - PFP Patch.ESP
+mwse_PoisonCrafting.esp
+Magicka Expanded - Resource Pack.ESP
+Enhanced Light.ESP
+Clear Your Name.esp
+Personal Effects_MWSE.ESP
+RFD_Heartthrum.ESP
+TheMidnightOil.ESP
+Shattered Stones - An Earthquake Mod.esp
+OAAB Creature Loot.ESP
+OAAB_GoldenReeds.ESP
+OAAB Leveled Creatures.ESP
+OAAB Leveled Lists.ESP
+OAAB - Bloodmoon Rebalance Patch.ESP
+OAAB Creature Loot - PFP Patch.ESP
+OAAB - Ownership Overhaul Extension.ESP
+OAAB - There Can Be Only One Patch.ESP
+Atmospheric Delights.ESP
+RR_Gnisis_Arch_Eng.ESP
+Brevur of Balmora - Finally Some Good Statue Mod.ESP
+Glass Domes of Vivec_atmospheric arena.esp
+Glass Domes of Vivec_atmospheric arena Ownership Overhaul Patch.ESP
+Meteorite Ministry Temple.ESP
+OAAB_Grazelands.ESP
+OAAB_Tel Mora.ESP
+SarandasHall.ESP
+Stav_gnisis_minaret_eng.esp
+VEHK Palace.esp
+Foyada Mamaea Overhaul.ESP
+The Grove of Ben'Abi.ESP
+OAAB - The Ashen Divide.ESP
+RR_Telvanni_Lighthouse_Tel Branora_Eng.ESP
+RR_Telvanni_Lighthouse_Tel Vos_Eng.ESP
+QL_SevenGracesShrines.esp
+ShrineOfAzura.ESP
+Balmora Guilds Expanded.esp
+Caldera Mages Guild Expanded.ESP
+Vivec_Mages_Guild_Expanded.esp
+Wolverine Hall Interior Expanded.esp
+AndranoTombRemastered.esp
+OAAB - Tombs and Towers.ESP
+Samarys Ancestral Tomb Expanded.esp
+Area Effect Projectiles Integrated.esp
+Hircine's Artifacts.ESP
+ABCs for Outlanders.ESP
+Dura Gra-Bol's House Reclaimed.ESP
+CultSheog.ESP
+Mage Robes.ESP
+Mamaea Awakened.ESP
+Morag Tong Polished.ESP
+OAAB - Astral Pocket.ESP
+Plunder the Dungeon.ESP
+The Sanguine Rose.ESP
+Scrolls of The Nine Barriers.ESP
+Umbra, Blademaster.ESP
+[any other ESPs from Tamriel Rebuilt or SHOTN]
+multipatch.esp
+Merged Objects.esp
+```
+</details>
+
+## Load Order Backup
 Finally, make a backup of both your installation order and your load order (this is in the event that MO2 crashes and purges your load order):
 1. In the right pane of MO2, click the harddisk icon. A text popup "Backup of load order created" should appear at the bottom of the MO2 interface
 1. In the left pane of MO2, click the harddisk icon. A text popup "Backup of mod list created" should appear at the bottom of the MO2 interface.
 
 # Conflict Resolution
-Several of the mods in this guide make edits to the same creatures and NPCs, and in some cases these changes will not be carried over and merged by the multipatch and merged patch. The following patch will resolve those conflicts and ensure the correct changes are carried forward into your merged patches in the next step of this guide.
-
 You need to create two merged patches to resolve remaining plugin conflicts. Make sure all your plugins are enabled in the Mods Tab and follow these instructions to generate the patch
-
-## Conflict Resolution Patch
-1. [Conflict Resolution - Finish Line](https://mega.nz/file/nxw2jCKb#4Bmon9XoNNM4xDHLRchumq6F6yuA_fwAqlMvjxnBAqQ)
-	- Conflict resolution patch for MDMD - More Deadly Morrowind Denizens,  There Can Be Only One, OAAB Integrations, Quorn Resource Integration, Immersive Madness, and Morag Tong Polished
-	- Select one of the options based on your installation order and install.
-		- Users who skipped the CONTENT module: use "MDMD + There Can Be Only One"
-		- Users who installed the full CONTENT module: use "OAAB + MDMD + There Can Be Only One + MT Polished + Immersive Madness"
-	- Make sure the plugin is enabled and at the bottom of your load order
 
 ## Multipatch
 First, you need to create the **tes3cmd multipatch**:
@@ -170,7 +259,7 @@ Launch the game and enter the in-game Options menu. Adjust the following:
 ### **Video**
 - Set **Real-time shadows** to OFF, i.e. the slider all the way to the left (this is  for performance reasons as well as to reduce the incidence of buggy shadows through walls, etc.).
 
-## MCM Settings
+# MCM Settings
 From the in-game menu, select the **Mod Configuration Menu**. Note: some settings may require you to re-launch the game to take effect.
 
 Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game because settings are stored in .json config files in the MWSE folder in the root directory. You only need to make these settings changes once per installation.
@@ -254,8 +343,6 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 ### **Multi Mark & Harder Recall**
 - Enable Limited Recall: No
 - Enable Miscast Enhanced integration: Yes
-### **No More Friendly Fire**
-- Blacklist: add "Hlormar Wine-Sot" (corrects an interaction between this mod and a vanilla quest)
 ### **No Translation Tooltips**
 - Disable road sign tooltips: yes
 - Disable banner tooltips: no
@@ -269,8 +356,6 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 ### **Quick Loot**
 - Hide lock status? = Yes
 - Show quickloot menu on plant/organic containers? = No (Graphic Herbalism's tooltip is superior)
-- Show vanilla container tooltip = yes 
-	- (will cause redundant tooltips but resolves an edge-case issue when the quickloot menu is disabled for improperly flagged-as-organic containers)
 ### **Security Enhanced**
 - Change the equip/cycle lockpick hotkey to "O" ("L" is used by Let There Be Darkness)
 - Set auto-equip options to OFF

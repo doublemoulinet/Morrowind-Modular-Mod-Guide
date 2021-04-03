@@ -17,7 +17,6 @@ Improved main menu, character creation, HUD, and in-game menus. "User Interface 
 1. [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693?)
 1. [Ownership Indicator](https://www.nexusmods.com/morrowind/mods/45940?)
 1. [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)
-	- Optional. Adds Fallout 4-style quick loot system. Recommended, but note that there are some minor issues with some container types. Can be toggled on/off in-game.
 1. [Randomised Chargen](https://www.nexusmods.com/morrowind/mods/46915?)
 1. [Shrine Tooltips](https://www.nexusmods.com/morrowind/mods/48275?)
 1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?)
@@ -40,7 +39,7 @@ Improved menu navigation and controls.
 1. [Security Enhanced](https://www.nexusmods.com/morrowind/mods/47038?)
 1. [Switchable Scriptures](https://www.nexusmods.com/morrowind/mods/46680?)
 	- Install  the "00 Core" and "01 Icons" options
-	- Bug fix: download [fixed text_octavo_02 mesh](https://mega.nz/file/38h30CxB#1d7ReDDSuJLhpvUjujpQFrtOCojMqVqFQoKIzFFyi_k)
+	- Bug fix: download [Switchable Scriptures - Text_Octavo_02 Fix](https://www.nexusmods.com/morrowind/mods/49471?)
 		- Rename the mod "Switchable Scriptures" and select "Merge" when prompted
 1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?)
 
@@ -75,9 +74,10 @@ These core MWSE mods are a major enhancement to the base game, and should be con
 		- 10 Glow in the Dahrk Patch - Interior Sunrays
 	- Rename the mod to "Project Atlas - Glow in the Dahrk Patch". Click OK.
 1. [Graphic Herbalism MWSE](https://www.nexusmods.com/morrowind/mods/46599?)
-	- Download and install the Main File
-	- Enable the following BAIN options:
+	- Download and install the Main File, enabling the following BAIN option:
 		- 00 Core + Vanilla Patches
+	- Download the Optional File "GH Patches and Replacers" and enable the following BAIN option:
+		- 10 Atlas - Vanilla BC Mushrooms
 	- Bug fix: download [Graphic Herbalism - Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154?tab=description)
 		- Rename the mod "Graphic Herbalism MWSE" and select "Merge" when prompted
 1. [Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864?)
