@@ -17,7 +17,6 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 	- Download and install the following:
 		- OAAB - Bloodmoon Rebalance Patch
 		- OAAB Creature Loot - PFP Patch
-		- OAAB - Ownership Overhaul Extension
 		- OAAB - There Can Be Only One Patch
 
 ## Settlements
@@ -56,6 +55,7 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 		- If you created a "Grass Plugins" folder when installing Remiros' Grass, be sure to repeat that step for these plugins
 1. [OAAB Tel Mora](https://www.nexusmods.com/morrowind/mods/46177?)
 	- Enable only the "00 Core" BAIN option
+1. [OAAB - Ownership Overhaul Extension](https://www.nexusmods.com/morrowind/mods/49471?)
 1. [Sarandas Family Hearth](https://www.nexusmods.com/morrowind/mods/48056?)
 1. [Stav's Gnisis Minaret](https://www.nexusmods.com/morrowind/mods/43237?)
 	- Disable the ESP. The meshes will be used for the following mod
