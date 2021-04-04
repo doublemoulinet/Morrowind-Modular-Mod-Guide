@@ -238,7 +238,7 @@ Note that you will need to regenerate these two plugins nearly each time you adj
 We will use Wrye Mash for two last important steps:
 
 ## Registering BSAs 
-Some mods include packaged archives called BSAs. **Tamriel Rebuilt** and **Skyrim: Home of the Nords** are dependent on the BSAs in **Tamriel Data**. You must register them in order for the assets to show up in-game
+Some mods include packaged archives called BSAs. **Tamriel Rebuilt** and **Skyrim: Home of the Nords** are dependent on the BSAs in **Tamriel Data**. You must register them in order for the assets to show up in-game.
 
 - Launch **Wrye Mash** from within MO2
 - Go to the **Mods Tab**
@@ -427,11 +427,6 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 - Set auto-equip options to OFF
 ### **Sophisticated Save System**
 - set up autosaves as you prefer, but recommend disabling “Create autosaves after changing cells”
-### **Soulless Creatures**
-- add the following to the blocked list:
-	- bonewalker_greater_summ, 
-	- fsheog_cr_haki3summon
-	- oj_me_summalfiqcrea
 ### **The Midnight Oil**
 - Toggle Static Lights only = No (this enables imperial lanterns to toggle in towns)
 ### **UI Expansion**

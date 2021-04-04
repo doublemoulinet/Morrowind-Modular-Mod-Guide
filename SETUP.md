@@ -155,7 +155,7 @@ MO2 will automatically place your new separator at the very bottom of your load 
 1. DLC: Boodmoon
 1. **MGE XE**
 
-It is recommended that you create separators for each module of the guide (for example, **CORE**, **VISUALS**, **CONTENT** and so on) as well as for each subsection within a module (for example, **Patches**, **Fixes**, **User Interface** and so on). Right-clicking on a separator and choosing "Select Color" from the dropdown menu allows you to choose a colour for your headings. I recommend coloured module separators and default separators for the subsections.
+For readability, I recommend that you create separators for each module of the guide (for example: **CORE**, **VISUALS**, **CONTENT** and so on) as well as for each subsection within a module (for example: **Patches**, **Fixes**, **User Interface** and so on). Right-clicking on a separator and choosing "Select Color" from the dropdown menu allows you to choose a colour for your headings.
 
 # MGE XE
 The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its other changes, it also supports and comes packaged with the MWSE 2.1 beta, the lua-based script extender. It works out of the box. Like the Morrowind Code Patch, MGE XE must be installed manually.
@@ -182,10 +182,9 @@ Once the shaders have been installed, launch MGE XE through Mod Organizer:
 1. From the dropdown menu on the right pane (to the left of the big "Run" button) select **MGE XE**
 1. Click **Run** to run the executable
 
-MGE XE consists of five tabs with configurable options: Graphics, Distant Land, In-Game, Config, and Instructions. There are a number of MGE XE options to enable now:
 
 # Configuring MGE XE
-MGE XE features five tabs with configurable settings for everything graphics-related. For this section, we will start with the Graphics and In-game tabs.
+MGE XE consists of five tabs with configurable options: Graphics, Distant Land, In-Game, Config, and Instructions. There are a number of MGE XE options to enable now.
 
 ## Graphics Tab
 
@@ -205,11 +204,12 @@ MGE XE features five tabs with configurable settings for everything graphics-rel
 
 ![Screenshot](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MGEXE_ingame.jpg)
 
-Enable the following options:
+Under **Options** tick the following:
 - Skip opening movie
 - Crosshair autohide
 - Responsive menu caching
-Under Morrowind engine settings, enable the following:
+
+Under **Morrowind engine settings**, tick the following:
 - Allow yes to all load errors
 - Show subtitles
 - Allow screenshots
