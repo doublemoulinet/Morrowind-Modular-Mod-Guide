@@ -1,4 +1,4 @@
-[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md)
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section >>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md)
 
 # Core - Expanded
 This section expands on the [**Core module**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) with must-have MWSE mods: expanded menu and UI, basic convenience tweaks, and core immersion mods.
@@ -58,6 +58,15 @@ Core convenience mods using MWSE that address gameplay oversights and inconsiste
 1. [Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
 1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
 1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
+	- **Post-installation**: open `MWSE/pg_gmst_config.json` and copy-paste the following:
+		```
+		{
+			"pg_gmst_hotReloadKey": 88,
+			"fCombatAngleXY": 4,
+			"i1stPersonSneakDelta": 30,
+			"iGreetDistanceMultiplier": 4
+		}
+		```
 1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Smarter Soultrap" as the data directory
 	- Name the mod "Smarter Soultrap" and install
@@ -96,4 +105,4 @@ These core MWSE mods are a major enhancement to the base game, and should be con
 **NEXT SECTION**:
 [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md)
 
-[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md)
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section >>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md)

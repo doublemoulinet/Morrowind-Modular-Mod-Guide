@@ -1,10 +1,10 @@
-[<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md)
+[<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section >>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md)
 
 # Setup
 
 ## Index
 1. [Installation](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#installation)
-	1. [GOG Installation Cleanup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#gog-installation-cleanup)
+	- [GOG Installation Cleanup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#gog-installation-cleanup)
 1. [Morrowind Code Patch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#morrowind-code-patch)
 1. [Wrye Mash](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#wrye-mash)
 1. [Mod Organizer 2](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#mod-organizer-2)
@@ -341,8 +341,9 @@ Follow these steps for **Wrye Mash**:
 1. Navigate to the location of your mash64.exe (ex., ```C:\Games\Morrowind\Mopy\mash64.exe```) and choose it
 1. Click **Apply** and then **OK**
 
+And in the inimitable words of Sean Connery, "here endeth the lesson." Go forth and mod...
 
 **NEXT SECTION**:
 [**Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md)
 
-[<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md)
+[<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section >>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md)

@@ -1,5 +1,5 @@
 [<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/GAMEPLAY.md)
- | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md)
+ | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section >>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md)
 
 
 # Content
@@ -150,4 +150,4 @@ High-quality, lore-friendly quests designed to fit seamlessly within the vanilla
 [**Landmass Expansions**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md)
 
 [<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/GAMEPLAY.md)
- | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md)
+ | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section >>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md)

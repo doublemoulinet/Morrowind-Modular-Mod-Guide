@@ -1,5 +1,11 @@
 [<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
 
+# 2021-04-04
+Smaller maintenance release. Added new navigation buttons and fixed some borked instructions.
+
+**Updated**
+- updated instructions for **Pete's Lua gmst config** in EXPANDED (now includes the necessary step of actually adding the gmsts you want to change)
+
 # 2021-04-03
 Small maintenance release. Revised the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section and removed the "Conflict resolution" patch, as it's no longer needed.
 
