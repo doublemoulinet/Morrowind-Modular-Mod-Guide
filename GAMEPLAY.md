@@ -47,8 +47,6 @@ Lightweight enhancements of existing skills, correcting oversights and making th
 Restores several skills from previous and later Elder Scrolls titles, including backstabs, climibing, and sneak attacks. Poison Crafting introduces weapon poisoning (plus an essential convenience feature: world-space activation of alchemy apparatus).
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
-2. [Mantle of Ascension](https://github.com/vtastek/mwsemods)
-	- In the MO2 installation popup, set "Mantle of Ascension/Data Files" as the data files directory and install normally
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
 	- Disable the "MWSE" folder
 	- Cleaning: ESP requires cleaning

@@ -3,14 +3,14 @@
 Small maintenance release. Revised the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section and removed the "Conflict resolution" patch, as it's no longer needed.
 
 **Added**
-- added: GAMEPLAY: [Mantle of Ascension](https://github.com/vtastek/mwsemods), [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?) (re-added)
+- added: GAMEPLAY: [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?) (re-added)
 - added: FINISH LINE: new conflict resolution mods: [OAAB - Bloodmoon Rebalance Patch](https://www.nexusmods.com/morrowind/mods/49471?), [OAAB - Ownership Overhaul Extension](https://www.nexusmods.com/morrowind/mods/49471?), [OAAB - There Can Be Only One Patch](https://www.nexusmods.com/morrowind/mods/49471?), and [OAAB Creature Loot - PFP Patch](https://www.nexusmods.com/morrowind/mods/49471?)
 
 **Removed**
 - removed: CORE: [Fixed Journal Next Button](https://www.nexusmods.com/morrowind/mods/48097?) (will get merged into PFP eventually)
 - removed: VISUALS: [Sotha Sil is a Dunmer](https://www.nexusmods.com/morrowind/mods/47839?) (it's good! but very minor), [Skeletons Atlased](https://www.nexusmods.com/morrowind/mods/46012?) (Project Atlas will have its own implementation eventually)
 - removed: BALANCE: [Soulless Creatures](https://www.nexusmods.com/morrowind/mods/49215), [MDMD - More Deadly Morrowind Denizens](https://www.nexusmods.com/morrowind/mods/48745) (MDMD is out until there is an easier method to do conflict resolution)
-- removed: GAMEPLAY: [Merlord's Starting Equipment](https://www.nexusmods.com/morrowind/mods/47283) (switched back to Personal Effects)
+- removed: GAMEPLAY: [Mantle of Ascension](https://github.com/vtastek/mwsemods) (until further testing), [Merlord's Starting Equipment](https://www.nexusmods.com/morrowind/mods/47283) (switched back to Personal Effects)
 - removed: CONTENT: [Hircine’s Artifacts](https://www.nexusmods.com/morrowind/mods/47671?)
 
 **Updated**
