@@ -1,3 +1,5 @@
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md)
+
 # Gameplay - Balance
 Addresess many of the most glaring balance issues and exploits in the game,focusing on improving the existing game design and making the game more fun.
 
@@ -40,3 +42,5 @@ Addresses some common exploits and makes enemy encounters more difficult and eng
 
 **NEXT SECTION**:
 [**Gameplay - Consistency**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md)
+
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md)

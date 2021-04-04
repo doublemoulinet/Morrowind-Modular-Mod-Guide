@@ -1,3 +1,5 @@
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/GAMEPLAY.md)
+
 # Gameplay - Consistency
 Addresses the various lore and logic inconsistencies with the game, and can be considered the "vanilla-plus" content section of the guide.
 
@@ -77,3 +79,5 @@ Restored and fixed audio files, a new immersive sound effect, and some quality-o
 
 **NEXT SECTION**:
 [**Gameplay - Expanded**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/GAMEPLAY.md)
+
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/GAMEPLAY.md)

@@ -1,3 +1,7 @@
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/GAMEPLAY.md)
+ | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md)
+
+
 # Content
 High quality lore-friendly content additions, with an additional emphasis on performance. This module showcases some of the very best that Morrowind modding has to offer. First-time players should consider skipping this section and proceeding to the [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md).
 
@@ -144,3 +148,6 @@ High-quality, lore-friendly quests designed to fit seamlessly within the vanilla
 
 **NEXT SECTION**:
 [**Landmass Expansions**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md)
+
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/GAMEPLAY.md)
+ | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md)

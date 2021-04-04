@@ -1,3 +1,5 @@
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONTENT.md)
+
 # Gameplay - Expanded
 The good stuff. This module introduces the majority of the gameplay mechanics and new features that cannot strictly be considered fixes or balance changes. As ever, this module remains faithful to the vanilla game's look and feel.
 
@@ -117,3 +119,5 @@ These mods complement the lighting and weather changes from the Visuals section:
 
 **NEXT SECTION**:
 [**Content**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONTENT.md)
+
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONTENT.md)

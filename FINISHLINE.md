@@ -1,3 +1,6 @@
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md)
+ | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
+
 # Finish Line
 
 Congraulations! You're nearly there. This last section details a few quick steps to ensure a bug-free playthrough.
@@ -9,6 +12,7 @@ Congraulations! You're nearly there. This last section details a few quick steps
 	1. [Conflict Resolution Patch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#conflict-resolution-patch)
 	1. [Multipatch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#multipatch)
 	1. [Merged Objects](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#merged-objects)
+	1. [Registering BSAs](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#registering-bsas)
 	1. [Updating Masters](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#updating-masters)
 1. [Distant Land](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#distant-land)
 1. [Shaders](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#shaders)
@@ -19,17 +23,66 @@ Congraulations! You're nearly there. This last section details a few quick steps
 
 
 # Cleaning Plugins
+As you follow the modlist, certain mods are flagged to "require cleaning." ESPs sometimes contain dirty references and your job is to squash these bugs. You will use two tools for this: TESTool and Wrye Mash's integrated tes3cmd cleaning file.
 
-If you followed the cleaning advice as you installed each mod then you have already completed this section. Otherwise, run TESTool according to the instructions in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md), and then the "clean with tes3cmd" utility in Wrye Mash for individual plugins. 
+>Please note that this may take some time. However, cleaning your plugins is absolutely necessary.
 
-Please note that this may take some time. However, cleaning your plugins is absolutely necessary.
+<details>
+<summary>Plugins that require cleaning</summary>
+
+```
+Bigger Velothi Temples.esp
+Bloated Caves.esp
+Divayth Fyr Puzzle Fixed.esp
+Religions Elaborated.esp
+FMI_Nice_to_Meet_You.esp
+FMI_ServiceRefusal_Contraband.esp
+What Thieves Guild.esp
+mwse_PoisonCrafting.esp
+RFD_Heartthrum.esp
+Shattered Stones - An Earthquake Mod.esp
+Atmospheric Delights.esp
+RR_Gnisis_Arch_Eng.esp
+RR_Aldruhn_Under_Skar_Eng.esp
+Brevur of Balmora - Finally Some Good Statue Mod.ESP
+Meteorite Ministry Temple.esp
+Foyada Mamaea Overhaul.esp
+OAAB - The Ashen Divide.esp
+RR_Telvanni_Lighthouse_Tel Vos_Eng.esp
+QL_SevenGracesShrines.esp
+AndranoTombRemastered
+Dura Gra-Bol's House Reclaimed.esp
+Mage Robes.esp
+Morag Tong Polished.esp
+STOTSP TD Content Integration.esp
+```
+</details>
+
+## TESTool
+The first step is to use TESTool to clean your plugins.
+1. Launch Testool through MO2 (select the executable from the dropdown list in the right pane)
+1. A window will prompt you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**
+1. Select **Options** and enable: 
+	- Don't change plugin filenames
+	- Retain file time, when cleaning
+	- Restricted dialog cleaning
+1. Select **Clean ESP/ESM Files** and click **Execute**
+1. Select the relevant plugin that requires cleaning (or, alternately select ALL .esm/.esp files and check the log after for a list of cleaned plugins)
+
+## tes3cmd cleaning
+Tes3cmd catches errors that TESTool misses, and vice versa. This is a necessary step--do not skip tes3cmd cleaning!
+1. Run **Wrye Mash** through MO2 (select the mash executable from the dropdown menu in the right pane)
+1. Within Wrye Mash, navigate to the **Mods** Tab
+1. Right-click on the relevant plugin in the lsit and choose **clean with tes3cmd**
+1. The popup window will display a progress bar and print whether the mod was cleaned, or unaltered
+1. Click **OK**
+	
+Mod Organizer 2 automatically updates your installed mod archives with your cleaned plugins. That's all!
 
 # Load Order
 Generally, plugins should remain in the order that they were installed in this guide. However, MO2 does not automatically place ESMs at the top of your load order--you must drag and drop these manually. This will have no impact in-game (the vanilla engine always loads ESMs before ESPs regardless their order in your mod manager).
 
 Make sure your load order looks something like this:
-
-</details>
 
 <details>
 <summary>Plugin Load Order</summary>
@@ -181,13 +234,28 @@ Now we will move the two plugins to a new mod folder in the left pane. Select th
 
 Note that you will need to regenerate these two plugins nearly each time you adjust your load order (update, remove or add a plugin) so that the changes are carried on. For your convenience, Wrye Mash will indicate if the plugins are missing masters and require regenerating (the plugin will turn yellow or red in the Mods Tab).
 
+# Additional Conflict Resolution
+We will use Wrye Mash for two last important steps:
+
+## Registering BSAs 
+Some mods include packaged archives called BSAs. **Tamriel Rebuilt** and **Skyrim: Home of the Nords** are dependent on the BSAs in **Tamriel Data**. You must register them in order for the assets to show up in-game
+
+- Launch **Wrye Mash** from within MO2
+- Go to the **Mods Tab**
+- The right-pane has two tabs for **Mod Details** and **BSA Archives**
+- Select the **BSA Archives** tab and ensure each listed BSA has a check mark
+
+This ensures the game will load the assets archives in these files. The three vanilla BSAs should already be registered; you may have to check **TR_Data** and **PT_Data** if you followed the optional [**Landmass Expansions**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md) section of this guide.
+
 ## Updating Masters
 Wrye Mash can synchronize the master dependencies of your plugins, correcting for when masters are out of the expected order or file size. This prevents error messages on startup.
 
-Launch Wrye Mash. Go to the **Mods** tab for your list of plugins. If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's. Follow these steps:
-- Select the plugin and click the right pane (which lists the masters associated with the plugin). 
-- Mash will prompt you to edit/update the masters list. Click **yes**. 
-- Then click **save** at the bottom of the right pane.
+- Launch **Wrye Mash** from within MO2 
+- Go to the **Mods** tab for your list of plugins
+- If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's, follow these steps:
+	- Select the plugin and click the right pane (which lists the masters associated with the plugin)
+	- Mash will prompt you to edit/update the masters list. Click **yes**. 
+	- Then click **save** at the bottom of the right pane
 
 You should repeat this process anytime you update common master plugins like Patch for Purists, Tamriel Data, or OAAB Data.
 
@@ -392,3 +460,6 @@ Within the journal quest menu:
 
 # The End
 Hey, congratulations. You've made it to the end of the guide. Email Virgil if you have any questions or complaints. Enjoy the game!
+
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md)
+ | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)

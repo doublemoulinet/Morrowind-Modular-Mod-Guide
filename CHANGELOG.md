@@ -1,4 +1,5 @@
-[<< Return to HOME](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
+[<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
+
 # 2021-04-03
 Small maintenance release. Revised the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section and removed the "Conflict resolution" patch, as it's no longer needed.
 
@@ -585,3 +586,5 @@ REMOVED
 
 # 2020-05-01
 - Test release
+
+[<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)

@@ -1,9 +1,10 @@
-# Setup
+[<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md)
 
-[<< Return to HOME](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
+# Setup
 
 ## Index
 1. [Installation](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#installation)
+	1. [GOG Installation Cleanup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#gog-installation-cleanup)
 1. [Morrowind Code Patch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#morrowind-code-patch)
 1. [Wrye Mash](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#wrye-mash)
 1. [Mod Organizer 2](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#mod-organizer-2)
@@ -11,9 +12,9 @@
 	- [Mod Installation](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#mod-installation)
 	- [Creating Separators](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#creating-separators)
 1. [MGE XE](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#MGE-XE)
-	- [Graphics Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#graphics-tab)
-	- [Distant Land Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#distant-land-tab)
-	- [In-game Tab](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#in-game-tab)
+	- [Configuring MGE XE](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#configuring-mge-xe)
+	- [Distant Land](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#distant-land)
+	- [Shaders](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#shaders)
 1. [Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#tools)
 	- [Optional Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#optional-tools)
 	- [Tools Setup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#tools-setup)
@@ -38,30 +39,24 @@ Do not install the game in Program Files, Program Files (x86), or any other defa
 The GOG edition of Morrowind GOTY bundles several unnecessary files. In addition to uncompressing the BSA archives (which contain all the game's meshes and textures), the GOG edition includes all of Bethesda's Official Plugins. These suck and you don't want to play with them. This guide assumes you will *not* be using the official plugins; play with them at your own peril!
 
 Delete the following files from your ```Morrowind\Data Files``` folder:
-- BookArt, Icons, Meshes, Textures folders
-- All .esp files 
-- All .txt files
+- The **BookArt, Icons, Meshes, Textures** folders
+- All **.esp** files 
+- All **.txt** files
 
 After this step, you should have only:
 - Folders: Fonts, Music, Sound, Splash, Video
 - BSAs: Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa
 - ESMs: Bloodmoon.esm, Morrowind.esm, Tribunal.esm
 
-## General Tips
-- Unless you know what you're doing, avoid uninstalling mods mid-playthrough. The only mods that can be safely uninstalled mid-game are esp-less texture/mesh replacers and *some* MWSE mods. Plugins should not be removed from your mod order mid-playthrough (unless you know what you're doing)
-- Always read the mod description on the mod page
-- Remember to update MWSE! It's under active development and you should run the MWSE-Updater.exe frequently
-- Likewise, check the Nexus for mod updates. MWSE mods are frequently updated and most can be safely installed and updated mid-playthrough
 
-After you have installed the game, run the Morrowind Launcher and boot to the main menu. This ensures the proper files are generated.
 
 # Morrowind Code Patch
-### [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510?)
+#### [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510?)
 The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It is an essential utility. The MCP must be installed manually.
 1. Download the Morrowind Code Patch main file 
 1. Extract to your Morrowind root directory (```C:\...\Morrowind```). Do not extract it to ```Morrowind\Data Files```
 
-### [MCP Skunk Works](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
+#### [MCP Skunk Works](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
 1. Download the MCP Beta Main File 
 1. Extract the contents of the MCP Beta to your Morrowind root directory (```C:\...\Morrowind```), and overwrite when prompted
 
@@ -69,12 +64,12 @@ The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It 
 1. In your Root Folder, run **Morrowind Code Patch.exe** as an Administrator
 1. Enable the following options:
 	- **Beta**: every option EXCEPT *"Doppler audio fix"*
-	- **Game Mechanics**: every option EXCEPT *"Allow Gloves with Bracers"*
+	- **Game Mechanics**: every option EXCEPT *"Allow Gloves with Bracers"*, *"Attribute Uncap"*, and *"Skill Uncap"*
 	- **Visuals**: every option EXCEPT *"Over-the-shoulder third person camera,"* and *"Vanity camera lock"*
 	- **Mod specific**: ensure EVERY option is enabled
 	- **Interface changes**: enable every option EXCEPT *"Map Expansion (for TR),"* *"Disable map smoothing,"* *"Spell select by name,"* and *"see all standard potion effects"*
-	- **International**: none (if using the English language Morrowind)
-	- **Bug Fixes**: ensure EVERY option is enabled
+	- **International**: none
+	- **Bug Fixes**: EVERY option is enabled by default--keep it this way!
 1. Click the big "Apply chosen patches" button and exit
 
 # Wrye Mash
@@ -108,14 +103,17 @@ As described earlier, this powerful tool will manage your mod installation, mod 
 
 ## Configuration
 Installed mods are listed on the left pane; this is your **installation order**. Morrowind loads assets in descending order, meaning mods closer to the bottom of the list will overwrite those at the top in the event of a conflict. On the left pane, ensure the list is as follows:
-1. DLC: Tribunal
-1. DLC: Bloodmoon
-
+```
+DLC: Tribunal
+DLC: Bloodmoon
+```
 Plugins are listed on the right pane; this is your **load order**. Morrowind loads plugins in descending order, meaning plugins closer to the bottom of the list will overwrite those at the top in the event of a conflict. On the right pane, ensure the list is as follows:
-1. Morrowind.esm
-1. Tribunal.esm
-1. Bloodmoon.esm
-
+```
+Morrowind.esm
+Tribunal.esm
+Bloodmoon.esm
+```
+## Profiles
 Now that MO2 has been successfully installed, follow these steps to configure your MO2 profile:
 
 - Click on the ID card icon along the top menubar to open the **Profiles** menu
@@ -131,7 +129,7 @@ MO2 will not only organize our installation and plugin order but will also handl
 In the initial setup for MO2 you should have clicked "yes" when prompted to associate MO2 with NXM (nexusmods) download links. If not, or for whatever reason this setting is reverted, navigate to **Settings** (the wrench and screwdriver icon) and click the **Nexus** tab. Click the **Associate with "download with mangager" links**.
 
 Mods can be downloaded and installed one of two ways:
-- **Mod Manager Download**: the preferred option when downloading mods from Nexusmods; click the button of the same name when downloading from the website.
+- **Mod Manager Download**: the preferred option when downloading mods from [Nexus Mods](https://www.nexusmods.com/morrowind); click the button of the same name when downloading from the website.
 	- On the right pane of MO2, select the **downloads** pane
 	- Double click on your downloaded archive
 	- The "quick install" popup will prompt you to enter the mod name (you can use your scrollwheel to choose from the autogenerated file names)
@@ -162,28 +160,21 @@ It is recommended that you create separators for each module of the guide (for e
 # MGE XE
 The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its other changes, it also supports and comes packaged with the MWSE 2.1 beta, the lua-based script extender. It works out of the box. Like the Morrowind Code Patch, MGE XE must be installed manually.
 
-## [MGE XE](https://www.nexusmods.com/morrowind/mods/41102?)
+### [MGE XE](https://www.nexusmods.com/morrowind/mods/41102?)
 1. Download the **MGE XE Manual Install** Main File
 1. Extract all the contents **except "Data Files"** to your Morrowind root directory
-	- If you have unpacked correctly, the MGEXEGui.exe should be in the same folder as the Morrowind.exe
-1. Within your root directory, right-click the **MWSE-Update.exe** and select **Run as Administrator**
-	- (You may need to add this executable to your anti-virus whitelist) 
-	- Allow the update process to take place. The command-line window will automatically close when this process is done
 
-There is one additional installation step to complete:
-1. In the MGE XE mod archive, zip the remaining files/folders in **Data Files** (**XE Sky Diversity.esp**, **meshes**, **shaders** and **textures**) and name this archive **MGE XE - Data Files**
-1. In MO2, click the "Install Mod" button on the menubar 
-1. Select your zip file and in the subsequent "Install Mods" window click "OK"
+There is one additional step to complete:
+1. In the mod archive, delete the **XE Sky Variations.esp**
+1. Make a .zip/.rar of the remaining files/folders in **Data Files** and name this archive **MGE XE Data Files**
+1. Install manually with MO2
 
 Congratulations: you've just installed your first mod.
 
-## Shaders
-Next, download the following MGE XE shaders. Install these with MO2:
-1. [MGE XE Land Bias Fix](https://mega.nz/file/ft5hUJ5L#-5Y533Rtwy2uX5moycm4pQjEDXClyFGl78XMDvfVzME) a small tweak to the distant land height bias to reduce clipping/seams
-1. [MGE XE Shader - deband_fogaware](https://mega.nz/file/W8x3RTCK#w94LPJSeym5h82KUOg8SbkIoS8M7E-9Xm2Lar0gjqXw) an improved fog shader
-1. [MGE XE Shader - EdgeAA](https://mega.nz/file/HwxVXbQY#eSxnVWTbC165OC1EyC-P9IahvH05We88pyba-fy2ePI) improved anti-aliasing, to be used with MGE XE's AA settings
-
-You should now have four mods installed and enabled (i.e ticked) in your MO2 left pane: the MGE XE Data Files, and the above three shaders.
+## Updating MWSE
+You need to run the MWSE updater at least once after installing MGEXE. You should also update MWSE regularly, whenever you install or update MWSE mods.
+1. Within your root directory, right-click the **MWSE-Update.exe** and select **Run as Administrator**
+1. The command-line window will automatically close when this process is done
 
 ## Launching MGE XE
 Once the shaders have been installed, launch MGE XE through Mod Organizer:
@@ -193,69 +184,27 @@ Once the shaders have been installed, launch MGE XE through Mod Organizer:
 
 MGE XE consists of five tabs with configurable options: Graphics, Distant Land, In-Game, Config, and Instructions. There are a number of MGE XE options to enable now:
 
+# Configuring MGE XE
+MGE XE features five tabs with configurable settings for everything graphics-related. For this section, we will start with the Graphics and In-game tabs.
+
 ## Graphics Tab
-The features in this section are mostly self-explanatory. 
 
-Under the "Display" section: Select your display resolution, set Anti-Aliasing (AA) and Anistropic Filtering (AF) (check the Config tab to report the max AA/AF your hardware supports). Enable borderless fullscreen windowed mode. Enable Vsync only if not already enabled through your GPU hardware options (if using an Nvidia card, this is enabled through the Nvidia Control Panel).
+![Screenshot](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MGEXE_graphics.jpg)
 
-In the "Renderer" section: tick "Auto FOV" and set the FPS limiter to your preferred cap (although 60 FPS is realistically the upper limit). For "Fog Mode" ensure that "Range vertex (Best)" is selected. "Mipmap LOD Bias" should be 0.
-
-"Shaders" requires some setup:
-1. Tick the "Enable shaders" checkbox and then click "Shader setup..."
-1. Select the High quality preset. 
-1. Click the "Modding >>>" button and ensure the following shaders are listed under the "active shaders" tab in this order:
-	- SSAO Fast
-	- Underwater Interior Effects
-	- Underwater Effects
-	- Sunshafts
-	- Bloom Soft
-	- EdgeAA
-	- Eye Adaptation (HDR)
-	- deband_fogaware
-	
-You will need to run MGE XE at the end of your mod installation to regenerate distant land and enable mod-specific shaders.
-
-## Distant Land Tab
-Distant Land does what it says. My personal settings ensure a low performance impact and cleave to the original foggy aesthetic. 
-
-The **Distant land generator wizard** lets you select which plugins MGE XE will use when generating distant land. I recommend selecting **Use current load order**. When you click **Continue** a prompt will offer you three options to generate distant land:
-- **Automatic setup will** generate distant land for you according to pre-defined settings
-- **Customize setup** will let you modify the distant land generation options. I recommend this setting when generating distant land for the first time
-- **Update existing distant land** will regenerate distant land according to the last used settings. If you've generated distant land previously, this is the option to use.
-
-Click **Customize setup**. I recommend the following settings:
-- Land Textures: **world texture resolution**: 2048, **world normalmap resolution**: 1024
-- Land Meshes: set **world mesh detail** to high
-- Statics: set **minimum static size** to 150, **Mesh detail level** to Full, **Distant texture reduction** to 1/2, and tick all the right-hand options EXCEPT "include reflective water in interiors"
-
-Follow the prompts and allow MGE XE to complete the distant land generation. Exit the wizard when prompted. 
-
-After MGE XE has generated distant land, in the "Distant Land" tab in MGE XE, set the **Draw Distance** to 3.0 cells. You can adjust this to your preference, but I recommend between 3-5 cell draw distance to maintain the vanilla atmosphere and keep performance cost to a minimum.
-
-Other Distant Land settings:
-- **Water**:
-	- Reflections: ALL except "Blur Reflections"
-	- Dynamic ripples: 10 height of waves
-	- Caustics: 50%
-- **XE**: enable Dynamic solar shadows
-- **Auto set other distances**: By draw distance
-- **Fog**:
-	- Use high quality (exponential) fog: enable
-	- High quality atomosphere and distance colouring: enable
-
-You will need to run MGE XE at the end of your mod installation to regenerate distant land and enable mod-specific shaders.
-
-### **Optional step: creating a distantland mod folder**
-Before moving on to the next tab in MGE XE, you may optionally move your newly-generated Distant Land files from their default location in the "Overwrite" folder:
-1. Exit MGE XE and return to the MO2 interface
-1. Located to the right of the Profile drop-down menu, click the small hammer-and-wrench icon and select "Create Empty Mod"
-1. Name this mod "Distant Land - Vanilla" and make sure it is at the bottom of your load order
-1. At the bottom of your load order, double click on the "Overwrite" folder
-1. Drag and drop the "distantland" folder into the empty mod
-
-The advantage of this step is that you will always have vanilla distant land that you can easily revert to. This is useful both for testing purposes, or if you want to keep multiple install profiles and prserve a ready-to-go "vanilla" setup. With this complete, you may now relaunch MGE XE and continue the setup.
+- Under **Display**: 
+	- Select your display resolution
+	- Set **Anti-Aliasing (AA)** and **Anistropic Filtering (AF)** (check the Config tab to report the max AA/AF your hardware supports) 
+	- Enable **windowed mode** and **borderless fullscreen**
+	- Enable **Vsync**
+- Under **Renderer**: 
+	- Tick **Enable shaders** (we will set these up later)
+	- (Optional) Tick **Display FPS** to show your framerate in-game
+	- Optional) Set the **FPS limiter** to your preferred framerate cap (**60 FPS** is realistically the upper limit on modded setups)
 
 ## In-game Tab
+
+![Screenshot](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MGEXE_ingame.jpg)
+
 Enable the following options:
 - Skip opening movie
 - Crosshair autohide
@@ -267,12 +216,89 @@ Under Morrowind engine settings, enable the following:
 - Thread loading
 - Hit fader
 
+## Distant Land
+The Distant Land tab does what it says: it generates the distant land that, in-game, allows you to see past the currently rendered cell.
+
+Most options are disabled when you first open this tab. You need to generate distant land for these options to become accessible. The **Distant land generator wizard** lets you select which plugins MGE XE will use when generating distant land, and will guide us through the process:
+- Click the **Distant land generator wizard** button
+- On the **Distant Land Setup Wizard**, click **Select all**. These ticked plugins will be used in distant land generation
+- Click **Continue**. This will open the next window
+- In the **Land Textures** tab:
+	- Set **World texture resolution** to 2048
+	- Set **World normalmap resolution** to 1024
+	- Click **Create Land Textures**
+- In the **Land Meshes** tab:
+	- Set **World mesh detail** to **Ultra High** in the dropdown menu
+	- Click **Create Land Meshes**
+- In the **Statics** tab:
+	- Set **Minimum static size** to **150**
+	- Set **Mesh detail level** to **Full**
+	- Set **Distant texture reduction** to **1/2**
+	- Tick all the right-hand options **except** for **include reflective water in interiors**
+	- Click **Create Statics**
+- Once the process completes, click **Finish**
+
+>Generally, you should regenerate your distant land any time you install or uninstall mods with plugins. Fortunately, this process will be much simpler as you will only need to click on **Run above steps using saved / default settings** the next time you use the **Distant land generator wizard**.
+
+![Screenshot](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MGEXE_distantland.jpg)
+
+After MGE XE has generated distant land, you will be returned to the **Distant Land** tab from earlier. Now, all the previously unavailable options can be set up. Follow the settings as suggested in the screenshot above. You may wish to tinker with them later. These recommended settings cleave to the game's original foggy aesthetic and keep performance costs to a minimum.
+
+>You will need to run MGE XE at the end of your mod installation to regenerate distant land and enable mod-specific shaders.
+
+### **Optional step: creating a distantland mod folder**
+You may optionally move your newly-generated Distant Land files from their default location in the Mod Organizer 2 "Overwrite" folder:
+1. Exit MGE XE and return to the MO2 interface
+1. Located to the right of the Profile drop-down menu, click the small hammer-and-wrench icon and select "Create Empty Mod"
+1. Name this mod "Distant Land - Vanilla" and make sure it is at the bottom of your load order
+1. At the bottom of your load order, double click on the "Overwrite" folder
+1. Drag and drop the "distantland" folder into the empty mod
+
+>The advantage of this step is that you will always have vanilla distant land that you can easily revert to. This is useful both for testing purposes, or if you want to keep multiple install profiles and preserve a ready-to-go "vanilla" setup. With this complete, you may now relaunch MGE XE and continue the setup.
+
+# Shaders
+The default MGE XE shaders are excellent, and this guide sticks with them. That said, there are a few tweaks we can enable to improve them. Note that shaders are, along with distant land, the most performance-intensive parts of the game. The shaders and settings I recommend look great 
+
+## Installing Shaders in MO2
+Download the following MGE XE shaders. Install these manually with MO2:
+#### [MGE XE Land Bias Fix](https://mega.nz/file/ft5hUJ5L#-5Y533Rtwy2uX5moycm4pQjEDXClyFGl78XMDvfVzME) 
+- A small tweak to the distant land height bias to reduce clipping/seams
+#### [MGE XE Shader - deband_fogaware](https://mega.nz/file/W8x3RTCK#w94LPJSeym5h82KUOg8SbkIoS8M7E-9Xm2Lar0gjqXw) 
+- An improved fog shader
+#### [MGE XE Shader - EdgeAA](https://mega.nz/file/HwxVXbQY#eSxnVWTbC165OC1EyC-P9IahvH05We88pyba-fy2ePI) 
+- Improved anti-aliasing, to be used with MGE XE's AA settings
+
+Place these 3 new mods under the **MGE XE** separator in your install order, directly beneath the **MGE XE Data Files** mod you created earlier.
+
+## Configuring Shaders in MGE XE
+Now that the shaders have been installed in Mod Organizer 2, they can be enabled in MGE XE.
+
+### Graphics Tab
+- Under **Renderer**, ensure that **Enable shaders** is ticked
+- Click the **Shader setup...** button
+- On the popup menu **Set active shaders**, click **Modding >>>**
+	- Double-clicking on the shaders under **Available shaders** transfers them to the **Active shaders** list, meaning the game will use them
+- Set up your **Active shaders** chain as follows:
+```
+SSAO Fast
+Underwater Interior Effects
+Underwater Effects
+Sunshafts
+Bloom Fine
+EdgeAA
+Eye Adaptation (HDR)
+deband_fogaware
+```
+- Click **Save** after setting up your shader chain and exit MGE XE
+
+>Note that you will have to repeat this step at the end of the mod guide if you install any mod-added shaders!
+
 # Tools
 These modding tools will be used for several key steps in this guide: mod cleaning, merged patch creation, and plugin editing/fixing. These are required.
 
 ### [tes3cmd](https://github.com/john-moonsugar/tes3cmd/releases)
 This powerful command-line tool cleans mods and will be used to build a multipatch at the end of the mod guide.
-1. Download the latest [tes3cmd](https://github.com/john-moonsugar/tes3cmd/releases) release and extract the tes3cmd.exe to your ```Morrowind\Data Files``` folder. Do not install tes3cmd to the root directory
+1. Download the latest [tes3cmd](https://github.com/john-moonsugar/tes3cmd/releases) release (v0.40 pre-release 2)and extract the tes3cmd.exe to your ```Morrowind\Data Files``` folder. Do not install tes3cmd to the root directory
 1. Download the [tes3cmd multipatch](https://mega.nz/file/D1pmHQBJ#9YMB2pyRLAFHqBczqQhqXvzNtaDW7yqwIH4Mt9MuEpA) and extract the tes3cmd_multipatch.bat to your ```Morrowind\Data Files``` folder. Do not install  to the root directory
 
 ### [TES3Merge](https://www.nexusmods.com/morrowind/mods/46870?tab=files)
@@ -285,24 +311,13 @@ This experimental tool is an advanced GUI conflict viewer similar to xEdit for l
 Download the xEdit 4.1.3a experimental build on MediaFire (courtesy of Sigourn). This download has already renamed the folder and .exe to TES3View in order to enable the tool to work in Morrowind
 1. Extract the folder to ```...\Morrowind Mods\Tools\TES3View```
 
-### [TESTool](https://www.nexusmods.com/morrowind/mods/47473)
-TESTool is a mod repair and management tool. You will use it to clean your plugins.
-1. Download manually and extract the contents to ```...\Morrowind Mods\Tools\TESTool```
-
-## Optional Tools
-Tools that are not used in this guide. While not strictly needed, if you plan to experiment with your installation and try mods not included in the guide, you may find need of these tools. Otherwise, you may skip this section!
-
 ### [TESAME](http://mw.modhistory.com/download-95-5289)
 TESAME is a useful mod editing program that can delete bad and unwanted references within a plugin.
 1. Extract the folder to ```...\Morrowind Mods\Tools\TESAME```
 
-### [Mlox](https://github.com/mlox/mlox/releases/)
-Optional. A plugin load order sorter. Mlox will not be used in this guide (plugin order will be adjusted manually in the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section of the guide. If you add your own mods, you may want to check your load order with Mlox.
-1. Extract the mlox.exe to your Morrowind root directory (```...\Morrowind\mlox.exe```).
-
-### [Official Construction Set](https://www.nexusmods.com/morrowind/mods/42196?tab=files)
-The official Bethesda The Elder Scrolls Construction Set, patched and fixed to work with the Steam and GOG version of Morrowind. While not technically needed for this guide, a useful resource if you want to directly edit a plugin and necessary to create your own mods and merges.
-1. Unpack the files to the Morrowind root directory (```...\Morrowind\Tes Construction Set.exe```)
+### [TESTool](https://www.nexusmods.com/morrowind/mods/47473)
+TESTool is a mod repair and management tool. You will use it to clean your plugins.
+1. Download manually and extract the contents to ```...\Morrowind Mods\Tools\TESTool```
 
 ## Tools Setup
 Tools require additional setup to work with Mod Organizer's virtual file system. After this initial setup, the executables must be run from within Mod Organizer 2 in order to hook into MO2's VFS.
@@ -326,48 +341,8 @@ Follow these steps for **Wrye Mash**:
 1. Navigate to the location of your mash64.exe (ex., ```C:\Games\Morrowind\Mopy\mash64.exe```) and choose it
 1. Click **Apply** and then **OK**
 
-# Plugin Cleaning
-As you follow the modlist, certain mods are flagged to "require cleaning." ESPs sometimes contain dirty references and your job is to squash these bugs. You will use two tools for this: TESTool and Wrye Mash's integrated tes3cmd cleaning file.
-
-## TESTool
-The first step is to use TESTool to clean your plugins.
-1. Launch Testool through MO2 (select the executable from the dropdown list in the right pane)
-1. A window will prompt you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**
-1. Select **Options** and enable: 
-	- Don't change plugin filenames
-	- Retain file time, when cleaning
-	- Restricted dialog cleaning
-1. Select **Clean ESP/ESM Files** and click **Execute**
-1. Select the relevant plugin that requires cleaning (or, alternately select ALL .esm/.esp files and check the log after for a list of cleaned plugins)
-
-## tes3cmd cleaning
-Tes3cmd catches errors that TESTool misses, and vice versa. This is a necessary step--do not skip tes3cmd cleaning!
-1. Run **Wrye Mash** through MO2 (select the mash executable from the dropdown menu in the right pane)
-1. Within Wrye Mash, navigate to the **Mods** Tab
-1. Right-click on the relevant plugin in the lsit and choose **clean with tes3cmd**
-1. The popup window will display a progress bar and print whether the mod was cleaned, or unaltered
-1. Click **OK**
-	
-Mod Organizer 2 automatically updates your installed mod archives with your cleaned plugins. That's all!
-
-# Wrye Mash Tools
-Wrye Mash has a few additional functions you should be aware of: cleaning saves and updating a plugin masters list.
-
-## Cleaning Saves
-Any time you change your load order (removing or updating a plugin) go to the **Saves** tab in Wrye Mash:
-- Select your save and click the right pane (which lists the plugins associated with the save).
-- Mash will prompt you to edit/update the masters list. Click **yes**. 
-- Then click **save** at the bottom of the right pane.
-
-## Updating Masters Lists 
-Go to the **Mods** tab for your list of plugins. If a plugin's checkbox colour is yellow the associated master file size does not match the plugin's. Follow these steps:
-- Select the plugin and click the right pane (which lists the masters associated with the plugin). 
-- Mash will prompt you to edit/update the masters list. Click **yes**. 
-- Then click **save** at the bottom of the right pane.
-
-## Registering BSAs 
-The right pane of the Mods Tab has two tabs for "Mod Details" and "BSA Archives. Select the "BSA Archives" tabs and ensure each BSA archive has a check mark. This ensures the game will load the assets archived in these files. The three vanilla BSAs should already be registered. In this guide, two additional BSAs will need to be registered if you install the optional landmass mods in the **CONTENT** section.
-
 
 **NEXT SECTION**:
 [**Core**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md)
+
+[<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md)

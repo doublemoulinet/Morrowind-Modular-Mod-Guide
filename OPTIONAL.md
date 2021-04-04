@@ -1,3 +1,5 @@
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONTENT.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md)
+
 # Landmass Expansions
 The landmass mods--**Tamriel Rebuilt** and its sister projects like **Skyrim: Home of the Nords**--are highly recommended on subsequent playthroughs. These are arguably the most impressive modding projects on the web. Tamriel Rebuilt is a decades-long project to recreate the Morrowind mainland in TES3. The "Old Ebonheart" release is one of the best quest mods available and I recommend a TR-centric playthrough to play the different questlines.
 
@@ -24,7 +26,6 @@ Tamriel Data is a required dependency for all Project Tamriel (PT) and Tamriel R
 		- 00 Core
 		- 010 Solstheim - Tomb of the Snow Prince
 		- 011 TOTSP Patches (we only want the Patch for Purists patch)
-		- 012 Armor of the Snow Prince
 	- **Grass Plugins**: For "Solstheim Graphical Replacer" enable only the following option:
 		- 012 Remiros Groundcover for TOTSP
 			- Grass plugins are optional, as they will incur a significant performance penalty
@@ -34,7 +35,7 @@ Tamriel Data is a required dependency for all Project Tamriel (PT) and Tamriel R
 		- *TOTSP_Patch_for-Purists_4.0.2.esp*, 
 		- *VSW-Rem-Anthology Solstheim.esp*
 	- **Grass Plugins**: create a "Grass Plugins" folder within the mod archive and place the *VSW-Rem-Anthology Solstheim.esp* grass plugin inside
-	- **Cleaning**: Snow Prince Armor Redux.esp, and TOTSP TD Content Integration.esp require cleaning
+	- **Cleaning**: STOTSP TD Content Integration.esp requires cleaning
 1. [Rather Nice Factor's Estate](https://www.nexusmods.com/morrowind/mods/47933?)
 	- Enable both the "00 Core" and "01 Patch - Patch for Purists 4.0.X" options
 
@@ -62,3 +63,5 @@ Optionally, you may update the following mods to enable compatibility/integratio
 
 **NEXT SECTION**:
 [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md)
+
+[<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONTENT.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section>>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md)
