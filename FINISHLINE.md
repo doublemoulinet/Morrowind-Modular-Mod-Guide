@@ -38,12 +38,10 @@ Make sure your load order looks something like this:
 Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
-Tamriel_Data.esm 
+Tamriel_Data.esm
 OAAB_Data.esm
 Patch for Purists.esm
 Ownership Overhaul.esm
-TR_Mainland.esm
-Sky_Main.esm
 Solstheim Tomb of The Snow Prince.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
@@ -51,8 +49,6 @@ TOTSP_Patch_for_Purists_4.0.2.esp
 Expansion Delay.ESP
 chuzei_helm_no_neck.esp
 Descriptive Shrines.ESP
-Morrowind Anti-Cheese.ESP
-There Can Be Only One (Alt Fyr).esp
 GITD_WL_RR_Interiors.esp
 GITD_Telvanni_Dormers.ESP
 The Dream is the Door.ESP
@@ -64,6 +60,8 @@ NearVanillaRoadSigns.esp
 Beware the Sixth House.ESP
 Bloodmoon Rebalance.esp
 tribunal rebalance.ESP
+Morrowind Anti-Cheese.ESP
+There Can Be Only One (Alt Fyr).esp
 Early Transport to Mournhold.esp
 Expansions Integrated (Sigourn Edit).esp
 Bigger Velothi Temples.esp
@@ -149,7 +147,7 @@ Plunder the Dungeon.ESP
 The Sanguine Rose.ESP
 Scrolls of The Nine Barriers.ESP
 Umbra, Blademaster.ESP
-[any other ESPs from Tamriel Rebuilt or SHOTN]
+[any other province mod ESPs]
 multipatch.esp
 Merged Objects.esp
 ```
