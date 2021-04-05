@@ -238,7 +238,7 @@ Most options are disabled when you first open this tab. You need to generate dis
 	- Click **Create Statics**
 - Once the process completes, click **Finish**
 
->Generally, you should regenerate your distant land any time you install or uninstall mods with plugins. Fortunately, this process will be much simpler as you will only need to click on **Run above steps using saved / default settings** the next time you use the **Distant land generator wizard**.
+Generally, you should regenerate your distant land any time you install or uninstall mods with plugins. Fortunately, this process will be much simpler as you will only need to click on **Run above steps using saved / default settings** the next time you use the **Distant land generator wizard**.
 
 ![Screenshot](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MGEXE_distantland.jpg)
 

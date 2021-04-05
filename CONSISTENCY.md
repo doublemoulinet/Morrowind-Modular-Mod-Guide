@@ -4,8 +4,10 @@
 Addresses the various lore and logic inconsistencies with the game, and can be considered the "vanilla-plus" content section of the guide.
 
 ## Expansion Integrations
-Better integrates the expansion content into the base game. Early Transport to Mournhold complements Expansion Delay's changes to the Tribunal quest hook.
+Better integrates the expansion content into the base game. *Early Transport to Mournhold* complements *Expansion Delay*'s changes to the Tribunal quest hook. 
+>**Expansion Delay** is as close to essential as a mod can get. Don't skip it.
 1. [Early Transport to Mournhold](https://www.nexusmods.com/morrowind/mods/47985)
+1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?)
 1. [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/49232)
 	- Download the "Expansions Integrated (Sigourn Edit)" Main File
 
@@ -18,16 +20,12 @@ Restored or expanded vanilla content, including logic and consistency fixes for 
 		- Right click "Data Files" and set as data directory and install
 	- Cleaning: ESP requires cleaning
 1. [Blighted Blight](https://www.nexusmods.com/morrowind/mods/48631?)
-1. [Blight is Coming](https://www.nexusmods.com/morrowind/mods/47649?)
 1. [Bloat Caves](https://www.nexusmods.com/morrowind/mods/43141?)
 	- ESP requires cleaning
-1. [Creeping Blight](https://www.nexusmods.com/morrowind/mods/47904?)
-	- Download the MWSE Version Main File. Install normally
 1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?)
 	- ESP requires cleaning
 1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?)
 	- ESP requires cleaning
-1. [Illegal Summoning](https://www.nexusmods.com/morrowind/mods/47105?)
 1. [The Publicans](https://www.nexusmods.com/morrowind/mods/45410?)
 1. [Religions Elaborated](https://www.nexusmods.com/morrowind/mods/47843?)
 	- Download and install the optional "No Quest Changes" version in the Optional Files

@@ -6,7 +6,6 @@ The following is the bare minimum needed to play the game on modern systems. Thi
 ## Patches
 The unofficial patch is under active development and fixes nearly all the game's bugs. 
 1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096?)
-1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?)
 
 ## MWSE Fixes
 Additional fixes that make use of the Morrowind Script Extender language. This guide recommends installing Nullcascade's mods from his github page for the most up-to-date versions (click the green "Code" button and choose "download zip" from the dropdown).

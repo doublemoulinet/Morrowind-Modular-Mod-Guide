@@ -102,9 +102,12 @@ Note: There is a very small performance hit. Depending on your overall performan
 1. [Ashfall](https://www.nexusmods.com/morrowind/mods/49057?tab=description)
 1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247)
 
-## Dynamic Environmental FX
+## Enhanced Environments
 These mods complement the lighting and weather changes from the Visuals section:  light scheduling, dynamic ambient sound, more dynamic weather, and region-specific environmental events.
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?)
+1. [Blight is Coming](https://www.nexusmods.com/morrowind/mods/47649?)
+1. [Creeping Blight](https://www.nexusmods.com/morrowind/mods/47904?)
+	- Download the MWSE Version Main File. Install normally
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178)
 	- ESP requires cleaning
 1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?)

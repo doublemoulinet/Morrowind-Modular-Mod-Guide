@@ -99,7 +99,6 @@ Solstheim Tomb of The Snow Prince.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 TOTSP_Patch_for_Purists_4.0.2.esp
-Expansion Delay.ESP
 chuzei_helm_no_neck.esp
 Descriptive Shrines.ESP
 GITD_WL_RR_Interiors.esp
@@ -116,9 +115,9 @@ tribunal rebalance.ESP
 Morrowind Anti-Cheese.ESP
 There Can Be Only One (Alt Fyr).esp
 Early Transport to Mournhold.esp
+Expansion Delay.ESP
 Expansions Integrated (Sigourn Edit).esp
 Bigger Velothi Temples.esp
-Blight Is Coming.ESP
 Bloated Caves.esp
 Divayth Fyr Puzzle Fixed.ESP
 Dubdilla Location Fix.ESP
@@ -151,6 +150,7 @@ Magicka Expanded - Resource Pack.ESP
 Enhanced Light.ESP
 Clear Your Name.esp
 Personal Effects_MWSE.ESP
+Blight Is Coming.ESP
 RFD_Heartthrum.ESP
 TheMidnightOil.ESP
 Shattered Stones - An Earthquake Mod.esp
