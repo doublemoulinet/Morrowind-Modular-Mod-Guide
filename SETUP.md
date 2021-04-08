@@ -13,7 +13,6 @@
 	- [Installing Mods with MO2](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#installing-mods-with-mo2)
 1. [MGE XE](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#MGE-XE)
 	- [Configuring MGE XE](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#configuring-mge-xe)
-	- [Distant Land](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#distant-land)
 	- [Shaders](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#shaders)
 1. [Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#tools)
 	- [Tools Setup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#tools-setup)
@@ -35,7 +34,7 @@ Install Morrowind and all modding tools to a root directory, outside the default
 Additionally, you will need to create a folder to install your mod manager and tools. For example:
 - **For your Morrowind tools**: ```C:\Steam\steamapps\common\Morrowind Mods``` or ```C:\Games\Morrowind Mods```
 
->Do not install the game in Program Files, Program Files (x86), or any other default Windows folder (ex. Desktop, Documents). Windows UAC monitors these folders and will create issues with the modding tools.
+>Installing in Program Files, Program Files (x86), or any other default Windows folder (ex. Desktop, Documents) is not recommended because Windows UAC monitors these folders and will create issues with the modding tools.
 
 ## GOG Installation Cleanup
 *Note: this step applies only to users of the GOG edition of Morrowind GOTY. If you're using the Steam version, skip to the next step.*
@@ -196,12 +195,12 @@ Sometimes mod archives aren't packaged correctly and Mod Organizer 2 won't be ab
 
 ![Repackage1](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_repackage1.jpg)
 
-In this example, the mod contains a **Data Files** folder and some loose files for the readme and an uninstaller. 
+In this example, the mod contains a number of sub-folders for different options. We want to create a readable structure so MO2 will install both the desired **meshes** folder and the desired **plugin**.
 - Right-click on **Data Files**
 - Click **Set as data files directory**
 - The messagebox at the bottom should turn green
 
-Repeat these steps whenever the install interface spits out a  ```The contents of data files does not look valid``` message.
+Then, it's simply a matter of dragging and dropping the other files (in this example, just the plugin) you want packaged in the destination folder.
 
 ![Repackage2](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_repackage2.jpg)
 

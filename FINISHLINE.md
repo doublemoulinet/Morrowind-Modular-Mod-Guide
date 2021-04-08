@@ -257,6 +257,9 @@ If you installed the [Gameplay - Expanded](https://github.com/doublemoulinet/Mor
 # Distant Land
 The Distant Land tab does what it says: it generates the distant land that, in-game, allows you to see past the currently rendered cell.
 
+- Relaunch **MGE XE** from your list of executables.
+- Navigate to the **Distant land** tab in **MGE XE**
+
 Most options are disabled when you first open this tab. You need to generate distant land for these options to become accessible. The **Distant land generator wizard** lets you select which plugins MGE XE will use when generating distant land, and will guide us through the process:
 - Click the **Distant land generator wizard** button
 - On the **Distant Land Setup Wizard**, click **Select all**. These ticked plugins will be used in distant land generation
