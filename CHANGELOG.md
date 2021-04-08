@@ -1,12 +1,17 @@
 [<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
 
+# 2021-04-08
+Maintenance release.
+
+**Updated**
+- Revised SETUP and FINISH LINE instructions for new Mod Organizer 2 version. Added some images, etc.
+
 # 2021-04-04
 Smaller maintenance release. Added new navigation buttons and fixed some borked instructions.
 
 **Updated**
 - updated instructions for **Pete's Lua gmst config** in EXPANDED (now includes the necessary step of actually adding the gmsts you want to change)
 - moved: [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?) from CORE to CONSISTENCY (loathe as I am to make this change, a "100% purist" experience should include getting spammed by DB assassins at least once)
-
 - moved: [Blight is Coming](https://www.nexusmods.com/morrowind/mods/47649?) and [Creeping Blight](https://www.nexusmods.com/morrowind/mods/47904?) from CONSISTENCY to GAMEPLAY
 
 **Removed**

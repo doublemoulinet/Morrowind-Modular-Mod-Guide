@@ -8,12 +8,12 @@ Congraulations! You're nearly there. This last section details a few quick steps
 # Index
 1. [Cleaning Plugins](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#cleaning-plugins)
 1. [Load Order](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#load-order)
+1. [Registering BSAs](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#registering-bsas)
 1. [Conflict Resolution](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#conflict-resolution)
-	1. [Conflict Resolution Patch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#conflict-resolution-patch)
 	1. [Multipatch](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#multipatch)
 	1. [Merged Objects](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#merged-objects)
-	1. [Registering BSAs](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#registering-bsas)
 	1. [Updating Masters](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#updating-masters)
+1. [Re-running MCP](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#re-running-mcp)
 1. [Distant Land](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#distant-land)
 1. [Shaders](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#shaders)
 1. [In-game Settings](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md#in-game-settings)
@@ -23,9 +23,7 @@ Congraulations! You're nearly there. This last section details a few quick steps
 
 
 # Cleaning Plugins
-As you follow the modlist, certain mods are flagged to "require cleaning." ESPs sometimes contain dirty references and your job is to squash these bugs. You will use two tools for this: TESTool and Wrye Mash's integrated tes3cmd cleaning file.
-
->Please note that this may take some time. However, cleaning your plugins is absolutely necessary.
+As you follow the modlist, certain mods are flagged to "require cleaning." ESPs sometimes contain dirty references and your job is to squash these bugs. You will use Wrye Mash's integrated tes3cmd cleaning file.
 
 <details>
 <summary>Plugins that require cleaning</summary>
@@ -58,26 +56,16 @@ STOTSP TD Content Integration.esp
 ```
 </details>
 
-## TESTool
-The first step is to use TESTool to clean your plugins.
-1. Launch Testool through MO2 (select the executable from the dropdown list in the right pane)
-1. A window will prompt you if you want to use your Morrowind root folder instead of registry settings. Click **Yes**
-1. Select **Options** and enable: 
-	- Don't change plugin filenames
-	- Retain file time, when cleaning
-	- Restricted dialog cleaning
-1. Select **Clean ESP/ESM Files** and click **Execute**
-1. Select the relevant plugin that requires cleaning (or, alternately select ALL .esm/.esp files and check the log after for a list of cleaned plugins)
+## Tes3cmd cleaning
+Tes3cmd makes it easy to batch clean your plugins:
+- Run **Wrye Mash** through MO2
+- Navigate to the **Mods** Tab
+- Right-click on the relevant plugin in the list and choose **clean with tes3cmd**
+	- Note: you can **shift-click to select multiple plugins** and batch clean them
 
-## tes3cmd cleaning
-Tes3cmd catches errors that TESTool misses, and vice versa. This is a necessary step--do not skip tes3cmd cleaning!
-1. Run **Wrye Mash** through MO2 (select the mash executable from the dropdown menu in the right pane)
-1. Within Wrye Mash, navigate to the **Mods** Tab
-1. Right-click on the relevant plugin in the lsit and choose **clean with tes3cmd**
-1. The popup window will display a progress bar and print whether the mod was cleaned, or unaltered
-1. Click **OK**
-	
 Mod Organizer 2 automatically updates your installed mod archives with your cleaned plugins. That's all!
+
+>Not all plugins should be cleaned: some mods intentionally add duplicate (identical to master) records, which tes3cmd will mistakenly flag as "dirty" and clean.
 
 # Load Order
 Generally, plugins should remain in the order that they were installed in this guide. However, MO2 does not automatically place ESMs at the top of your load order--you must drag and drop these manually. This will have no impact in-game (the vanilla engine always loads ESMs before ESPs regardless their order in your mod manager).
@@ -211,6 +199,16 @@ Finally, make a backup of both your installation order and your load order (this
 1. In the right pane of MO2, click the harddisk icon. A text popup "Backup of load order created" should appear at the bottom of the MO2 interface
 1. In the left pane of MO2, click the harddisk icon. A text popup "Backup of mod list created" should appear at the bottom of the MO2 interface.
 
+# Registering BSAs 
+Some mods include packaged archives called BSAs. **Tamriel Rebuilt** and **Skyrim: Home of the Nords** are dependent on the BSAs in **Tamriel Data**. You must register them in order for the assets to show up in-game.
+
+- Launch **Wrye Mash** from within MO2
+- Go to the **Mods Tab**
+- The right-pane has two tabs for **Mod Details** and **BSA Archives**
+- Select the **BSA Archives** tab and ensure each listed BSA has a check mark
+
+This ensures the game will load the assets archives in these files. The three vanilla BSAs should already be registered; you may have to check **TR_Data** and **PT_Data** if you followed the optional [**Landmass Expansions**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md) section of this guide.
+
 # Conflict Resolution
 You need to create two merged patches to resolve remaining plugin conflicts. Make sure all your plugins are enabled in the Mods Tab and follow these instructions to generate the patch
 
@@ -234,19 +232,6 @@ Now we will move the two plugins to a new mod folder in the left pane. Select th
 
 Note that you will need to regenerate these two plugins nearly each time you adjust your load order (update, remove or add a plugin) so that the changes are carried on. For your convenience, Wrye Mash will indicate if the plugins are missing masters and require regenerating (the plugin will turn yellow or red in the Mods Tab).
 
-# Additional Conflict Resolution
-We will use Wrye Mash for two last important steps:
-
-## Registering BSAs 
-Some mods include packaged archives called BSAs. **Tamriel Rebuilt** and **Skyrim: Home of the Nords** are dependent on the BSAs in **Tamriel Data**. You must register them in order for the assets to show up in-game.
-
-- Launch **Wrye Mash** from within MO2
-- Go to the **Mods Tab**
-- The right-pane has two tabs for **Mod Details** and **BSA Archives**
-- Select the **BSA Archives** tab and ensure each listed BSA has a check mark
-
-This ensures the game will load the assets archives in these files. The three vanilla BSAs should already be registered; you may have to check **TR_Data** and **PT_Data** if you followed the optional [**Landmass Expansions**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/OPTIONAL.md) section of this guide.
-
 ## Updating Masters
 Wrye Mash can synchronize the master dependencies of your plugins, correcting for when masters are out of the expected order or file size. This prevents error messages on startup.
 
@@ -259,36 +244,58 @@ Wrye Mash can synchronize the master dependencies of your plugins, correcting fo
 
 You should repeat this process anytime you update common master plugins like Patch for Purists, Tamriel Data, or OAAB Data.
 
+# Re-running MCP
+There are a few additional **Morrowind Code Patch** options you can enable, depending on which mods you installed during the course of this guide.
+
+If you installed the [Gameplay - Expanded](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/GAMEPLAY.md) section, follow these instructions:
+- In your Root Folder, run **Morrowind Code Patch.exe** as an Administrator
+- Enable the following options:
+	- **Game Mechanics**: enable *"Attribute Uncap"*, and *"Skill Uncap"*
+- Click the big "Apply chosen patches" button and exit
+
+
 # Distant Land
-You will need to regenerate your distant land. If you followed the steps in [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md) this will be considerably easier:
+The Distant Land tab does what it says: it generates the distant land that, in-game, allows you to see past the currently rendered cell.
 
-1. **Untick** the "Distant Land - Vanilla" mod you created in the Setup section
-1. Launch MGE XE in MO2
-1. In the "Distant Land" tab launch the "Distant land generator"
-1. On the "Plugins" tab, click "Select All"
+Most options are disabled when you first open this tab. You need to generate distant land for these options to become accessible. The **Distant land generator wizard** lets you select which plugins MGE XE will use when generating distant land, and will guide us through the process:
+- Click the **Distant land generator wizard** button
+- On the **Distant Land Setup Wizard**, click **Select all**. These ticked plugins will be used in distant land generation
+	- *Optional step*: If you installed **Remiros' Groundcover** to a separate folder (for example, ```Data Files\Grass Plugins```) you must specify this directory
+		- Select **plugin directories...** and navigate to your grass plugins folder
+		- Selec the folder, click **Add** and then **Save**
+- Click **Continue**. This will open the next window
+- In the **Land Textures** tab:
+	- Set **World texture resolution** to 2048
+	- Set **World normalmap resolution** to 1024
+	- Click **Create Land Textures**
+- In the **Land Meshes** tab:
+	- Set **World mesh detail** to **Ultra High** in the dropdown menu
+	- Click **Create Land Meshes**
+- In the **Statics** tab:
+	- Set **Minimum static size** to **150**
+	- Set **Mesh detail level** to **Full**
+	- Set **Distant texture reduction** to **1/2**
+	- Tick all the right-hand options **except** for **include reflective water in interiors**
+	- Click **Create Statics**
+- Once the process completes, click **Finish**
 
-If you have installed **Remiros' Groundcover**, there are additional settings to check in MGE XE's distant land generation tab:
-1. Depending on the method you followed during installation, ensure that the ESPs are enabled and appear in your load order. They should be at the very bottom (i.e. last)
-1. *If you installed the plugins to a separate folder (ex, \Data Files\Grass Plugins)*: 
-	- select "plugin directories..." to add this folder to the plugin list
-	- Click "Add" and select your "Grass Plugins" folder
-	- Be sure to click "Save" and then confirm that the plugins are all ticked in the plugin list (you may have to click "Select All" again)
-1. With all your plugins loaded, click *Run above steps using saved/default settings* and wait for the process to complete
-	- Note: you can tweak the settings and re-generate distant land if the grass density affects performance. On my setup, the default 100% density had no impact on framerate
-1. *If you did not create a "Grass Plugins" folder*: after distant land generation completes, remember to disable the Remiros' Groundcover grass ESPs in the right-pane (your load order)
+Generally, you should regenerate your distant land any time you install or uninstall mods with plugins. Fortunately, this process will be much simpler as you will only need to click on **Run above steps using saved / default settings** the next time you use the **Distant land generator wizard**.
 
-### **Optional step: create a distant land mod folder**
-Optionally, you may create a new mod for your modded game's distant land:
+![Screenshot](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MGEXE_distantland.jpg)
+
+After MGE XE has generated distant land, you will be returned to the **Distant Land** tab from earlier. Now, all the previously unavailable options can be set up. Follow the settings as suggested in the screenshot above. You may wish to tinker with them later. These recommended settings cleave to the game's original foggy aesthetic and keep performance costs to a minimum.
+
+### **Optional step: creating a distantland mod folder**
+You may optionally move your newly-generated Distant Land files from their default location in the Mod Organizer 2 "Overwrite" folder:
 1. Exit MGE XE and return to the MO2 interface
 1. Located to the right of the Profile drop-down menu, click the small hammer-and-wrench icon and select "Create Empty Mod"
-1. Name this mod "Distant Land - Modular" or something distinct, and make sure it is at the bottom of your load order
+1. Name this mod "Distant Land - Vanilla" and make sure it is at the bottom of your load order
 1. At the bottom of your load order, double click on the "Overwrite" folder
 1. Drag and drop the "distantland" folder into the empty mod
-1. Tick the mod to enable it
 
-If you also followed this optional step during the [**Setup**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md) section, you can untick "Distant Land - Vanilla" (or whatever you named the mod) in MO2's left pane.
+The advantage of this step is that you can easily toggle between different mod profiles without regenerating distantland each time. Simply repeat distantland generation for your other profiles.
 
-Note: any time you regenerate your distant land it will automatically update and replace the files in the "Distant Land - Modular" mod, assuming you leave it enabled in the left-pane. This means you will only have to perform the above steps *once*! 
+>Any time you regenerate your distant land it will automatically update and replace the files in the "Distant Land - Modular" mod, assuming you leave it enabled in the left-pane. This means you will only have to perform this step *once*! 
 
 # Shaders
 Remember to set up the mod-added shaders and enable them in the MGE XE shader tool. (If the following shaders don't appear in your shader list, that just means you didn't install the respective mods, and these instructions can be ignored):
@@ -303,7 +310,8 @@ Add them to the bottom of the list of active shaders in MGE XE.
 The final step. Nearly there...
 
 ## Menu Options
-Launch the game and enter the in-game Options menu. Adjust the following:
+Launch the game and enter the in-game Options menu.
+>Remember: just like all your modding executables, you must also run **Morrowind.exe** via Mod Organizer 2!
 
 ### **Prefs**
 - Set difficulty to 0 (Dynamic Difficulty will handle scaling to keep things interesting--unless you want to punish yourself and play at 100 difficulty from the start)
