@@ -35,7 +35,6 @@ Tamriel Data is a required dependency for all Project Tamriel (PT) and Tamriel R
 		- *TOTSP_Patch_for-Purists_4.0.2.esp*, 
 		- *VSW-Rem-Anthology Solstheim.esp*
 	- **Grass Plugins**: create a "Grass Plugins" folder within the mod archive and place the *VSW-Rem-Anthology Solstheim.esp* grass plugin inside
-	- **Cleaning**: STOTSP TD Content Integration.esp requires cleaning
 1. [Rather Nice Factor's Estate](https://www.nexusmods.com/morrowind/mods/47933?)
 	- Enable both the "00 Core" and "01 Patch - Patch for Purists 4.0.X" options
 

@@ -23,7 +23,7 @@ Congraulations! You're nearly there. This last section details a few quick steps
 
 
 # Cleaning Plugins
-As you follow the modlist, certain mods are flagged to "require cleaning." ESPs sometimes contain dirty references and your job is to squash these bugs. You will use Wrye Mash's integrated tes3cmd cleaning file.
+It's a fact of life: sometimes mod authors forget to clean their plugins. ESPs sometimes contain dirty references and your job is to squash these bugs. You will use Wrye Mash's integrated tes3cmd cleaning file.
 
 <details>
 <summary>Plugins that require cleaning</summary>
@@ -65,7 +65,7 @@ Tes3cmd makes it easy to batch clean your plugins:
 
 Mod Organizer 2 automatically updates your installed mod archives with your cleaned plugins. That's all!
 
->Not all plugins should be cleaned: some mods intentionally add duplicate (identical to master) records, which tes3cmd will mistakenly flag as "dirty" and clean.
+>Not all plugins should be cleaned: some mods intentionally add duplicate (identical to master) records, which tes3cmd will mistakenly flag as "dirty" and clean. So don't ever clean **all** your plugins or you will have to redownload **Patch for Purists.esm**. (Don't clean ESMs).
 
 # Load Order
 Generally, plugins should remain in the order that they were installed in this guide. However, MO2 does not automatically place ESMs at the top of your load order--you must drag and drop these manually. This will have no impact in-game (the vanilla engine always loads ESMs before ESPs regardless their order in your mod manager).
@@ -87,6 +87,7 @@ Solstheim Tomb of The Snow Prince.esm
 Patch for Purists - Book Typos.ESP
 Patch for Purists - Semi-Purist Fixes.ESP
 TOTSP_Patch_for_Purists_4.0.2.esp
+Lake Fjalding Anti-Suck.esp
 chuzei_helm_no_neck.esp
 Descriptive Shrines.ESP
 GITD_WL_RR_Interiors.esp
@@ -257,7 +258,7 @@ If you installed the [Gameplay - Expanded](https://github.com/doublemoulinet/Mor
 # Distant Land
 The Distant Land tab does what it says: it generates the distant land that, in-game, allows you to see past the currently rendered cell.
 
-- Relaunch **MGE XE** from your list of executables.
+- Launch **MGE XE** from your list of executables.
 - Navigate to the **Distant land** tab in **MGE XE**
 
 Most options are disabled when you first open this tab. You need to generate distant land for these options to become accessible. The **Distant land generator wizard** lets you select which plugins MGE XE will use when generating distant land, and will guide us through the process:
@@ -278,7 +279,7 @@ Most options are disabled when you first open this tab. You need to generate dis
 	- Set **Minimum static size** to **150**
 	- Set **Mesh detail level** to **Full**
 	- Set **Distant texture reduction** to **1/2**
-	- Tick all the right-hand options **except** for **include reflective water in interiors**
+	- Tick **all** the right-hand options *except* **include reflective water in interiors**
 	- Click **Create Statics**
 - Once the process completes, click **Finish**
 

@@ -25,20 +25,16 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 
 ## Settlements
 1. [Atmospheric Delights](https://www.nexusmods.com/morrowind/mods/47472?)
-	- ESP requires cleaning
 1. [Better Gnisis Arch](https://www.nexusmods.com/morrowind/mods/46224?)
 	- Enable the following BAIN options:
 		- 00 - Main Files
 		- 01 - Main ESP - English
-	- Cleaning: ESP requires cleaning
 1. [Better Redoran Architecture](https://www.nexusmods.com/morrowind/mods/43266?)
 	- Download and install Main File "RR - Better Redoran Architecture v.1.2.2"
 	- Enable only the following BAIN option:
 		- *04 - Better Aldruhn-under Skar* **OR** *05 - Better Aldruhn-under Skar HD*
 	- Enable only the RR_Aldruhn_Under_Skar_ENG.esp
-	- Cleaning: ESP requires cleaning
 1. [Brevur of Balmora](https://www.nexusmods.com/morrowind/mods/47557?)
-	- Cleaning: ESP requires cleaning
 1. [Glass Domes of Vivec - Performance Edition](https://www.nexusmods.com/morrowind/mods/48935)
 	- Special installation instructions: do not enable the ESP
 1. [Glass Domes of Vivec - Moonrain Edition](https://www.nexusmods.com/morrowind/mods/48946)
@@ -53,7 +49,6 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 	- Enable only the BAIN option "01 Glass Domes of Vivec - Atmospheric Arena" and rename the mod "Glass Domes of Vivec - Ownership Overhaul Patches"
 1. [Meteorite Ministry](https://www.nexusmods.com/morrowind/mods/45506?)
 	- Enable only the "Meteorite Ministry Temple" ESP
-	- Cleaning: ESP requires cleaning
 1. [OAAB Grazelands](https://www.nexusmods.com/morrowind/mods/49075)
 	- Enable the "00 Core" option, and the "01 remiros groudncover gl patch" if using Remiros' Grass 
 		- If you created a "Grass Plugins" folder when installing Remiros' Grass, be sure to repeat that step for these plugins
@@ -74,12 +69,10 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 ## Wilderness
 1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?)
 	- Enable the "00 Core" option. Select the "01 hires textures" option if using Intelligent Textures	
-	- Cleaning: ESP requires cleaning
 1. [The Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/46137?)
 	- Don't enable the ESP; the next mod reverts some cell name changes and will supply the ESP
 1. [The Grove of Ben'Abi - Region name reverted](https://mega.nz/file/Gl4TQBrR#YqRPilupBPUwneqR0lOs70IvXuBQ5xwbAw_bdGjpG74)
 1. [OAAB - The Ashen Divide](https://www.nexusmods.com/morrowind/mods/49047)
-	- ESP requires cleaning
 1. [RR Mod Series - Telvanni Lighthouse - Tel Branora](https://www.nexusmods.com/morrowind/mods/42664?)
 	- Enable the following BAIN options:
 		- 00 - Main Files
@@ -90,10 +83,8 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 		- 00 - Main Files
 		- 01 - Main Files GitD Patch
 		- 02 - Main ESP - English
-	- Cleaning: the ESP requires cleaning
 1. [Seven Graces Shrines Enhanced](https://www.nexusmods.com/morrowind/mods/46417?)
 	- Download and install both the Main File and the "No Script Edits" optional file.
-	- Cleaning: ESP requires cleaning
 1. [Shrine of Azura](https://www.nexusmods.com/morrowind/mods/48278?)
 
 ## Guilds
@@ -109,7 +100,6 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 
 ## Dungeons
 1. [Andrano Tomb Remastered](https://www.nexusmods.com/morrowind/mods/44672?)
-	- Cleaning: ESP requires cleaning
 1. [OAAB - Tombs and Towers](https://www.nexusmods.com/morrowind/mods/49131)
 1. [Samarys Ancestral Tomb Expanded](https://www.nexusmods.com/morrowind/mods/45612?)
 
@@ -122,7 +112,6 @@ High-quality, lore-friendly quests designed to fit seamlessly within the vanilla
 1. [ABCs for Outlanders](https://www.nexusmods.com/morrowind/mods/46692?)
 1. [Ajira's Alchemy Reports Randomized](https://www.nexusmods.com/morrowind/mods/47550?)
 1. [Dura gra-Bol's House Reclaimed](https://www.nexusmods.com/morrowind/mods/46772?)
-	- Cleaning: ESP requires cleaning
 1. [Expedition to Mzelthuand](https://www.nexusmods.com/morrowind/mods/45229?)
 	- Download the Main File and the updated ESP
 1. [Immersive Madness](https://www.nexusmods.com/morrowind/mods/44983?)
@@ -130,16 +119,13 @@ High-quality, lore-friendly quests designed to fit seamlessly within the vanilla
 	- Enable the following BAIN options:
 		- 00 Core
 		- 01 Automatic Add-Ons (MWSE)
-	- Cleaning: ESP requires cleaning
 1. [Mamaea Awakened](https://www.nexusmods.com/morrowind/mods/46096?)
-	- Cleaning: ESP requires cleaning
 1. [Morag Tong Polished](https://www.nexusmods.com/morrowind/mods/47041?)
-	- Cleaning: ESP requires cleaning
 1. [OAAB - Astral Pocket](https://www.nexusmods.com/morrowind/mods/49077)
 1. [Plunder the Dungeon](https://www.nexusmods.com/morrowind/mods/46977?)
 1. [The Sanguine Rose](https://www.nexusmods.com/morrowind/mods/46214?)
 	- Enable the following BAIN options: 
-		- 00 Core, 
+		- 00 Core
 		- 02 MWSE ME Patch
 1. [Scrolls of the Nine Barriers](https://www.nexusmods.com/morrowind/mods/45831?)
 	- Enable the "00 Core" option

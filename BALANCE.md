@@ -1,7 +1,7 @@
 [<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section >>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md)
 
 # Gameplay - Balance
-Addresess many of the most glaring balance issues and exploits in the game,focusing on improving the existing game design and making the game more fun.
+Addresses many of the most glaring balance issues and exploits in the game, improving the existing game design and making the game more fun.
 
 ## Balance - Core
 Core balancing mods for the base game, expansion and endgame content. Don't play without them.
@@ -12,7 +12,7 @@ Core balancing mods for the base game, expansion and endgame content. Don't play
 1. [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713?)
 
 ## Balance - Misc.
-Light-weight MWSE mods that address some of the remaining balance issues with the game.
+Light-weight MWSE mods that address some of the remaining balance issues.
 1. [Controlled Consumption](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Controlled Consumption" as the data directory
 	- Name the mod "Controlled Consumption" and install
@@ -31,7 +31,7 @@ Light-weight MWSE mods that address some of the remaining balance issues with th
 1. [Wings of Will](https://www.nexusmods.com/morrowind/mods/46626?)
 
 ## Balance - Hardcore
-Addresses some common exploits and makes enemy encounters more difficult and engaging. "There Can Be Only One" corrects the most glaring balance issue in the game: the endless supply of extremely valuable and (supposedly) very rare item drops.
+Addresses some common exploits and makes enemy encounters more difficult and engaging.
 1. [Morrowind Anti-Cheese](https://www.nexusmods.com/morrowind/mods/49232)
 	- Download the "Ownership Overhaul Patches" Main File
 	- Enable "06 Morrowind Anti-Cheese" and rename the mod "Morrowind Anti-Cheese"

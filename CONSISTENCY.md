@@ -18,18 +18,13 @@ Restored or expanded vanilla content, including logic and consistency fixes for 
 	- Mod archive is incorrectly packaged:
 		- In **001 ESP - Bigger Velothi Temples**, drag and drop the "Bigger Velothi Temples.esp" into the **000 Core Files\Glow in the Darhk\Vanilla\Data Files** folder
 		- Right click "Data Files" and set as data directory and install
-	- Cleaning: ESP requires cleaning
 1. [Blighted Blight](https://www.nexusmods.com/morrowind/mods/48631?)
 1. [Bloat Caves](https://www.nexusmods.com/morrowind/mods/43141?)
-	- ESP requires cleaning
 1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?)
-	- ESP requires cleaning
 1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?)
-	- ESP requires cleaning
 1. [The Publicans](https://www.nexusmods.com/morrowind/mods/45410?)
 1. [Religions Elaborated](https://www.nexusmods.com/morrowind/mods/47843?)
-	- Download and install the optional "No Quest Changes" version in the Optional Files
-	- Cleaning: ESP requires cleaning	
+	- Download and install the optional "No Quest Changes" version in the Optional Files	
 1. [Services Restored](https://www.nexusmods.com/morrowind/mods/47068?)
 	- Download and install Main File "Services Restored"
 1. [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150?)
@@ -46,10 +41,8 @@ Restored or expanded vanilla content, including logic and consistency fixes for 
 New and enhanced dialogue that greatly expands the variety and flavour of NPC conversation. Some logic/consistency fixes, and new and restored voiced greetings.
 1. [FMI - Hospitality Papers Expanded](https://www.nexusmods.com/morrowind/mods/46107?)
 1. [FMI - Nice to Meet You](https://www.nexusmods.com/morrowind/mods/47329?)
-	- Cleaning: ESP requires cleaning
 1. [FMI - NotAllDunmer](https://www.nexusmods.com/morrowind/mods/47569?)
 1. [FMI - Service Refusal and Contraband](https://www.nexusmods.com/morrowind/mods/47456?)
-	- ESP requires cleaning
 1. [Great Service](https://www.nexusmods.com/morrowind/mods/47767)
 1. [Greetings for No Lore](https://www.nexusmods.com/morrowind/mods/46063?)
 1. [Idle Talk](https://www.nexusmods.com/morrowind/mods/46948)
@@ -58,7 +51,6 @@ New and enhanced dialogue that greatly expands the variety and flavour of NPC co
 1. [Nastier Camonna Tong](https://www.nexusmods.com/morrowind/mods/22601?)
 1. [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066?)
 1. [What Thieves Guild](https://www.nexusmods.com/morrowind/mods/47728?)
-	- Cleaning: ESP requires cleaning
 
 ## Audio
 Restored and fixed audio files, a new immersive sound effect, and some quality-of-life changes to frequently encountered SFX.

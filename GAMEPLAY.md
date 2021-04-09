@@ -51,7 +51,6 @@ Restores several skills from previous and later Elder Scrolls titles, including 
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
 	- Disable the "MWSE" folder
-	- Cleaning: ESP requires cleaning
 1. [Poison Redux-ion](https://www.nexusmods.com/morrowind/mods/48948)
 1. [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
 
@@ -109,13 +108,10 @@ These mods complement the lighting and weather changes from the Visuals section:
 1. [Creeping Blight](https://www.nexusmods.com/morrowind/mods/47904?)
 	- Download the MWSE Version Main File. Install normally
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178)
-	- ESP requires cleaning
 1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?)
-	- ESP requires cleaning
 1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?)
 	- Earthquakes occur too frequently with default settings:
 		- When in-game, open the console (~) and type: ```set fQuakeChance to 10```
-	- Cleaning: ESP requires cleaning
 1. [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636)
 	- Enable: "00 Lua core" and "02 Weather Adjuster Replacer"
 	
