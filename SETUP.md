@@ -67,7 +67,7 @@ The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It 
 	- **Beta**: every option EXCEPT *"Doppler audio fix"*
 	- **Game Mechanics**: every option EXCEPT *"Allow Gloves with Bracers"*, *"Attribute Uncap"*, and *"Skill Uncap"*
 	- **Visuals**: every option EXCEPT *"Over-the-shoulder third person camera,"* and *"Vanity camera lock"*
-	- **Mod specific**: ensure EVERY option is enabled
+	- **Mod specific**: ensure EVERY option is enabled (*NPC AI casts zero cost powers* is optional)
 	- **Interface changes**: enable every option EXCEPT *"Map Expansion (for TR),"* *"Disable map smoothing,"* *"Spell select by name,"* and *"see all standard potion effects"*
 	- **International**: none
 	- **Bug Fixes**: EVERY option is enabled by default--keep it this way!
