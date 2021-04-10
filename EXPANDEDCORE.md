@@ -64,7 +64,7 @@ Core convenience mods using MWSE that address gameplay oversights and inconsiste
 			"pg_gmst_hotReloadKey": 88,
 			"fCombatAngleXY": 4,
 			"i1stPersonSneakDelta": 30,
-			"iGreetDistanceMultiplier": 4
+			"iGreetDistanceMultiplier": 5
 		}
 		```
 1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)
