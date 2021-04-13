@@ -37,6 +37,7 @@ FMI_Nice_to_Meet_You.esp
 FMI_ServiceRefusal_Contraband.esp
 What Thieves Guild.esp
 mwse_PoisonCrafting.esp
+TheMidnightOil.esp
 RFD_Heartthrum.esp
 Shattered Stones - An Earthquake Mod.esp
 Atmospheric Delights.esp
