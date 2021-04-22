@@ -42,7 +42,8 @@ Lightweight enhancements of existing skills, correcting oversights and making th
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
 1. [Realistic Repair – Add-on](https://www.nexusmods.com/morrowind/mods/47461)
 	- Download and install the Main File
-	- *Compatibility patch*: download [Realistic Repair - Add-on PFP Patch](https://www.nexusmods.com/morrowind/mods/49471?) and install as a separate mod, loading the plugin after "Realistic_Repair_Add-on.esp"
+	- Download and install the Optional File, merging when prompted
+		- *Special instruction*: Disable the **Realistic_Repair_Add-on - PFP Patch.esp**
 1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
 
 ## New Skills

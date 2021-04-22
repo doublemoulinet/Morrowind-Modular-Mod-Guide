@@ -55,18 +55,9 @@ Core convenience mods using MWSE that address gameplay oversights and inconsiste
 1. [Drop Light](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Drop Light" as the data directory
 	- Name the mod "Drop Light" and install
+1. [GMST Menu](https://www.nexusmods.com/morrowind/mods/46428)
 1. [Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
 1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
-1. [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?)
-	- **Post-installation**: open `MWSE/pg_gmst_config.json` and copy-paste the following:
-		```
-		{
-			"pg_gmst_hotReloadKey": 88,
-			"fCombatAngleXY": 4,
-			"i1stPersonSneakDelta": 30,
-			"iGreetDistanceMultiplier": 5
-		}
-		```
 1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Smarter Soultrap" as the data directory
 	- Name the mod "Smarter Soultrap" and install
@@ -92,6 +83,7 @@ These core MWSE mods are a major enhancement to the base game, and should be con
 	- Bug fix: download [Graphic Herbalism - Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154?tab=description)
 		- Rename the mod "Graphic Herbalism MWSE" and select "Merge" when prompted
 1. [Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864?)
+1. [Just Drop It](https://www.nexusmods.com/morrowind/mods/49557)
 1. [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094?)
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?)

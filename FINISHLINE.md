@@ -372,8 +372,27 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 ### **Continue**
 - Hide Credits Button = Yes
 - Hide New Game Button (In Game) = Yes
-### **Illegal Summoning**
-- NPC Crime Trigger Distance = 2000
+### **GMST Menu**
+- Search these strings and adjust the values:
+	```
+	i1stPersonSneakDelta = 30
+	iGreetDistanceMultiplier = 5
+	```
+- Optionally, change the GMSTs governing projectiles:
+	
+	```
+	Faster projectiles:
+	fProjectileMaxSpeed = 7200
+	fProjectileMinSpeed = 960
+	fThrownWeaponMaxSpeed = 1200
+	fThrownWeaponMinSpeed = 360
+
+	Higher projectile recovery chance:
+	fProjectileThrownStoreChance 80
+
+	Faster magic missiles:
+	fTargetSpellMaxSpeed 1200
+	```
 ### **Let There Be Darkness**
 - In the General and Cell Settings tab, set Cell Lighting Value Overrides to TLAD
 - Leave the remaining settings at their defaults

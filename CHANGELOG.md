@@ -1,10 +1,17 @@
 [<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
 
-# 2021-04-08
+# 2021-04-22
 Maintenance release.
+
+**Added**
+- added: EXPANDED CORE: [GMST Menu](https://www.nexusmods.com/morrowind/mods/46428), [Just Drop It](https://www.nexusmods.com/morrowind/mods/49557)
 
 **Updated**
 - Revised SETUP and FINISH LINE instructions for new Mod Organizer 2 version. Added some images, etc.
+- updated: GAMEPLAY: [Realistic Repair – Add-on](https://www.nexusmods.com/morrowind/mods/47461) (new PFP patch)
+
+**Removed**
+- removed: EXPANDED CORE: [Pete’s Lua GMST Config](https://www.nexusmods.com/morrowind/mods/45818?) (swapped to GMST menu)
 
 # 2021-04-04
 Smaller maintenance release. Added new navigation buttons and fixed some borked instructions.
