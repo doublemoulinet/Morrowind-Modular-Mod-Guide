@@ -1,12 +1,12 @@
 [<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section >>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONTENT.md)
 
 # Gameplay - Expanded
-The good stuff. This module introduces the majority of the gameplay mechanics and new features that cannot strictly be considered fixes or balance changes. As ever, this module remains faithful to the vanilla game's look and feel.
+The good stuff. This module introduces the majority of the gameplay mechanics and new features that cannot strictly be considered fixes or balance changes.
 
 ## Player Levelling
 Morrowind's levelling system shows its age. Because of how it handles skill-ups and attribute modifiers, Morrowind encourages micromanagement and powergaming, which is uNiMmERsiVE and BAD. There are several recent lua-based levelling overhauls that make skill increases/levelling much less intrusive.
 
-Choose and **install only ONE** of the following levelling mod sections. If this is your first time with Morrowind, I recommend playing with **Improved Vanilla Levelling** (it most closely resembles the original game's system), and trying **Class-Conscious Character Progression (CCCP)** on a subsequent playthrough:
+Choose and **install only ONE** of the following levelling mod sections. If this is your first time with Morrowind, I recommend playing with **Improved Vanilla Levelling** (it most closely resembles the original game's system).
 
 ### Improved Vanilla
 Install this section if you want to play with **Improved Vanilla**, which does as the name suggests: it cuts out the micromanagement and irons out kinks in the game's levelling system.
@@ -43,7 +43,7 @@ Lightweight enhancements of existing skills, correcting oversights and making th
 1. [Realistic Repair – Add-on](https://www.nexusmods.com/morrowind/mods/47461)
 	- Download and install the Main File
 	- Download and install the Optional File, merging when prompted
-		- *Special instruction*: Disable the **Realistic_Repair_Add-on - PFP Patch.esp**
+		- Hide the **Realistic_Repair_Add-on - PFP Patch.esp**
 1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
 
 ## New Skills
@@ -102,7 +102,7 @@ Note: There is a very small performance hit. Depending on your overall performan
 1. [Ashfall](https://www.nexusmods.com/morrowind/mods/49057?tab=description)
 1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247)
 
-## Enhanced Environments
+## Dynamic Environment Effects
 These mods complement the lighting and weather changes from the Visuals section:  light scheduling, dynamic ambient sound, more dynamic weather, and region-specific environmental events.
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?)
 1. [Blight is Coming](https://www.nexusmods.com/morrowind/mods/47649?)

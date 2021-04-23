@@ -10,7 +10,7 @@ AI-upscaled and hand-painted high-definition textures for a vanilla-plus install
 	- Enable both "00 Core" and "01 Atlas Textures"
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
 	- Download the "kart_facelift_meshes" and "kart_facelift_textures" Main Files
-	- Note: users who prefer the vanilla-resolution textures should still enable the meshes from this section, as they correct many issues with the character faces, and the mod can be considered as an addendum to MOP.
+	- *Note*: users who prefer the vanilla-resolution textures should still enable the meshes from this section, as they correct many issues with the character faces, and the mod can be considered as an addendum to MOP.
 ## Grass
 Performance-friendly groundcover that dramatically improves the look of the environments. Sensible, lightweight, atmospheric change that must be considered an essential visual mod.
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?)
@@ -24,7 +24,6 @@ Performance-friendly groundcover that dramatically improves the look of the envi
 No more flat, overlit interiors: these two mods do all the visual heavy-lifting and dramatically improve the look of the game by tweaking lighting values. Universal compatibility (they work with everything).
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?)
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?)
-	- Post-installation: disable "XE Sky Variations.esp" in your load order (Weather Adjuster supersedes it, and there are small incompatibilities)
 1. [MGG Weather Darker Nights](https://www.nexusmods.com/morrowind/mods/47141?)
 
 ## VFX
@@ -44,7 +43,7 @@ New or enhanced visual effects, including improved flame and particle effects, a
 	- Enable the "00 Core" and "01 MWSE" options
 1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?)
 	- Enable both the "00 Core" and "01 Vanilla Mist Replacer" options
-	- Note: may cause FPS drop at night in the Bitter Coast regions depending on your CPU. Disable the ESP if the performance decrease annoys you (but keep the mod active for the improved mist meshes)
+	- *Note*: may cause FPS drop at night in the Bitter Coast region depending on your CPU. Disable the ESP if the performance decrease annoys you (but keep the mod active for the improved mist meshes)
 1. [MWSE Blood Diversity](https://www.nexusmods.com/morrowind/mods/47913)
 	- Install both the "00 Core" option and the texture version of your choice ("01 vanilla-friendly textures" for vanilla textures; "02 R-zero's textures" for better-looking, bloodier blood)
 	- Open your MO2 profile's .ini in ```Mod Organizer 2\Profiles\[profile name]\Morrowind.ini```

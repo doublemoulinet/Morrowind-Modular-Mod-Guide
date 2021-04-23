@@ -8,6 +8,7 @@ Maintenance release.
 
 **Updated**
 - Revised SETUP and FINISH LINE instructions for new Mod Organizer 2 version. Added some images, etc.
+- updated installation instructions for EXPANDED: [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/47962?)
 - updated: GAMEPLAY: [Realistic Repair – Add-on](https://www.nexusmods.com/morrowind/mods/47461) (new PFP patch)
 
 **Removed**

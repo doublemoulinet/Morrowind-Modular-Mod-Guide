@@ -393,9 +393,12 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 	Faster magic missiles:
 	fTargetSpellMaxSpeed 1200
 	```
+
+### HUD Weapon Charge
+- Fillbar thickness: 7
 ### **Let There Be Darkness**
-- In the General and Cell Settings tab, set Cell Lighting Value Overrides to TLAD
-- Leave the remaining settings at their defaults
+- General and Cell Settings:
+	- Cell Lighting Value Overrides: True Lights and Darkness
 ### **Less Aggressive Creatures**
 - Peaceful Chance: I recommend a value between 50-70% 
 - Peaceful Creatures Whitelist: 

@@ -8,7 +8,7 @@ Core balancing mods for the base game, expansion and endgame content. Don't play
 1. [Beware the Sixth House](https://www.nexusmods.com/morrowind/mods/46036?)
 1. [Bloodmoon Rebalance](https://www.nexusmods.com/morrowind/mods/45714?)
 1. [Ownership Overhaul](https://www.nexusmods.com/morrowind/mods/48051?)
-	- Enable only the ESM plugin. In the right pane (your load order), move the *Ownership Overhaul.esm* below *Patch For Purists.esm*, near the top of your load order
+	- Enable only the ESM plugin (i.e. hide the ESP)
 1. [Tribunal Rebalance](https://www.nexusmods.com/morrowind/mods/45713?)
 
 ## Balance - Misc.
@@ -24,7 +24,7 @@ Light-weight MWSE mods that address some of the remaining balance issues.
 1. [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292?)
 1. [Putting Power in Willpower](https://www.nexusmods.com/morrowind/mods/45742?)
 	- Archive is incorrectly packaged: in the MO2 installer interface, expand the folder, right-click "Data Files" and select "set as data files directory"
-	- Post-installation: disable the "Putting Power in Willpower - Absorbonach.esp" plugin
+	- Post-installation: hide the "Putting Power in Willpower - Absorbonach.esp" plugin
 1. [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248?)
 1. [Smart Merchants](https://www.nexusmods.com/morrowind/mods/47787?)
 1. [Wading in Water MW](https://www.nexusmods.com/morrowind/mods/48783?)
