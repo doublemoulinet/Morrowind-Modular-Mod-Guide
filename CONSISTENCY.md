@@ -13,7 +13,6 @@ Better integrates the expansion content into the base game. *Early Transport to 
 
 ## Restored Content
 Restored or expanded vanilla content, including logic and consistency fixes for quests, trainers, merchants and other services.
-1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?)
 1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?)
 	- Mod archive is incorrectly packaged:
 		- In **001 ESP - Bigger Velothi Temples**, drag and drop the "Bigger Velothi Temples.esp" into the **000 Core Files\Glow in the Darhk\Vanilla\Data Files** folder

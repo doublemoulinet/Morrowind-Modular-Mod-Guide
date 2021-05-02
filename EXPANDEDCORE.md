@@ -77,9 +77,9 @@ These core MWSE mods are a major enhancement to the base game, and should be con
 1. [Graphic Herbalism MWSE](https://www.nexusmods.com/morrowind/mods/46599?)
 	- Download and install the Main File, enabling the following BAIN option:
 		- 00 Core + Vanilla Patches
-	- Download the Optional File "GH Patches and Replacers" and enable the following BAIN option:
+	- Download the Optional File "GH Patches and Replacers" and enable the following BAIN option, merging when prompted:
 		- 10 Atlas - Vanilla BC Mushrooms
-	- Bug fix: download [Graphic Herbalism - Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154?tab=description)
+	- *Bug fix*: download [Graphic Herbalism - Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154?tab=description)
 		- Rename the mod "Graphic Herbalism MWSE" and select "Merge" when prompted
 1. [Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864?)
 1. [Just Drop It](https://www.nexusmods.com/morrowind/mods/49557)
@@ -89,6 +89,7 @@ These core MWSE mods are a major enhancement to the base game, and should be con
 1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?)
 1. [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069?)
 	- Download and install the “MWSE” Main File
+	- In the MO2 installer interface, right-click "Data Files" and click `set as data files directory`
 1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?)
 	- Install *only* the “04 Weapon Sheathing Patch” BAIN option
 	- Rename the mod to "MOP - Weapon Sheathing Patch". Click OK.

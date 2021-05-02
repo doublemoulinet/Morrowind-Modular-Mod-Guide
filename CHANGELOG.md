@@ -1,5 +1,14 @@
 [<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
 
+# 2021-05-02
+
+**Added**
+- added: GAMEPLAY: [Stealth](https://www.nexusmods.com/morrowind/mods/49614)
+
+**Removed**
+- removed: CONSISTENCY: [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?) (great small mod but perhaps belongs in an "additional mods" category somewhere in the guide)
+- removed: GAMEPLAY: [Creeping Blight](https://www.nexusmods.com/morrowind/mods/47904?) (modified functionality now included in [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636))
+
 # 2021-04-22
 Maintenance release.
 

@@ -39,7 +39,7 @@ Additionally, you will need to create a folder to install your mod manager and t
 ## GOG Installation Cleanup
 *Note: this step applies only to users of the GOG edition of Morrowind GOTY. If you're using the Steam version, skip to the next step.*
 
-The GOG edition of Morrowind GOTY bundles several unnecessary files. In addition to uncompressing the BSA archives (which contain all the game's meshes and textures), the GOG edition includes all of Bethesda's Official Plugins. These suck and you don't want to play with them. This guide assumes you will *not* be using the official plugins; play with them at your own peril!
+The GOG edition of Morrowind GOTY bundles several unnecessary files. In addition to bundling loose game files (included already in the compressed BSA format), the GOG edition includes all of Bethesda's Official Plugins. These suck and you don't want to play with them. This guide assumes you will *not* be using the official plugins; play with them at your own peril!
 
 Delete the following files from your ```Morrowind\Data Files``` folder:
 - The **BookArt, Icons, Meshes, Textures** folders
@@ -316,7 +316,7 @@ SSAO Fast
 Underwater Interior Effects
 Underwater Effects
 Sunshafts
-Bloom Fine
+Bloom Soft
 EdgeAA
 Eye Adaptation (HDR)
 deband_fogaware

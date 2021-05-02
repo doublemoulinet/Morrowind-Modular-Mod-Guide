@@ -45,6 +45,7 @@ Lightweight enhancements of existing skills, correcting oversights and making th
 	- Download and install the Optional File, merging when prompted
 		- Hide the **Realistic_Repair_Add-on - PFP Patch.esp**
 1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
+1. [Stealth](https://www.nexusmods.com/morrowind/mods/49614)
 
 ## New Skills
 Restores several skills from previous and later Elder Scrolls titles, including backstabs, climibing, and sneak attacks. Poison Crafting introduces weapon poisoning (plus an essential convenience feature: world-space activation of alchemy apparatus).
@@ -102,12 +103,10 @@ Note: There is a very small performance hit. Depending on your overall performan
 1. [Ashfall](https://www.nexusmods.com/morrowind/mods/49057?tab=description)
 1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247)
 
-## Dynamic Environment Effects
+## Dynamic Environment
 These mods complement the lighting and weather changes from the Visuals section:  light scheduling, dynamic ambient sound, more dynamic weather, and region-specific environmental events.
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?)
 1. [Blight is Coming](https://www.nexusmods.com/morrowind/mods/47649?)
-1. [Creeping Blight](https://www.nexusmods.com/morrowind/mods/47904?)
-	- Download the MWSE Version Main File. Install normally
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178)
 1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?)
 1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?)

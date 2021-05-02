@@ -278,6 +278,8 @@ Most options are disabled when you first open this tab. You need to generate dis
 	- Click **Create Land Meshes**
 - In the **Statics** tab:
 	- Set **Minimum static size** to **150**
+	- Set **Grass density** to **100%**
+		- *Note*: grass density is GPU-intensive. On weaker graphics cards, you may have to reduce this setting.
 	- Set **Mesh detail level** to **Full**
 	- Set **Distant texture reduction** to **1/2**
 	- Tick **all** the right-hand options *except* **include reflective water in interiors**
@@ -394,7 +396,7 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 	fTargetSpellMaxSpeed 1200
 	```
 
-### HUD Weapon Charge
+### **HUD Weapon Charge**
 - Fillbar thickness: 7
 ### **Let There Be Darkness**
 - General and Cell Settings:
