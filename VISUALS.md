@@ -39,6 +39,8 @@ New or enhanced visual effects, including improved flame and particle effects, a
 1. [Heat Haze](https://www.nexusmods.com/morrowind/mods/48973)
 1. [Hopesfire Glow](https://www.nexusmods.com/morrowind/mods/45855?)
 	- Enable only the "Hopesfire Torch (+brighter trueflame).esp
+1. [I Lava a Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
+	- Enable the "00 Core" option
 1. [Keg Drip](https://www.nexusmods.com/morrowind/mods/47903?)
 	- Enable the "00 Core" and "01 MWSE" options
 1. [Mistify](https://www.nexusmods.com/morrowind/mods/48112?)

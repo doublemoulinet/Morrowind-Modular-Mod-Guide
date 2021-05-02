@@ -267,7 +267,7 @@ Most options are disabled when you first open this tab. You need to generate dis
 - On the **Distant Land Setup Wizard**, click **Select all**. These ticked plugins will be used in distant land generation
 	- *Optional step*: If you installed **Remiros' Groundcover** to a separate folder (for example, ```Data Files\Grass Plugins```) you must specify this directory
 		- Select **plugin directories...** and navigate to your grass plugins folder
-		- Selec the folder, click **Add** and then **Save**
+		- Select the folder, click **Add** and then **Save**
 - Click **Continue**. This will open the next window
 - In the **Land Textures** tab:
 	- Set **World texture resolution** to 2048

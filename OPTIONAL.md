@@ -56,6 +56,8 @@ Optionally, you may update the following mods to enable compatibility/integratio
 	> TR grass plugins are optional, as they will decrease performance
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
 	- Download the "kart_fut_TR_PT" Main File and install. Installation order doesn't matter; you may merge, or place the mod underneath, *Facelift* in the **VISUALS** section. Adds high quality textures for TR faces to better fit in with HD texture replacers like IT.
+1. [I Lava a Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
+	- Enable the "00 Core" and "02 Tamriel_Data Patch"
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?) (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) section)
 	- Enable the "00 Core" and "02 Vvardenfell, Morrowind, and Cyrodiil" BAIN options. This replaces the generic TR road signs with vanilla-friendly readable signs.
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?) (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) section)

@@ -3,6 +3,7 @@
 # 2021-05-02
 
 **Added**
+- added: VISUALS: [I Lava a Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
 - added: GAMEPLAY: [Stealth](https://www.nexusmods.com/morrowind/mods/49614)
 
 **Removed**
