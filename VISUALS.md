@@ -2,26 +2,28 @@
  | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section >>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/BALANCE.md)
 
 # Visuals
-Improves the visual fidelity of the game while preserving the original visual design.
+Improves the visual quality of the game while preserving the original  design.
 
 ## Visuals Base
-AI-upscaled and hand-painted high-definition textures for a vanilla-plus installation. 
+High-definition textures and fixed meshes.
+1. [Adjustable Landscape Texture Scale](https://www.nexusmods.com/morrowind/mods/49689)
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?)
 	- Enable both "00 Core" and "01 Atlas Textures"
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
 	- Download the "kart_facelift_meshes" and "kart_facelift_textures" Main Files
-	- *Note*: users who prefer the vanilla-resolution textures should still enable the meshes from this section, as they correct many issues with the character faces, and the mod can be considered as an addendum to MOP.
+> Users who prefer the vanilla-resolution textures should still install **Adjustable Landscape Texture Scale** and the *meshes* from **Facelift**, as the latter corrects many issues with the character faces.
+
 ## Grass
-Performance-friendly groundcover that dramatically improves the look of the environments. Sensible, lightweight, atmospheric change that must be considered an essential visual mod.
+Performance-friendly groundcover that dramatically improves the look of the environments.
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?)
 	- Installation: enable the "00 Core" option
-	- Post-installation: within the mod archive, create a folder named "Grass Plugins"
+	- *Post-installation*: within the mod archive, create a folder named "Grass Plugins"
 		- Place all plugins from *Remiro's Groundcover* in this new folder
 		- You can then specify this as an additional directory in the MGE XE distant land generator, during distant land generation
-	- Note: the plugins will only be enabled during MGE XE's distant land generation, which you will run at the end of the guide in the [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section.
+> Grass plugins will only be enabled during MGE XE's distant land generation, which you will run at the end of the guide in the [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section.
 
 ## Lighting
-No more flat, overlit interiors: these two mods do all the visual heavy-lifting and dramatically improve the look of the game by tweaking lighting values. Universal compatibility (they work with everything).
+No more flat, overlit interiors: these mods dramatically improve the look of the game by tweaking lighting values.
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?)
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?)
 1. [MGG Weather Darker Nights](https://www.nexusmods.com/morrowind/mods/47141?)

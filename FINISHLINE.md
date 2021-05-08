@@ -90,7 +90,7 @@ Patch for Purists - Semi-Purist Fixes.ESP
 TOTSP_Patch_for_Purists_4.0.2.esp
 Lake Fjalding Anti-Suck.esp
 chuzei_helm_no_neck.esp
-Descriptive Shrines.ESP
+No Thank You.esp
 GITD_WL_RR_Interiors.esp
 GITD_Telvanni_Dormers.ESP
 The Dream is the Door.ESP
@@ -359,6 +359,9 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 ### **Accidental Theft Protection**
 - Blacklist: select the "Books" filter and click "filter all" in the right pane (this will allow you to read owned books without toggling sneak first).
 - Select the "Doors" filter and click "filter all" in the right pane (this is largely a preecaution, since Ownership Overhaul should fix all vanilla game door ownership)
+### **Adjustable Landscape Texture Scale**
+- If using vanilla textures: leave at **160%**
+- If using **HD textures**: set to **140%**
 ### **AURA**
 - Main Settings
 	- No: Interior Ambient

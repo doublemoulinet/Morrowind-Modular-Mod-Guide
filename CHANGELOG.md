@@ -1,4 +1,14 @@
 [<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
+# 2021-05-08
+
+**Added**
+- added: EXPANDED CORE: [No Thank You](https://www.nexusmods.com/morrowind/mods/49681)
+- added: VISUALS: [Adjustable Landscape Texture Scale](https://www.nexusmods.com/morrowind/mods/49689)
+- added: GAMEPLAY: [Distraction](https://www.nexusmods.com/morrowind/mods/49680)
+
+**Removed**
+- removed: EXPANDED CORE: [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119) (replaced with No Thank You)
+
 
 # 2021-05-02
 

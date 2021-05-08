@@ -33,11 +33,9 @@ Install this section if you want to play with **Class-Conscious Character Progre
 	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for CCCP.
 
 ## Skill Tweaks
-Lightweight enhancements of existing skills, correcting oversights and making the Alchemy, Armorer, Security, and Speech skills more sensible and functional.
+Lightweight enhancements of existing skills, correcting oversights and making some skills more sensible and functional.
 1. [Alchemical Knowledge](https://www.nexusmods.com/morrowind/mods/49036)
 1. [Locks and Traps Detection](https://www.nexusmods.com/morrowind/mods/48528?)
-1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
-	- Complements, and is intended for use alongside, [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)
 1. [Realistic Repair](https://www.nexusmods.com/morrowind/mods/46673?)
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
 1. [Realistic Repair – Add-on](https://www.nexusmods.com/morrowind/mods/47461)
@@ -45,10 +43,9 @@ Lightweight enhancements of existing skills, correcting oversights and making th
 	- Download and install the Optional File, merging when prompted
 		- Hide the **Realistic_Repair_Add-on - PFP Patch.esp**
 1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
-1. [Stealth](https://www.nexusmods.com/morrowind/mods/49614)
 
 ## New Skills
-Restores several skills from previous and later Elder Scrolls titles, including backstabs, climibing, and sneak attacks. Poison Crafting introduces weapon poisoning (plus an essential convenience feature: world-space activation of alchemy apparatus).
+Restores several skills from previous Elder Scrolls titles (and a few from newer ones), including backstabs, climibing, and sneak attacks.
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
@@ -81,6 +78,13 @@ The Magicka Expanded framework significantly enhances magic use via MWSE. New an
 1. [Miscast Enhanced](https://www.nexusmods.com/morrowind/mods/47948?)
 1. [Customizable MWSE Multi Mark and Limited Recall](https://www.nexusmods.com/morrowind/mods/47065?)
 
+## Stealth Overhaul
+Fixes the worst-implemented mechanics in the game, making thief/stealth characters fun and viable.
+1. [Distraction](https://www.nexusmods.com/morrowind/mods/49680)
+1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
+	- Complements, and is intended for use alongside, [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)
+1. [Stealth](https://www.nexusmods.com/morrowind/mods/49614)
+
 ## Crime, Combat, and Character Tweaks
 Further tweaks to the character creation and crime systems.
 1. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786?)
@@ -95,13 +99,10 @@ Further tweaks to the character creation and crime systems.
 
 ## Survival Mechanics
 Optional module for Merlord's survival and camping mod, *Ashfall*, and a complementary suite of mods. This is easily the most impressive gameplay mod around. It's sleek, easy to use, and really, really fun. 
-
-Where many survival mechanics opt for tedium and punish players (and sometimes I enjoy that!), *Ashfall* is really relaxed. It is also highly customizable through its MCM, allowing you to tweak and disable all its features on the fly. Strongly recommended for returning players.
-
-Note: There is a very small performance hit. Depending on your overall performance, you may not notice.
 1. [Skills Module](https://www.nexusmods.com/morrowind/mods/46034)
 1. [Ashfall](https://www.nexusmods.com/morrowind/mods/49057?tab=description)
 1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247)
+>*Note*: there is a very small performance hit. Depending on your machine, you may not notice.
 
 ## Dynamic Environment
 These mods complement the lighting and weather changes from the Visuals section:  light scheduling, dynamic ambient sound, more dynamic weather, and region-specific environmental events.

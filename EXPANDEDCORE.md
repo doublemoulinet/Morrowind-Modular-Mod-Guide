@@ -4,7 +4,7 @@
 This section expands on the [**Core module**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CORE.md) with must-have MWSE mods: expanded menu and UI, basic convenience tweaks, and core immersion mods.
 
 ## User Interface - Expanded
-Improved main menu, character creation, HUD, and in-game menus. "User Interface Expansion" is essential to any modded playthrough.
+Improved main menu, character creation, HUD, and in-game menus.
 1. [Better Questlist](https://www.nexusmods.com/morrowind/mods/48272?)
 1. [Book Worm](https://www.nexusmods.com/morrowind/mods/46851?)
 1. [Character Creation Name Generator](https://www.nexusmods.com/morrowind/mods/46189?)
@@ -12,10 +12,9 @@ Improved main menu, character creation, HUD, and in-game menus. "User Interface 
 1. [Clock Block](https://www.nexusmods.com/morrowind/mods/46292?)
 1. [Companion Health Bars MWSE Lua](https://www.nexusmods.com/morrowind/mods/46136?)
 1. [Continue](https://www.nexusmods.com/morrowind/mods/45952?)
-1. [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119?)
-	- Download and install Main File "Descriptive Shrines"
 1. [HUD Weapon Charge](https://www.nexusmods.com/morrowind/mods/47962?)
 1. [New Game Confirmation](https://www.nexusmods.com/morrowind/mods/47693?)
+1. [No Thank You](https://www.nexusmods.com/morrowind/mods/49681)
 1. [Ownership Indicator](https://www.nexusmods.com/morrowind/mods/45940?)
 1. [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)
 1. [Randomised Chargen](https://www.nexusmods.com/morrowind/mods/46915?)
@@ -45,7 +44,7 @@ Improved menu navigation and controls.
 1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?)
 
 ## Gameplay Tweaks
-Core convenience mods using MWSE that address gameplay oversights and inconsistencies, or add lightweight features that conform to the stricter vanilla-plus approach of this module.
+ Lightweight convenience features and consistency fixes.
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?)
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?)
 1. [Cover Yourself](https://www.nexusmods.com/morrowind/mods/48016?)
@@ -57,12 +56,13 @@ Core convenience mods using MWSE that address gameplay oversights and inconsiste
 1. [GMST Menu](https://www.nexusmods.com/morrowind/mods/46428)
 1. [Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
 1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
+1. [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094?)
 1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Smarter Soultrap" as the data directory
 	- Name the mod "Smarter Soultrap" and install
 
 ## Immersion Tweaks
-These core MWSE mods are a major enhancement to the base game, and should be considered essential to any modern modded playthrough. 
+These are the ones you don't skip.
 1. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?)
 	- Follow the install prompts and select these options:
 		- Interior Sunrays: Yes
@@ -83,7 +83,6 @@ These core MWSE mods are a major enhancement to the base game, and should be con
 		- Rename the mod "Graphic Herbalism MWSE" and select "Merge" when prompted
 1. [Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864?)
 1. [Just Drop It](https://www.nexusmods.com/morrowind/mods/49557)
-1. [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094?)
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?)
 1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?)
