@@ -1,5 +1,6 @@
 [<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
-# 2021-05-08
+# 2021-05-10
+Update your MGE XE version and uninstall the Shader Land Bias Fix.
 
 **Added**
 - added: EXPANDED CORE: [No Thank You](https://www.nexusmods.com/morrowind/mods/49681)
@@ -7,7 +8,9 @@
 - added: GAMEPLAY: [Distraction](https://www.nexusmods.com/morrowind/mods/49680)
 
 **Removed**
+- removed: SETUP: Shader Land Bias Fix (unneeded with MGE XE 12.0, and causes problems)
 - removed: EXPANDED CORE: [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119) (replaced with No Thank You)
+- removed: VISUALS: [Visually Diseased Creatures](https://mega.nz/file/bgI01bjb#LhkjcX4-PK8gCSJZ2OqfaX5dEkFrmvCTqkO3qFw2iHA) ()
 
 
 # 2021-05-02

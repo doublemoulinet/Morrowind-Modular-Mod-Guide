@@ -5,13 +5,16 @@
 Improves the visual quality of the game while preserving the original  design.
 
 ## Visuals Base
-High-definition textures and fixed meshes.
+Fixed meshes.
 1. [Adjustable Landscape Texture Scale](https://www.nexusmods.com/morrowind/mods/49689)
+1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
+	- Download the "kart_facelift_meshes" Main File, and "olaf_facelift_argonian" Optional File, selecting Merge when prompted
+>*Note*: **Facelift** includes its own AI-upscaled and fixed HD vanilla textures, but this guide recommends **Intelligent Textures**. 
+
+## High Definition Textures
+AI-upscaled and hand-polished vanilla textures.
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?)
 	- Enable both "00 Core" and "01 Atlas Textures"
-1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
-	- Download the "kart_facelift_meshes" and "kart_facelift_textures" Main Files
-> Users who prefer the vanilla-resolution textures should still install **Adjustable Landscape Texture Scale** and the *meshes* from **Facelift**, as the latter corrects many issues with the character faces.
 
 ## Grass
 Performance-friendly groundcover that dramatically improves the look of the environments.
@@ -50,8 +53,8 @@ New or enhanced visual effects, including improved flame and particle effects, a
 	- *Note*: may cause FPS drop at night in the Bitter Coast region depending on your CPU. Disable the ESP if the performance decrease annoys you (but keep the mod active for the improved mist meshes)
 1. [MWSE Blood Diversity](https://www.nexusmods.com/morrowind/mods/47913)
 	- Install both the "00 Core" option and the texture version of your choice ("01 vanilla-friendly textures" for vanilla textures; "02 R-zero's textures" for better-looking, bloodier blood)
-	- Open your MO2 profile's .ini in ```Mod Organizer 2\Profiles\[profile name]\Morrowind.ini```
-	- Replace the [Blood] section with the following:
+	- *Post-installation*: Open your MO2 profile's .ini in ```Mod Organizer 2\Profiles\[profile name]\Morrowind.ini```
+		- Under the "[Blood]" section, ***replace*** the lines with the following:
 		```
 		[Blood]
 		;Model 0=BloodSplat.nif
@@ -120,8 +123,6 @@ Additional fixes to vanilla meshes and textures.
 	- Optional: install [No Translation Tooltips](https://www.nexusmods.com/morrowind/mods/48540?) to remove now-redundant road sign tooltips
 1. [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?)
 1. [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?)
-1. [Visually Diseased Creatures](https://mega.nz/file/bgI01bjb#LhkjcX4-PK8gCSJZ2OqfaX5dEkFrmvCTqkO3qFw2iHA)
-	- By Remiros and Necrolesian, this unofficially released mod makes diseased creatures subtly visually distinct
 1. [Vivec Palace Water Replacer](https://www.nexusmods.com/morrowind/mods/48291?)
 	- Download "Vivec Palace Water Replacer" and enable the "00 Core" and "01 Original Color" options
 

@@ -232,15 +232,14 @@ MO2 will automatically place your new separator at the very bottom of your load 
 The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its other changes, it also supports and comes packaged with the MWSE 2.1 beta, the lua-based script extender. It works out of the box. Like the Morrowind Code Patch, MGE XE must be installed manually.
 
 ### [MGE XE](https://www.nexusmods.com/morrowind/mods/41102?)
-1. Download the **MGE XE Manual Install** Main File
-1. Extract all the contents **except "Data Files"** to your Morrowind root directory
+1. Download the **MGE XE Installer** Main File
+1. Run the **MGE EXE Installer.exe** 
+1. When prompted to select the install location, choose your Morrowind root folder (ex., ```C:\Games\Morrowind``` or ```C:\Steam\steamapps\common\Morrowind Mods```)
+1. After the installation has finished, uncheck the "launch MGE XE" and "open readme" options and click **Finish**
 
-There is one additional step to complete:
-1. In the mod archive, delete the **XE Sky Variations.esp**
-1. Make a .zip/.rar of the remaining files/folders in **Data Files** and name this archive **MGE XE Data Files**
-1. Install manually with MO2
-
-Congratulations: you've just installed your first mod.
+There is one post-installation step to complete:
+1. Navigate to your **Data Files** folder in the Morrowind root folder
+1. Delete the **XE Sky Variations.esp**
 
 ## Updating MWSE
 You need to run the MWSE updater at least once after installing MGEXE. You should also update MWSE regularly, whenever you install or update MWSE mods.
@@ -248,10 +247,11 @@ You need to run the MWSE updater at least once after installing MGEXE. You shoul
 1. The command-line window will automatically close when this process is done
 
 ## Launching MGE XE
-Once the shaders have been installed, launch MGE XE through Mod Organizer:
+Once you've updated MWSE, it's time to launch MGE XE through Mod Organizer:
 1. Launch Mod Organizer 2
 1. From the dropdown menu on the right pane (to the left of the big "Run" button) select **MGE XE**
 1. Click **Run** to run the executable
+>*Note*: Remember, you must always launch tools like MGE XE from within Mod Organizer 2.
 
 # Configuring MGE XE
 MGE XE consists of five tabs with configurable options: Graphics, Distant Land, In-Game, Config, and Instructions. There are a number of MGE XE options to enable now.
@@ -293,14 +293,12 @@ The default MGE XE shaders are excellent, and this guide sticks with them. That 
 
 ## Installing Shaders in MO2
 Download the following MGE XE shaders. Install these manually with MO2:
-#### [MGE XE Land Bias Fix](https://mega.nz/file/ft5hUJ5L#-5Y533Rtwy2uX5moycm4pQjEDXClyFGl78XMDvfVzME) 
-- A small tweak to the distant land height bias to reduce clipping/seams
 #### [MGE XE Shader - deband_fogaware](https://mega.nz/file/W8x3RTCK#w94LPJSeym5h82KUOg8SbkIoS8M7E-9Xm2Lar0gjqXw) 
 - An improved fog shader
 #### [MGE XE Shader - EdgeAA](https://mega.nz/file/HwxVXbQY#eSxnVWTbC165OC1EyC-P9IahvH05We88pyba-fy2ePI) 
 - Improved anti-aliasing, to be used with MGE XE's AA settings
 
-Place these 3 new mods under the **MGE XE** separator in your install order, directly beneath the **MGE XE Data Files** mod you created earlier.
+Place these 2 new mods under the **MGE XE** separator in your install order.
 
 ## Configuring Shaders in MGE XE
 Now that the shaders have been installed in Mod Organizer 2, they can be enabled in MGE XE.

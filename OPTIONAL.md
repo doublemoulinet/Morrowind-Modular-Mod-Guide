@@ -51,9 +51,8 @@ The following steps will ensure compatibility between the new landmass mods and 
 ## Additional Compatibility
 Optionally, you may update the following mods to enable compatibility/integration with Tamriel Rebuilt:
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?) (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) section)
-	- Hide **Rem_Solstheim.esp**
-	- *Optional*: Enable the "01 TR Plugins" BAIN option
-	> TR grass plugins are optional, as they will decrease performance
+	- Enable the "01 TR Plugins" BAIN option
+	- *Post-installation*: Hide **Rem_Solstheim.esp**	
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
 	- Download the "kart_fut_TR_PT" Main File and install. Installation order doesn't matter; you may merge, or place the mod underneath, *Facelift* in the **VISUALS** section. Adds high quality textures for TR faces to better fit in with HD texture replacers like IT.
 1. [I Lava a Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
