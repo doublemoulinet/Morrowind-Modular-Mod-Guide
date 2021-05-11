@@ -232,14 +232,16 @@ MO2 will automatically place your new separator at the very bottom of your load 
 The Morrowind Graphics Extender (MGE XE) is another essential fix. Among its other changes, it also supports and comes packaged with the MWSE 2.1 beta, the lua-based script extender. It works out of the box. Like the Morrowind Code Patch, MGE XE must be installed manually.
 
 ### [MGE XE](https://www.nexusmods.com/morrowind/mods/41102?)
-1. Download the **MGE XE Installer** Main File
-1. Run the **MGE EXE Installer.exe** 
-1. When prompted to select the install location, choose your Morrowind root folder (ex., ```C:\Games\Morrowind``` or ```C:\Steam\steamapps\common\Morrowind Mods```)
-1. After the installation has finished, uncheck the "launch MGE XE" and "open readme" options and click **Finish**
+1. Download the **MGE XE Manual Install** Main File
+1. Extract all the contents **except Data Files** to your Morrowind root directory (ex., ```C:\Games\Morrowind``` or ```C:\Steam\steamapps\common\Morrowind Mods```)
 
-There is one post-installation step to complete:
-1. Navigate to your **Data Files** folder in the Morrowind root folder
+There is one additional step to complete:
+1. In the **MGE XE Manual Install** archive, navigate to **Data Files**
 1. Delete the **XE Sky Variations.esp**
+1. Make a .7z/.rar of the remaining files/folders in **Data Files** and name this archive **MGE XE Data Files**
+1. Install manually with MO2
+
+Congratulations, you've just installed your first mod.
 
 ## Updating MWSE
 You need to run the MWSE updater at least once after installing MGEXE. You should also update MWSE regularly, whenever you install or update MWSE mods.
