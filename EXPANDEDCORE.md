@@ -83,6 +83,7 @@ These are the ones you don't skip.
 		- Rename the mod "Graphic Herbalism MWSE" and select "Merge" when prompted
 1. [Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864?)
 1. [Just Drop It](https://www.nexusmods.com/morrowind/mods/49557)
+1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?)
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
 1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?)
 1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?)

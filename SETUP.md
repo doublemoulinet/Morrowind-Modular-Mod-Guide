@@ -291,7 +291,7 @@ Under **Morrowind engine settings**, tick the following:
 The **Distant Land** tab will be handled in the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section at the end of this guide.
 
 # Shaders
-The default MGE XE shaders are excellent, and this guide sticks with them. That said, there are a few tweaks we can enable to improve them. Note that shaders are, along with distant land, the most performance-intensive parts of the game. The shaders and settings I recommend look great 
+The default MGE XE shaders are excellent, and this guide sticks with them. That said, there are a few tweaks we can enable to improve them. Note that shaders are, along with distant land, the most performance-intensive parts of the game. The shaders and settings I recommend look great without impacting performance.
 
 ## Installing Shaders in MO2
 Download the following MGE XE shaders. Install these manually with MO2:

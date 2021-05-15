@@ -4,12 +4,12 @@
 Addresses the various lore and logic inconsistencies with the game, and can be considered the "vanilla-plus" content section of the guide.
 
 ## Expansion Integrations
-Better integrates the expansion content into the base game. *Early Transport to Mournhold* complements *Expansion Delay*'s changes to the Tribunal quest hook. 
->**Expansion Delay** is as close to essential as a mod can get. Don't skip it.
+Better integrates the expansion content into the base game.
 1. [Early Transport to Mournhold](https://www.nexusmods.com/morrowind/mods/47985)
 1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?)
 1. [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/49232)
 	- Download the "Expansions Integrated (Sigourn Edit)" Main File
+>**Expansion Delay** is as close to essential as a mod can get. Don't skip it.
 
 ## Restored Content
 Restored or expanded vanilla content, including logic and consistency fixes for quests, trainers, merchants and other services.
@@ -37,7 +37,7 @@ Restored or expanded vanilla content, including logic and consistency fixes for 
 	- Download and install the Main File "Yet Another Guard Diversity - Regular"
 
 ## Dialogue
-New and enhanced dialogue that greatly expands the variety and flavour of NPC conversation. Some logic/consistency fixes, and new and restored voiced greetings.
+New and enhanced dialogue that addresses logic/consistency fixes, including restored voiced greetings.
 1. [FMI - Hospitality Papers Expanded](https://www.nexusmods.com/morrowind/mods/46107?)
 1. [FMI - Nice to Meet You](https://www.nexusmods.com/morrowind/mods/47329?)
 1. [FMI - NotAllDunmer](https://www.nexusmods.com/morrowind/mods/47569?)
@@ -52,7 +52,7 @@ New and enhanced dialogue that greatly expands the variety and flavour of NPC co
 1. [What Thieves Guild](https://www.nexusmods.com/morrowind/mods/47728?)
 
 ## Audio
-Restored and fixed audio files, a new immersive sound effect, and some quality-of-life changes to frequently encountered SFX.
+Restored and fixed audio and sound effects.
 1. [FMBP - Michael, Michael, Michael](https://www.nexusmods.com/morrowind/mods/48598?)
 1. [Haunted Barrows](https://www.nexusmods.com/morrowind/mods/46826?)
 	- Enable the following BAIN options:
@@ -61,9 +61,6 @@ Restored and fixed audio files, a new immersive sound effect, and some quality-o
 1. [Outdoor Banners with Sound](https://www.nexusmods.com/morrowind/mods/47068?)
 	- Download and install Main File "Outdoor Banners with Sound"
 1. [Shut the Fuck Up Cliffracers](https://www.nexusmods.com/morrowind/mods/46588?)
-1. [Sounds of Souls](https://github.com/NullCascade/morrowind-mods)
-	- In the MO2 installation interface, set "Sounds of Souls" as the data directory
-	- Name the mod "Sounds of Souls" and install
 
 
 **NEXT SECTION**:

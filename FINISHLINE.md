@@ -371,6 +371,11 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 	- No: Enable PC Module
 ### **Book Pickup**
 - On by default? = No (use shift + e to pickup books without reading them)
+### **Character Sound Overhaul**
+- Movement Settings Tab
+	- Enable Alternative Armor Weight Mechanic: ON
+- Misc Sound Settings Tab
+	- Enable Vanilla Thumps: ON
 ### **Clock Block**
 - Clock position=Bottom
 - Clock type = Game time

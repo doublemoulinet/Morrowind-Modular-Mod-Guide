@@ -1,36 +1,23 @@
 [<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section >>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONTENT.md)
 
 # Gameplay - Expanded
-The good stuff. This module introduces the majority of the gameplay mechanics and new features that cannot strictly be considered fixes or balance changes.
+The good stuff. This module introduces the majority of the new and improved gameplay mechanics and features.
 
 ## Player Levelling
-Morrowind's levelling system shows its age. Because of how it handles skill-ups and attribute modifiers, Morrowind encourages micromanagement and powergaming, which is uNiMmERsiVE and BAD. There are several recent lua-based levelling overhauls that make skill increases/levelling much less intrusive.
-
-Choose and **install only ONE** of the following levelling mod sections. If this is your first time with Morrowind, I recommend playing with **Improved Vanilla Levelling** (it most closely resembles the original game's system).
-
-### Improved Vanilla
-Install this section if you want to play with **Improved Vanilla**, which does as the name suggests: it cuts out the micromanagement and irons out kinks in the game's levelling system.
+Irons out kinks and reduces metagaming in the player levelling system.
 1. [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065?)
 1. [Class Skill Limit](https://www.nexusmods.com/morrowind/mods/48989)
 1. [Magicka Based Skill Progression](https://www.nexusmods.com/morrowind/mods/48330?)
 1. [MWSE Magicka Regen](https://www.nexusmods.com/morrowind/mods/48129?)
+1. [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?)
+	- Enable only the "Personal Effects_MWSE.ESP"
 1. [Proportional Progression](https://github.com/NullCascade/morrowind-mods)
 	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
 	- In MO2, set Proportional Progression as your data directory and install
 1. [Proportional Progression config file](https://mega.nz/file/65IDlIyD#TNWRaOH9-PAilPD1NGH1hCxZzYUoL2OWGrMVstVA1Bk)
 	- Enable only "01 - Improved Vanilla"
 	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for **Improved Vanilla levelling** and **Class Skill Limit**.
-	- This config adjusts skill gain speed per skill (slower magic, extremely slow athletics and acrobatics, slightly faster armorer and security skill gain); level specific (at low levels characters level skills faster, and then gradually slower as they level up); and skill-level specific (low-level skills level up faster, but rates slow down until the variable cap from Class Skill Limit).
-
-### Class-Conscious Character Progression (section is WIP)
-Install this section if you want to play with **Class-Conscious Character Progression (CCCP)**. **CCCP** makes major changes to the game's levelling system, which I won't summarize here. Basically it is very, very good:
-1. [Class-Conscious Character Progression](https://www.nexusmods.com/morrowind/mods/48110?)
-1. [Magicka Based Skill Progression](https://www.nexusmods.com/morrowind/mods/48330?)
-1. [Proportional Progression](https://github.com/NullCascade/morrowind-mods)
-	- Click “Clone or download” the zip of all NullCascade’s Morrowind mods
-	- In MO2, set Proportional Progression as your data directory and install
-1. [Proportional Progression config file](In progress!)
-	- This custom config file enables the levelling scaling of Proportional Progression. Tweaked for CCCP.
+>The **Proportional Progression** configuration slows player levelling and adjusts skill-rate increases for most skills.
 
 ## Skill Tweaks
 Lightweight enhancements of existing skills, correcting oversights and making some skills more sensible and functional.
@@ -85,16 +72,14 @@ Fixes the worst-implemented mechanics in the game, making thief/stealth characte
 	- Complements, and is intended for use alongside, [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)
 1. [Stealth](https://www.nexusmods.com/morrowind/mods/49614)
 
-## Crime, Combat, and Character Tweaks
-Further tweaks to the character creation and crime systems.
+## Crime Tweaks
+Further tweaks to the crime systems.
 1. [Clear Your Name](https://www.nexusmods.com/morrowind/mods/43786?)
 1. [The Last Witness](https://github.com/NullCascade/morrowind-mods)
 	- Download the zip of all NullCascade’s Morrowind mods
 	- In MO2, set The Last Witness as your data directory and install
 1. [The Law is Sacred](https://www.nexusmods.com/morrowind/mods/48130?)
 	- ESP is optional (it changes a dialogue line to reflect guards' new non-lethal arrest tactics); you can leave it disabled
-1. [Personal Effects](https://www.nexusmods.com/morrowind/mods/45338?)
-	- Enable only the "Personal Effects_MWSE.ESP"
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?)
 
 ## Survival Mechanics
@@ -104,17 +89,14 @@ Optional module for Merlord's survival and camping mod, *Ashfall*, and a complem
 1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247)
 >*Note*: there is a very small performance hit. Depending on your machine, you may not notice.
 
-## Dynamic Environment
-These mods complement the lighting and weather changes from the Visuals section:  light scheduling, dynamic ambient sound, more dynamic weather, and region-specific environmental events.
+## Sound Overhaul
+Dynamic ambient sound, footsteps, and more.
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?)
-1. [Blight is Coming](https://www.nexusmods.com/morrowind/mods/47649?)
+1. [Character Sound Overhaul](https://www.nexusmods.com/morrowind/mods/49654)
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178)
-1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?)
-1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?)
-	- Earthquakes occur too frequently with default settings:
-		- When in-game, open the console (~) and type: ```set fQuakeChance to 10```
-1. [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636)
-	- Enable: "00 Lua core" and "02 Weather Adjuster Replacer"
+1. [Sounds of Souls](https://github.com/NullCascade/morrowind-mods)
+	- In the MO2 installation interface, set "Sounds of Souls" as the data directory
+	- Name the mod "Sounds of Souls" and install
 	
 
 **NEXT SECTION**:

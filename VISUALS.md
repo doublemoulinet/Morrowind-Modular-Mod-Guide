@@ -25,11 +25,13 @@ Performance-friendly groundcover that dramatically improves the look of the envi
 		- You can then specify this as an additional directory in the MGE XE distant land generator, during distant land generation
 > Grass plugins will only be enabled during MGE XE's distant land generation, which you will run at the end of the guide in the [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section.
 
-## Lighting
+## Lighting and Weather
 No more flat, overlit interiors: these mods dramatically improve the look of the game by tweaking lighting values.
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?)
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?)
 1. [MGG Weather Darker Nights](https://www.nexusmods.com/morrowind/mods/47141?)
+1. [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636)
+	- Enable: "00 Lua core" and "02 Weather Adjuster Replacer"
 
 ## VFX
 New or enhanced visual effects, including improved flame and particle effects, and other subtle improvements. "Assetless No Glow" and "Enhanced Flames" actually improve performance.
@@ -93,6 +95,7 @@ New or enhanced visual effects, including improved flame and particle effects, a
 		```
 1. [Perfectly Proficient Parasol Particles Performance Patch](https://www.nexusmods.com/morrowind/mods/48923)
 	- Enable  "00 Project Atlas" only
+1. [Shattered Stones - An Earthquake Mod](https://www.nexusmods.com/morrowind/mods/45105?)
 1. [Subtle Smoke](https://www.nexusmods.com/morrowind/mods/47341?)
 1. [Unto Dust](https://www.nexusmods.com/morrowind/mods/48435?)
 	- Enable both "00 Core" and "01 Default Dust"

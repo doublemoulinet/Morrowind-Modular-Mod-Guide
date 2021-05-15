@@ -1,4 +1,15 @@
 [<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
+
+# 2021-05-15
+Character Sound Overhaul public release update.
+
+**Added**
+- added: GAMEPLAY: [Character Sound Overhaul](https://www.nexusmods.com/morrowind/mods/49654)
+
+**Removed** 
+- removed: GAMEPLAY: [Blight is Coming](https://www.nexusmods.com/morrowind/mods/47649?)
+- removed: GAMEPLAY: CCCP section (still haven't fully tested)
+
 # 2021-05-10
 Update your MGE XE version and uninstall the Shader Land Bias Fix.
 
