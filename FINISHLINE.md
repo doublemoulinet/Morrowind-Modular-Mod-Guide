@@ -305,13 +305,41 @@ The advantage of this step is that you can easily toggle between different mod p
 >Any time you regenerate your distant land it will automatically update and replace the files in the "Distant Land - Modular" mod, assuming you leave it enabled in the left-pane. This means you will only have to perform this step *once*! 
 
 # Shaders
-Remember to set up the mod-added shaders and enable them in the MGE XE shader tool. (If the following shaders don't appear in your shader list, that just means you didn't install the respective mods, and these instructions can be ignored):
-- invisibility (from **Enhanced Invisibility** in **GAMEPLAY**)
-- r0_qk_shader (from **Shattered Stones - an Earthquake Mod** in **GAMEPLAY**)
-- warp (from **Expedition to Mzelthuand** in **CONTENT**)
-- heathaze (from **Heat Haze** in **VISUALS**)
+The default MGE XE shaders are excellent, and this guide sticks with them. That said, there are a few tweaks we can enable to improve them. Note that shaders are, along with distant land, the most performance-intensive parts of the game. The shaders and settings I recommend look great without impacting performance.
 
-Add them to the bottom of the list of active shaders in MGE XE.
+## Installing Shaders in MO2
+Download the following MGE XE shaders. Install these manually with MO2:
+#### [MGE XE Shader - deband_fogaware](https://mega.nz/file/W8x3RTCK#w94LPJSeym5h82KUOg8SbkIoS8M7E-9Xm2Lar0gjqXw) 
+- An improved fog shader
+#### [MGE XE Shader - EdgeAA](https://mega.nz/file/HwxVXbQY#eSxnVWTbC165OC1EyC-P9IahvH05We88pyba-fy2ePI) 
+- Improved anti-aliasing, to be used with MGE XE's AA settings
+
+Place these 2 new mods under the **MGE XE** separator in your install order.
+
+## Configuring Shaders in MGE XE
+Now that the shaders have been installed in Mod Organizer 2, they can be enabled in MGE XE.
+
+### Graphics Tab
+- Under **Renderer**, ensure that **Enable shaders** is ticked
+- Click the **Shader setup...** button
+- On the popup menu **Set active shaders**, click **Modding >>>**
+	- Double-clicking on the shaders under **Available shaders** transfers them to the **Active shaders** list, meaning the game will use them
+- Set up your **Active shaders** chain as follows:
+	```
+	SSAO Fast
+	Underwater Interior Effects
+	Underwater Effects
+	Sunshafts
+	Bloom Soft
+	EdgeAA
+	Eye Adaptation (HDR)
+	deband_fogaware
+	invisibility -- (from **Enhanced Invisibility**)
+	r0_qk_shader -- (from **Shattered Stones**)
+	warp -- (from **Expedition to Mzelthuand**)
+	heathaze -- (from **Heat Haze**)
+	```
+- Click **Save** after setting up your shader chain and exit MGE XE
 
 # In-game Settings
 The final step. Nearly there...
@@ -449,6 +477,11 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 ### **Magicka Regen**
 - Set the player value to 50%
 - Enable Magicka Decay: On
+### **Mantle of Ascension - A Climbing Mod**
+- Train Acrobatics: NO
+- Train Athetlics: NO
+- Train Climbing: YES (requires **Skills Module**)
+- Disable Third Person: NO
 ### **Miscast Enhanced**
 - Ensure "Debug Mode" is disabled
 ### **Multi Mark & Harder Recall**

@@ -29,6 +29,7 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 	- Enable the following BAIN options:
 		- 00 - Main Files
 		- 01 - Main ESP - English
+		- 03 - Optional - Glow in the Dahrk Patch
 1. [Better Redoran Architecture](https://www.nexusmods.com/morrowind/mods/43266?)
 	- Download and install Main File "RR - Better Redoran Architecture v.1.2.2"
 	- Enable only the following BAIN option:

@@ -3,6 +3,10 @@
 # Gameplay - Expanded
 The good stuff. This module introduces the majority of the new and improved gameplay mechanics and features.
 
+## Frameworks
+Framework package used by multiple mods. Required.
+1. [Skills Module](https://www.nexusmods.com/morrowind/mods/46034)
+
 ## Player Levelling
 Irons out kinks and reduces metagaming in the player levelling system.
 1. [Improved Vanilla Leveling](https://www.nexusmods.com/morrowind/mods/48065?)
@@ -32,12 +36,13 @@ Lightweight enhancements of existing skills, correcting oversights and making so
 1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
 
 ## New Skills
-Restores several skills from previous Elder Scrolls titles (and a few from newer ones), including backstabs, climibing, and sneak attacks.
+Restores several skills from previous Elder Scrolls titles (and a few from newer ones), including backstabs, climbing, and sneak attacks.
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
 	- Disable the "MWSE" folder
 1. [Poison Redux-ion](https://www.nexusmods.com/morrowind/mods/48948)
+1. [Mantle of Ascension](https://www.nexusmods.com/morrowind/mods/49870)
 1. [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
 
 ## Expanded Magic
@@ -70,7 +75,7 @@ Fixes the worst-implemented mechanics in the game, making thief/stealth characte
 1. [Distraction](https://www.nexusmods.com/morrowind/mods/49680)
 1. [Pickpocket](https://www.nexusmods.com/morrowind/mods/47581?)
 	- Complements, and is intended for use alongside, [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)
-1. [Stealth](https://www.nexusmods.com/morrowind/mods/49614)
+1. [Stealth Improved](https://www.nexusmods.com/morrowind/mods/49614)
 
 ## Crime Tweaks
 Further tweaks to the crime systems.
@@ -84,7 +89,6 @@ Further tweaks to the crime systems.
 
 ## Survival Mechanics
 Optional module for Merlord's survival and camping mod, *Ashfall*, and a complementary suite of mods. This is easily the most impressive gameplay mod around. It's sleek, easy to use, and really, really fun. 
-1. [Skills Module](https://www.nexusmods.com/morrowind/mods/46034)
 1. [Ashfall](https://www.nexusmods.com/morrowind/mods/49057?tab=description)
 1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247)
 >*Note*: there is a very small performance hit. Depending on your machine, you may not notice.

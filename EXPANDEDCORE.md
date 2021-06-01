@@ -44,7 +44,7 @@ Improved menu navigation and controls.
 1. [Torch Hotkey](https://www.nexusmods.com/morrowind/mods/45747?)
 
 ## Gameplay Tweaks
- Lightweight convenience features and consistency fixes.
+ Convenience features and consistency fixes.
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?)
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?)
 1. [Cover Yourself](https://www.nexusmods.com/morrowind/mods/48016?)
@@ -54,26 +54,6 @@ Improved menu navigation and controls.
 	- In the MO2 installation interface, set "Drop Light" as the data directory
 	- Name the mod "Drop Light" and install
 1. [GMST Menu](https://www.nexusmods.com/morrowind/mods/46428)
-1. [Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
-1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
-1. [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094?)
-1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)
-	- In the MO2 installation interface, set "Smarter Soultrap" as the data directory
-	- Name the mod "Smarter Soultrap" and install
-
-## Immersion Tweaks
-These are the ones you don't skip.
-1. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?)
-	- Follow the install prompts and select these options:
-		- Interior Sunrays: Yes
-		- Nord Glass Windows: (leave unticked)
-		- Raven Rock Glass Windows: Yes
-		- Dark Molag Mar: (leave unticked)
-		- Optional files: tick only "include Tel Uvirith"
-1. [Project Atlas - Glow in the Dahrk Patch](https://www.nexusmods.com/morrowind/mods/45399?)
-	- Download the main file install *only* the following BAIN option:
-		- 10 Glow in the Dahrk Patch - Interior Sunrays
-	- Rename the mod to "Project Atlas - Glow in the Dahrk Patch". Click OK.
 1. [Graphic Herbalism MWSE](https://www.nexusmods.com/morrowind/mods/46599?)
 	- Download and install the Main File, enabling the following BAIN option:
 		- 00 Core + Vanilla Patches
@@ -82,17 +62,14 @@ These are the ones you don't skip.
 	- *Bug fix*: download [Graphic Herbalism - Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154?tab=description)
 		- Rename the mod "Graphic Herbalism MWSE" and select "Merge" when prompted
 1. [Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864?)
+1. [Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
 1. [Just Drop It](https://www.nexusmods.com/morrowind/mods/49557)
-1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?)
+1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
+1. [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094?)
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
-1. [Pincushion](https://www.nexusmods.com/morrowind/mods/46862?)
-1. [Vanity](https://www.nexusmods.com/morrowind/mods/48529?)
-1. [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069?)
-	- Download and install the “MWSE” Main File
-	- In the MO2 installer interface, right-click "Data Files" and click `set as data files directory`
-1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?)
-	- Install *only* the “04 Weapon Sheathing Patch” BAIN option
-	- Rename the mod to "MOP - Weapon Sheathing Patch". Click OK.
+1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)
+	- In the MO2 installation interface, set "Smarter Soultrap" as the data directory
+	- Name the mod "Smarter Soultrap" and install
 
 **NEXT SECTION**:
 [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md)

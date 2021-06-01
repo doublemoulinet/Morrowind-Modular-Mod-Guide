@@ -1,5 +1,19 @@
 [<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
 
+# 2021-06-01
+
+**Added**
+- added: VISUALS: [Elemental Effects](https://www.nexusmods.com/morrowind/mods/49799)
+- added: BALANCE: [Fortify MAX](https://www.nexusmods.com/morrowind/mods/49825)
+- added: GAMEPLAY: [Mantle of Ascension](https://www.nexusmods.com/morrowind/mods/49870)
+
+**Removed**
+- removed: [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?), [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?) (both are great and I recommend them, but they exceed the scope of the visuals section, i.e. fixed meshes)
+
+**Updated**
+- 
+- moved Shader setup to FINISH LINE
+
 # 2021-05-15
 Character Sound Overhaul public release update.
 
@@ -21,14 +35,14 @@ Update your MGE XE version and uninstall the Shader Land Bias Fix.
 **Removed**
 - removed: SETUP: Shader Land Bias Fix (unneeded with MGE XE 12.0, and causes problems)
 - removed: EXPANDED CORE: [Descriptive Shrines](https://www.nexusmods.com/morrowind/mods/46119) (replaced with No Thank You)
-- removed: VISUALS: [Visually Diseased Creatures](https://mega.nz/file/bgI01bjb#LhkjcX4-PK8gCSJZ2OqfaX5dEkFrmvCTqkO3qFw2iHA) ()
+- removed: VISUALS: [Visually Diseased Creatures](https://mega.nz/file/bgI01bjb#LhkjcX4-PK8gCSJZ2OqfaX5dEkFrmvCTqkO3qFw2iHA) (will be replaced with The Blight, after testing)
 
 
 # 2021-05-02
 
 **Added**
 - added: VISUALS: [I Lava a Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
-- added: GAMEPLAY: [Stealth](https://www.nexusmods.com/morrowind/mods/49614)
+- added: GAMEPLAY: [Stealth Improved](https://www.nexusmods.com/morrowind/mods/49614)
 
 **Removed**
 - removed: CONSISTENCY: [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?) (great small mod but perhaps belongs in an "additional mods" category somewhere in the guide)

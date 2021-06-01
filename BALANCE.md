@@ -1,7 +1,7 @@
 [<< Previous section](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) | [Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide) | [Next section >>](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/CONSISTENCY.md)
 
 # Gameplay - Balance
-Addresses many of the most glaring balance issues and exploits in the game, improving the existing game design and making the game more fun.
+Addresses many of the most glaring balance issues and exploits in the game.
 
 ## Balance - Core
 Core balancing mods for the base game, expansion and endgame content. Don't play without them.
@@ -21,6 +21,7 @@ Light-weight MWSE mods that address some of the remaining balance issues.
 	- Name the mod "Dynamic Difficulty" and install
 1. [Enchant Capacity Rebalance](https://www.nexusmods.com/morrowind/mods/48742?)
 	- Enable the MWSE version (not the plugin version)
+1. [Fortify MAX](https://www.nexusmods.com/morrowind/mods/49825)
 1. [Less Aggressive Creatures](https://www.nexusmods.com/morrowind/mods/48292?)
 1. [Putting Power in Willpower](https://www.nexusmods.com/morrowind/mods/45742?)
 	- Archive is incorrectly packaged: in the MO2 installer interface, expand the folder, right-click "Data Files" and select "set as data files directory"

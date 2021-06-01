@@ -13,7 +13,6 @@
 	- [Installing Mods with MO2](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#installing-mods-with-mo2)
 1. [MGE XE](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#MGE-XE)
 	- [Configuring MGE XE](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#configuring-mge-xe)
-	- [Shaders](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#shaders)
 1. [Tools](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#tools)
 	- [Tools Setup](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/SETUP.md#tools-setup)
 
@@ -29,17 +28,33 @@ Before starting this guide, make sure you have:
 
 # Installation
 Install Morrowind and all modding tools to a root directory, outside the default Windows folders. For example: 
-- **For your Morrowind installation**: ```C:\Steam\steamapps\common\Morrowind``` or ```C:\Games\Morrowind```
+- **For your Morrowind installation**:
+	```
+	C:\Steam\steamapps\common\Morrowind
+	``` 
+	Or
+	
+	```
+	C:\Games\Morrowind
+	```
 
 Additionally, you will need to create a folder to install your mod manager and tools. For example:
-- **For your Morrowind tools**: ```C:\Steam\steamapps\common\Morrowind Mods``` or ```C:\Games\Morrowind Mods```
+- **For your Morrowind tools**:
+	```
+	C:\Steam\steamapps\common\Morrowind Mods
+	``` 
+	Or
+
+	```
+	C:\Games\Morrowind Mods
+	```
 
 >Installing in Program Files, Program Files (x86), or any other default Windows folder (ex. Desktop, Documents) is not recommended because Windows UAC monitors these folders and will create issues with the modding tools.
 
 ## GOG Installation Cleanup
 *Note: this step applies only to users of the GOG edition of Morrowind GOTY. If you're using the Steam version, skip to the next step.*
 
-The GOG edition of Morrowind GOTY bundles several unnecessary files. In addition to bundling loose game files (included already in the compressed BSA format), the GOG edition includes all of Bethesda's Official Plugins. These suck and you don't want to play with them. This guide assumes you will *not* be using the official plugins; play with them at your own peril!
+The GOG edition of Morrowind GOTY bundles several unnecessary files. In addition to bundling loose game files that result in slower load times (files already included in the compressed BSAs), the GOG edition includes all of Bethesda's Official Plugins. These suck and you don't want to play with them; cleaned and patched versions are available on the Nexus. This guide assumes you will *not* be using the official plugins; play with them at your own peril!
 
 Delete the following files from your ```Morrowind\Data Files``` folder:
 - The **BookArt, Icons, Meshes, Textures** folders
@@ -288,42 +303,7 @@ Under **Morrowind engine settings**, tick the following:
 - Thread loading
 - Hit fader
 
-The **Distant Land** tab will be handled in the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section at the end of this guide.
-
-# Shaders
-The default MGE XE shaders are excellent, and this guide sticks with them. That said, there are a few tweaks we can enable to improve them. Note that shaders are, along with distant land, the most performance-intensive parts of the game. The shaders and settings I recommend look great without impacting performance.
-
-## Installing Shaders in MO2
-Download the following MGE XE shaders. Install these manually with MO2:
-#### [MGE XE Shader - deband_fogaware](https://mega.nz/file/W8x3RTCK#w94LPJSeym5h82KUOg8SbkIoS8M7E-9Xm2Lar0gjqXw) 
-- An improved fog shader
-#### [MGE XE Shader - EdgeAA](https://mega.nz/file/HwxVXbQY#eSxnVWTbC165OC1EyC-P9IahvH05We88pyba-fy2ePI) 
-- Improved anti-aliasing, to be used with MGE XE's AA settings
-
-Place these 2 new mods under the **MGE XE** separator in your install order.
-
-## Configuring Shaders in MGE XE
-Now that the shaders have been installed in Mod Organizer 2, they can be enabled in MGE XE.
-
-### Graphics Tab
-- Under **Renderer**, ensure that **Enable shaders** is ticked
-- Click the **Shader setup...** button
-- On the popup menu **Set active shaders**, click **Modding >>>**
-	- Double-clicking on the shaders under **Available shaders** transfers them to the **Active shaders** list, meaning the game will use them
-- Set up your **Active shaders** chain as follows:
-```
-SSAO Fast
-Underwater Interior Effects
-Underwater Effects
-Sunshafts
-Bloom Soft
-EdgeAA
-Eye Adaptation (HDR)
-deband_fogaware
-```
-- Click **Save** after setting up your shader chain and exit MGE XE
-
->Note that you will have to repeat this step at the end of the mod guide if you install any mod-added shaders!
+The **Shaders** and **Distant Land** tab will be handled in the [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section at the end of this guide.
 
 # Tools
 These modding tools will be used for several key steps in this guide: mod cleaning, merged patch creation, and plugin editing/fixing. These are required.
