@@ -292,6 +292,8 @@ Generally, you should regenerate your distant land any time you install or unins
 
 After MGE XE has generated distant land, you will be returned to the **Distant Land** tab from earlier. Now, all the previously unavailable options can be set up. Follow the settings as suggested in the screenshot above. You may wish to tinker with them later. These recommended settings cleave to the game's original foggy aesthetic and keep performance costs to a minimum.
 
+>**Warning**: If you **did not** follow the recommendations of this guide and place your grass plugins in a separate folder (ex., ```Data Files/Grass Plugins```), you **MUST** remember to untick the plugins from your mod manager's load order before playing the game. Failure to do so will create numerous errors, including object collision on all generated grass.
+
 ### **Optional step: creating a distantland mod folder**
 You may optionally move your newly-generated Distant Land files from their default location in the Mod Organizer 2 "Overwrite" folder:
 1. Exit MGE XE and return to the MO2 interface
@@ -302,7 +304,7 @@ You may optionally move your newly-generated Distant Land files from their defau
 
 The advantage of this step is that you can easily toggle between different mod profiles without regenerating distantland each time. Simply repeat distantland generation for your other profiles.
 
->Any time you regenerate your distant land it will automatically update and replace the files in the "Distant Land - Modular" mod, assuming you leave it enabled in the left-pane. This means you will only have to perform this step *once*! 
+>Any time you regenerate your distant land it will automatically update and replace the files in the "Distant Land - Modular" mod, assuming you leave it enabled in the left-pane. This means you will only have to perform this step *once*!
 
 # Shaders
 The default MGE XE shaders are excellent, and this guide sticks with them. That said, there are a few tweaks we can enable to improve them. Note that shaders are, along with distant land, the most performance-intensive parts of the game. The shaders and settings I recommend look great without impacting performance.

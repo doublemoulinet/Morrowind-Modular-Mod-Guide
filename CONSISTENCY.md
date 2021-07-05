@@ -21,6 +21,8 @@ Restored or expanded vanilla content, including logic and consistency fixes for 
 1. [Bloat Caves](https://www.nexusmods.com/morrowind/mods/43141?)
 1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?)
 1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?)
+1. [Outdoor Banners with Sound](https://www.nexusmods.com/morrowind/mods/47068?)
+	- Download and install Main File "Outdoor Banners with Sound"
 1. [The Publicans](https://www.nexusmods.com/morrowind/mods/45410?)
 1. [Religions Elaborated](https://www.nexusmods.com/morrowind/mods/47843?)
 	- Download and install the optional "No Quest Changes" version in the Optional Files	
@@ -50,17 +52,6 @@ New and enhanced dialogue that addresses logic/consistency fixes, including rest
 1. [Nastier Camonna Tong](https://www.nexusmods.com/morrowind/mods/22601?)
 1. [Outfit Greetings Tweaked](https://www.nexusmods.com/morrowind/mods/46066?)
 1. [What Thieves Guild](https://www.nexusmods.com/morrowind/mods/47728?)
-
-## Audio
-Restored and fixed audio and sound effects.
-1. [FMBP - Michael, Michael, Michael](https://www.nexusmods.com/morrowind/mods/48598?)
-1. [Haunted Barrows](https://www.nexusmods.com/morrowind/mods/46826?)
-	- Enable the following BAIN options:
-		- 00 Core
-		- 01 Fire Sound Replacer
-1. [Outdoor Banners with Sound](https://www.nexusmods.com/morrowind/mods/47068?)
-	- Download and install Main File "Outdoor Banners with Sound"
-1. [Shut the Fuck Up Cliffracers](https://www.nexusmods.com/morrowind/mods/46588?)
 
 
 **NEXT SECTION**:

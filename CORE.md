@@ -7,8 +7,8 @@ The following is the bare minimum needed to play the game on modern systems. Thi
 The unofficial patch is under active development and fixes nearly all the game's bugs. 
 1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096?)
 
-## MWSE Fixes
-Additional fixes that make use of the Morrowind Script Extender language. This guide recommends installing Nullcascade's mods from his github page for the most up-to-date versions (click the green "Code" button and choose "download zip" from the dropdown).
+## Fixes
+Additional fixes, mostly making use of the Morrowind Script Extender language.
 1. [Easy Escort](https://github.com/NullCascade/morrowind-mods)
 	- Click the green "Code" button and choose "download zip" from the dropdown
 	- In the MO2 installation interface, set "Easy Escort" as the data directory
@@ -16,14 +16,17 @@ Additional fixes that make use of the Morrowind Script Extender language. This g
 1. [Expeditious Exit](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Expeditious Exit" as the data directory
 	- Name the mod "Expeditious Exit" and install
+1. [FMBP - Michael, Michael, Michael](https://www.nexusmods.com/morrowind/mods/48598?)
 1. [Memory Monitor](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Memory Monitor" as the data directory
 	- Name the mod "Memory Monitor" and install
 1. [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269?)
+1. [Shut the Fuck Up Cliffracers](https://www.nexusmods.com/morrowind/mods/46588?)
 1. [Skill Increase GMST Fix](https://www.nexusmods.com/morrowind/mods/48029?)
 1. [Sophisticated Save System](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Sophisticated Save System" as the data directory
 	- Name the mod "Sophsticated Save System" and install
+> This guide recommends installing NullCascade's mods from his github page for the most up-to-date versions (click the green "Code" button and choose "download zip" from the dropdown).
 
 ## Mesh Fixes
 The Morrowind Optimization Patch and Project Atlas dramatically improve performance. The former restores and fixes thousands of broken and unoptimized meshes. Absolutely essential.

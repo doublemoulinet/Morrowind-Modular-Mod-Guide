@@ -7,12 +7,11 @@
 - added: BALANCE: [Fortify MAX](https://www.nexusmods.com/morrowind/mods/49825)
 - added: GAMEPLAY: [Mantle of Ascension](https://www.nexusmods.com/morrowind/mods/49870)
 
+**Updated**
+- moved Shader setup to FINISH LINE
+
 **Removed**
 - removed: [R-Zero's Throbbing Meat](https://www.nexusmods.com/morrowind/mods/45339?), [Thickle-Lo](https://www.nexusmods.com/morrowind/mods/47502?) (both are great and I recommend them, but they exceed the scope of the visuals section, i.e. fixed meshes)
-
-**Updated**
-- 
-- moved Shader setup to FINISH LINE
 
 # 2021-05-15
 Character Sound Overhaul public release update.

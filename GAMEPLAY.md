@@ -97,6 +97,10 @@ Optional module for Merlord's survival and camping mod, *Ashfall*, and a complem
 Dynamic ambient sound, footsteps, and more.
 1. [AURA](https://www.nexusmods.com/morrowind/mods/48255?)
 1. [Character Sound Overhaul](https://www.nexusmods.com/morrowind/mods/49654)
+1. [Haunted Barrows](https://www.nexusmods.com/morrowind/mods/46826?)
+	- Enable the following BAIN options:
+		- 00 Core
+		- 01 Fire Sound Replacer
 1. [Heartthrum](https://www.nexusmods.com/morrowind/mods/47178)
 1. [Sounds of Souls](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Sounds of Souls" as the data directory

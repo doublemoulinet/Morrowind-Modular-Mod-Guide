@@ -16,9 +16,9 @@ Fixed ground meshes and character heads, and AI-upscaled and hand-polished vanil
 Performance-friendly groundcover that dramatically improves the look of the environments.
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733?)
 	- Installation: enable the "00 Core" option
-	- *Post-installation*: within the mod archive, create a folder named "Grass Plugins"
+	- *Post-installation*: within the "Remiros' Groundcover" mod archive, create a folder named "Grass Plugins"
 		- Place all plugins from *Remiros' Groundcover* in this new folder
-		- You can then specify this as an additional directory in the MGE XE distant land generator, during distant land generation
+
 >*Note*: Grass plugins will only be enabled during MGE XE's distant land generation, which you will run at the end of the guide in the [**Finish Line**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md) section.
 
 ## Lighting and Weather
