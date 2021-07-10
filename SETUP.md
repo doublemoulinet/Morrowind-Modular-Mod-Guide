@@ -252,7 +252,7 @@ We will create our first separator for the upcoming **MGE XE** section:
 - In the dropdown menu, click **Create separator**
 - Name it **MGE XE** and click OK
 
-![MO2_profile_dropdown](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_profile_dropdown.png)
+![MO2_separator](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_separator.png)
 
 MO2 will automatically place your new separator at the very bottom of your load order. You can then drag and drop this separator in the left pane as you see fit. In this case, ensure that the separator comes after the two expansions, like so:
 1. DLC: Tribunal
