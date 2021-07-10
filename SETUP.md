@@ -66,7 +66,7 @@ After this step, you should have only:
 - BSAs: Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa
 - ESMs: Bloodmoon.esm, Morrowind.esm, Tribunal.esm
 
-![GOG](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/gog_install.png)
+![GOG](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/GOG_install.png)
 
 >The GOG edition bundles loose game files already packaged in the BSAs, resulting in file bloat and slower load times. It also includes all of Bethesda's Official Plugins. These suck and you don't want to play with them. Cleaned and fixed versions are available on the Nexus.
 
@@ -135,7 +135,7 @@ With Mod Organizer 2 installed, now it can be set up to manage Morrowind.
 ## Install Order and Load Order
 
 ### Install Order
-![INSTALL](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_install_order.png)
+![INSTALL](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_install_order.jpg)
 
 Installed mods are listed on the left pane; this is your **installation order**. Morrowind loads assets in descending order, meaning mods closer to the bottom of the list will overwrite those at the top in the event of a conflict. On the left pane, ensure the list is as follows:
 ```
@@ -194,7 +194,7 @@ Max Snowflakes=1500
 # Installing Mods with MO2
 MO2 will not only organize our installation and plugin order but will also handle downloading and installing mods as well. Mods can be downloaded and installed one of two ways:
 
-![NEXUS_download](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/nexus_download.png)
+![NEXUS_download](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/Nexus_download.png)
 
 ## Installing Nexus mods with MO2
 The preferred option when downloading mods from [Nexus Mods](https://www.nexusmods.com/morrowind).
