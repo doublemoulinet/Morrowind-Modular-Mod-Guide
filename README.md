@@ -19,7 +19,7 @@ See the [Changelog](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guid
 # Introduction
 This is my personal mod list for Morrowind, with an emphasis on performance and preserving vanilla aesthetics. This is the result of years of messing around, learning the tools, and curating mods that don't suck but actually rule, man.
 
-For the definitive setup and mod guide, see Sigourn's [Morrowind++](https://github.com/Sigourn/morrowind-improved). Beginners might also consult Danae's [Morrowind First Time](http://danaeplays.thenet.sk/morrowind-first-time/) guide. Some of the structure of this guide (particularly the setup section) has been adapted from Sigourn's.
+For the definitive setup and mod guide, see Sigourn's [Morrowind Improved](https://github.com/Sigourn/morrowind-improved). Beginners might also consult Danae's [Morrowind First Time](http://danaeplays.thenet.sk/morrowind-first-time/) guide. Some of the structure of this guide (particularly the setup section) has been adapted from Sigourn's.
 
 This guide's selling features:
 - Step-by-step instructions in a **fully modular format**--including essential, visual, balance, and quality-of-life mods.

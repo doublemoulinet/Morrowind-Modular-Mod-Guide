@@ -54,9 +54,9 @@ Additionally, you will need to create a folder to install your mod manager and t
 ## GOG Installation Cleanup
 *Note: this step applies only to users of the GOG edition of Morrowind GOTY. If you're using the Steam version, skip to the next step.*
 
-The GOG edition of Morrowind GOTY bundles several unnecessary files. In addition to bundling loose game files that result in slower load times (files already included in the compressed BSAs), the GOG edition includes all of Bethesda's Official Plugins. These suck and you don't want to play with them; cleaned and patched versions are available on the Nexus. This guide assumes you will *not* be using the official plugins; play with them at your own peril!
+The GOG edition of Morrowind GOTY bundles several unnecessary files. 
 
-Delete the following files from your ```Morrowind\Data Files``` folder:
+Delete the following from your ```Morrowind\Data Files``` folder:
 - The **BookArt, Icons, Meshes, Textures** folders
 - All **.esp** files 
 - All **.txt** files
@@ -66,6 +66,10 @@ After this step, you should have only:
 - BSAs: Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa
 - ESMs: Bloodmoon.esm, Morrowind.esm, Tribunal.esm
 
+![GOGinstall](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/GOG_install.png)
+
+>The GOG edition bundles loose game files already packaged in the BSAs, resulting in file bloat and slower load times. It also includes all of Bethesda's Official Plugins. These suck and you don't want to play with them. Cleaned and fixed versions are available on the Nexus.
+
 # Morrowind Code Patch
 #### [Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510?)
 The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It is an essential utility. The MCP must be installed manually.
@@ -73,6 +77,7 @@ The Morrowind Code Patch (MCP) is an engine-level fix for the Morrowind.exe. It 
 - Extract to your Morrowind root directory (```C:\...\Morrowind```). Do not extract it to ```Morrowind\Data Files```
 
 #### [MCP Skunk Works](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
+The beta update of the Morrowind Code Patch (MCP) is an up-to-date release that must be installed over the main files.
 - Download the MCP Beta Main File 
 - Extract the contents of the MCP Beta to your Morrowind root directory (```C:\...\Morrowind```), and overwrite when prompted
 
@@ -127,25 +132,46 @@ With Mod Organizer 2 installed, now it can be set up to manage Morrowind.
 - Click **Next** and **Finish**. MO2 will now launch
 - You will be prompted to **Register?** Select **Yes**. This allows MO2 to manage nexus links.
 
-## Install order and load order
+## Install Order and Load Order
+
+### Install Order
+![INSTALL ORDER](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_install_order.png)
+
 Installed mods are listed on the left pane; this is your **installation order**. Morrowind loads assets in descending order, meaning mods closer to the bottom of the list will overwrite those at the top in the event of a conflict. On the left pane, ensure the list is as follows:
 ```
 DLC: Tribunal
 DLC: Bloodmoon
 ```
+
+### Load Order
+![LOAD ORDER](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_load_order.png)
+
 Plugins are listed on the right pane; this is your **load order**. Morrowind loads plugins in descending order, meaning plugins closer to the bottom of the list will overwrite those at the top in the event of a conflict. On the right pane, ensure the list is as follows:
 ```
 Morrowind.esm
 Tribunal.esm
 Bloodmoon.esm
 ```
+## Creating Profiles
+Mod Organizer **Profiles** allow users to quickly switch between load orders and mod setups.
+
+- Click on the **Configure profiles** ![PROFILES](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_profiles.png) button
+- Enable the following options:
+  - [X] Use profile-specific Game INI files
+  - [X] Use profile-specific Save Games
+  - [ ] Automatic Archive Invalidation
+- With the **Default** profile selected, click **Copy**. When prompted, title this new profile **Modular** or whichever profile name you like. Click **OK** and close the profile window.
+
+![SELECT PROFILES](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_select_profiles.png)
+
+>**Modular** will be the profile used for this guide. You can easily switch to the **Default** vanilla profile to create new modding profiles following the steps above.
 
 On the **Profile** drop-down menu below the top menubar, be sure to select **Modular** or whatever you've named your modded installation profile. This is the profile you will be modding, and ensures you can easily revert to the Vanilla profile to deactivate all your mods.
 
 ## Optional: Morrowind.ini tweaks
 The Morrowind Code Patch option **Rain/snow collision** recommends some .ini tweaks to work. In practice, the tweaks are unnecessary, but the increased density of rain and snow particles looks nice (at a small performance expense).
 
-- Click the **Tools** button, and choose the **INI Editor** in the dropdown
+- Click the **Tools** ![TOOLS](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_tools.png) button, and choose the **INI Editor** in the dropdown
 - In **Morrowind.ini**, locate the following lines and adjust the values as indicated:
 
 ```
@@ -165,33 +191,23 @@ Max Snowflakes=1500
 
 >If you have a weaker machine, or simply an older CPU, these tweaks (which roughly double the amount of rain and snow particles on-screen) could dip your framerate below the 60FPS threshold.
 
-## Creating Profiles
-Mod Organizer **Profiles** allow users to quickly switch between load orders and mod setups.
-
-- Click on the **Configure profiles** button (the ID card icon along the top menubar)
-- Enable the following options:
-  - [X] Use profile-specific Game INI files
-  - [X] Use profile-specific Save Games
-  - [ ] Automatic Archive Invalidation
-- With the **Default** profile selected, click **Copy**. When prompted, title this new profile **Modular** or whichever profile name you like. Click **OK** and close the profile window.
-
->**Modular** will be the profile used for this guide. You can easily switch to the **Default** vanilla profile to create new modding profiles following the steps above.
-
 # Installing Mods with MO2
 MO2 will not only organize our installation and plugin order but will also handle downloading and installing mods as well. Mods can be downloaded and installed one of two ways:
 
+![NEXUS_download](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/nexus_download.png)
+
 ## Installing Nexus mods with MO2
 The preferred option when downloading mods from [Nexus Mods](https://www.nexusmods.com/morrowind).
-- Click the **Download with manager** button, then choose **Slow download**
+- Click the **Mod manager download** button, then choose **Slow download**
 - On the right pane of MO2, select the **Downloads** tab. You can monitor the progress of your download here
 - When finished, double-click on the download to install
 - The installer popup will prompt you to enter the mod name (you can use your scrollwheel to choose from the autogenerated file names or type your own)
 - Click **OK**
 
 ## Manually Installing mods with MO2
-For mods not from the nexus, or which do not offer a manager download link.
-- Download your file
-- Click on the **Install Mod** menubar icon (to the left of the **Visit Nexus** globe icon)
+For mods not from the nexus, or Nexus mods which do not offer a manager download link.
+- Click the **Manual download** button (or whatever the download button is for the respective site)
+- In MO2, click on the **Install Mod** ![MO2_archive](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_archive.png) menubar button
 - Select the downloaded mod archive you want to install
 - MO2 will prompt you to enter a name for the mod (you can use your scrollwheel to choose from the autogenerated file names or type your own)
 - Click **OK**
@@ -232,9 +248,11 @@ Typically, this guide will tell you which mods are incorrectly packaged and how 
 Separators are a convenient visual tool to organize your installation order in the left pane. It is strongly recommended that you create separators for each module of the guide, as well as for the subsections in each.
 
 We will create our first separator for the upcoming **MGE XE** section:
-- Click the mini-wrench-and-screwdriver icon to the right of the **Profile** dropdown menu
+- Click the small **Settings** ![SETTINGS](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_settings.png) button to the right of the profile dropdown menu
 - In the dropdown menu, click **Create separator**
 - Name it **MGE XE** and click OK
+
+![MO2_profile_dropdown](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_profile_dropdown.png)
 
 MO2 will automatically place your new separator at the very bottom of your load order. You can then drag and drop this separator in the left pane as you see fit. In this case, ensure that the separator comes after the two expansions, like so:
 1. DLC: Tribunal
