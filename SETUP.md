@@ -248,11 +248,12 @@ Typically, this guide will tell you which mods are incorrectly packaged and how 
 Separators are a convenient visual tool to organize your installation order in the left pane. It is strongly recommended that you create separators for each module of the guide, as well as for the subsections in each.
 
 We will create our first separator for the upcoming **MGE XE** section:
+
+![MO2_separator](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_separator.png)
+
 - Click the small **Settings** ![SETTINGS](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_settings.png) button to the right of the profile dropdown menu
 - In the dropdown menu, click **Create separator**
 - Name it **MGE XE** and click OK
-
-![MO2_separator](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_separator.png)
 
 MO2 will automatically place your new separator at the very bottom of your load order. You can then drag and drop this separator in the left pane as you see fit. In this case, ensure that the separator comes after the two expansions, like so:
 1. DLC: Tribunal
