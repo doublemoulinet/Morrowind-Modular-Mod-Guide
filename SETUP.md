@@ -66,7 +66,7 @@ After this step, you should have only:
 - BSAs: Bloodmoon.bsa, Morrowind.bsa, Tribunal.bsa
 - ESMs: Bloodmoon.esm, Morrowind.esm, Tribunal.esm
 
-![GOGinstall](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/GOG_install.png)
+![GOG](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/gog_install.png)
 
 >The GOG edition bundles loose game files already packaged in the BSAs, resulting in file bloat and slower load times. It also includes all of Bethesda's Official Plugins. These suck and you don't want to play with them. Cleaned and fixed versions are available on the Nexus.
 
@@ -135,7 +135,7 @@ With Mod Organizer 2 installed, now it can be set up to manage Morrowind.
 ## Install Order and Load Order
 
 ### Install Order
-![INSTALL ORDER](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_install_order.png)
+![INSTALL](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_install_order.png)
 
 Installed mods are listed on the left pane; this is your **installation order**. Morrowind loads assets in descending order, meaning mods closer to the bottom of the list will overwrite those at the top in the event of a conflict. On the left pane, ensure the list is as follows:
 ```
@@ -144,7 +144,7 @@ DLC: Bloodmoon
 ```
 
 ### Load Order
-![LOAD ORDER](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_load_order.png)
+![LOAD](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_load_order.png)
 
 Plugins are listed on the right pane; this is your **load order**. Morrowind loads plugins in descending order, meaning plugins closer to the bottom of the list will overwrite those at the top in the event of a conflict. On the right pane, ensure the list is as follows:
 ```
