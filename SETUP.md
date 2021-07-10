@@ -164,9 +164,9 @@ Mod Organizer **Profiles** allow users to quickly switch between load orders and
 
 ![SELECT PROFILES](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_select_profiles.png)
 
->**Modular** will be the profile used for this guide. You can easily switch to the **Default** vanilla profile to create new modding profiles following the steps above.
-
 On the **Profile** drop-down menu below the top menubar, be sure to select **Modular** or whatever you've named your modded installation profile. This is the profile you will be modding, and ensures you can easily revert to the Vanilla profile to deactivate all your mods.
+
+>**Modular** will be the profile used for this guide. You can easily switch to the **Default** vanilla profile to create new modding profiles following the steps above.
 
 ## Optional: Morrowind.ini tweaks
 The Morrowind Code Patch option **Rain/snow collision** recommends some .ini tweaks to work. In practice, the tweaks are unnecessary, but the increased density of rain and snow particles looks nice (at a small performance expense).
