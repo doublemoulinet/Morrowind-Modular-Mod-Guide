@@ -169,7 +169,7 @@ On the **Profile** drop-down menu below the top menubar, be sure to select **Mod
 >**Modular** will be the profile used for this guide. You can easily switch to the **Default** vanilla profile to create new modding profiles following the steps above.
 
 ## Optional: Morrowind.ini tweaks
-The Morrowind Code Patch option **Rain/snow collision** recommends some .ini tweaks to work. In practice, the tweaks are unnecessary, but the increased density of rain and snow particles looks nice (at a small performance expense).
+The Morrowind Code Patch option **Rain/snow collision** recommends some .ini tweaks to work. In practice, the tweaks are unnecessary, but the increased density of rain and snow particles looks nice (at a small performance cost).
 
 - Click the **Tools** ![TOOLS](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_tools.png) button, and choose the **INI Editor** in the dropdown
 - In **Morrowind.ini**, locate the following lines and adjust the values as indicated:
@@ -192,7 +192,7 @@ Max Snowflakes=1500
 >If you have a weaker machine, or simply an older CPU, these tweaks (which roughly double the amount of rain and snow particles on-screen) could dip your framerate below the 60FPS threshold.
 
 # Installing Mods with MO2
-MO2 will not only organize our installation and plugin order but will also handle downloading and installing mods as well. Mods can be downloaded and installed one of two ways:
+MO2 will not only organize our installation and plugin order but will handle downloading and installing mods as well. Mods can be downloaded and installed one of two ways:
 
 ![NEXUS_download](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/Nexus_download.png)
 

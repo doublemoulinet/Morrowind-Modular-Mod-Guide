@@ -59,6 +59,9 @@ STOTSP TD Content Integration.esp
 
 ## Tes3cmd cleaning
 Tes3cmd makes it easy to batch clean your plugins:
+
+![Wrye Clean](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/Wrye_clean.png)
+
 - Run **Wrye Mash** through MO2
 - Navigate to the **Mods** Tab
 - Right-click on the relevant plugin in the list and choose **clean with tes3cmd**
@@ -204,6 +207,8 @@ Finally, make a backup of both your installation order and your load order (this
 # Registering BSAs 
 Some mods include packaged archives called BSAs. **Tamriel Rebuilt** and **Skyrim: Home of the Nords** are dependent on the BSAs in **Tamriel Data**. You must register them in order for the assets to show up in-game.
 
+![Wrye_BSA](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/Wrye_BSA.png)
+
 - Launch **Wrye Mash** from within MO2
 - Go to the **Mods Tab**
 - The right-pane has two tabs for **Mod Details** and **BSA Archives**
@@ -226,7 +231,7 @@ Next, create the **Merged Objects patch** with **TES3Merge**:
 1. Launch TES3Merge.exe from your list of plugins in MO2 and wait for it to generate the plugin
 1. Once complete, TES3Merge will auto-close and create Merged Objects.esp in your overwrite folder
 
-Now we will move the two plugins to a new mod folder in the left pane. Select the mini-wrench-and-screwdriver icon next to the **Profiles** dropdown menu:
+Now we will move the two plugins to a new mod folder in the left pane. Select the small ![MO2_Settings](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_settings.png) button next to the **Profiles** dropdown menu:
 - Select **Create empty mod** and title it "**Merged Patches**"
 - Double click the **Overwrite** folder at the bottom of your installation order
 - Drag and drop the newly-created **multipatch.esp** and **Merged Objects.esp** to the empty mod and enable it
@@ -288,7 +293,7 @@ Most options are disabled when you first open this tab. You need to generate dis
 
 Generally, you should regenerate your distant land any time you install or uninstall mods with plugins. Fortunately, this process will be much simpler as you will only need to click on **Run above steps using saved / default settings** the next time you use the **Distant land generator wizard**.
 
-![Screenshot](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MGEXE_distantland.jpg)
+![MGEXE DL](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MGEXE_distantland.jpg)
 
 After MGE XE has generated distant land, you will be returned to the **Distant Land** tab from earlier. Now, all the previously unavailable options can be set up. Follow the settings as suggested in the screenshot above. You may wish to tinker with them later. These recommended settings cleave to the game's original foggy aesthetic and keep performance costs to a minimum.
 
@@ -351,7 +356,7 @@ Launch the game and enter the in-game Options menu.
 >Remember: just like all your modding executables, you must also run **Morrowind.exe** via Mod Organizer 2!
 
 ### **Prefs**
-- Set difficulty to 0 (Dynamic Difficulty will handle scaling to keep things interesting--unless you want to punish yourself and play at 100 difficulty from the start)
+- Set difficulty to 0 (**Dynamic Difficulty** will handle scaling to keep things interesting--unless you want to punish yourself and play at 100 difficulty from the start)
 - Set **AI Distance** to the furthest right on the slider (decreasing the value improves performance but may break AI commands. I play with the AI slider set to the furthest left--this saves about 5-10 FPS in areas with lots of NPCs, but will break some follower quests)
 - Autosave when rest=OFF
 - Always Use Best Attack=OFF
@@ -361,11 +366,11 @@ Launch the game and enter the in-game Options menu.
 - Turn the Music slider all the way down and let this AURA's ambient soundscapes transport you... Strongly recommended.
 
 ### **Controls**
-- Use = mouse1
-- activate=e
-- Ready weapon=r
-- Ready magic=f
-- Jump=spacebar
+- Use = MOUSE 1
+- activate=E
+- Ready weapon=R
+- Ready magic=F
+- Jump=SPACEBAR
 
 ### **Video**
 - Set **Real-time shadows** to OFF, i.e. the slider all the way to the left (this is  for performance reasons as well as to reduce the incidence of buggy shadows through walls, etc.).
