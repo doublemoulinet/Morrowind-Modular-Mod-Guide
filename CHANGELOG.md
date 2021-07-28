@@ -1,5 +1,14 @@
 [<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
 
+# 2021-07-28
+Small maintenance release.
+
+**Added**
+- added: EXPANDED: [Consistent Enchanting](https://github.com/NullCascade/morrowind-mods)
+
+**Updated**
+- updated: installation instructions for [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636) (Weather Adjuster is now fully compatible; the replacement lua file is no longer needed)
+
 # 2021-06-01
 
 **Added**

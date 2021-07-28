@@ -47,6 +47,7 @@ Improved menu navigation and controls.
  Convenience features and consistency fixes.
 1. [Accidental Theft Protection](https://www.nexusmods.com/morrowind/mods/48264?)
 1. [Bed Buddies](https://www.nexusmods.com/morrowind/mods/46632?)
+1. [Consistent Enchanting](https://github.com/NullCascade/morrowind-mods)
 1. [Cover Yourself](https://www.nexusmods.com/morrowind/mods/48016?)
 1. [Darhk’s Super-Sized Storage](https://www.nexusmods.com/morrowind/mods/45147?)
 1. [Diligent Defenders](https://www.nexusmods.com/morrowind/mods/45717?)

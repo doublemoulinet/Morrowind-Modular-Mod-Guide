@@ -5,10 +5,13 @@
 Improves the visual quality of the game while preserving the original  design.
 
 ## Visuals Base
-Fixed ground meshes and character heads, and AI-upscaled and hand-polished vanilla textures.
+Fixed ground meshes and character heads for that vanilla-purist look.
 1. [Adjustable Landscape Texture Scale](https://www.nexusmods.com/morrowind/mods/49689)
 1. [Facelift](https://www.nexusmods.com/morrowind/mods/47617?)
 	- Download the "kart_facelift_meshes" Main File, and "olaf_facelift_argonian" Optional File, selecting Merge when prompted
+
+## High Definition Textures
+The best AI-upscaled and hand-polished vanilla textures.
 1. [Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469?)
 	- Enable both "00 Core" and "01 Atlas Textures"
 
@@ -39,7 +42,7 @@ Better ambient lighting values, darker nights, dynamic lights and weathers.
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?)
 1. [MGG Weather Darker Nights](https://www.nexusmods.com/morrowind/mods/47141?)
 1. [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636)
-	- Enable: "00 Lua core" and "02 Weather Adjuster Replacer"
+	- Enable: "00 Lua core"
 
 ## Environmental VFX
 New or enhanced visual effects, including improved flame and particle effects, shaders, and other subtle improvements.
@@ -72,6 +75,7 @@ Better blood, new damage effects, visible equipment on character models, and mor
 	- In the MO2 installation interface, set "No Glow" as the data directory
 	- Name the mod "Assetless No Glow" and install
 1. [Elemental Effects](https://www.nexusmods.com/morrowind/mods/49799)
+	- *Note*: adds a small gameplay effect (stat debuff) when burned/afflicted with elemental magic
 1. [Hopesfire Glow](https://www.nexusmods.com/morrowind/mods/45855?)
 	- Enable only the "Hopesfire Torch (+brighter trueflame).esp
 1. [MWSE Blood Diversity](https://www.nexusmods.com/morrowind/mods/47913)

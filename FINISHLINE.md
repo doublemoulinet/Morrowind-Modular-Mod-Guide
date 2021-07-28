@@ -231,7 +231,7 @@ Next, create the **Merged Objects patch** with **TES3Merge**:
 1. Launch TES3Merge.exe from your list of plugins in MO2 and wait for it to generate the plugin
 1. Once complete, TES3Merge will auto-close and create Merged Objects.esp in your overwrite folder
 
-Now we will move the two plugins to a new mod folder in the left pane. Select the small ![MO2_Settings](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_settings.png) button next to the **Profiles** dropdown menu:
+Now we will move the two plugins to a new mod folder in the left pane. Select the small **Settings** ![MO2_Settings](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/assets/MO2_settings.png) button to the right of the **Profiles** dropdown menu:
 - Select **Create empty mod** and title it "**Merged Patches**"
 - Double click the **Overwrite** folder at the bottom of your installation order
 - Drag and drop the newly-created **multipatch.esp** and **Merged Objects.esp** to the empty mod and enable it

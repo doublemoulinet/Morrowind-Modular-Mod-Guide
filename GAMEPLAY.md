@@ -87,7 +87,7 @@ Further tweaks to the crime systems.
 	- ESP is optional (it changes a dialogue line to reflect guards' new non-lethal arrest tactics); you can leave it disabled
 1. [Regional Bounty](https://www.nexusmods.com/morrowind/mods/47285?)
 
-## Survival Mechanics
+## Survival
 Optional module for Merlord's survival and camping mod, *Ashfall*, and a complementary suite of mods. This is easily the most impressive gameplay mod around. It's sleek, easy to use, and really, really fun. 
 1. [Ashfall](https://www.nexusmods.com/morrowind/mods/49057?tab=description)
 1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247)
