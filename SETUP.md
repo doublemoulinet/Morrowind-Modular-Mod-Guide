@@ -329,7 +329,7 @@ These modding tools will be used for several key steps in this guide: mod cleani
 
 ### [tes3cmd](https://github.com/john-moonsugar/tes3cmd/releases)
 This powerful command-line tool cleans mods and will be used to build a multipatch at the end of the mod guide.
-1. Download the latest [tes3cmd](https://github.com/john-moonsugar/tes3cmd/releases) release (v0.40 pre-release 2)and extract the tes3cmd.exe to your ```Morrowind\Data Files``` folder. Do not install tes3cmd to the root directory
+1. Download the latest [tes3cmd](https://github.com/john-moonsugar/tes3cmd/releases) release (v0.40 pre-release 2) and extract the tes3cmd.exe to your ```Morrowind\Data Files``` folder. Do not install tes3cmd to the root directory
 1. Download the [tes3cmd multipatch](https://mega.nz/file/D1pmHQBJ#9YMB2pyRLAFHqBczqQhqXvzNtaDW7yqwIH4Mt9MuEpA) and extract the tes3cmd_multipatch.bat to your ```Morrowind\Data Files``` folder. Do not install  to the root directory
 
 ### [TES3Merge](https://www.nexusmods.com/morrowind/mods/46870?tab=files)
@@ -358,13 +358,13 @@ Follow and repeat these steps for **TES3Merge**, **TES3View**, and **TESAME**:
 
 Follow these steps for **Tes3cmd**:
 1. Open the **Executables** menu (the gear icon)
-1. In the **Modify Executables** menu, click **Add an executable** (the blue plus iccon) and choose **Add from file...**
+1. In the **Modify Executables** menu, click **Add an executable** (the blue plus icon) and choose **Add from file...**
 1. Navigate to the location of your command line executable (ex., C:\Windows\System32\cmd.exe) and choose it
 1. In **Start In**, search for and choose the location of your Morrowind **Data Files** folder (ex., ```C:\Morrowind\Data Files```)
 
 Follow these steps for **Wrye Mash**:
 1. Open the **Executables** menu (the gear icon)
-1. In the **Modify Executables** menu, click **Add an executable** (the blue plus iccon) and choose **Add from file...**
+1. In the **Modify Executables** menu, click **Add an executable** (the blue plus icon) and choose **Add from file...**
 1. Navigate to the location of your mash64.exe (ex., ```C:\Games\Morrowind\Mopy\mash64.exe```) and choose it
 1. Click **Apply** and then **OK**
 
