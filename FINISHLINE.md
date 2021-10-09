@@ -507,6 +507,8 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 ### **Quick Loot**
 - Hide lock status? = Yes
 - Show quickloot menu on plant/organic containers? = No (Graphic Herbalism's tooltip is superior)
+### **Rational Names**
+
 ### **Security Enhanced**
 - Change the equip/cycle lockpick hotkey to "O" ("L" is used by Let There Be Darkness)
 - Set auto-equip options to OFF

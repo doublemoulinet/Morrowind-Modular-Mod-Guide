@@ -18,6 +18,7 @@ Improved main menu, character creation, HUD, and in-game menus.
 1. [Ownership Indicator](https://www.nexusmods.com/morrowind/mods/45940?)
 1. [Quickloot](https://www.nexusmods.com/morrowind/mods/46283?)
 1. [Randomised Chargen](https://www.nexusmods.com/morrowind/mods/46915?)
+1. [Rational Names](https://www.nexusmods.com/morrowind/mods/50000)
 1. [Shrine Tooltips](https://www.nexusmods.com/morrowind/mods/48275?)
 1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?)
 1. [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492?)

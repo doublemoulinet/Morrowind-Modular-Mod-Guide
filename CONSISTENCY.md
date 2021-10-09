@@ -21,6 +21,7 @@ Restored or expanded vanilla content, including logic and consistency fixes for 
 1. [Bloat Caves](https://www.nexusmods.com/morrowind/mods/43141?)
 1. [Divayth Fyr Puzzle Fixed](https://www.nexusmods.com/morrowind/mods/45155?)
 1. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720?)
+1. [FMBP - Michael, Michael, Michael](https://www.nexusmods.com/morrowind/mods/48598?)
 1. [Outdoor Banners with Sound](https://www.nexusmods.com/morrowind/mods/47068?)
 	- Download and install Main File "Outdoor Banners with Sound"
 1. [The Publicans](https://www.nexusmods.com/morrowind/mods/45410?)
@@ -28,6 +29,7 @@ Restored or expanded vanilla content, including logic and consistency fixes for 
 	- Download and install the optional "No Quest Changes" version in the Optional Files	
 1. [Services Restored](https://www.nexusmods.com/morrowind/mods/47068?)
 	- Download and install Main File "Services Restored"
+1. [Shut the Fuck Up Cliffracers](https://www.nexusmods.com/morrowind/mods/46588?)
 1. [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150?)
 1. [Supply Chests](https://www.nexusmods.com/morrowind/mods/49232)
 	- Download and install Main File "Supply Chests"

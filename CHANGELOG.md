@@ -1,5 +1,23 @@
 [<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
 
+# 2021-10-09
+
+(stay tuned for more decluttering/culling of the modlist)
+
+**Added**
+- added: VISUALS: [Dwemer Lightning Rods](https://www.nexusmods.com/morrowind/mods/50236)
+- added: EXPANDED: [Rational Names](https://www.nexusmods.com/morrowind/mods/50000)
+- added: BALANCE: [A Sinking Feeling](https://www.nexusmods.com/morrowind/mods/50113), [Enchanted Weapon Rebalance](https://www.nexusmods.com/morrowind/mods/50194)
+- added: GAMEPLAY: [Lucky Strike](https://www.nexusmods.com/morrowind/mods/45765)
+- added: CONTENT: [OAAB Dwemer Pavements](https://www.nexusmods.com/morrowind/mods/50237)
+
+**Updated**
+- [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
+- moved: [FMBP - Michael, Michael, Michael](https://www.nexusmods.com/morrowind/mods/48598?) and [Shut the Fuck Up Cliffracers](https://www.nexusmods.com/morrowind/mods/46588?) to the CONSISTENCY section
+
+**Removed**
+- removed: [Poison Redux-ion](https://www.nexusmods.com/morrowind/mods/48948)
+
 # 2021-07-28
 Small maintenance release.
 

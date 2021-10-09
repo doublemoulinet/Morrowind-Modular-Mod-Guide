@@ -16,12 +16,10 @@ Additional fixes, mostly making use of the Morrowind Script Extender language.
 1. [Expeditious Exit](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Expeditious Exit" as the data directory
 	- Name the mod "Expeditious Exit" and install
-1. [FMBP - Michael, Michael, Michael](https://www.nexusmods.com/morrowind/mods/48598?)
 1. [Memory Monitor](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Memory Monitor" as the data directory
 	- Name the mod "Memory Monitor" and install
 1. [Quest Skill Reward Fix](https://www.nexusmods.com/morrowind/mods/48269?)
-1. [Shut the Fuck Up Cliffracers](https://www.nexusmods.com/morrowind/mods/46588?)
 1. [Skill Increase GMST Fix](https://www.nexusmods.com/morrowind/mods/48029?)
 1. [Sophisticated Save System](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Sophisticated Save System" as the data directory

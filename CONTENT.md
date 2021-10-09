@@ -17,6 +17,8 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 		- OAAB Leveled Creatures
 		- OAAB Leveled Lists
 		- (Optional) OAAB Scroll Qualities
+1. [OAAB Dwemer Pavements](https://www.nexusmods.com/morrowind/mods/50237)
+	- Select "00 Core"
 1. [OAAB Patches](https://www.nexusmods.com/morrowind/mods/49471?)
 	- Download and install the following:
 		- OAAB - Bloodmoon Rebalance Patch

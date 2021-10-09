@@ -39,9 +39,8 @@ Lightweight enhancements of existing skills, correcting oversights and making so
 Restores several skills from previous Elder Scrolls titles (and a few from newer ones), including backstabs, climbing, and sneak attacks.
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
+1. [Lucky Strike](https://www.nexusmods.com/morrowind/mods/45765)
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
-	- Disable the "MWSE" folder
-1. [Poison Redux-ion](https://www.nexusmods.com/morrowind/mods/48948)
 1. [Mantle of Ascension](https://www.nexusmods.com/morrowind/mods/49870)
 1. [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
 

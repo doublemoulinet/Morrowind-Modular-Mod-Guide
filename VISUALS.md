@@ -49,6 +49,7 @@ New or enhanced visual effects, including improved flame and particle effects, s
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?)
 	- Enable the "00 Core" option
 1. [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423?)
+1. [Dwemer Lightning Rods](https://www.nexusmods.com/morrowind/mods/50236)
 1. [Enlightened Flames](https://www.nexusmods.com/morrowind/mods/48816?)
 	- Enable both the "00 Core" and "01 enlightened flames" options
 1. [Heat Haze](https://www.nexusmods.com/morrowind/mods/48973)
