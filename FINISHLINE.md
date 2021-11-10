@@ -520,6 +520,8 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 - Use verbose buttons instead of icons for inventory filtering? = No
 ### **Weapon Sheathing**
 - Show unreadied shields on back = Yes!
+### **Weather Adjuster**
+- Disable sky texture changes (for mod compatibility) = Yes
 
 ## In-game Settings
 The last step is to open the in-game console and adjust the formula for earthquake chances in "Shattered Stones." Open the console (~) and type: ```set fQuakeChance to 10```

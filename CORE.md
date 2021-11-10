@@ -9,6 +9,7 @@ The unofficial patch is under active development and fixes nearly all the game's
 
 ## Fixes
 Additional fixes, mostly making use of the Morrowind Script Extender language.
+> This guide recommends installing NullCascade's mods from his github page for the most up-to-date versions (click the green "Code" button and choose "download zip" from the dropdown).
 1. [Easy Escort](https://github.com/NullCascade/morrowind-mods)
 	- Click the green "Code" button and choose "download zip" from the dropdown
 	- In the MO2 installation interface, set "Easy Escort" as the data directory
@@ -24,17 +25,15 @@ Additional fixes, mostly making use of the Morrowind Script Extender language.
 1. [Sophisticated Save System](https://github.com/NullCascade/morrowind-mods)
 	- In the MO2 installation interface, set "Sophisticated Save System" as the data directory
 	- Name the mod "Sophsticated Save System" and install
-> This guide recommends installing NullCascade's mods from his github page for the most up-to-date versions (click the green "Code" button and choose "download zip" from the dropdown).
 
 ## Mesh Fixes
 The Morrowind Optimization Patch and Project Atlas dramatically improve performance. The former restores and fixes thousands of broken and unoptimized meshes. Absolutely essential.
 1. [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384?)
 	- Activate the following:
 		- 00 Core
-		- 01 Fixed Vanilla Textures
-		- 02 Lake Fjalding Anti-Suck
-		- 03 MGE XE Addon
-		- 05 Chuzei Fix
+		- 01 Lake Fjalding Anti-Suck
+		- 03 Chuzei Fix
+		- 04 Better Vanilla Textures
 1. [Project Atlas](https://www.nexusmods.com/morrowind/mods/45399?)
 	- Enable only the following:
 		- 00 Core

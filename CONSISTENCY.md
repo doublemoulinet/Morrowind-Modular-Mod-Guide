@@ -7,12 +7,10 @@ Addresses the various lore and logic inconsistencies with the game, and can be c
 Better integrates the expansion content into the base game.
 1. [Early Transport to Mournhold](https://www.nexusmods.com/morrowind/mods/47985)
 1. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588?)
-1. [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/49232)
-	- Download the "Expansions Integrated (Sigourn Edit)" Main File
->**Expansion Delay** is as close to essential as a mod can get. Don't skip it.
 
 ## Restored Content
 Restored or expanded vanilla content, including logic and consistency fixes for quests, trainers, merchants and other services.
+1. [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?)
 1. [Bigger Temples - Urbanopticum of Vvardenfell](https://www.nexusmods.com/morrowind/mods/46184?)
 	- Mod archive is incorrectly packaged:
 		- In **001 ESP - Bigger Velothi Temples**, drag and drop the "Bigger Velothi Temples.esp" into the **000 Core Files\Glow in the Darhk\Vanilla\Data Files** folder
@@ -25,15 +23,13 @@ Restored or expanded vanilla content, including logic and consistency fixes for 
 1. [Outdoor Banners with Sound](https://www.nexusmods.com/morrowind/mods/47068?)
 	- Download and install Main File "Outdoor Banners with Sound"
 1. [The Publicans](https://www.nexusmods.com/morrowind/mods/45410?)
-1. [Religions Elaborated](https://www.nexusmods.com/morrowind/mods/47843?)
-	- Download and install the optional "No Quest Changes" version in the Optional Files	
 1. [Services Restored](https://www.nexusmods.com/morrowind/mods/47068?)
 	- Download and install Main File "Services Restored"
 1. [Shut the Fuck Up Cliffracers](https://www.nexusmods.com/morrowind/mods/46588?)
 1. [Silt Strider Animation Restored](https://www.nexusmods.com/morrowind/mods/44150?)
 1. [Supply Chests](https://www.nexusmods.com/morrowind/mods/49232)
 	- Download and install Main File "Supply Chests"
-	- Install BAIN option: "01 Supply Chest (Religions Elaborated Compatible)"
+	- Install BAIN option: "00 Supply Chest"
 1. [Synthesis Series - Creatures and Diseases](https://www.nexusmods.com/morrowind/mods/48279?)
 1. [Temples with Shrines](https://www.nexusmods.com/morrowind/mods/45535?)
 1. [Transporter Lights](https://www.nexusmods.com/morrowind/mods/48050?)

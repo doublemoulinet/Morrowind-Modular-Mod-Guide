@@ -1,5 +1,24 @@
 [<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
 
+# 2021-10-10
+
+**Added**
+- added: BALANCE: [Useful Bound Armor](https://www.nexusmods.com/morrowind/mods/49829)
+- added: CONSISTENCY: [Actually Unlimited Skeleton Key](https://www.nexusmods.com/morrowind/mods/47972?) (re-added to the guide)
+
+**Updated**
+- updated [Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384), [Supply Chests](https://www.nexusmods.com/morrowind/mods/49232), [Realistic Repair – Add-on](https://www.nexusmods.com/morrowind/mods/47461) installation instructions
+- moved [Dwemer Lightning Rods](https://www.nexusmods.com/morrowind/mods/50236) from VISUALS to CONTENT (OAAB dependency)
+- updated Weather Adjuster MCM settings for compatibility with Watch the Skies
+
+**Removed**
+- removed: EXPANDED: [Rational Names](https://www.nexusmods.com/morrowind/mods/50000) (temporarily; some soft incompatibilities with Quick Loot), [Smart Map](https://www.nexusmods.com/morrowind/mods/46634?) (prefer UI Expansion's implementation)
+- removed: VISUALS: [Enhanced Stone Walls](https://www.nexusmods.com/morrowind/mods/45939?), [Waterfall Tweaks](https://www.nexusmods.com/morrowind/mods/46271?) (redundant with the latest version of Better Waterfalls)
+- removed: BALANCE: [A Sinking Feeling](https://www.nexusmods.com/morrowind/mods/50113) (incompatible with Better Buoyancy)
+- removed: CONSISTENCY: [Expansions Integrated](https://www.nexusmods.com/morrowind/mods/49232) (edited version no longer supported by author), [Religions Elaborated](https://www.nexusmods.com/morrowind/mods/47843?)
+- removed: GAMEPLAY: [Lucky Strike](https://www.nexusmods.com/morrowind/mods/45765) (critical hit formula produces some balance issues)
+- removed: CONTENT: [OAAB Creature Loot - PFP Patch](https://www.nexusmods.com/morrowind/mods/49471?) (As of Creature Loot 1.1, PFP changes are now handled in the main plugin)
+
 # 2021-10-09
 
 (stay tuned for more decluttering/culling of the modlist)

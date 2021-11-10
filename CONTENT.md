@@ -22,7 +22,6 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 1. [OAAB Patches](https://www.nexusmods.com/morrowind/mods/49471?)
 	- Download and install the following:
 		- OAAB - Bloodmoon Rebalance Patch
-		- OAAB Creature Loot - PFP Patch
 		- OAAB - There Can Be Only One Patch
 
 ## Settlements
@@ -70,6 +69,7 @@ The OOAB team's modders' resource, OAAB_Data, is a required dependency for sever
 	- Download the "Vivec Palace" Main File
 
 ## Wilderness
+1. [Dwemer Lightning Rods](https://www.nexusmods.com/morrowind/mods/50236)
 1. [Foyada Mamaea Overhaul](https://www.nexusmods.com/morrowind/mods/46424?)
 	- Enable the "00 Core" option. Select the "01 hires textures" option if using Intelligent Textures	
 1. [The Grove of Ben'Abi](https://www.nexusmods.com/morrowind/mods/46137?)

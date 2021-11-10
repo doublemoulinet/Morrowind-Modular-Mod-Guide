@@ -49,7 +49,6 @@ New or enhanced visual effects, including improved flame and particle effects, s
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?)
 	- Enable the "00 Core" option
 1. [The Dream is the Door](https://www.nexusmods.com/morrowind/mods/47423?)
-1. [Dwemer Lightning Rods](https://www.nexusmods.com/morrowind/mods/50236)
 1. [Enlightened Flames](https://www.nexusmods.com/morrowind/mods/48816?)
 	- Enable both the "00 Core" and "01 enlightened flames" options
 1. [Heat Haze](https://www.nexusmods.com/morrowind/mods/48973)
@@ -68,7 +67,6 @@ New or enhanced visual effects, including improved flame and particle effects, s
 	- In the MO2 installation interface, set "Visually Filled Soul Gems" as the data directory
 	- Name the mod "Visually Filled Soul Gems" and install
 1. [Visually Trapped Objects](https://www.nexusmods.com/morrowind/mods/48936)
-1. [Waterfall Tweaks](https://www.nexusmods.com/morrowind/mods/46271?)
 
 ## Character Visuals
 Better blood, new damage effects, visible equipment on character models, and more.
@@ -126,9 +124,9 @@ Better blood, new damage effects, visible equipment on character models, and mor
 1. [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069?)
 	- Download and install the “MWSE” Main File
 	- In the MO2 installer interface, right-click "Data Files" and click `set as data files directory`
-1. [MOP - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?)
-	- Install *only* the “04 Weapon Sheathing Patch” BAIN option
-	- Rename the mod to "MOP - Weapon Sheathing Patch". Click OK.
+1. [Morrowind Optimization Patch - Weapon Sheathing Patch](https://www.nexusmods.com/morrowind/mods/45384?)
+	- Install *only* the “02 Weapon Sheathing Patch” BAIN option
+	- Rename the mod to something unique, like "Morrowind Optimization Patch - Weapon Sheathing Patch". Click OK.
 	
 ## Meshes and Textures
 Additional fixes to vanilla meshes and textures.
@@ -138,8 +136,6 @@ Additional fixes to vanilla meshes and textures.
 	- Download "Bitter Coast Scum Replacer" and enable the "00 Core" and "03 Standalone - Lougian's Meshes Fixed" options
 1. [Dunmer Lanterns Replacer](https://www.nexusmods.com/morrowind/mods/43219?)
 	- Enable both "00 Core" and "03 Glow Effect" options
-1. [Enhanced Stone Walls](https://www.nexusmods.com/morrowind/mods/45939?)
-	- Download the “Enhanced Stone Walls” file
 1. [I Lava a Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
 	- Enable the "00 Core" option
 1. [Improved Nordic Iron Helm](https://www.nexusmods.com/morrowind/mods/43816?)

@@ -28,8 +28,8 @@ Light-weight MWSE mods that address some of the remaining balance issues.
 	- Archive is incorrectly packaged: in the MO2 installer interface, expand the folder, right-click "Data Files" and select "set as data files directory"
 	- Post-installation: hide the "Putting Power in Willpower - Absorbonach.esp" plugin
 1. [Realistic Movement Speeds](https://www.nexusmods.com/morrowind/mods/46248?)
-1. [A Sinking Feeling](https://www.nexusmods.com/morrowind/mods/50113)
 1. [Smart Merchants](https://www.nexusmods.com/morrowind/mods/47787?)
+1. [Useful Bound Armor](https://www.nexusmods.com/morrowind/mods/49829)
 1. [Wading in Water MW](https://www.nexusmods.com/morrowind/mods/48783?)
 1. [Wings of Will](https://www.nexusmods.com/morrowind/mods/46626?)
 

@@ -31,15 +31,13 @@ Lightweight enhancements of existing skills, correcting oversights and making so
 	- Do not enable the ESP file; the next mod integrates repair activators into the world
 1. [Realistic Repair – Add-on](https://www.nexusmods.com/morrowind/mods/47461)
 	- Download and install the Main File
-	- Download and install the Optional File, merging when prompted
-		- Hide the **Realistic_Repair_Add-on - PFP Patch.esp**
+	- Download and install the Optional File, selecting only **Realistic_Repair_Add-on - PFP Patch.ESP**. Merge when prompted
 1. [Silver Tongue](https://www.nexusmods.com/morrowind/mods/49086)
 
 ## New Skills
 Restores several skills from previous Elder Scrolls titles (and a few from newer ones), including backstabs, climbing, and sneak attacks.
 1. [Brutal Backstabbing](https://www.nexusmods.com/morrowind/mods/45890?)
 1. [Lua Lockbashing](https://www.nexusmods.com/morrowind/mods/48544?)
-1. [Lucky Strike](https://www.nexusmods.com/morrowind/mods/45765)
 1. [Poison Crafting](https://www.nexusmods.com/morrowind/mods/45729?)
 1. [Mantle of Ascension](https://www.nexusmods.com/morrowind/mods/49870)
 1. [Sneaky Strike](https://www.nexusmods.com/morrowind/mods/48317)
@@ -90,7 +88,6 @@ Further tweaks to the crime systems.
 Optional module for Merlord's survival and camping mod, *Ashfall*, and a complementary suite of mods. This is easily the most impressive gameplay mod around. It's sleek, easy to use, and really, really fun. 
 1. [Ashfall](https://www.nexusmods.com/morrowind/mods/49057?tab=description)
 1. [The Guar Whisperer](https://www.nexusmods.com/morrowind/mods/48247)
->*Note*: there is a very small performance hit. Depending on your machine, you may not notice.
 
 ## Sound Overhaul
 Dynamic ambient sound, footsteps, and more.
