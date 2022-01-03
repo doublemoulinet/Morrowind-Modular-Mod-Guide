@@ -373,7 +373,7 @@ Launch the game and enter the in-game Options menu.
 - Jump=SPACEBAR
 
 ### **Video**
-- Set **Real-time shadows** to OFF, i.e. the slider all the way to the left (this is  for performance reasons as well as to reduce the incidence of buggy shadows through walls, etc.).
+- Set **Real-time shadows** to OFF, i.e. the slider all the way to the left (this is  for performance reasons as well as to reduce the incidence of buggy shadows through walls, etc.). **This settings is required for Ashfall.**
 
 # MCM Settings
 From the in-game menu, select the **Mod Configuration Menu**. Note: some settings may require you to re-launch the game to take effect.
@@ -383,12 +383,15 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 ### **Abot's Loading Door**
 - Lock door with shift + activate = yes
 ### **Abot’s Smart Journal**
-- Add a prefix in order to group quest name? = 0
-- Sort quest list by name? = No
-- Add quest id to quest hint? = No
-- Add source mod name to quest hint = No
-- Add source mod author… = No
-- Open first URL… = No
+- Clear topics with no entries yet from the journal = ON
+- Collapse journal paragraphs having the same date header = ON
+- Skip links contained inside journal words = ON
+- Add quest name information to journal message = OFF
+- Log missing quest names = OFF
+- Add who you talked with to quest hint = OFF
+- Add last quest text entry to quest hint = OFF
+- Add quest identifier to quest hint = OFF
+- Add source mod name to quest hint = OFF
 ### **Abot's Smart Merchants**
 - Enable **Harder Barter like merchants buying prices reduction**: 2. Medium
 ### **Accidental Theft Protection**
@@ -491,6 +494,8 @@ Unlike the Skyrim MCM, Morrowind MCM options will persist across every new game 
 - Disable Third Person: NO
 ### **Miscast Enhanced**
 - Ensure "Debug Mode" is disabled
+### Morrowind Script Extender
+- Letterbox movies? ON
 ### **Multi Mark & Harder Recall**
 - Enable Limited Recall: No
 - Enable Miscast Enhanced integration: Yes

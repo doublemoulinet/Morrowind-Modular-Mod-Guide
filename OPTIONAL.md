@@ -58,7 +58,7 @@ Optionally, you may update the following mods to enable compatibility/integratio
 1. [I Lava a Good Mesh Replacer](https://www.nexusmods.com/morrowind/mods/49605)
 	- Enable the "00 Core" and "02 Tamriel_Data Patch"
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?) (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) section)
-	- Enable the "00 Core" and "02 Vvardenfell, Morrowind, and Cyrodiil" BAIN options. This replaces the generic TR road signs with vanilla-friendly readable signs.
+	- Reinstall with the "02 ESP - Vvardenfell, Morrowind, and Cyrodiil" BAIN option. This replaces the generic TR road signs with vanilla-friendly readable signs.
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424?) (installed in the [**Visuals**](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/VISUALS.md) section)
 	- Enable the "00 Core" as well as the "02 Tamriel Rebuilt Water" option
 

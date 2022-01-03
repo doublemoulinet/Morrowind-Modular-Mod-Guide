@@ -1,6 +1,18 @@
 [<< Home](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide)
 
-# 2021-10-10
+# 2022-01-03
+
+**Updated**
+- updated installation instructions for [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?) and patches
+- updated installation instructions for [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636)
+- updated: FINISH LINE: MCM settings for [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492?)
+
+
+**Removed**
+- removed: EXPANDED: [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?), [MWSE AbotLib](https://www.nexusmods.com/morrowind/mods/47717?) (unneeded)
+- removed: VISUALS: Project Atlas - Glow in the Dahrk patch (incompatible with GitD 3.0)
+
+# 2021-11-10
 
 **Added**
 - added: BALANCE: [Useful Bound Armor](https://www.nexusmods.com/morrowind/mods/49829)

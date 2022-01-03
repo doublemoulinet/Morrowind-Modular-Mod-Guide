@@ -21,7 +21,6 @@ Improved main menu, character creation, HUD, and in-game menus.
 1. [Shrine Tooltips](https://www.nexusmods.com/morrowind/mods/48275?)
 1. [Smart Ammo](https://www.nexusmods.com/morrowind/mods/47383?)
 1. [Smart Journal](https://www.nexusmods.com/morrowind/mods/47492?)
-1. [MWSE AbotLib](https://www.nexusmods.com/morrowind/mods/47717?)
 1. [Tooltips Complete](https://www.nexusmods.com/morrowind/mods/46842?)
 	- Optional. Adds new flavour text tooltips to all the vanilla items and most of the mod-added items used in this guide. Can be toggled on/off in-game.
 1. [User Interface Expansion](https://github.com/NullCascade/morrowind-mods)
@@ -64,7 +63,6 @@ Improved menu navigation and controls.
 1. [Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864?)
 1. [Hide the Skooma](https://www.nexusmods.com/morrowind/mods/48454)
 1. [Just Drop It](https://www.nexusmods.com/morrowind/mods/49557)
-1. [Light Decay](https://www.nexusmods.com/morrowind/mods/46671?)
 1. [Loading Doors Lock Tune](https://www.nexusmods.com/morrowind/mods/46094?)
 1. [Perfect Placement](https://www.nexusmods.com/morrowind/mods/46562?)
 1. [Smarter Soultrap](https://github.com/NullCascade/morrowind-mods)

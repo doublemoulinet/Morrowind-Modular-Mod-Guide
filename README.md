@@ -17,6 +17,9 @@ See the [Changelog](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guid
 1. [Finish Line](https://github.com/doublemoulinet/Morrowind-Modular-Mod-Guide/blob/master/FINISHLINE.md)
 
 # Introduction
+
+**IMPORTANT NOTE: This guide is not being actively maintained. Consider it out of date... for now. (January 2022).**
+
 This is my personal mod list for Morrowind, with an emphasis on performance and preserving vanilla aesthetics. This is the result of years of messing around, learning the tools, and curating mods that don't suck but actually rule, man.
 
 For the definitive setup and mod guide, see Sigourn's [Morrowind Improved](https://github.com/Sigourn/morrowind-improved). Beginners might also consult Danae's [Morrowind First Time](http://danaeplays.thenet.sk/morrowind-first-time/) guide. Some of the structure of this guide (particularly the setup section) has been adapted from Sigourn's.

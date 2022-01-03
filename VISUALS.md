@@ -28,21 +28,18 @@ Performance-friendly groundcover that dramatically improves the look of the envi
 Better ambient lighting values, darker nights, dynamic lights and weathers.
 1. [Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886?)
 	- Follow the install prompts and select these options:
-		- Interior Sunrays: Yes
-		- Nord Glass Windows: (leave unticked)
-		- Raven Rock Glass Windows: Yes
-		- Dark Molag Mar: (leave unticked)
+		- Nord Glass Windows: No (leave unticked)
+		- Raven Rock Glass Windows: No (leave unticked)
+		- Dark Molag Mar: No (leave unticked)
 		- Optional files: tick only "include Tel Uvirith"
-1. [Project Atlas - Glow in the Dahrk Patch](https://www.nexusmods.com/morrowind/mods/45399?)
-	- Download the main file install *only* the following BAIN option:
-		- 10 Glow in the Dahrk Patch - Interior Sunrays
-	- Rename the mod to "Project Atlas - Glow in the Dahrk Patch". Click OK.
 1. [Let There Be Darkness](https://www.nexusmods.com/morrowind/mods/47912?)
 1. [The Midnight Oil](https://www.nexusmods.com/morrowind/mods/48293?)
 1. [Weather Adjuster](https://www.nexusmods.com/morrowind/mods/46816?)
 1. [MGG Weather Darker Nights](https://www.nexusmods.com/morrowind/mods/47141?)
 1. [Watch the Skies](https://www.nexusmods.com/morrowind/mods/48636)
-	- Enable: "00 Lua core"
+	- Enable the following: 
+		- "00 Lua core"
+	- This enables the mod's basic framework (interior weather changes, seasonal and randomized weather changes/chances). Install "01 Textures 1k" for the dynamic cloud/skybox features.
 
 ## Environmental VFX
 New or enhanced visual effects, including improved flame and particle effects, shaders, and other subtle improvements.
@@ -145,7 +142,10 @@ Additional fixes to vanilla meshes and textures.
 1. [Lore Friendly Iron Warhammer](https://www.nexusmods.com/morrowind/mods/45939?)
 	- Download only "Lore Friendly Iron Warhammer" and install
 1. [Near Vanilla Road Sign Replacer](https://www.nexusmods.com/morrowind/mods/44957?)
-	- Enable "00 Core" and "01 Vvardenfell only"
+	- Enable the following: 
+		- "00 Meshes"
+		- "01 Textures - High Resolution" **or** "01 Textures - Vanilla Resolution"
+		- "02 ESP - Vvardenfell only"
 	- Optional: install [No Translation Tooltips](https://www.nexusmods.com/morrowind/mods/48540?) to remove now-redundant road sign tooltips
 1. [Vivec Palace Water Replacer](https://www.nexusmods.com/morrowind/mods/48291?)
 	- Download "Vivec Palace Water Replacer" and enable the "00 Core" and "01 Original Color" options
